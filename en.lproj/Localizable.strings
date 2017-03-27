@@ -322,3 +322,60 @@
 "dp_about_mall_sale_content4_title" = "Coupon code has been applied"; //商品详细-关于商城优惠活动
 
 
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+
+"index_main_realtime_discout" = "Discount"; //首页-热门-实时折扣
+"index_main_time_limited_discout" = "Flash Sale"; //首页-热门-限时闪购
+"index_main_hot_mall" = "熱門市場"; //首页-热门-热门市场
+"index_main_hot_mall_more" = "More"; //首页-热门-热门市场-更多商铺
+"index_main_hot_mall_view" = "進入商鋪"; //首页-热门-热门市场-进入商铺
+
+
+
+
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+
+"dp_mall_high_grade_mall" = "Great"; //商品-商城-优质商家
+"dp_mall_all_product" = "全部商品"; //商品-商城-全部商品
+"dp_mall_total_sale" = "總銷量"; //商品-商城-总销量
+"dp_mall_runs_years" = "營業年份"; //商品-商城-优质商家
+
+
+
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"search_result_temp_title" = "商品列表"; //搜索-搜索结果-主标题
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_checkout_credit_card" = "信用卡支付"; //购物车-确认支付-信用卡标题
+"cart_checkout_total_bill" = "訂單總額"; //购物车-确认支付-确认标题前
+
+"cart_checkout_credit_card_title" = "信用卡支付"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_change_credit_card" = "換一張卡"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
+
+
+"cart_checkout_card_holdername_title" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "卡號"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "請輸入信用卡號"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "有效期"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "月月/年年"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "安全碼"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "填寫卡片背後安全碼"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "支付由第三方提供，承諾保證卡片信息安全加密，并不向外洩露。CloudMall並不會存儲你的卡片信息"; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "完成"; //购物车-确认支付-选择信用卡支付-完成按钮
+
+
+
+
