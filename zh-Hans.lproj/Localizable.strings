@@ -383,6 +383,7 @@
 "cart_checkout_card_holdername_toast" = "请输入卡片上的英文姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
 "cart_checkout_card_number_toast" = "请输入正确的信用卡号"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
 "cart_checkout_card_number_toast2" = "暂不支持该类信用卡支付"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "有效期显示该卡片已过期"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 "cart_checkout_safe_code_toast" = "请输入正确的安全码"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 
 
