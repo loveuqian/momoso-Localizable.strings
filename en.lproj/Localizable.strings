@@ -377,5 +377,9 @@
 "cart_checkout_comfirm" = "完成"; //购物车-确认支付-选择信用卡支付-完成按钮
 
 
+"cart_checkout_card_holdername_toast" = "請輸入卡片上的英文姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "請輸入正確的信用卡號"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "暫不支持該類信用卡支付"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "請輸入正確的安全碼"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 
 

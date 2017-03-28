@@ -380,7 +380,10 @@
 "cart_checkout_about_safety" = "支付由第三方提供，承诺保证卡片信息安全加密，并不向外泄露。CloudMall不会保存你的卡片信息。"; //购物车-确认支付-选择信用卡支付-安全承诺
 "cart_checkout_comfirm" = "完成"; //购物车-确认支付-选择信用卡支付-完成按钮
 
-
+"cart_checkout_card_holdername_toast" = "请输入卡片上的英文姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "请输入正确的信用卡号"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "暂不支持该类信用卡支付"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "请输入正确的安全码"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 
 
 
