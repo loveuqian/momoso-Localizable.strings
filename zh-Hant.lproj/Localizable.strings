@@ -380,15 +380,17 @@
 "cart_checkout_about_safety" = "支付由第三方提供，承諾保證卡片信息安全加密，并不向外洩露。CloudMall並不會存儲你的卡片信息"; //购物车-确认支付-选择信用卡支付-安全承诺
 "cart_checkout_comfirm" = "完成"; //购物车-确认支付-选择信用卡支付-完成按钮
 
-"cart_checkout_card_holdername_toast" = "請輸入卡片上的英文姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_holdername_toast" = "請填寫與卡片上一致的姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
 "cart_checkout_card_number_toast" = "請輸入正確的信用卡號"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
 "cart_checkout_card_number_toast2" = "暫不支持該類信用卡支付"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 "cart_checkout_valid_date_toast" = "有效期显示该卡片已过期"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 "cart_checkout_safe_code_toast" = "請輸入正確的安全碼"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 
-
-
-
-
-
+"cart_checkout_safe_code_input_title" = "輸入安全碼"; //购物车-确认支付-选择信用卡支付-弹窗-安全码标题
+"cart_checkout_safe_code_input_content" = "請輸入信用卡背面的安全碼"; //购物车-确认支付-选择信用卡支付-弹窗-安全码正文
+"cart_checkout_safe_code_input_input" = "安全碼"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_input_cancel" = "取消"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_safe_code_input_comfirm" = "確認"; //购物车-确认支付-选择信用卡支付-确认
+"cart_checkout_safe_code_input_toast_title" = "安全碼不正確"; //购物车-确认支付-选择信用卡支付-提示安全码不正确
+"cart_checkout_safe_code_input_resume" = "重新輸入"; //购物车-确认支付-选择信用卡支付-重新输入
 
