@@ -140,10 +140,10 @@
 
 "order_number_consult_profile_setting" = "Order Number";
 "total_pay_title_cart" = "Total: ";
-"view_detail_btn_dp" = "View Order Details";
+"view_detail_btn_dp" = "Order Detail";
 "view_logistics_btn_profile_order" = "Track Order";
 "go_pay_btn_profile_order" = "Pay";
-"delete_order_btn_profile_order" = "Delete Order";
+"delete_order_btn_profile_order" = "Delete";
 "pay_tax_btn_profile" = "Pay Tax";
 
 "share_lucky_money_btn_cart" = "Share";
@@ -356,6 +356,14 @@
 
 "search_result_temp_title" = "Search Results"; //搜索-搜索结果-主标题
 
+"search_history_result" = "历史搜索"; //搜索-历史搜索
+"search_history_result_cancel" = "取消"; //搜索-历史搜索-取消
+"search_hot_result" = "热门搜索"; //搜索-搜索结果-热门搜索
+"search_all_brand" = "所有品牌"; //搜索-所有品牌
+"search_brand_list" = "品牌列表"; //搜索-品牌列表
+"search_result_filter_clear" = "清除"; //搜索-品牌列表
+
+
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
 "cart_checkout_credit_card" = "Credit Card"; //购物车-确认支付-信用卡标题
@@ -389,3 +397,34 @@
 "cart_checkout_safe_code_input_comfirm" = "确认"; //购物车-确认支付-选择信用卡支付-确认
 "cart_checkout_safe_code_input_toast_title" = "安全码不正确"; //购物车-确认支付-选择信用卡支付-提示安全码不正确
 "cart_checkout_safe_code_input_resume" = "重新输入"; //购物车-确认支付-选择信用卡支付-重新输入
+
+"cart_edit_done" = "完成"; //购物车-编辑-完成
+"cart_edit_delete_no_goods" = "删除已售光"; //购物车-编辑-完成
+"cart_edit_delete_item" = "删除"; //购物车-编辑-完成
+"cart_checkout_all_item" = "共X件商品"; //购物车-结算-共X件商品
+"cart_checkout_sum_price" = "总计:"; //购物车-编辑-完成
+
+"cart_checkout_cancel_payment_popup_title" = "付款提示"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "请在24小时内付款"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_confirm" = "我知道了"; //购物车-订单-取消支付-弹窗
+
+
+////////////////////////////////// 个人-Proilfe ///////////////////////////////////
+
+"profile_setting_customer_service_cancel" = "取消"; //个人-客服-取消
+"profile_setting_customer_service_confirm" = "提交"; //个人-客服-提交
+"profile_setting_clearcache_cancel" = "取消"; //个人-清除缓存-取消
+"profile_setting_clearcache_confirm" = "清除"; //个人-清除缓存-清除
+"profile_setting_feedback_cancel" = "取消"; //个人-反馈-取消
+"profile_setting_feedback_confirm" = "发送"; //个人-反馈-发送
+"profile_setting_signout_cancel" = "取消"; //个人-退出登录-取消
+"profile_setting_signout_title" = "提示"; //个人-退出登录-取消
+
+"profile_change_photo_cancel" = "取消"; //个人-清除缓存-取消
+
+"profile_favorite_edit_cancel" = "取消"; //个人-编辑专辑-取消
+"profile_favorite_edit_save" = "保存"; //个人-编辑专辑-保存
+"profile_favorite_edit_title" = "专辑编辑"; //个人-编辑专辑-标题-专辑编辑
+
+"profile_address_edit_confirm" = "完成"; //个人-地址编辑-完成
+
