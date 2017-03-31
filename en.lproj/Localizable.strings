@@ -48,11 +48,11 @@
 "all_mall_title_search" = "More Malls"; //搜索页面
 "best_sell_title_search" = "Popular Categories"; //搜索页面
 
-"all_people_title_search_result" = "Shop: All"; //所有结果-筛选人群
+"all_people_title_search_result" = "All People"; //所有结果-筛选人群
 "all_brand_title_search_result" = "Brands"; //所有结果-筛选品牌
-"general_sort_title_search_result" = "Sort By: Featured"; //所有结果-排序
-"price_high_sort_title_search_result" = "Price: High to Low"; //所有结果-排序
-"price_low_sort_title_search_result" = "Price: Low to High"; //所有结果-排序
+"general_sort_title_search_result" = "Recommend"; //所有结果-排序
+"price_high_sort_title_search_result" = "Price(High-Low)"; //所有结果-排序
+"price_low_sort_title_search_result" = "Price(Low-High)"; //所有结果-排序
 "discount_sort_title_search_result" = "Best Deals"; //所有结果-排序
 "sale_sort_title_search_result" = "Most Popular"; //所有结果-排序 ?
 
@@ -428,3 +428,4 @@
 
 "profile_address_edit_confirm" = "完成"; //个人-地址编辑-完成
 
+"profile_setting_termsofuse" = "协议条款和条件"; //个人-设置-协议条款与条件
