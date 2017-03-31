@@ -1,14 +1,5 @@
 
-"testtesttest" = "繁体繁体繁体";
-/*
- 新建格式
- "ID" = "TRANSLATE"; //注释注释
- 
- 新增列标示
- 
- // new translation
- 
- */
+"language_resources " = "繁体";
 
 
 
@@ -432,5 +423,3 @@
 "profile_address_edit_confirm" = "完成"; //个人-地址编辑-完成
 
 "profile_setting_termsofuse" = "協議條款和條件"; //个人-设置-协议条款与条件
-
-

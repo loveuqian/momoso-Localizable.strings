@@ -1,15 +1,5 @@
 
-"testtesttest" = "EnglishEnglishEnglish";
-/*
- 新建格式
- "ID" = "TRANSLATE"; //注释注释
- 
- 新增列标示
- 
- // new translation
- 
- */
-
+"language_resources " = "en";
 
 
 ////////////////////////////////// 全局_all ///////////////////////////////////
@@ -252,7 +242,7 @@
 "delete_selected_btn_cart" = "Delete"; //购物车列表-点击编辑后
 
 "no_return_title_cart" = "Supplier does not support returns"; //购物车列表-商品下说明
-"limited_number_title_cart" = "Item quantity restriction"; //购物车列表-商品下说明? 
+"limited_number_title_cart" = "Item quantity restriction"; //购物车列表-商品下说明?
 "delete_btn_cart" = "Delete"; //购物车列表-左滑删除
 "not_qualified_title_cart" = "Offer does not apply"; //购物车列表-商城运费优惠
 "qualified_title_cart" = "Offer applied"; //购物车列表-商城运费优惠
@@ -314,7 +304,7 @@
 "dp_about_mall_sale_title" = "Offer Details"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_title1_title" = "Discount is provided by supplier"; //商品详细-关于商城优惠活动 商城?
 "dp_about_mall_sale_content1_title" = "Discount provided by supplier will be applied automatically. CloudMall is not responsible for changes to this offer"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_title2_title" = "Discount will be applied automatically"; //商品详细-关于商城优惠活动 
+"dp_about_mall_sale_title2_title" = "Discount will be applied automatically"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_content2_title" = "	Discount will be applied automatically, no coupons necessary"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_title3_title" = "Special offer expired"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_content3_title" = "Discount time is limited and offer has expired"; //商品详细-关于商城优惠活动
