@@ -401,6 +401,18 @@
 "cart_checkout_cancel_payment_popup_content" = "请在24小时内付款"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_confirm" = "我知道了"; //购物车-订单-取消支付-弹窗
 
+"cart_checkout_card_date_jan" = "01-一月"; //购物车-确认支付-填写信用卡日期-一月
+"cart_checkout_card_date_feb" = "02-二月"; //购物车-确认支付-填写信用卡日期-二月
+"cart_checkout_card_date_mar" = "03-三月"; //购物车-确认支付-填写信用卡日期-三月
+"cart_checkout_card_date_apr" = "04-四月"; //购物车-确认支付-填写信用卡日期-四月
+"cart_checkout_card_date_may" = "05-五月"; //购物车-确认支付-填写信用卡日期-五月
+"cart_checkout_card_date_jun" = "06-六月"; //购物车-确认支付-填写信用卡日期-六月
+"cart_checkout_card_date_jul" = "07-七月"; //购物车-确认支付-填写信用卡日期-七月
+"cart_checkout_card_date_aug" = "08-八月"; //购物车-确认支付-填写信用卡日期-八月
+"cart_checkout_card_date_sep" = "09-九月"; //购物车-确认支付-填写信用卡日期-九月
+"cart_checkout_card_date_oct" = "10-十月"; //购物车-确认支付-填写信用卡日期-十月
+"cart_checkout_card_date_nov" = "11-十一月"; //购物车-确认支付-填写信用卡日期-十一月
+"cart_checkout_card_date_dec" = "12-十二月"; //购物车-确认支付-填写信用卡日期-十二月
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
