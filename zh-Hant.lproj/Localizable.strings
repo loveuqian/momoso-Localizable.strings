@@ -339,7 +339,7 @@
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
 
-"dp_mall_high_grade_mall" = "優質商家"; //商品-商城-优质商家
+"dp_mall_high_grade_mall" = "優質商鋪"; //商品-商城-优质商家
 "dp_mall_all_product" = "全部商品"; //商品-商城-全部商品
 "dp_mall_total_sale" = "總銷量"; //商品-商城-总销量
 "dp_mall_runs_years" = "營業年份"; //商品-商城-优质商家
@@ -365,6 +365,8 @@
 
 "cart_checkout_credit_card_title" = "信用卡支付"; //购物车-确认支付-选择信用卡支付-弹窗标题
 "cart_checkout_change_credit_card" = "換一張卡"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
+"cart_checkout_new_credit_card" = "新建信用卡"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_credit_card_toast" = "請先新建信用卡"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 
 
 "cart_checkout_card_holdername_title" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
