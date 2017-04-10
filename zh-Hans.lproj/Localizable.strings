@@ -358,6 +358,11 @@
 "search_brand_list" = "品牌列表"; //搜索-品牌列表
 "search_result_filter_clear" = "清除"; //搜索-品牌列表
 
+"search_history_result_clear_popup_title" = "清空历史记录"; //搜索-清空历史记录-标题
+"search_history_result_clear_popup_content" = "你确定要清空搜索历史吗？"; //搜索-清空历史记录-内容
+"search_history_result_clear_popup_cancle" = "取消"; //搜索-清空历史记录-取消
+"search_history_result_clear_popup_confirm" = "确定"; //搜索-清空历史记录-确定
+
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
 "cart_checkout_credit_card" = "信用卡支付"; //购物车-确认支付-信用卡标题
@@ -384,14 +389,6 @@
 "cart_checkout_card_number_toast2" = "暂不支持该类信用卡支付"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 "cart_checkout_valid_date_toast" = "有效期显示该卡片已过期"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 "cart_checkout_safe_code_toast" = "请输入正确的安全码"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-
-"cart_checkout_safe_code_input_title" = "输入安全码"; //购物车-确认支付-选择信用卡支付-弹窗-安全码标题
-"cart_checkout_safe_code_input_content" = "请输入信用卡背面的安全码"; //购物车-确认支付-选择信用卡支付-弹窗-安全码正文
-"cart_checkout_safe_code_input_input" = "安全码"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-"cart_checkout_safe_code_input_cancel" = "取消"; //购物车-确认支付-选择信用卡支付-取消
-"cart_checkout_safe_code_input_comfirm" = "确认"; //购物车-确认支付-选择信用卡支付-确认
-"cart_checkout_safe_code_input_toast_title" = "安全码不正确"; //购物车-确认支付-选择信用卡支付-提示安全码不正确
-"cart_checkout_safe_code_input_resume" = "重新输入"; //购物车-确认支付-选择信用卡支付-重新输入
 
 "cart_edit_done" = "完成"; //购物车-编辑-完成
 "cart_edit_delete_no_goods" = "删除已售光"; //购物车-编辑-完成
