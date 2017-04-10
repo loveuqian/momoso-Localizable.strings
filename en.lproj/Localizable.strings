@@ -13,8 +13,6 @@
 ////////////////////////////////// 首页_index ///////////////////////////////////
 
 
-// new translation
-
 "index_flash_sale_title" = "Flash Sale"; //首页-闪购标题
 "index_great_price_title" = "Best Price"; //首页-白菜价
 "index_mini_banner_title" = "Great Value"; //首页-迷你精选
@@ -25,6 +23,7 @@
 
 "index_choose_address_title" = "Select a shipping address"; //首页-选择收货地址
 "index_cannot_choose_address_toast" = "This region is currently unavailable"; //首页-选择新加坡/台湾时toast提示
+
 
 
 
@@ -114,7 +113,7 @@
 "about_me_title_profile_setting" = "About Us";
 "sign_out_title_profile_setting" = "Sign Out";
 
-"confirm_clear_cache_title_profile_about" = "Are you sure you want to clear the cache?"; //?
+"confirm_clear_cache_title_profile_about" = "Are you sure you want to clear the cache?";
 
 "hint_feedback_title_profile_feedback" = "Please input your feedback here";
 "hint_contact_title_profile_feedback" = "Email / Phone Number (Optional)";
@@ -192,16 +191,20 @@
 "cancle_delete_album_btn_profile_favors" = "Cancel"; //收藏-专辑编辑-删除专辑弹窗
 
 "ok_btn_profile_address" = "Done"; //地址-新建地址/编辑地址-右上角
+"regioin_title_profile_address" = "Region"; //地址-新建地址/编辑地址-地区
 "delete_btn_profile_address" = "Delete"; //地址-左滑删除时
 
 "profile_address_receiver_title" = "Recipient full name"; //地址管理-收件人栏的默认显示文案
 "profile_address_postcode_title" = "Zip code"; //地址管理-新加坡-邮编的默认显示文案
 
-// new translation
-
 "regioin_title_profile_address" = "Region"; //地址-新建地址/编辑地址-地区
 
 "profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
+
+"profile_default_addresss_title" = "no en"; //地址-新建地址/编辑地址-地区
+
+"profile_no_orders_title" = "Millions of products are waiting for you"; //個人-訂單無訂單時顯示的內容
+
 
 
 
@@ -257,15 +260,13 @@
 
 "cart_checkout_logistic_self_title" = "Select pick-up location"; //购物车-顺丰自提-弹窗
 
-"profile_no_orders_title" = "Millions of products are waiting for you"; //個人-訂單無訂單時顯示的內容
-
-"cart_checkout_logistic_self_title" = "Select pick-up location"; //购物车-顺丰自提-弹窗
 "cart_checkout_order_description_title0" = "Subtotal:"; //购物车-提交订单-选择支付方式
 "cart_checkout_order_description_title1" = "（Currency will be converted automatically）"; //购物车-提交订单-选择支付方式
 
+//new translation
+
 "cart_checkout_logistic_self_desc_title" = "Phone Number"; //购物车-顺丰自提-字体说明 后台自动检测手机号的正确性？
 "cart_checkout_logistic_door_desc_title" = "HK$30 will be charged at delivery to non-business addresses"; //购物车-顺丰自提-字体说明
-
 
 
 ////////////////////////////////// 商品详细 ///////////////////////////////////
@@ -301,6 +302,9 @@
 "quantity_addcart_title_dp" = "Quantity"; //商品详细-点击加入购物车
 "ok_addcart_btn_dp" = "Add to Cart"; //商品详细-加入购物车
 
+
+//new translation
+
 "dp_about_mall_sale_title" = "Offer Details"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_title1_title" = "Discount is provided by supplier"; //商品详细-关于商城优惠活动 商城?
 "dp_about_mall_sale_content1_title" = "Discount provided by supplier will be applied automatically. CloudMall is not responsible for changes to this offer"; //商品详细-关于商城优惠活动
@@ -318,6 +322,9 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 
+
+
+
 ////////////////////////////////// 首页_index ///////////////////////////////////
 
 
@@ -326,8 +333,6 @@
 "index_main_hot_mall" = "Hot Sales"; //首页-热门-热门市场
 "index_main_hot_mall_more" = "More"; //首页-热门-热门市场-更多商铺
 "index_main_hot_mall_view" = "Enter Shop"; //首页-热门-热门市场-进入商铺
-
-
 
 
 
@@ -353,7 +358,6 @@
 "search_brand_list" = "品牌列表"; //搜索-品牌列表
 "search_result_filter_clear" = "清除"; //搜索-品牌列表
 
-
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
 "cart_checkout_credit_card" = "Credit Card"; //购物车-确认支付-信用卡标题
@@ -364,17 +368,16 @@
 "cart_checkout_new_credit_card" = "Add Credit Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Please add new credit card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 
-
-"cart_checkout_card_holdername_title" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
-"cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
-"cart_checkout_card_number_title" = "Card Number"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_valid_date_title" = "Expiration Date"; //购物车-确认支付-选择信用卡支付-有效期
-"cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
-"cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_safe_code_default" = "Enter CVV"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_about_safety" = "Your payment for this purchase is processed securely by a third party payment processor. CloudMall does not store your credit card information."; //购物车-确认支付-选择信用卡支付-安全承诺
-"cart_checkout_comfirm" = "Submit"; //购物车-确认支付-选择信用卡支付-完成按钮
+"cart_checkout_card_holdername_title" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "卡号"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "请输入信用卡号"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "有效期"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "月月/年年"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "安全码"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "填写卡片背后安全码"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "支付由第三方提供，承诺保证卡片信息安全加密，并不向外泄露。CloudMall不会保存你的卡片信息。"; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "完成"; //购物车-确认支付-选择信用卡支付-完成按钮
 
 "cart_checkout_card_holdername_toast" = "请填写与卡片上一致的姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
 "cart_checkout_card_number_toast" = "請輸入正確的信用卡號"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
@@ -412,7 +415,6 @@
 "cart_checkout_card_date_oct" = "10-OCT"; //购物车-确认支付-填写信用卡日期-十月
 "cart_checkout_card_date_nov" = "11-NOV"; //购物车-确认支付-填写信用卡日期-十一月
 "cart_checkout_card_date_dec" = "12-DEC"; //购物车-确认支付-填写信用卡日期-十二月
-
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
