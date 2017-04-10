@@ -368,16 +368,17 @@
 "cart_checkout_new_credit_card" = "Add Credit Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Please add new credit card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 
-"cart_checkout_card_holdername_title" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
-"cart_checkout_card_holdername_default" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗标题
-"cart_checkout_card_number_title" = "卡号"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_card_number_default" = "请输入信用卡号"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_valid_date_title" = "有效期"; //购物车-确认支付-选择信用卡支付-有效期
-"cart_checkout_valid_date_default" = "月月/年年"; //购物车-确认支付-选择信用卡支付-月月/年年
-"cart_checkout_safe_code_title" = "安全码"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_safe_code_default" = "填写卡片背后安全码"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_about_safety" = "支付由第三方提供，承诺保证卡片信息安全加密，并不向外泄露。CloudMall不会保存你的卡片信息。"; //购物车-确认支付-选择信用卡支付-安全承诺
-"cart_checkout_comfirm" = "完成"; //购物车-确认支付-选择信用卡支付-完成按钮
+
+"cart_checkout_card_holdername_title" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "Card Number"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "Expiration Date"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "Enter CVV"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "Your payment for this purchase is processed securely by a third party payment processor. CloudMall does not store your credit card information."; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "Submit"; //购物车-确认支付-选择信用卡支付-完成按钮
 
 "cart_checkout_card_holdername_toast" = "请填写与卡片上一致的姓名"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
 "cart_checkout_card_number_toast" = "請輸入正確的信用卡號"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
