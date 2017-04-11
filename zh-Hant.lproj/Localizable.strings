@@ -1,17 +1,13 @@
 
 "language_resources " = "繁体";
 
-
 ////////////////////////////////// 全局_all ///////////////////////////////////
 
 "pull_to_refresh_title_all" = "下拉刷新"; //购物车、首页、个人-订单、搜索结果
 "release_to_refresh_title_all" = "鬆開刷新"; //购物车、首页、个人-订单、搜索结果
 "refreshing_title_all" = "正在刷新"; //购物车、首页、个人-订单、搜索结果
 
-
-
 ////////////////////////////////// 首页_index ///////////////////////////////////
-
 
 "index_flash_sale_title" = "今日特賣"; //首页-闪购标题
 "index_great_price_title" = "白菜價"; //首页-白菜价
@@ -23,10 +19,6 @@
 
 "index_choose_address_title" = "選擇收貨地址"; //首页-选择收货地址
 "index_cannot_choose_address_toast" = "暫不支持配送至該地區"; //首页-选择新加坡/台湾时toast提示
-
-
-
-
 
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
@@ -53,11 +45,8 @@
 "reset_filter_title_search_result" = "重置"; //所有结果-筛选
 "ok_filter_title_search_result" = "確定"; //所有结果-筛选
 
-
 "search_result_subscribe_btn" = "訂閱"; //搜索结果-品牌-订阅按钮
 "search_result_have_subscribed_btn" = "已訂閱"; //搜索结果-品牌-已订阅按钮
-
-
 
 ////////////////////////////////// 登录_signlogin ///////////////////////////////////
 
@@ -72,18 +61,13 @@
 "next_btn_signlogin" = "下一個";
 
 "comfire_password_btn_signlogin" = "確認密碼";
-"email_title_signlogin" = "郵箱";
 "finish_btn_signlogin" = "完成";
 
 "phone_number_validation_title_signlogin" = "驗證碼已發送到";
 "validation_code_title_signlogin" = "輸入驗證碼";
 
-"create_password_title_signlogin" = "創建密碼";
-
 "create_password_title_signlogin" = "創建密碼"; //注册页面
 "new_username_btn_signlogin" = "用戶名";
-
-
 
 ////////////////////////////////// 我_profile ///////////////////////////////////
 
@@ -107,7 +91,6 @@
 "title_name_consult_profile_setting" = "稱呼";
 "placeholder_title_name_consult_profile_setting" = "請填寫名稱";
 
-"clear_cache_title_profile_setting" = "清除緩存";
 "feedback_title_profile_setting" = "回饋意見";
 "rate_title_profile_setting" = "給個好評";
 "about_me_title_profile_setting" = "關於我們";
@@ -127,7 +110,6 @@
 
 "warn_sign_out_toast_profile_setting" = "退出後將無法接收最新的物流及關稅資訊，是否繼續？";
 
-"order_number_consult_profile_setting" = "訂單號";
 "total_pay_title_cart" = "合計:";
 "view_detail_btn_dp" = "查看詳細";
 "view_logistics_btn_profile_order" = "查看物流";
@@ -136,7 +118,6 @@
 "pay_tax_btn_profile" = "繳納關稅";
 
 "share_lucky_money_btn_cart" = "發紅包";
-"help_btn_profile_order" = "遇到問題?";
 
 "favors_album_title_profile_favors" = "收藏專輯";
 "camera_edit_btn_profile_address" = "編輯";
@@ -146,8 +127,6 @@
 "title_title_profile_favors" = "標題";
 "description_title_profile_favors" = "描述";
 "new_album_title_dp" = "請輸入新專輯標題";
-"title_title_profile_favors" = "標題";
-"description_title_profile_favors" = "描述";
 
 "address_manage_title_all" = "地址管理";
 "add_address_btn_cart" = "添加新地址";
@@ -197,16 +176,11 @@
 "profile_address_receiver_title" = "收件人"; //地址管理-收件人栏的默认显示文案
 "profile_address_postcode_title" = "郵編"; //地址管理-新加坡-邮编的默认显示文案
 
-"regioin_title_profile_address" = "地區"; //地址-新建地址/编辑地址-地区
-
 "profile_favorite_no_album_title" = "還沒創建專輯~"; //地址-新建地址/编辑地址-地区
 
 "profile_default_addresss_title" = "單位、樓層、座數、大廈、街道"; //地址-新建地址/编辑地址-地区
 
 "profile_no_orders_title" = "上萬件商品等你選"; //個人-訂單無訂單時顯示的內容
-
-
-
 
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
@@ -263,18 +237,14 @@
 "cart_checkout_order_description_title0" = "訂單總額"; //购物车-提交订单-选择支付方式
 "cart_checkout_order_description_title1" = "（支付時，系統已為你轉換貨幣）"; //购物车-提交订单-选择支付方式
 
-//new translation
-
 "cart_checkout_logistic_self_desc_title" = "為確保接收取件通知短訊，請輸入正確手機號碼"; //购物车-顺丰自提-字体说明
 "cart_checkout_logistic_door_desc_title" = "非工商地區派件每票另收HK$30"; //购物车-顺丰自提-字体说明
 
-
-////////////////////////////////// 商品详细 ///////////////////////////////////
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
 "add_cart_btn_dp" = "加入購物車";
 "favourite_icon_all" = "收藏";
 "add_to_album_title_dp" = "添加到專輯";
-"new_album_title_dp" = "請輸入新專輯標題";
 
 "just_sold_title_dp" = "剛剛售出";
 "subscribe_btn_search" = "+訂閱";
@@ -302,9 +272,6 @@
 "quantity_addcart_title_dp" = "數量"; //商品详细-点击加入购物车
 "ok_addcart_btn_dp" = "確定"; //商品详细-加入购物车
 
-
-//new translation
-
 "dp_about_mall_sale_title" = "關於商城優惠活動"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_title1_title" = "此為商城提供優惠"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_content1_title" = "商城為部分商品提供優惠碼，我們在下單時會為你使用。此優惠並非CloudMall提供。"; //商品详细-关于商城优惠活动
@@ -315,18 +282,11 @@
 "dp_about_mall_sale_title4_title" = "優惠成功率"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_content4_title" = "優惠碼使用有一定的成功率。"; //商品详细-关于商城优惠活动
 
-
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-
-
-
-
 ////////////////////////////////// 首页_index ///////////////////////////////////
-
 
 "index_main_realtime_discout" = "實時折扣"; //首页-热门-实时折扣
 "index_main_time_limited_discout" = "限時閃購"; //首页-热门-限时闪购
@@ -334,18 +294,12 @@
 "index_main_hot_mall_more" = "更多商鋪"; //首页-热门-热门市场-更多商铺
 "index_main_hot_mall_view" = "進入商鋪"; //首页-热门-热门市场-进入商铺
 
-
-
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
-
 
 "dp_mall_high_grade_mall" = "優質商鋪"; //商品-商城-优质商家
 "dp_mall_all_product" = "全部商品"; //商品-商城-全部商品
 "dp_mall_total_sale" = "總銷量"; //商品-商城-总销量
 "dp_mall_runs_years" = "營業年份"; //商品-商城-优质商家
-
-
-
 
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
