@@ -61,13 +61,10 @@
 "next_btn_signlogin" = "下一个";
 
 "comfire_password_btn_signlogin" = "确认密码";
-"email_title_signlogin" = "邮箱";
 "finish_btn_signlogin" = "完成";
 
 "phone_number_validation_title_signlogin" = "验证码已发送到";
 "validation_code_title_signlogin" = "输入验证码";
-
-"create_password_title_signlogin" = "创建密码";
 
 "create_password_title_signlogin" = "创建密码"; //注册页面
 "new_username_btn_signlogin" = "用户名";
@@ -94,7 +91,6 @@
 "title_name_consult_profile_setting" = "称呼";
 "placeholder_title_name_consult_profile_setting" = "请填写名称";
 
-"clear_cache_title_profile_setting" = "清除缓存";
 "feedback_title_profile_setting" = "反馈意见";
 "rate_title_profile_setting" = "给个好评";
 "about_me_title_profile_setting" = "关于我们";
@@ -114,7 +110,6 @@
 
 "warn_sign_out_toast_profile_setting" = "退出后将无法接收最新的物流及关税信息，是否继续？";
 
-"order_number_consult_profile_setting" = "订单号";
 "total_pay_title_cart" = "合计:";
 "view_detail_btn_dp" = "查看详细";
 "view_logistics_btn_profile_order" = "查看物流";
@@ -123,7 +118,6 @@
 "pay_tax_btn_profile" = "缴纳关税";
 
 "share_lucky_money_btn_cart" = "发红包";
-"help_btn_profile_order" = "遇到问题?";
 
 "favors_album_title_profile_favors" = "收藏专辑";
 "camera_edit_btn_profile_address" = "编辑";
@@ -133,8 +127,6 @@
 "title_title_profile_favors" = "标题";
 "description_title_profile_favors" = "描述";
 "new_album_title_dp" = "请输入新专辑标题";
-"title_title_profile_favors" = "标题";
-"description_title_profile_favors" = "描述";
 
 "address_manage_title_all" = "地址管理";
 "add_address_btn_cart" = "添加新地址";
@@ -183,8 +175,6 @@
 
 "profile_address_receiver_title" = "收件人"; //地址管理-收件人栏的默认显示文案
 "profile_address_postcode_title" = "邮编"; //地址管理-新加坡-邮编的默认显示文案
-
-"regioin_title_profile_address" = "地区"; //地址-新建地址/编辑地址-地区
 
 "profile_favorite_no_album_title" = "还没创建专辑哦~"; //地址-新建地址/编辑地址-地区
 
@@ -255,7 +245,6 @@
 "add_cart_btn_dp" = "加入购物车";
 "favourite_icon_all" = "收藏";
 "add_to_album_title_dp" = "添加到专辑";
-"new_album_title_dp" = "请输入新专辑标题";
 
 "just_sold_title_dp" = "刚刚售出";
 "subscribe_btn_search" = "+订阅";
