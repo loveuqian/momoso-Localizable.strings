@@ -417,6 +417,7 @@
 
 "profile_setting_customer_service_cancel" = "取消"; //个人-客服-取消
 "profile_setting_customer_service_confirm" = "提交"; //个人-客服-提交
+"profile_setting_clearcache_clearing" = "清除缓存中..."; //个人-清除缓存-取消
 "profile_setting_clearcache_cancel" = "取消"; //个人-清除缓存-取消
 "profile_setting_clearcache_confirm" = "清除"; //个人-清除缓存-清除
 "profile_setting_feedback_cancel" = "取消"; //个人-反馈-取消
@@ -433,3 +434,4 @@
 "profile_address_edit_confirm" = "完成"; //个人-地址编辑-完成
 
 "profile_setting_termsofuse" = "协议条款和条件"; //个人-设置-协议条款与条件
+"profile_setting_rateapp" = "给个评价"; //个人-设置-给个评价

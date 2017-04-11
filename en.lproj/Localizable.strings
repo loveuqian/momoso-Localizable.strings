@@ -381,7 +381,7 @@
 "cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
 "cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
 "cart_checkout_safe_code_default" = "Safe code on the back"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_about_safety" = "Powered by third party. It makes sure infomation of the card is safe. We promise not to disclose any payment infomation"; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_about_safety" = "Powered by third party. It makes sure that infomation of the card is safe. We promise not to disclose any payment infomation"; //购物车-确认支付-选择信用卡支付-安全承诺
 "cart_checkout_comfirm" = "Confirm"; //购物车-确认支付-选择信用卡支付-完成按钮
 
 "cart_checkout_card_holdername_toast" = "Please enter the holdername on the card"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
@@ -393,7 +393,7 @@
 "cart_edit_done" = "Confirm"; //购物车-编辑-完成
 "cart_edit_delete_no_goods" = "Delete all sold-out"; //购物车-编辑-完成
 "cart_edit_delete_item" = "Delete"; //购物车-编辑-完成
-"cart_checkout_all_item" = "Items(X)"; //购物车-结算-共X件商品
+"cart_checkout_all_item" = "X items"; //购物车-结算-共X件商品
 "cart_checkout_sum_price" = "Total:"; //购物车-编辑-完成
 
 "cart_checkout_cancel_payment_popup_title" = "Payment tips"; //购物车-订单-取消支付-弹窗
@@ -417,6 +417,7 @@
 
 "profile_setting_customer_service_cancel" = "Cancel"; //个人-客服-取消
 "profile_setting_customer_service_confirm" = "Confirm"; //个人-客服-提交
+"profile_setting_clearcache_clearing" = "Clearing Cache..."; //个人-清除缓存-取消
 "profile_setting_clearcache_cancel" = "Cancel"; //个人-清除缓存-取消
 "profile_setting_clearcache_confirm" = "Confirm"; //个人-清除缓存-清除
 "profile_setting_feedback_cancel" = "Cancel"; //个人-反馈-取消
@@ -433,3 +434,4 @@
 "profile_address_edit_confirm" = "Confirm"; //个人-地址编辑-完成
 
 "profile_setting_termsofuse" = "Terms of use"; //个人-设置-协议条款与条件
+"profile_setting_rateapp" = "Rate CloudMall"; //个人-设置-协议条款与条件
