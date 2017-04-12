@@ -294,6 +294,16 @@
 "index_main_hot_mall_more" = "更多商铺"; //首页-热门-热门市场-更多商铺
 "index_main_hot_mall_view" = "进入商铺"; //首页-热门-热门市场-进入商铺
 
+"index_main_lightlux" = "轻奢"; //首页-热门-类目精选-轻奢
+"index_main_bigbrand" = "大牌"; //首页-热门-类目精选-大牌
+"index_main_casual" = "休闲生活"; //首页-热门-类目精选-休闲生活
+"index_main_beauty" = "美妆护肤"; //首页-热门-类目精选-美妆护肤
+"index_main_sportwear" = "户外运动"; //首页-热门-类目精选-户外运动
+"index_main_men" = "睿智男士"; //首页-热门-类目精选-睿智男士
+
+"index_sub_dailyupdate" = "每日精选"; //首页-分屏-每日精选
+"index_sub_youmaylike" = "猜你喜欢"; //首页-分屏-每日精选
+
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
 "dp_mall_high_grade_mall" = "优质商铺"; //商品-商城-优质商家

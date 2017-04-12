@@ -294,6 +294,16 @@
 "index_main_hot_mall_more" = "More"; //首页-热门-热门市场-更多商铺
 "index_main_hot_mall_view" = "Enter Shop"; //首页-热门-热门市场-进入商铺
 
+"index_main_lightlux" = "Fashion"; //首页-热门-类目精选-轻奢
+"index_main_bigbrand" = "Big Brand"; //首页-热门-类目精选-大牌
+"index_main_casual" = "Casual"; //首页-热门-类目精选-休闲生活
+"index_main_beauty" = "Beauty"; //首页-热门-类目精选-美妆护肤
+"index_main_sportwear" = "Sportwear"; //首页-热门-类目精选-户外运动
+"index_main_men" = "Men"; //首页-热门-类目精选-睿智男士
+
+"index_sub_dailyupdate" = "Daily Update"; //首页-分屏-每日精选
+"index_sub_youmaylike" = "You May Like"; //首页-分屏-每日精选
+
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
 "dp_mall_high_grade_mall" = "Great Seller"; //商品-商城-优质商家
@@ -319,40 +329,40 @@
 
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
-"cart_checkout_credit_card" = "Credit Card"; //购物车-确认支付-信用卡标题
+"cart_checkout_credit_card" = "Credit/Debit Card"; //购物车-确认支付-信用卡标题
 "cart_checkout_total_bill" = "Total"; //购物车-确认支付-确认标题前
 
-"cart_checkout_credit_card_title" = "Credit Card"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_credit_card_title" = "Credit/Debit Card"; //购物车-确认支付-选择信用卡支付-弹窗标题
 "cart_checkout_change_credit_card" = "Change Card"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
-"cart_checkout_new_credit_card" = "Add Credit Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
-"cart_checkout_credit_card_toast" = "Please add new credit card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_new_credit_card" = "Add New Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_credit_card_toast" = "Please add new card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 
-"cart_checkout_card_holdername_title" = "Holdername"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
-"cart_checkout_card_holdername_default" = "Holdername"; //购物车-确认支付-选择信用卡支付-弹窗标题
-"cart_checkout_card_number_title" = "Card No"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_card_number_default" = "Enter credit card number"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_valid_date_title" = "Valid Date"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_card_holdername_title" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "Card Number"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "Expiration Date"; //购物车-确认支付-选择信用卡支付-有效期
 "cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
 "cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_safe_code_default" = "Safe code on the back"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_about_safety" = "Powered by third party. It makes sure that infomation of the card is safe. We promise not to disclose any payment infomation"; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_safe_code_default" = "Enter CVV"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "Your payment for this purchase is processed securely by a third party payment processor. CloudMall does not store your credit card information."; //购物车-确认支付-选择信用卡支付-安全承诺
 "cart_checkout_comfirm" = "Confirm"; //购物车-确认支付-选择信用卡支付-完成按钮
 
-"cart_checkout_card_holdername_toast" = "Please enter the holdername on the card"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
-"cart_checkout_card_number_toast" = "Please enter correct card number"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
-"cart_checkout_card_number_toast2" = "Your card is not supported right now"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-"cart_checkout_valid_date_toast" = "Your card has expired"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-"cart_checkout_safe_code_toast" = "Please enter the correct safe code"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_card_holdername_toast" = "Cardholder name is invalid. Please only use alphanumeric characters [A-z]"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "Card number entered is invalid. Please doublecheck your card number"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "Card type is not supported. Please try using another card"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "Card expiration date is invalid. Please doublecheck your card expiration date"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "CVV is invalid. Please doublecheck the number you entered"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 
 "cart_edit_done" = "Confirm"; //购物车-编辑-完成
-"cart_edit_delete_no_goods" = "Delete all sold-out"; //购物车-编辑-完成
+"cart_edit_delete_no_goods" = "Delete Sold Out Items"; //购物车-编辑-完成
 "cart_edit_delete_item" = "Delete"; //购物车-编辑-完成
 "cart_checkout_all_item" = "X items"; //购物车-结算-共X件商品
-"cart_checkout_sum_price" = "Total:"; //购物车-编辑-完成
+"cart_checkout_sum_price" = "Subtotal:"; //购物车-编辑-完成
 
-"cart_checkout_cancel_payment_popup_title" = "Payment tips"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_title" = "Pay"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_content" = "Please pay the order in 24 hours"; //购物车-订单-取消支付-弹窗
-"cart_checkout_cancel_payment_popup_confirm" = "Got it"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_confirm" = "Confirm"; //购物车-订单-取消支付-弹窗
 
 "cart_checkout_card_date_jan" = "01-JAN"; //购物车-确认支付-填写信用卡日期-一月
 "cart_checkout_card_date_feb" = "02-FEB"; //购物车-确认支付-填写信用卡日期-二月
@@ -387,5 +397,5 @@
 
 "profile_address_edit_confirm" = "Confirm"; //个人-地址编辑-完成
 
-"profile_setting_termsofuse" = "Terms of use"; //个人-设置-协议条款与条件
+"profile_setting_termsofuse" = "Terms of Use"; //个人-设置-协议条款与条件
 "profile_setting_rateapp" = "Rate CloudMall"; //个人-设置-给个评价
