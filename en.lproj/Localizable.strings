@@ -336,8 +336,10 @@
 "cart_checkout_change_credit_card" = "Change Card"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
 "cart_checkout_new_credit_card" = "Add New Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Please add new card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_credit_card_cancel" = "Cancel"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "Pay"; //购物车-确认支付-选择信用卡支付-付款
 
-"cart_checkout_card_holdername_title" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_title" = "Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
 "cart_checkout_card_number_title" = "Card Number"; //购物车-确认支付-选择信用卡支付-卡号
 "cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
