@@ -292,7 +292,7 @@
 "index_main_time_limited_discout" = "Flash Sale"; //首页-热门-限时闪购
 "index_main_hot_mall" = "Hot Sales"; //首页-热门-热门市场
 "index_main_hot_mall_more" = "More"; //首页-热门-热门市场-更多商铺
-"index_main_hot_mall_view" = "Enter Shop"; //首页-热门-热门市场-进入商铺
+"index_main_hot_mall_view" = "More"; //首页-热门-热门市场-进入商铺
 
 "index_main_lightlux" = "Trending"; //首页-热门-类目精选-轻奢
 "index_main_bigbrand" = "Big Brands"; //首页-热门-类目精选-大牌
