@@ -311,6 +311,14 @@
 "dp_mall_total_sale" = "Total penjualan"; //商品-商城-总销量
 "dp_mall_runs_years" = "Tahun berbisnis"; //商品-商城-优质商家
 
+"dp_flash_sale" = "活动倒计时"; //商品-限时闪购-倒计时
+"dp_favorite_new_abulm" = "新建"; //商品-收藏-新建专辑
+"dp_favorite_popup_cancel" = "取消"; //商品-收藏-新建专辑
+"dp_favorite_popup_confirm" = "确定"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "已成功添加到"; //商品-收藏-新建专辑
+"dp_soldout" = "售光了，找相似"; //商品-售光了-找相似
+"dp_description" = "商品概述"; //商品-收藏-新建专辑
+
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
 "search_result_temp_title" = "Daftar produk"; //搜索-搜索结果-主标题
@@ -379,6 +387,14 @@
 "cart_checkout_card_date_nov" = "11-November"; //购物车-确认支付-填写信用卡日期-十一月
 "cart_checkout_card_date_dec" = "12-Desember"; //购物车-确认支付-填写信用卡日期-十二月
 
+"cart_not_login_btn" = "登录"; //购物车-未登录-登录按钮
+"cart_checkout_card_cancel" = "取消"; //购物车-选择支付-取消
+"cart_checkout_card_pay" = "付款"; //购物车-选择支付-付款
+"cart_checkout_card_popup_title" = "支付出问题"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_content" = "请重新输入正确卡片信息，或尝试别的支付方式进行付款"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_cancel" = "稍后再试"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_tryagain" = "再试一次"; //购物车-选择支付-支付出问题-标题
+
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
 "profile_setting_customer_service_cancel" = "Batal"; //个人-客服-取消
@@ -401,3 +417,11 @@
 
 "profile_setting_termsofuse" = "Syarat dan Ketentuan"; //个人-设置-协议条款与条件
 "profile_setting_rateapp" = "Beri komentar"; //个人-设置-给个评价
+
+"profile_change_name_cancel" = "取消"; //个人-更改名字-取消
+"profile_address_hongkong" = "香港" //香港
+"profile_address_singapore" = "新加坡" //新加坡
+"profile_address_taiwan" = "台湾" //台湾
+"profile_address_vietnam" = "越南" //越南
+"profile_address_indonesia" = "印度尼西亚" //印度尼西亚
+"profile_setting_clearcache_success" = "已成功清理"; //个人-清除缓存-清除
