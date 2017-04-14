@@ -336,6 +336,8 @@
 "cart_checkout_change_credit_card" = "Đổi thẻ khác"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
 "cart_checkout_new_credit_card" = "; //购物车-确认支付-选择信用卡支付-新建信用卡"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Vui lòng chọn lập thẻ tín dụng mới"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_credit_card_cancel" = "---nonono---"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "---nonono---"; //购物车-确认支付-选择信用卡支付-付款
 
 "cart_checkout_card_holdername_title" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗标题
