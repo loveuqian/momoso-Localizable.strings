@@ -394,6 +394,8 @@
 "cart_checkout_card_popup_content" = "请重新输入正确卡片信息，或尝试别的支付方式进行付款"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_cancel" = "稍后再试"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_tryagain" = "再试一次"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_pay_total" = "實付"; //购物车-选择支付-取消
+"cart_checkout_bill_total" = "訂單總額"; //购物车-选择支付-付款
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
@@ -421,7 +423,8 @@
 "profile_change_name_cancel" = "取消"; //个人-更改名字-取消
 "profile_address_hongkong" = "香港" //香港
 "profile_address_singapore" = "新加坡" //新加坡
-"profile_address_taiwan" = "台湾" //台湾
+"profile_address_taiwan" = "台灣" //台湾
 "profile_address_vietnam" = "越南" //越南
-"profile_address_indonesia" = "印度尼西亚" //印度尼西亚
+"profile_address_indonesia" = "印度尼西亞" //印度尼西亚
 "profile_setting_clearcache_success" = "已成功清理"; //个人-清除缓存-清除
+"profile_order_logistic_title" = "物流查詢" //个人-订单-物流查询-标题
