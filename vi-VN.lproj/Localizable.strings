@@ -1,0 +1,401 @@
+
+"language_resources " = "vd";
+
+////////////////////////////////// 全局_all ///////////////////////////////////
+
+"pull_to_refresh_title_all" = "下拉刷新"; //购物车、首页、个人-订单、搜索结果
+"release_to_refresh_title_all" = "Thả tay để làm mới"; //购物车、首页、个人-订单、搜索结果
+"refreshing_title_all" = "Đang làm mới"; //购物车、首页、个人-订单、搜索结果
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_flash_sale_title" = "Flash sale"; //首页-闪购标题
+"index_great_price_title" = "Giá sốc"; //首页-白菜价
+"index_mini_banner_title" = "Hàng tuyển chọn"; //首页-迷你精选
+"index_great_collection_title" = "Bộ sưu tập"; //首页-类目精选
+"index_daily_update_title" = "Cập nhật"; //首页-海淘动态
+
+"index_tabbar_daily_update_title" = "Gợi ý hôm nay"; //首页-分屏每日精选-标题
+
+"index_choose_address_title" = "Địa chỉ nhận hàng"; //首页-选择收货地址
+"index_cannot_choose_address_toast" = "Chưa hỗ trợ chuyển hàng đến khu vực này"; //首页-选择新加坡/台湾时toast提示
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"hot_catogery_title_search" = "Bộ sưu tập hot"; //搜索页面
+"hot_brand_title_search" = "Thương hiệu hot"; //搜索页面
+"hot_mall_title_search" = "Cửa hàng hot"; //搜索页面
+"all_brand_btn_searh" = "Toàn bộ thương hiệu"; //搜索页面
+"all_mall_title_search" = "Toàn bộ cửa hàng"; //搜索页面
+"best_sell_title_search" = "Hàng bán chạy"; //搜索页面
+
+"all_people_title_search_result" = "Toàn bộ nhóm"; //所有结果-筛选人群
+"all_brand_title_search_result" = "Toàn bộ thương hiệu"; //所有结果-筛选品牌
+"general_sort_title_search_result" = "Sắp xếp"; //所有结果-排序
+"price_high_sort_title_search_result" = "Giá cao đến thấp"; //所有结果-排序
+"price_low_sort_title_search_result" = "Giá thấp đến cao"; //所有结果-排序
+"discount_sort_title_search_result" = "Ưu tiên giảm giá"; //所有结果-排序
+"sale_sort_title_search_result" = "Ưu tiên doanh số"; //所有结果-排序
+
+"mall_filter_title_search_result" = "Cửa hàng"; //所有结果-筛选
+"all_mall_filter_title_search_result" = "Toàn bộ cửa hàng"; //所有结果-筛选
+"price_filter_title_search_result" = "Giá"; //所有结果-筛选
+"clear_price_filter_title_search_result" = "Xóa"; //所有结果-筛选
+"close_filter_title_search_result" = "Đóng"; //所有结果-筛选
+"reset_filter_title_search_result" = "Thiết lập lại"; //所有结果-筛选
+"ok_filter_title_search_result" = "Xác nhận"; //所有结果-筛选
+
+"search_result_subscribe_btn" = "Theo dõi"; //搜索结果-品牌-订阅按钮
+"search_result_have_subscribed_btn" = "Đã theo dõi"; //搜索结果-品牌-已订阅按钮
+
+////////////////////////////////// 登录_signlogin ///////////////////////////////////
+
+"facebook_login_btn_signlogin" = "Đăng nhập bằng Facebook";
+"email_signup_btn_signlogin" = "Đăng ký bằng email";
+"login_btn_signlogin" = "Đăng nhập";
+
+"email_title_signlogin" = "Email";
+"password_title_signlogin" = "Mật khẩu";
+"forget_password_btn_signlogin" = "Quên mật khẩu";
+
+"next_btn_signlogin" = "Tiếp theo";
+
+"comfire_password_btn_signlogin" = "Xác nhận mật khẩu";
+"finish_btn_signlogin" = "Hoàn tất";
+
+"phone_number_validation_title_signlogin" = "Đã gửi mã xác nhận";
+"validation_code_title_signlogin" = "Nhập mã xác nhận";
+
+"create_password_title_signlogin" = "Nhập mật khẩu"; //注册页面
+"new_username_btn_signlogin" = "Tài khoản mới";
+
+////////////////////////////////// 我_profile ///////////////////////////////////
+
+"favorite_title_profile" = "Lưu";
+"advances_address_title_profile_setting" = "Địa chỉ";
+
+"order_title_profile_order" = "Đơn hàng";
+"un_paid_btn_profile_order" = "Chưa thanh toán";
+"processing_btn_profile_order" = "Đang xử lý";
+"received_btn_profile_order" = "Hoàn tất";
+"all_order_btn_profile_order" = "Tất cả đơn hàng";
+
+"problem_consult_title_profile_setting" = "Trung tâm tư vấn";
+"title_consult_title_profile_setting" = "Chủ đề";
+"title_consult_description_profile_setting" = "Mô tả";
+"placeholder_title_consult_description_profile_setting" = "Mô tả chi tiết";
+"order_number_consult_profile_setting" = "Mã đơn hàng";
+"placeholder_order_number_consult_profile_setting" = "Đơn hàng cần tư vấn";
+"title_email_consult_profile_setting" = "Email";
+"placeholder_email_consult_profile_setting" = "Nhập địa chỉ email";
+"title_name_consult_profile_setting" = "Tên gọi";
+"placeholder_title_name_consult_profile_setting" = "Nhập tên";
+
+"feedback_title_profile_setting" = "Phản hồi";
+"rate_title_profile_setting" = "Bình luận tốt";
+"about_me_title_profile_setting" = "Về Cloudmall";
+"sign_out_title_profile_setting" = "Đăng xuất;";
+
+"confirm_clear_cache_title_profile_about" = "Bạn có chắc muốn xóa lưu trữ không?";
+
+"hint_feedback_title_profile_feedback" = "Vui lòng nhập phản hồi của bạn về sản phẩm";
+"hint_contact_title_profile_feedback" = "Email/Điện thoại/QQ(Chọn điền)";
+
+"my_profile_title_profile_info" = "Hồ sơ của tôi ";
+"modify_avatar_btn_profile_info" = "Thay ảnh đại diện";
+"modify_name_btn_profile_info" = "Sửa tên tài khoản";
+"reset_password_btn_profile_info" = "Thiết lập lại";
+"reset_password_info_title_profile_info" = "Dùng số điện thoại và mật khẩu đăng nhập sau khi thiết lập lại";
+"reset_password_title_profile_setting" = "Thiết lập mật khẩu";
+
+"warn_sign_out_toast_profile_setting" = "Bạn sẽ không nhận được các thông báo về thuế và các mặt hàng mới nhất sau khi đăng xuất, bạn có muốn tiếp tục không?";
+
+"total_pay_title_cart" = "Tổng tiền";
+"view_detail_btn_dp" = "Chi tiết đơn hàng";
+"view_logistics_btn_profile_order" = "Quá trình vận chuyển";
+"go_pay_btn_profile_order" = "Thanh toán";
+"delete_order_btn_profile_order" = "Hủy đơn hàng";
+"pay_tax_btn_profile" = "Nộp thuế";
+
+"share_lucky_money_btn_cart" = "Phát lì xì";
+
+"favors_album_title_profile_favors" = "Bộ sưu tập";
+"camera_edit_btn_profile_address" = "Sửa";
+"delete_album_tips_title_profile_favors" = "Tìm lại sản phẩm cho bộ sưu tập khó như mò kim đáy bể, bạn chắc chắn muốn xóa chứ?";
+"delete_album_btn_profile_favors" = "Xóa bộ sưu tập";
+"no_album_desc_title_profile_favors" = "Chưa có mô tả";
+"title_title_profile_favors" = "Tiêu đề";
+"description_title_profile_favors" = "Mô tả";
+"new_album_title_dp" = "Nhập tiêu đề bộ sưu tập mới";
+
+"address_manage_title_all" = "Quản lý địa chỉ";
+"add_address_btn_cart" = "Thêm địa chỉ mới";
+"id_phone_title_profile_cash" = "Số điện thoại";
+"detail_address_title_cart" = "Địa chỉ chi tiết";
+
+"change_region_title_profile_setting" = "Thay đổi nơi nhận hàng"; //个人-设置页面-切换地区
+"select_region_title_profile_setting" = "Chọn nơi nhận hàng";
+"change_language_title_profile_setting" = "Đổi ngôn ngữ";
+"clear_cache_title_profile_setting" = "Xóa lưu trữ"; //个人-设置页面缺失
+"setting_title_profile_setting" = "Cài đặt"; //个人-设置页面头部
+"language_title_profile_setting" = "Ngôn ngữ"; //个人-设置页面-语言切换
+
+"cancle_send_question_profile_setting" = "Hủy"; //个人-设置-问题咨询-左上角
+"ok_send_question_profile_setting" = "Gửi"; //个人-设置-问题咨询-左上角
+
+"cancle_clear_cache_profile_setting" = "Hủy"; //个人-设置-清除缓存弹窗
+"ok_clear_cache_profile_setting" = "Xóa"; //个人-设置-清除缓存弹窗
+
+"disclamier_btn_profile_setting" = "Thông báo miễn trừ trách nhiệm"; //个人-设置-关于我们
+
+"ok_logout_profile_setting" = "Xác nhận"; //个人-设置-退出登录
+"cancle_logout_profile_setting" = "Hủy"; //个人-设置-退出登录
+
+"take_photo_change_avatar_btn_profile" = "Chụp ảnh"; //头像修改-弹窗
+"open_photo__change_avatar_btn_profile" = "Chọn từ album ảnh"; //头像修改-弹窗
+"cancle_change_avatar_btn_profile" = "Hủy"; //头像修改-弹窗 //专辑编辑-左上角取消
+
+"ok_change_name_btn_profile" = "Xác nhận"; //昵称修改-弹窗
+"cancle_change_name_btn_profile" = "Hủy"; //昵称修改-弹窗
+
+"order_number_title_profile_order" = "Mã đơn hàng"; //订单-订单详细
+"order_time_title_profile_order" = "Thời gian mua hàng"; //订单-订单详细
+"today_sale_title_profile_order" = "Gợi ý hôm nay"; //订单-物流详细
+"order_detail_title_profile_order" = "Chi tiết đơn hàng"; //订单-订单详细-标题
+"help_btn_profile_order" = "Trợ giúp"; //订单-物流详细-漏了的
+
+"cancle_btn_profile_favors" = "Hủy; //收藏-专辑编辑"; //收藏-专辑编辑
+"save_btn_profile_favors" = "Lưu"; //收藏-专辑编辑
+"confirm_delete_album_btn_profile_favors" = "Lưu"; //收藏-专辑编辑-删除专辑弹窗
+"cancle_delete_album_btn_profile_favors" = "Hủy"; //收藏-专辑编辑-删除专辑弹窗
+
+"ok_btn_profile_address" = "Hoàn tất"; //地址-新建地址/编辑地址-右上角
+"regioin_title_profile_address" = "Quận/ Thành phố"; //地址-新建地址/编辑地址-地区
+"delete_btn_profile_address" = "Xóa"; //地址-左滑删除时
+
+"profile_address_receiver_title" = "Người nhận"; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "Mã vùng"; //地址管理-新加坡-邮编的默认显示文案
+
+"profile_favorite_no_album_title" = "Chưa có bộ sưu tập"; //地址-新建地址/编辑地址-地区
+
+"profile_default_addresss_title" = "Công ty, đường/ phố, tòa nhà, tầng, phòng"; //地址-新建地址/编辑地址-地区
+
+"profile_no_orders_title" = "Hàng nghìn sản phẩm đang chờ đợi bạn"; //個人-訂單無訂單時顯示的內容
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_icon_all" = "Giỏ hàng";
+"hint2_login_title_cart" = "Lưu ý: Nhanh tay đăng nhập để đồng bộ hóa giỏ hàng của bạn với giá lưu trữ và lịch sử xem hàng";
+"select_all_btn_cart" = "Chọn toàn bộ";
+"save_price_title_cart" = "Đã khuyến mại";
+"checkout_btn_cart" = "Thanh toán";
+"empty_title_cart" = "Giỏ hàng trống";
+"item_viewed_title_cart" = "Sản phẩm đã xem";
+"mall_item_discount_title_dp" = "Tự động khuyến mại khi thanh toán";
+"drop_price_title_cart" = "Sản phẩm đã giảm giá";
+
+"agreements_content_cart1" = "Tôi chấp nhận Cloudmall";
+"agreements_content_cart2" = "Chính sách bảo mật";
+"agreements_content_cart3" = "Thông báo miễn trừ trách nhiệm";
+"agreements_content_cart4" = "Chính sách đổi trả";
+"summit_checkout_btn_cart" = "Gửi đơn hàng";
+"mall_shipping_fee_title_cart" = "Phí vận chuyển";
+"tax_fee_title_cart" = "Thuế thu trước";
+"supply_title_cart" = "Nhà cung cấp";
+"select_address_title_cart" = "Vui lòng nhập địa chỉ nhận hàng";
+
+"confirm_payment_btn_profile_order" = "Xác nhận thanh toán";
+"asap_pay_title_cart" = "Vui lòng thanh toán đơn hàng";
+"asap_pay_detail_content_cart" = "Giá cả đổi thay, mua hàng liền tay, nhận ngay giá tốt (≥ 3 ≤)";
+"choose_payment_title_cart" = "Phương thức thanh toán";
+"hint_choose_payment_title_cart" = "Vui lòng chọn phương thức thanh toán";
+"final_price_title_cart" = "Thanh toán thực tế";
+
+"logistic_message_title_index_message" = "Đơn hàng/Trợ giúp";
+
+"ok_btn_cart" = "Hoàn tất"; //购物车列表-点击右上角后
+"edit_btn_cart" = "Sửa"; //购物车列表-右上角编辑
+"delete_sold_out_btn_cart" = "Xóa hàng đã bán"; //购物车列表-点击编辑后
+"delete_selected_btn_cart" = "Xóa"; //购物车列表-点击编辑后
+
+"no_return_title_cart" = "Cửa hàng không cung cấp dịch vụ đổi trả hàng"; //购物车列表-商品下说明
+"limited_number_title_cart" = "Số lượng có hạn"; //购物车列表-商品下说明
+"delete_btn_cart" = "Xóa"; //购物车列表-左滑删除
+"not_qualified_title_cart" = "Chưa hài lòng"; //购物车列表-商城运费优惠
+"qualified_title_cart" = "Hài lòng"; //购物车列表-商城运费优惠
+
+"choose_address_title_cart_checkout" = "Điền địa chỉ nhận hàng"; //提交订单-地址栏
+"close_btn_cart_checkout" = "Đóng"; //点击渠道后-左上角关闭
+
+"order_submit_title_cart_checkout" = "Đơn hàng đang trong quá trình xác nhận, chúng tôi sẽ thông báo kết quả cho quý khách trong vòng 48 giờ."; //订单完成-小鲸鱼下方的标题
+"order_submit_sub_title_cart_checkout" = "Trường hợp không thể xác nhận đơn hàng, chúng tôi sẽ hoàn tiền cho quý khách. Quý khách vui lòng xem thông báo hoàn tiền qua email."; //订单完成-小鲸鱼下方的标题
+
+"cart_benefit_title" = "Đã khuyến mại"; //购物车-总价下的小字，缺了已优惠
+
+"cart_checkout_logistic_self_title" = "Chọn địa chỉ bốt lấy hàng tự động"; //购物车-顺丰自提-弹窗
+
+"cart_checkout_order_description_title0" = "Tổng giá trị đơn hàng"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title1" = "(Hệ thống đã giúp quý khách đổi tiền khi thanh toán) "; //购物车-提交订单-选择支付方式
+
+"cart_checkout_logistic_self_desc_title" = "Để kịp thời nhận thông báo nhận hàng, quý khách vui lòng nhập chính xác số điện thoại di động"; //购物车-顺丰自提-字体说明
+"cart_checkout_logistic_door_desc_title" = "非工商地区派件每件另收HK$30"; //购物车-顺丰自提-字体说明
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"add_cart_btn_dp" = "Thêm vào giỏ hàng";
+"favourite_icon_all" = "Lưu trữ";
+"add_to_album_title_dp" = "Thêm vào bộ sưu tập";
+
+"just_sold_title_dp" = "Vừa bán";
+"subscribe_btn_search" = "+Theo dõi";
+"subscribed_btn_search" = "Đã theo dõi";
+"translate_btn_dp" = "Dịch";
+"translate_title_dp" = "Cửa hàng chính hãng";
+
+"open_facebook_share_btn_dp" = "Cloudmall muốn truy cập tài khoản Facebook của bạn"; //商品详细-点击分享弹窗
+"cancle_open_facebook_share_btn_dp" = "Hủy"; //商品详细-点击分享弹窗
+"ok_open_facebook_share_btn_dp" = "Mở"; //商品详细-点击分享弹窗
+
+"service_description_title_dp" = "Mô tả dịch vụ"; //商品详细-点击包税、超值等
+"great_deal_title_dp" = "Giá tốt"; //商品详细-超值
+"great_sale_title_dp" = "Khuyến mại"; //商品详细-优惠
+
+"brand_title_dp" = "Thương hiệu"; //商品详细页下
+"item_description_title_dp" = "Mô tả sản phẩm"; //商品详细下-商品概述
+"more_item_title_dp" = "Đề xuất"; //商品详细-最底部商品推荐
+"supplier_btn_dp" = "Nhà cung cấp"; //商品详细-tabbar上
+
+"new_album_btn_dp" = "Bộ sưu tập mới"; //商品详细-点击收藏-新建
+
+"have_select_desc_title_dp" = "Đã chọn"; //商品详细-点击加入购物车
+"warn_addcart_title_dp" = "Lưu ý: Thông tin trên (bao gồm màu sắc, kích thước...) đều do cửa hàng chính hãng cung cấp, chỉ có giá trị tham khảo.";
+"quantity_addcart_title_dp" = "Số lượng"; //商品详细-点击加入购物车
+"ok_addcart_btn_dp" = "Xác nhận"; //商品详细-加入购物车
+
+"dp_about_mall_sale_title" = "Ưu đãi mua sắm"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title1_title" = "Sản phẩm ưu đãi"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content1_title" = "Một số sản phẩm của cửa hàng có mã ưu đãi, chúng tôi sẽ giúp quý khách thanh toán ưu đãi khi xác nhận đơn hàng. Ưu đãi này không phải do CloudMall cung cấp."; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title2_title" = "Tự động thanh toán ưu đãi"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content2_title" = "Ưu đãi sẽ tự động trừ vào đơn hàng, không cần dùng voucher."; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title3_title" = "Thời gian khuyến mại"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content3_title" = "Ưu đãi có thể kết thúc bất cứ lúc nào. Ưu đãi hết hạn khi cửa hàng thông báo dừng ưu đãi. Nhanh tay mua hàng để được hưởng giá tốt!"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title4_title" = "Tỉ lệ nhận ưu đãi thành công"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content4_title" = "Sử dụng mã ưu đãi có tỉ lệ thành công nhất định"; //商品详细-关于商城优惠活动
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_main_realtime_discout" = "Giảm giá giờ vàng"; //首页-热门-实时折扣
+"index_main_time_limited_discout" = "Giờ vàng giá sốc"; //首页-热门-限时闪购
+"index_main_hot_mall" = "Trung tâm hot"; //首页-热门-热门市场
+"index_main_hot_mall_more" = "Xem thêm gian hàng"; //首页-热门-热门市场-更多商铺
+"index_main_hot_mall_view" = "Vào gian hàng"; //首页-热门-热门市场-进入商铺
+
+"index_main_lightlux" = "Hàng hiệu"; //首页-热门-类目精选-轻奢
+"index_main_bigbrand" = "Thương hiệu lớn"; //首页-热门-类目精选-大牌
+"index_main_casual" = "Trang phục thường ngày"; //首页-热门-类目精选-休闲生活
+"index_main_beauty" = "Mỹ phẩm – Làm đẹp"; //首页-热门-类目精选-美妆护肤
+"index_main_sportwear" = "Đồ thể thao"; //首页-热门-类目精选-户外运动
+"index_main_men" = "Thời trang nam"; //首页-热门-类目精选-睿智男士
+
+"index_sub_dailyupdate" = "Gợi ý hôm nay"; //首页-分屏-每日精选
+"index_sub_youmaylike" = "Có thể bạn sẽ thích"; //首页-分屏-每日精选
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"dp_mall_high_grade_mall" = "Gian hàng cao cấp"; //商品-商城-优质商家
+"dp_mall_all_product" = "Toàn bộ sản phẩm"; //商品-商城-全部商品
+"dp_mall_total_sale" = "Tổng lượng bán ra"; //商品-商城-总销量
+"dp_mall_runs_years" = "Năm kinh doanh"; //商品-商城-优质商家
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"search_result_temp_title" = "Danh sách sản phẩm"; //搜索-搜索结果-主标题
+
+"search_history_result" = "Lịch sử tìm kiếm"; //搜索-历史搜索
+"search_history_result_cancel" = "Hủy"; //搜索-历史搜索-取消
+"search_hot_result" = "Tìm kiếm nhiều nhất"; //搜索-搜索结果-热门搜索
+"search_all_brand" = "Toàn bộ thương hiệu"; //搜索-所有品牌
+"search_brand_list" = "Danh sách thương hiệu"; //搜索-品牌列表
+"search_result_filter_clear" = "Xóa"; //搜索-品牌列表
+
+"search_history_result_clear_popup_title" = "Xóa lịch sử tìm kiếm"; //搜索-清空历史记录-标题
+"search_history_result_clear_popup_content" = "Bạn chắc chắn muốn xóa lịch sử tìm kiếm chứ?"; //搜索-清空历史记录-内容
+"search_history_result_clear_popup_cancle" = "Hủy bỏ"; //搜索-清空历史记录-取消
+"search_history_result_clear_popup_confirm" = "Xác nhận"; //搜索-清空历史记录-确定
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_checkout_credit_card" = "Thanh toán bằng thẻ tín dụng"; //购物车-确认支付-信用卡标题
+"cart_checkout_total_bill" = "Tổng tiền đơn đặt hàng"; //购物车-确认支付-确认标题前
+
+"cart_checkout_credit_card_title" = "Thanh toán bằng thẻ tín dụng"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_change_credit_card" = "Đổi thẻ khác"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
+"cart_checkout_new_credit_card" = "; //购物车-确认支付-选择信用卡支付-新建信用卡"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_credit_card_toast" = "Vui lòng chọn lập thẻ tín dụng mới"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+
+"cart_checkout_card_holdername_title" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "Mã thẻ"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "Xin mời nhập mã thẻ"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "Có hiệu lực"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "Tháng/ năm"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "Mã an toàn"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "Nhập mã an toàn phía sau thẻ"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = " Dịch vụ thanh toán do bên thứ ba cung cấp, bên thứ ba cam kết bảo mật thông tin thẻ, không để lộ thông tin ra ngoài. CloudMall không có trách nhiệm lưu trữ thông tin thẻ."; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "Hoàn tất"; //购物车-确认支付-选择信用卡支付-完成按钮
+
+"cart_checkout_card_holdername_toast" = "Vui lòng nhập chính xác tên như trên thẻ"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "Vui lòng nhập chính xác số thẻ tín dụng"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "Không hỗ trợ thanh toán bằng loại thẻ tín dụng này"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "Thẻ đã hết hạn sử dụng"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "Vui lòng nhập chính xác mã an toàn"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+
+"cart_edit_done" = "Hoàn tất"; //购物车-编辑-完成
+"cart_edit_delete_no_goods" = "Xóa sản phẩm đã bán hết"; //购物车-编辑-完成
+"cart_edit_delete_item" = "Xóa"; //购物车-编辑-完成
+"cart_checkout_all_item" = "Có tất cả X sản phẩm"; //购物车-结算-共X件商品
+"cart_checkout_sum_price" = "Thành tiền:"; //购物车-编辑-完成
+
+"cart_checkout_cancel_payment_popup_title" = "Thông báo thanh toán"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "Vui lòng thanh toán trong vòng 24 giờ"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_confirm" = "Tôi đồng ý"; //购物车-订单-取消支付-弹窗
+
+"cart_checkout_card_date_jan" = "01-Tháng một"; //购物车-确认支付-填写信用卡日期-一月
+"cart_checkout_card_date_feb" = "02-Tháng hai"; //购物车-确认支付-填写信用卡日期-二月
+"cart_checkout_card_date_mar" = "03-Tháng ba"; //购物车-确认支付-填写信用卡日期-三月
+"cart_checkout_card_date_apr" = "04-Tháng tư"; //购物车-确认支付-填写信用卡日期-四月
+"cart_checkout_card_date_may" = "05-Tháng năm"; //购物车-确认支付-填写信用卡日期-五月
+"cart_checkout_card_date_jun" = "06-Tháng sáu"; //购物车-确认支付-填写信用卡日期-六月
+"cart_checkout_card_date_jul" = "07-Tháng bảy"; //购物车-确认支付-填写信用卡日期-七月
+"cart_checkout_card_date_aug" = "08-Tháng tám"; //购物车-确认支付-填写信用卡日期-八月
+"cart_checkout_card_date_sep" = "09-Tháng chín"; //购物车-确认支付-填写信用卡日期-九月
+"cart_checkout_card_date_oct" = "10-Tháng mười"; //购物车-确认支付-填写信用卡日期-十月
+"cart_checkout_card_date_nov" = "11-Tháng mười một"; //购物车-确认支付-填写信用卡日期-十一月
+"cart_checkout_card_date_dec" = "12-Tháng mười hai"; //购物车-确认支付-填写信用卡日期-十二月
+
+////////////////////////////////// 个人-Proilfe ///////////////////////////////////
+
+"profile_setting_customer_service_cancel" = "Hủy"; //个人-客服-取消
+"profile_setting_customer_service_confirm" = "Gửi đi"; //个人-客服-提交
+"profile_setting_clearcache_clearing" = "Đang xóa bộ nhớ sẵn..."; //个人-清除缓存-取消
+"profile_setting_clearcache_cancel" = "Hủy"; //个人-清除缓存-取消
+"profile_setting_clearcache_confirm" = "Xóa"; //个人-清除缓存-清除
+"profile_setting_feedback_cancel" = "Hủy"; //个人-反馈-取消
+"profile_setting_feedback_confirm" = "Gửi đi"; //个人-反馈-发送
+"profile_setting_signout_cancel" = "Hủy"; //个人-退出登录-取消
+"profile_setting_signout_title" = "Lưu ý"; //个人-退出登录-取消
+
+"profile_change_photo_cancel" = "Hủy"; //个人-清除缓存-取消
+
+"profile_favorite_edit_cancel" = "Hủy"; //个人-编辑专辑-取消
+"profile_favorite_edit_save" = "Lưu"; //个人-编辑专辑-保存
+"profile_favorite_edit_title" = "Sửa bộ sưu tập"; //个人-编辑专辑-标题-专辑编辑
+
+"profile_address_edit_confirm" = "Hoàn tất"; //个人-地址编辑-完成
+
+"profile_setting_termsofuse" = "Điều kiện và điều khoản hợp tác"; //个人-设置-协议条款与条件
+"profile_setting_rateapp" = "; //个人-设置-给个评价"; //个人-设置-给个评价
