@@ -396,6 +396,7 @@
 "cart_checkout_card_popup_tryagain" = "再试一次"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_pay_total" = "实付"; //购物车-选择支付-取消
 "cart_checkout_bill_total" = "订单总额"; //购物车-选择支付-付款
+"cart_checkout_pay_success_title" = "支付成功"; //购物车-选择支付-支付成功
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
@@ -421,11 +422,12 @@
 "profile_setting_rateapp" = "; //个人-设置-给个评价"; //个人-设置-给个评价
 
 "profile_change_name_cancel" = "取消"; //个人-更改名字-取消
-"profile_address_hongkong" = "香港" //香港
-"profile_address_singapore" = "新加坡" //新加坡
-"profile_address_taiwan" = "台湾" //台湾
-"profile_address_vietnam" = "越南" //越南
-"profile_address_indonesia" = "印度尼西亚" //印度尼西亚
+"profile_address_hongkong" = "香港"; //香港
+"profile_address_singapore" = "新加坡"; //新加坡
+"profile_address_taiwan" = "台湾"; //台湾
+"profile_address_vietnam" = "越南"; //越南
+"profile_address_indonesia" = "印度尼西亚"; //印度尼西亚
 "profile_setting_clearcache_success" = "已成功清理"; //个人-清除缓存-清除
-"profile_order_logistic_title" = "物流查询" //个人-订单-物流查询-标题
-"profile_order_logistic_package" = "包裹" //个人-订单-物流查询-标题
+"profile_order_logistic_title" = "物流查询"; //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "包裹"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "选择地区"; //个人-订单-物流查询-标题
