@@ -434,3 +434,4 @@
 "profile_order_logistic_title" = "物流查詢"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "包裹"; //个人-订单-物流查询-标题
 "profile_address_region_title" = "选择地区"; //个人-订单-物流查询-标题
+"profile_address_empty_toast" = "請填寫信息"; //个人-地址-空提醒
