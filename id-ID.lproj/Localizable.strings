@@ -320,6 +320,8 @@
 "dp_soldout" = "售光了，找相似"; //商品-售光了-找相似
 "dp_description" = "商品概述"; //商品-收藏-新建专辑
 
+"dp_add_cart_success_toast" = "成功加入购物车"; //商品-成功加入购物车-toast
+
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
 "search_result_temp_title" = "Daftar produk"; //搜索-搜索结果-主标题

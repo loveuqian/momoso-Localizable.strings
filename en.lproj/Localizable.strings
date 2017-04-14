@@ -320,6 +320,8 @@
 "dp_soldout" = "Sold Out. See Similar Items"; //商品-售光了-找相似
 "dp_description" = "About the Item"; //商品-收藏-新建专辑
 
+"dp_add_cart_success_toast" = "Add to cart successfully"; //商品-成功加入购物车-toast
+
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
 "search_result_temp_title" = "Search Results"; //搜索-搜索结果-主标题
@@ -423,11 +425,11 @@
 "profile_setting_rateapp" = "Rate CloudMall"; //个人-设置-给个评价
 
 "profile_change_name_cancel" = "Cancel"; //个人-更改名字-取消
-"profile_address_hongkong" = "Hong Kong" //香港
-"profile_address_singapore" = "Singapore" //新加坡
-"profile_address_taiwan" = "Taiwan" //台湾
-"profile_address_vietnam" = "Vietnam" //越南
-"profile_address_indonesia" = "Indonesia" //印度尼西亚
+"profile_address_hongkong" = "Hong Kong"; //香港
+"profile_address_singapore" = "Singapore"; //新加坡
+"profile_address_taiwan" = "Taiwan"; //台湾
+"profile_address_vietnam" = "Vietnam"; //越南
+"profile_address_indonesia" = "Indonesia"; //印度尼西亚
 "profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "Logistic"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
