@@ -428,3 +428,4 @@
 "profile_address_indonesia" = "印度尼西亚" //印度尼西亚
 "profile_setting_clearcache_success" = "已成功清理"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "物流查询" //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "包裹" //个人-订单-物流查询-标题
