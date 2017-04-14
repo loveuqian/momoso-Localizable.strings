@@ -1,8 +1,8 @@
 // android not translate string;
-"_48_hours"="48小时";
+"_48_hours"="48 hours";
 "add_cart_fail"="添加失败！";
 "add_cart_ok"="添加成功,请到购物车查看！";
-"add_friends"="关注";
+"add_friends"="Follow";
 "address_name_hint"="收件人姓名";
 "address_name_hint_not_null"="收件人姓名不能为空";
 "address_not_null_hint"="所选地址为空";
@@ -26,7 +26,7 @@
 "error"="出错了&#8230;";
 "flash_add_cart_tips2"="距离活动结束";
 "flash_not_start_yet"="闪购还未开始哦～快去逛逛吧～";
-"flash_sale_over"=""闪购结束"";
+"flash_sale_over"="“闪购结束”";
 "flash_sale_retain"="仅剩";
 "flash_sale_start"="HH:mm 开始";
 "item_from"="由";
