@@ -334,8 +334,10 @@
 
 "cart_checkout_credit_card_title" = "Pembayaran dengan kartu kredit"; //购物车-确认支付-选择信用卡支付-弹窗标题
 "cart_checkout_change_credit_card" = "Ganti kartu kredit"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
-"cart_checkout_new_credit_card" = "Buat kartu kredit/debit"; //购物车-确认支付-选择信用卡支付-新建信用卡"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_new_credit_card" = "Buat kartu kredit/debit"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Silahkan buat kartu kredit terlebih dahulu"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_credit_card_cancel" = "---nonono---"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "---nonono---"; //购物车-确认支付-选择信用卡支付-付款
 
 "cart_checkout_card_holdername_title" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗标题
