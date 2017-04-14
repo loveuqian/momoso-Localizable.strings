@@ -31,9 +31,9 @@
 
 "all_people_title_search_result" = "All People"; //所有结果-筛选人群
 "all_brand_title_search_result" = "Brands"; //所有结果-筛选品牌
-"general_sort_title_search_result" = "Recommend"; //所有结果-排序
-"price_high_sort_title_search_result" = "Price(High-Low)"; //所有结果-排序
-"price_low_sort_title_search_result" = "Price(Low-High)"; //所有结果-排序
+"general_sort_title_search_result" = "Sort"; //所有结果-排序
+"price_high_sort_title_search_result" = "Price (High to Low)"; //所有结果-排序
+"price_low_sort_title_search_result" = "Price (Low to High)"; //所有结果-排序
 "discount_sort_title_search_result" = "Best Deals"; //所有结果-排序
 "sale_sort_title_search_result" = "Most Popular"; //所有结果-排序
 
@@ -43,7 +43,7 @@
 "clear_price_filter_title_search_result" = "Clear"; //所有结果-筛选
 "close_filter_title_search_result" = "Close"; //所有结果-筛选
 "reset_filter_title_search_result" = "Reset"; //所有结果-筛选
-"ok_filter_title_search_result" = "OK"; //所有结果-筛选
+"ok_filter_title_search_result" = "Confirm"; //所有结果-筛选
 
 "search_result_subscribe_btn" = "Subscribe"; //搜索结果-品牌-订阅按钮
 "search_result_have_subscribed_btn" = "Subscribed"; //搜索结果-品牌-已订阅按钮
@@ -178,7 +178,7 @@
 
 "profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
 
-"profile_default_addresss_title" = "Room, Building, Stree"; //地址-新建地址/编辑地址-地区
+"profile_default_addresss_title" = "Room, Floor, Building, Street"; //地址-新建地址/编辑地址-地区
 
 "profile_no_orders_title" = "Millions of products are waiting for you"; //個人-訂單無訂單時顯示的內容
 
@@ -187,8 +187,8 @@
 "cart_icon_all" = "Cart";
 "hint2_login_title_cart" = "Sign in to view your cart, favorites, and order history";
 "select_all_btn_cart" = "Select all";
-"save_price_title_cart" = "Offer applied";
-"checkout_btn_cart" = "Check out";
+"save_price_title_cart" = "Offer applied ";
+"checkout_btn_cart" = "Checkout";
 "empty_title_cart" = "Your Shopping Cart is empty";
 "item_viewed_title_cart" = "Recently viewed items";
 "mall_item_discount_title_dp" = "Offer applied automatically";
@@ -234,7 +234,7 @@
 
 "cart_checkout_logistic_self_title" = "Select pick-up location"; //购物车-顺丰自提-弹窗
 
-"cart_checkout_order_description_title0" = "Subtotal:"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title0" = "Total:"; //购物车-提交订单-选择支付方式
 "cart_checkout_order_description_title1" = "（Currency will be converted automatically）"; //购物车-提交订单-选择支付方式
 
 "cart_checkout_logistic_self_desc_title" = "Phone Number"; //购物车-顺丰自提-字体说明
@@ -256,13 +256,13 @@
 "cancle_open_facebook_share_btn_dp" = "Cancel"; //商品详细-点击分享弹窗
 "ok_open_facebook_share_btn_dp" = "Open"; //商品详细-点击分享弹窗
 
-"service_description_title_dp" = "Service Details"; //商品详细-点击包税、超值等
+"service_description_title_dp" = "Details"; //商品详细-点击包税、超值等
 "great_deal_title_dp" = "Great Value"; //商品详细-超值
 "great_sale_title_dp" = "Special Offer"; //商品详细-优惠
 
 "brand_title_dp" = "Brand"; //商品详细页下
 "item_description_title_dp" = "Product description"; //商品详细下-商品概述
-"more_item_title_dp" = "More Items"; //商品详细-最底部商品推荐
+"more_item_title_dp" = "Other Products You May Like"; //商品详细-最底部商品推荐
 "supplier_btn_dp" = "Supplier"; //商品详细-tabbar上
 
 "new_album_btn_dp" = "New Album"; //商品详细-点击收藏-新建
@@ -306,17 +306,17 @@
 
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
-"dp_mall_high_grade_mall" = "Great Seller"; //商品-商城-优质商家
-"dp_mall_all_product" = "All Products"; //商品-商城-全部商品
-"dp_mall_total_sale" = "Total Sales"; //商品-商城-总销量
-"dp_mall_runs_years" = "Since"; //商品-商城-优质商家
+"dp_mall_high_grade_mall" = "Best Seller"; //商品-商城-优质商家
+"dp_mall_all_product" = "Products"; //商品-商城-全部商品
+"dp_mall_total_sale" = "Items Sold"; //商品-商城-总销量
+"dp_mall_runs_years" = "Years"; //商品-商城-优质商家
 
 "dp_flash_sale" = "Sale Ends In"; //商品-限时闪购-倒计时
 "dp_favorite_new_abulm" = "Add"; //商品-收藏-新建专辑
 "dp_favorite_popup_cancel" = "Cancel"; //商品-收藏-新建专辑
 "dp_favorite_popup_confirm" = "Confirm"; //商品-收藏-新建专辑
-"dp_favorite_popup_unfav_success" = "Remove from the album successfully"; //商品-收藏-新建专辑
 "dp_favorite_toast_success" = "Item was added to your Favorites"; //商品-收藏-新建专辑
+"dp_favorite_popup_unfav_success" = "Remove from the album successfully"; //商品-收藏-新建专辑
 "dp_soldout" = "Sold Out. See Similar Items"; //商品-售光了-找相似
 "dp_description" = "About the Item"; //商品-收藏-新建专辑
 
@@ -326,20 +326,20 @@
 
 "search_history_result" = "History"; //搜索-历史搜索
 "search_history_result_cancel" = "Cancel"; //搜索-历史搜索-取消
-"search_hot_result" = "Hot"; //搜索-搜索结果-热门搜索
-"search_all_brand" = "All Brand"; //搜索-所有品牌
+"search_hot_result" = "Trending"; //搜索-搜索结果-热门搜索
+"search_all_brand" = "All Brands"; //搜索-所有品牌
 "search_brand_list" = "Brand List"; //搜索-品牌列表
 "search_result_filter_clear" = "Clear"; //搜索-品牌列表
 
-"search_history_result_clear_popup_title" = "Clear Search History "; //搜索-清空历史记录-标题
-"search_history_result_clear_popup_content" = "Are you sure clearing all search history "; //搜索-清空历史记录-内容
+"search_history_result_clear_popup_title" = "Clear Search History"; //搜索-清空历史记录-标题
+"search_history_result_clear_popup_content" = "Are you sure you want to clear your Search History?"; //搜索-清空历史记录-内容
 "search_history_result_clear_popup_cancle" = "Cancel"; //搜索-清空历史记录-取消
 "search_history_result_clear_popup_confirm" = "Confirm"; //搜索-清空历史记录-确定
 
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
 "cart_checkout_credit_card" = "Credit/Debit Card"; //购物车-确认支付-信用卡标题
-"cart_checkout_total_bill" = "Total"; //购物车-确认支付-确认标题前
+"cart_checkout_total_bill" = "Total "; //购物车-确认支付-确认标题前
 
 "cart_checkout_credit_card_title" = "Credit/Debit Card"; //购物车-确认支付-选择信用卡支付-弹窗标题
 "cart_checkout_change_credit_card" = "Change Card"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
@@ -350,9 +350,9 @@
 
 "cart_checkout_card_holdername_title" = "Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
-"cart_checkout_card_number_title" = "Card Number"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_title" = "Card No."; //购物车-确认支付-选择信用卡支付-卡号
 "cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_valid_date_title" = "Expiration Date"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_title" = "Expiry Date"; //购物车-确认支付-选择信用卡支付-有效期
 "cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
 "cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
 "cart_checkout_safe_code_default" = "Enter CVV"; //购物车-确认支付-选择信用卡支付-安全码
@@ -362,17 +362,17 @@
 "cart_checkout_card_holdername_toast" = "Cardholder name is invalid. Please only use alphanumeric characters [A-z]"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
 "cart_checkout_card_number_toast" = "Card number entered is invalid. Please doublecheck your card number"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
 "cart_checkout_card_number_toast2" = "Card type is not supported. Please try using another card"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-"cart_checkout_valid_date_toast" = "Card expiration date is invalid. Please doublecheck your card expiration date"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "Card expiry date is invalid. Please doublecheck your card expiry date"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 "cart_checkout_safe_code_toast" = "CVV is invalid. Please doublecheck the number you entered"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
 
 "cart_edit_done" = "Confirm"; //购物车-编辑-完成
 "cart_edit_delete_no_goods" = "Delete Sold Out Items"; //购物车-编辑-完成
 "cart_edit_delete_item" = "Delete"; //购物车-编辑-完成
-"cart_checkout_all_item" = "X items"; //购物车-结算-共X件商品
+"cart_checkout_all_item" = "X item(s)"; //购物车-结算-共X件商品
 "cart_checkout_sum_price" = "Subtotal:"; //购物车-编辑-完成
 
 "cart_checkout_cancel_payment_popup_title" = "Pay"; //购物车-订单-取消支付-弹窗
-"cart_checkout_cancel_payment_popup_content" = "Please pay the order in 24 hours"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "Please pay within 24 hours"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_confirm" = "Confirm"; //购物车-订单-取消支付-弹窗
 
 "cart_checkout_card_date_jan" = "01-JAN"; //购物车-确认支付-填写信用卡日期-一月
@@ -396,7 +396,7 @@
 "cart_checkout_card_popup_cancel" = "Later"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_tryagain" = "Try Again"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_pay_total" = "Pay"; //购物车-选择支付-取消
-"cart_checkout_bill_total" = "Bill Total"; //购物车-选择支付-付款
+"cart_checkout_bill_total" = "Bill Total "; //购物车-选择支付-付款
 "cart_checkout_pay_success_title" = "Success"; //购物车-选择支付-支付成功
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
@@ -423,11 +423,11 @@
 "profile_setting_rateapp" = "Rate CloudMall"; //个人-设置-给个评价
 
 "profile_change_name_cancel" = "Cancel"; //个人-更改名字-取消
-"profile_address_hongkong" = "Hong Kong";//香港
-"profile_address_singapore" = "Singapore"; //新加坡
-"profile_address_taiwan" = "Taiwan"; //台湾
-"profile_address_vietnam" = "Vietnam"; //越南
-"profile_address_indonesia" = "Indonesia"; //印度尼西亚
+"profile_address_hongkong" = "Hong Kong" //香港
+"profile_address_singapore" = "Singapore" //新加坡
+"profile_address_taiwan" = "Taiwan" //台湾
+"profile_address_vietnam" = "Vietnam" //越南
+"profile_address_indonesia" = "Indonesia" //印度尼西亚
 "profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "Logistic"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
