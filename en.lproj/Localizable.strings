@@ -315,12 +315,12 @@
 "dp_favorite_new_abulm" = "Add"; //商品-收藏-新建专辑
 "dp_favorite_popup_cancel" = "Cancel"; //商品-收藏-新建专辑
 "dp_favorite_popup_confirm" = "Confirm"; //商品-收藏-新建专辑
-"dp_favorite_toast_success" = "Item was added to your Favorites"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "Item was added to your album"; //商品-收藏-新建专辑
 "dp_favorite_popup_unfav_success" = "Remove from the album successfully"; //商品-收藏-新建专辑
 "dp_soldout" = "Sold Out. See Similar Items"; //商品-售光了-找相似
 "dp_description" = "About the Item"; //商品-收藏-新建专辑
 
-"dp_add_cart_success_toast" = "Add to cart successfully"; //商品-成功加入购物车-toast
+"dp_add_cart_success_toast" = "Added to cart"; //商品-成功加入购物车-toast
 
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
