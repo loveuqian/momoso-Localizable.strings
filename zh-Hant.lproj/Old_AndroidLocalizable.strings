@@ -22,7 +22,7 @@
 "edit_cart"="編輯購物車";
 "empty_hint"="空空如也&#8230;";
 "empty_order"="還沒有訂單~";
-"enter_mall"="進入商城";
+"enter_mall"="進入商铺";
 "error"="出錯了&#8230;";
 "flash_add_cart_tips2"="距離活動結束";
 "flash_not_start_yet"="閃購還未開始哦～快去逛逛吧～";
@@ -63,10 +63,10 @@
 "size"="大小";
 "size_chart"="尺碼表";
 "size_table"="尺碼對照表";
-"size_table_tips"="本尺碼表由海外官網提供，僅供參考用，恕不接受因尺碼問題退換貨。";
+"size_table_tips"="本尺碼表由供货商铺提供，僅供參考用，恕不接受因尺碼問題退換貨。";
 "sold_out_and_find_similar"="已售光，找相似";
 "sold_out_hint"="請選擇一件非售光商品";
 "start_discount"="折";
-"supply_by"="官網供貨";
+"supply_by"="商铺供貨";
 "tab_brand_home"="品牌首頁";
 "tab_brand_hot"="熱銷單品";
