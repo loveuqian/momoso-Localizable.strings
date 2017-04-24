@@ -50,7 +50,7 @@
 
 ////////////////////////////////// 登录_signlogin ///////////////////////////////////
 
-"facebook_login_btn_signlogin" = "Tetap masuk menggunakan Facebook";
+"facebook_login_btn_signlogin" = "Facebook";
 "email_signup_btn_signlogin" = "Daftar menggunakan e-mail";
 "login_btn_signlogin" = "Masuk";
 
@@ -184,9 +184,9 @@
 
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 
-"cart_icon_all" = "Keranjang belanja";
+"cart_icon_all" = "Troli";
 "hint2_login_title_cart" = "Perhatian. Masuk lebih awal dapat menyinkronisasikan keranjang belanja, koleksian dan daftar penelusuran Anda";
-"select_all_btn_cart" = "Pilih semua";
+"select_all_btn_cart" = "Semua";
 "save_price_title_cart" = "Sudah di diskon";
 "checkout_btn_cart" = "Total pembayaran";
 "empty_title_cart" = "Keranjang belanja masih kosong";
@@ -242,7 +242,7 @@
 
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
-"add_cart_btn_dp" = "Tambahkan ke keranjang belanja";
+"add_cart_btn_dp" = "Beli sekarang";
 "favourite_icon_all" = "Koleksi";
 "add_to_album_title_dp" = "Tambahkan ke album";
 
@@ -288,8 +288,8 @@
 
 ////////////////////////////////// 首页_index ///////////////////////////////////
 
-"index_main_realtime_discout" = "Diskon dengan waktu yang sebenar-benarnya"; //首页-热门-实时折扣
-"index_main_time_limited_discout" = "Belanja cepat dan terbatas"; //首页-热门-限时闪购
+"index_main_realtime_discout" = "Diskon"; //首页-热门-实时折扣
+"index_main_time_limited_discout" = "Waktu terbatas"; //首页-热门-限时闪购
 "index_main_hot_mall" = "Pasar populer"; //首页-热门-热门市场
 "index_main_hot_mall_more" = "Lebih banyak Toko"; //首页-热门-热门市场-更多商铺
 "index_main_hot_mall_view" = "Masuk ke Toko"; //首页-热门-热门市场-进入商铺
@@ -452,3 +452,5 @@
 
 "index_board_highlight" = "精选"; //首页-二级页面-board标题
 "index_bannerlist_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "精选列表"; //首页-二级页面-board标题

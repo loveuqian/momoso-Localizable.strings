@@ -186,7 +186,7 @@
 
 "cart_icon_all" = "Giỏ hàng";
 "hint2_login_title_cart" = "Lưu ý: Nhanh tay đăng nhập để đồng bộ hóa giỏ hàng của bạn với giá lưu trữ và lịch sử xem hàng";
-"select_all_btn_cart" = "Chọn toàn bộ";
+"select_all_btn_cart" = "Tất cả các";
 "save_price_title_cart" = "Đã khuyến mại";
 "checkout_btn_cart" = "Thanh toán";
 "empty_title_cart" = "Giỏ hàng trống";
@@ -422,7 +422,7 @@
 "profile_address_edit_confirm" = "Hoàn tất"; //个人-地址编辑-完成
 
 "profile_setting_termsofuse" = "Điều kiện và điều khoản hợp tác"; //个人-设置-协议条款与条件
-"profile_setting_rateapp" = "; //个人-设置-给个评价"; //个人-设置-给个评价
+"profile_setting_rateapp" = "个人-设置-给个评价"; //个人-设置-给个评价
 
 "profile_change_name_cancel" = "取消"; //个人-更改名字-取消
 "profile_address_hongkong" = "香港"; //香港
@@ -452,3 +452,5 @@
 
 "index_board_highlight" = "精选"; //首页-二级页面-board标题
 "index_bannerlist_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "精选列表"; //首页-二级页面-board标题
