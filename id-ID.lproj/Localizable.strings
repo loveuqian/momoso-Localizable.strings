@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "Produk sudah turun harga";
 
 "agreements_content_cart1" = "Saya menerima .... Cloudmall";
-"agreements_content_cart2" = "Pernyataan privasi";
-"agreements_content_cart3" = "Pernyataan penolakan";
+"agreements_content_cart2" = "Pernyataan privasi/";
+"agreements_content_cart3" = "Pernyataan penolakan/";
 "agreements_content_cart4" = "Kebijakan pengembalian dan penukaran barang";
 "summit_checkout_btn_cart" = "Membuat transaksi";
 "mall_shipping_fee_title_cart" = "Biaya pengiriman Mall";

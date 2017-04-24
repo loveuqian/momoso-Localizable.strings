@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "Sản phẩm đã giảm giá";
 
 "agreements_content_cart1" = "Tôi chấp nhận Cloudmall";
-"agreements_content_cart2" = "Chính sách bảo mật";
-"agreements_content_cart3" = "Thông báo miễn trừ trách nhiệm";
+"agreements_content_cart2" = "Chính sách bảo mật/";
+"agreements_content_cart3" = "Thông báo miễn trừ trách nhiệm/";
 "agreements_content_cart4" = "Chính sách đổi trả";
 "summit_checkout_btn_cart" = "Gửi đơn hàng";
 "mall_shipping_fee_title_cart" = "Phí vận chuyển";

@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "On Sale";
 
 "agreements_content_cart1" = "I accept CloudMall's";
-"agreements_content_cart2" = "Privacy & Security";
-"agreements_content_cart3" = "Disclaimer";
+"agreements_content_cart2" = "Privacy & Security/";
+"agreements_content_cart3" = "Disclaimer/";
 "agreements_content_cart4" = "Return & Exchange Policies";
 "summit_checkout_btn_cart" = "Submit Order";
 "mall_shipping_fee_title_cart" = "Mall shipping fee";

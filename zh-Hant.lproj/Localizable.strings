@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "商品已降價";
 
 "agreements_content_cart1" = "我接受cloudmall的";
-"agreements_content_cart2" = "隱私權聲明";
-"agreements_content_cart3" = "免責聲明";
+"agreements_content_cart2" = "隱私權聲明/";
+"agreements_content_cart3" = "免責聲明/";
 "agreements_content_cart4" = "退換貨政策";
 "summit_checkout_btn_cart" = "提交訂單";
 "mall_shipping_fee_title_cart" = "官網運費";

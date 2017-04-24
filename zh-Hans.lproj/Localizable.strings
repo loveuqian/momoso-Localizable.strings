@@ -194,9 +194,9 @@
 "mall_item_discount_title_dp" = "结算时自动优惠";
 "drop_price_title_cart" = "商品已降价";
 
-"agreements_content_cart1" = "我接受Cloudmall的";
-"agreements_content_cart2" = "隐私声明";
-"agreements_content_cart3" = "免责声明";
+"agreements_content_cart1" = "我接受Cloudmall以下条款：";
+"agreements_content_cart2" = "隐私声明/";
+"agreements_content_cart3" = "免责声明/";
 "agreements_content_cart4" = "退换货政策";
 "summit_checkout_btn_cart" = "提交订单";
 "mall_shipping_fee_title_cart" = "官网运费";
