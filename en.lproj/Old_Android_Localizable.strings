@@ -54,7 +54,7 @@
 "select_location"="Select Region";
 "select_region_first"="Please Select Region";
 "setting_consult_problem_name_hint"="What's your name?";
-"setting_support_hongkong"="Hong Kong now available, other regions coming soon!";
+"setting_support_region"="Hong Kong,Singapore,TaiWan is available, other regions coming soon!";
 "share"="Share";
 "share_friends_btn_profile_cash"="Share with Friends";
 "share_not_install_facebook"="Please Install Facebook";

@@ -54,7 +54,7 @@
 "select_location"="選擇地區";
 "select_region_first"="請先選擇地區~";
 "setting_consult_problem_name_hint"="怎麼稱呼您?";
-"setting_support_hongkong"="目前地區只支持香港,敬請期待其他地區~";
+"setting_support_region"="目前地區只支持香港,新加坡,台湾,敬請期待其他地區~";
 "share"="分享";
 "share_friends_btn_profile_cash"="分享給好友";
 "share_not_install_facebook"="您的手機還未安裝Facebook~";

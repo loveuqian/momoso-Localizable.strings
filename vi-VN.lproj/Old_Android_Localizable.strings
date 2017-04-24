@@ -54,7 +54,7 @@
 "select_location"="Chọn khu vực";
 "select_region_first"="Vui lòng chọn khu vực trước";
 "setting_consult_problem_name_hint"="Tên";
-"setting_support_hongkong"="Tạm thời chỉ hỗ trợ khu vực Hồng Kông, vui lòng chờ dịch vụ hỗ trợ tại khu vực khác";
+"setting_support_region"="Tạm thời chỉ hỗ trợ khu vực Hồng Kông,Singapore,TaiWan, vui lòng chờ dịch vụ hỗ trợ tại khu vực khác";
 "share"="Chia sẻ";
 "share_friends_btn_profile_cash"="Chia sẻ cho bạn bè";
 "share_not_install_facebook"="Điện thoại của bạn chưa cài đặt Facebook";

@@ -54,7 +54,7 @@
 "select_location"="Pilih area";
 "select_region_first"="Silahkan pilih area terlebih dahulu";
 "setting_consult_problem_name_hint"="Bagaimana memanggil Anda?";
-"setting_support_hongkong"="Saat ini area yang didukung hanya Hongkong. Mohon untuk menunggu daerah lainnya.";
+"setting_support_region"="Saat ini area yang didukung hanya Hongkong,Singapore, TaiWan. Mohon untuk menunggu daerah lainnya.";
 "share"="Bagikan";
 "share_friends_btn_profile_cash"="Bagikan ke teman";
 "share_not_install_facebook"="Ponsel Anda belum terpasang Facebook~";
