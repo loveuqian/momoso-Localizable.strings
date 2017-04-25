@@ -270,7 +270,7 @@
 "have_select_desc_title_dp" = "Selected"; //商品详细-点击加入购物车
 "warn_addcart_title_dp" = "Please note that above information (color, size, etc.) are all provided by our suppliers and are for reference only.";
 "quantity_addcart_title_dp" = "Quantity"; //商品详细-点击加入购物车
-"ok_addcart_btn_dp" = "Add to Cart"; //商品详细-加入购物车
+"ok_addcart_btn_dp" = "OK"; //商品详细-加入购物车
 
 "dp_about_mall_sale_title" = "Offer Details"; //商品详细-关于商城优惠活动
 "dp_about_mall_sale_title1_title" = "Discount is provided by supplier"; //商品详细-关于商城优惠活动
