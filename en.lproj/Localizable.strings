@@ -444,6 +444,13 @@
 "press_again_exit_toast_all"="Click again and exit";
 "write_need"="Please enter essential infomation";
 
+"adyen_expired_year_toast_1"="Credit card expiry date:";
+"adyen_expired_year_toast_2"="Credit card expiry date has 4 digits";
+"cart_year_expire_toast"="Format of the expiry date is wrong";
+"cart_year_expire_write_toast"="Please fill the card expiry date";
+"new_sort_title_search_result"="New to Old";
+"no_delivery_supported"="Current locations not supported";
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
