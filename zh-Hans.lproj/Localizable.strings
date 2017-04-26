@@ -444,6 +444,13 @@
 "press_again_exit_toast_all"="再按一次退出Cloudmall";
 "write_need"="请填写必要的信息";
 
+"adyen_expired_year_toast_1"="信用卡有效期格式为:";
+"adyen_expired_year_toast_2"="有效期年必须为4位";
+"cart_year_expire_toast"="信用卡有效期的格式不正确";
+"cart_year_expire_write_toast"="请填写信用卡的有效期限";
+"new_sort_title_search_result"="新品优先";
+"no_delivery_supported"="当前地区不支持配送";
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
