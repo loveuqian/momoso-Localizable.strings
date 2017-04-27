@@ -3,7 +3,7 @@
 
 ////////////////////////////////// 全局_all ///////////////////////////////////
 
-"pull_to_refresh_title_all" = "下拉刷新"; //购物车、首页、个人-订单、搜索结果
+"pull_to_refresh_title_all" = "Kéo xuống để làm mới"; //购物车、首页、个人-订单、搜索结果
 "release_to_refresh_title_all" = "Thả tay để làm mới"; //购物车、首页、个人-订单、搜索结果
 "refreshing_title_all" = "Đang làm mới"; //购物车、首页、个人-订单、搜索结果
 
@@ -238,7 +238,7 @@
 "cart_checkout_order_description_title1" = "(Hệ thống đã giúp quý khách đổi tiền khi thanh toán) "; //购物车-提交订单-选择支付方式
 
 "cart_checkout_logistic_self_desc_title" = "Để kịp thời nhận thông báo nhận hàng, quý khách vui lòng nhập chính xác số điện thoại di động"; //购物车-顺丰自提-字体说明
-"cart_checkout_logistic_door_desc_title" = "非工商地区派件每件另收HK$30"; //购物车-顺丰自提-字体说明
+"cart_checkout_logistic_door_desc_title" = "Khu vực khác thu thêm HK$30/ sản phẩm"; //购物车-顺丰自提-字体说明
 
 ////////////////////////////////// 商品详细_detail ///////////////////////////////////
 
@@ -311,16 +311,16 @@
 "dp_mall_total_sale" = "Tổng lượng bán ra"; //商品-商城-总销量
 "dp_mall_runs_years" = "Năm kinh doanh"; //商品-商城-优质商家
 
-"dp_flash_sale" = "活动倒计时"; //商品-限时闪购-倒计时
-"dp_favorite_new_abulm" = "新建"; //商品-收藏-新建专辑
-"dp_favorite_popup_cancel" = "取消"; //商品-收藏-新建专辑
-"dp_favorite_popup_confirm" = "确定"; //商品-收藏-新建专辑
-"dp_favorite_toast_success" = "已成功添加到"; //商品-收藏-新建专辑
-"dp_favorite_popup_unfav_success" = "取消收藏成功"; //商品-收藏-新建专辑
-"dp_soldout" = "售光了，找相似"; //商品-售光了-找相似
-"dp_description" = "商品概述"; //商品-收藏-新建专辑
+"dp_flash_sale" = "Đếm ngược"; //商品-限时闪购-倒计时
+"dp_favorite_new_abulm" = "Tệp mới"; //商品-收藏-新建专辑
+"dp_favorite_popup_cancel" = "Hủy bỏ"; //商品-收藏-新建专辑
+"dp_favorite_popup_confirm" = "Xác nhận"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "Đã thêm"; //商品-收藏-新建专辑
+"dp_favorite_popup_unfav_success" = "Đã hủy"; //商品-收藏-新建专辑
+"dp_soldout" = "Hết hàng, tìm sản phẩm tương tự"; //商品-售光了-找相似
+"dp_description" = "Miêu tả sản phẩm"; //商品-收藏-新建专辑
 
-"dp_add_cart_success_toast" = "成功加入购物车"; //商品-成功加入购物车-toast
+"dp_add_cart_success_toast" = "Đã thêm vào giỏ hàng"; //商品-成功加入购物车-toast
 
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
@@ -345,10 +345,10 @@
 
 "cart_checkout_credit_card_title" = "Thanh toán bằng thẻ tín dụng"; //购物车-确认支付-选择信用卡支付-弹窗标题
 "cart_checkout_change_credit_card" = "Đổi thẻ khác"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
-"cart_checkout_new_credit_card" = "---nonono---"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_new_credit_card" = "Thẻ mới"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Vui lòng chọn lập thẻ tín dụng mới"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
-"cart_checkout_credit_card_cancel" = "---nonono---"; //购物车-确认支付-选择信用卡支付-取消
-"cart_checkout_credit_card_pay" = "---nonono---"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_cancel" = "Hủy bỏ"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "Thanh toán"; //购物车-确认支付-选择信用卡支付-付款
 
 "cart_checkout_card_holdername_title" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗标题
@@ -390,16 +390,16 @@
 "cart_checkout_card_date_nov" = "11-Tháng mười một"; //购物车-确认支付-填写信用卡日期-十一月
 "cart_checkout_card_date_dec" = "12-Tháng mười hai"; //购物车-确认支付-填写信用卡日期-十二月
 
-"cart_not_login_btn" = "登录"; //购物车-未登录-登录按钮
-"cart_checkout_card_cancel" = "取消"; //购物车-选择支付-取消
-"cart_checkout_card_pay" = "付款"; //购物车-选择支付-付款
-"cart_checkout_card_popup_title" = "支付出问题"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_content" = "请重新输入正确卡片信息，或尝试别的支付方式进行付款"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_cancel" = "稍后再试"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_tryagain" = "再试一次"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_pay_total" = "实付"; //购物车-选择支付-取消
-"cart_checkout_bill_total" = "订单总额"; //购物车-选择支付-付款
-"cart_checkout_pay_success_title" = "支付成功"; //购物车-选择支付-支付成功
+"cart_not_login_btn" = "Đăng nhập"; //购物车-未登录-登录按钮
+"cart_checkout_card_cancel" = "Hủy bỏ"; //购物车-选择支付-取消
+"cart_checkout_card_pay" = "Thanh toán"; //购物车-选择支付-付款
+"cart_checkout_card_popup_title" = "Thanh toán lỗi"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_content" = "Vui lòng nhập lại chính xác thông tin trên thẻ, hoặc sử dụng phương thức thanh toán khác"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_cancel" = "Vui lòng thử lại sau ít phút"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_tryagain" = "Thử lại lần nữa"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_pay_total" = "Thanh toán thực tế"; //购物车-选择支付-取消
+"cart_checkout_bill_total" = "Tổng tiền"; //购物车-选择支付-付款
+"cart_checkout_pay_success_title" = "Thanh toán thành công"; //购物车-选择支付-支付成功
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
@@ -422,27 +422,27 @@
 "profile_address_edit_confirm" = "Hoàn tất"; //个人-地址编辑-完成
 
 "profile_setting_termsofuse" = "Điều kiện và điều khoản hợp tác"; //个人-设置-协议条款与条件
-"profile_setting_rateapp" = "个人-设置-给个评价"; //个人-设置-给个评价
+"profile_setting_rateapp" = "Tôi-Cài đặt-Bình luận"; //个人-设置-给个评价
 
-"profile_change_name_cancel" = "取消"; //个人-更改名字-取消
-"profile_address_hongkong" = "香港"; //香港
-"profile_address_singapore" = "新加坡"; //新加坡
-"profile_address_taiwan" = "台湾"; //台湾
-"profile_address_vietnam" = "越南"; //越南
-"profile_address_indonesia" = "印度尼西亚"; //印度尼西亚
-"profile_setting_clearcache_success" = "已成功清理"; //个人-清除缓存-清除
-"profile_order_logistic_title" = "物流查询"; //个人-订单-物流查询-标题
-"profile_order_logistic_package" = "包裹"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "选择地区"; //个人-订单-物流查询-标题
-"profile_address_empty_toast" = "请填写信息"; //个人-地址-空提醒
+"profile_change_name_cancel" = "Hủy bỏ"; //个人-更改名字-取消
+"profile_address_hongkong" = "Hồng Kông";//香港
+"profile_address_singapore" = "Singapore";//新加坡
+"profile_address_taiwan" = "Đài Loan";//台湾
+"profile_address_vietnam" = "Việt Nam"; //越南
+"profile_address_indonesia" = "Indonesia"; //印度尼西亚
+"profile_setting_clearcache_success" = "Đã xóa"; //个人-清除缓存-清除
+"profile_order_logistic_title" = "Kiểm tra vận chuyển"; //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "Bưu phẩm"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Chọn khu vực"; //个人-订单-物流查询-标题
+"profile_address_empty_toast" = "Điền thông tin"; //个人-地址-空提醒
 
 //////////////////////////////android 新增//////////////////////////////////////////
 
-"loading_title_profile"="正在加载&#8230;";
-"more"="更多";
-"no_entries_in_cart_detail"="去发现自己感兴趣的物品吧！";
-"press_again_exit_toast_all"="再按一次退出Cloudmall";
-"write_need"="请填写必要的信息";
+"loading_title_profile"="Đang Download&#8230;";
+"more"="Nhiều hơn";
+"no_entries_in_cart_detail"="Nhanh tay chọn ngay sản phẩm bạn yêu thích";
+"press_again_exit_toast_all"="Ấn lần nữa để thoát khỏi Cloudmall";
+"write_need"="Điền thông tin bắt buộc";
 
 "adyen_expired_year_toast_1"="信用卡有效期格式为:";
 "adyen_expired_year_toast_2"="有效期年必须为4位";
@@ -457,7 +457,7 @@
 
 ////////////////////////////////// 首页_index ///////////////////////////////////
 
-"index_board_highlight" = "精选"; //首页-二级页面-board标题
-"index_bannerlist_highlight" = "精选列表"; //首页-二级页面-board标题
-"index_pagingbanner_highlight" = "精选列表"; //首页-二级页面-board标题
-"index_hotshop_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_board_highlight" = "Chọn lọc"; //首页-二级页面-board标题
+"index_bannerlist_highlight" = "Hàng cao cấp"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "Hàng cao cấp"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "Hàng cao cấp"; //首页-二级页面-board标题
