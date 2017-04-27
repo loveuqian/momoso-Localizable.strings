@@ -15,7 +15,7 @@
 "index_great_collection_title" = "kategori pilihan spesial"; //首页-类目精选
 "index_daily_update_title" = "Status harian"; //首页-海淘动态
 
-"index_tabbar_daily_update_title" = "; //首页-分屏每日精选-标题"; //首页-分屏每日精选-标题
+"index_tabbar_daily_update_title" = "Pilihan terbaik setiap hari"; //首页-分屏每日精选-标题
 
 "index_choose_address_title" = "Pilih alamat pengiriman"; //首页-选择收货地址
 "index_cannot_choose_address_toast" = "Pengiriman ke daerah tersebut sementara tidak didukung"; //首页-选择新加坡/台湾时toast提示
@@ -311,16 +311,16 @@
 "dp_mall_total_sale" = "Total penjualan"; //商品-商城-总销量
 "dp_mall_runs_years" = "Tahun berbisnis"; //商品-商城-优质商家
 
-"dp_flash_sale" = "活动倒计时"; //商品-限时闪购-倒计时
-"dp_favorite_new_abulm" = "新建"; //商品-收藏-新建专辑
-"dp_favorite_popup_cancel" = "取消"; //商品-收藏-新建专辑
-"dp_favorite_popup_confirm" = "确定"; //商品-收藏-新建专辑
-"dp_favorite_toast_success" = "已成功添加到"; //商品-收藏-新建专辑
-"dp_favorite_popup_unfav_success" = "取消收藏成功"; //商品-收藏-新建专辑
-"dp_soldout" = "售光了，找相似"; //商品-售光了-找相似
-"dp_description" = "商品概述"; //商品-收藏-新建专辑
+"dp_flash_sale" = "Hitung mundur waktu promo"; //商品-限时闪购-倒计时
+"dp_favorite_new_abulm" = "Buat baru"; //商品-收藏-新建专辑
+"dp_favorite_popup_cancel" = "Batal"; //商品-收藏-新建专辑
+"dp_favorite_popup_confirm" = "Ok"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "Berhasil ditambahkan ke"; //商品-收藏-新建专辑
+"dp_favorite_popup_unfav_success" = "Berhasil membatalkan koleksi"; //商品-收藏-新建专辑
+"dp_soldout" = "Sudah terjual habis, cari yang mirip"; //商品-售光了-找相似
+"dp_description" = "Deskripsi produk"; //商品-收藏-新建专辑
 
-"dp_add_cart_success_toast" = "成功加入购物车"; //商品-成功加入购物车-toast
+"dp_add_cart_success_toast" = "Berhasil ditambahkan ke dalam troli"; //商品-成功加入购物车-toast
 
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
@@ -335,7 +335,7 @@
 
 "search_history_result_clear_popup_title" = "Hapus daftar histori"; //搜索-清空历史记录-标题
 "search_history_result_clear_popup_content" = "Apakah Anda yakin ingin menghapus histori pencarian?"; //搜索-清空历史记录-内容
-"search_history_result_clear_popup_cancle" = "---nonono---"; //搜索-清空历史记录-取消
+"search_history_result_clear_popup_cancle" = "Batal"; //搜索-清空历史记录-取消
 "search_history_result_clear_popup_confirm" = "Yakin"; //搜索-清空历史记录-确定
 
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
@@ -347,8 +347,8 @@
 "cart_checkout_change_credit_card" = "Ganti kartu kredit"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
 "cart_checkout_new_credit_card" = "Buat kartu kredit/debit"; //购物车-确认支付-选择信用卡支付-新建信用卡
 "cart_checkout_credit_card_toast" = "Silahkan buat kartu kredit terlebih dahulu"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
-"cart_checkout_credit_card_cancel" = "---nonono---"; //购物车-确认支付-选择信用卡支付-取消
-"cart_checkout_credit_card_pay" = "---nonono---"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_cancel" = "Batal"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "Bayar"; //购物车-确认支付-选择信用卡支付-付款
 
 "cart_checkout_card_holdername_title" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗标题
@@ -390,16 +390,16 @@
 "cart_checkout_card_date_nov" = "11-November"; //购物车-确认支付-填写信用卡日期-十一月
 "cart_checkout_card_date_dec" = "12-Desember"; //购物车-确认支付-填写信用卡日期-十二月
 
-"cart_not_login_btn" = "登录"; //购物车-未登录-登录按钮
-"cart_checkout_card_cancel" = "取消"; //购物车-选择支付-取消
-"cart_checkout_card_pay" = "付款"; //购物车-选择支付-付款
-"cart_checkout_card_popup_title" = "支付出问题"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_content" = "请重新输入正确卡片信息，或尝试别的支付方式进行付款"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_cancel" = "稍后再试"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_tryagain" = "再试一次"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_pay_total" = "实付"; //购物车-选择支付-取消
-"cart_checkout_bill_total" = "订单总额"; //购物车-选择支付-付款
-"cart_checkout_pay_success_title" = "支付成功"; //购物车-选择支付-支付成功
+"cart_not_login_btn" = "Log in"; //购物车-未登录-登录按钮
+"cart_checkout_card_cancel" = "Batal"; //购物车-选择支付-取消
+"cart_checkout_card_pay" = "; //购物车-选择支付-付款"; //购物车-选择支付-付款
+"cart_checkout_card_popup_title" = "Pembayaran mengalami masalah"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_content" = "Silahkan masukkan ulang informasi kartu dengan tepat atau coba gunakan metode pembayaran lain untuk melakukan pembayaran."; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_cancel" = "Silahkan coba beberapa saat lagi"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_tryagain" = "Coba lagi"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_pay_total" = "Total pembayaran"; //购物车-选择支付-取消
+"cart_checkout_bill_total" = "Total pesanan"; //购物车-选择支付-付款
+"cart_checkout_pay_success_title" = "Berhasil membayar"; //购物车-选择支付-支付成功
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
 
@@ -424,25 +424,25 @@
 "profile_setting_termsofuse" = "Syarat dan Ketentuan"; //个人-设置-协议条款与条件
 "profile_setting_rateapp" = "Beri komentar"; //个人-设置-给个评价
 
-"profile_change_name_cancel" = "取消"; //个人-更改名字-取消
-"profile_address_hongkong" = "香港"; //香港
-"profile_address_singapore" = "新加坡"; //新加坡
-"profile_address_taiwan" = "台湾"; //台湾
-"profile_address_vietnam" = "越南"; //越南
-"profile_address_indonesia" = "印度尼西亚"; //印度尼西亚
-"profile_setting_clearcache_success" = "已成功清理"; //个人-清除缓存-清除
-"profile_order_logistic_title" = "物流查询"; //个人-订单-物流查询-标题
-"profile_order_logistic_package" = "包裹"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "选择地区"; //个人-订单-物流查询-标题
-"profile_address_empty_toast" = "请填写信息"; //个人-地址-空提醒
+"profile_change_name_cancel" = "Batal"; //个人-更改名字-取消
+"profile_address_hongkong" = "Hongkong";//香港
+"profile_address_singapore" = "Singapura";//新加坡
+"profile_address_taiwan" = "Taiwan";//台湾
+"profile_address_vietnam" = "Vietnam"; //越南
+"profile_address_indonesia" = "Indonesia"; //印度尼西亚
+"profile_setting_clearcache_success" = "Berhasil dibersihkan"; //个人-清除缓存-清除
+"profile_order_logistic_title" = "Cek status pengiriman"; //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "Paket"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Pilih daerah"; //个人-订单-物流查询-标题
+"profile_address_empty_toast" = "Silahkan isi data"; //个人-地址-空提醒
 
 //////////////////////////////android 新增//////////////////////////////////////////
 
-"loading_title_profile"="正在加载&#8230;";
-"more"="更多";
-"no_entries_in_cart_detail"="去发现自己感兴趣的物品吧！";
-"press_again_exit_toast_all"="再按一次退出Cloudmall";
-"write_need"="请填写必要的信息";
+"loading_title_profile"="Sedang memuat&#8230;";
+"more"="Lebih banyak";
+"no_entries_in_cart_detail"="Ayo lihat barang-barang kesukaanmu!";
+"press_again_exit_toast_all"="Klik sekali lagi untuk keluar Cloudmall";
+"write_need"="Silahkan isi informasi yang diperlukan";
 
 "adyen_expired_year_toast_1"="信用卡有效期格式为:";
 "adyen_expired_year_toast_2"="有效期年必须为4位";
@@ -457,7 +457,7 @@
 
 ////////////////////////////////// 首页_index ///////////////////////////////////
 
-"index_board_highlight" = "精选"; //首页-二级页面-board标题
-"index_bannerlist_highlight" = "精选列表"; //首页-二级页面-board标题
-"index_pagingbanner_highlight" = "精选列表"; //首页-二级页面-board标题
-"index_hotshop_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_board_highlight" = "Pilihan terbaik"; //首页-二级页面-board标题
+"index_bannerlist_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
