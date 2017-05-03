@@ -317,7 +317,7 @@
 "dp_favorite_popup_confirm" = "Xác nhận"; //商品-收藏-新建专辑
 "dp_favorite_toast_success" = "Đã thêm"; //商品-收藏-新建专辑
 "dp_favorite_popup_unfav_success" = "Đã hủy"; //商品-收藏-新建专辑
-"dp_soldout" = "Hết hàng, tìm sản phẩm tương tự"; //商品-售光了-找相似
+"dp_soldout" = "Hết hàng"; //商品-售光了-找相似
 "dp_description" = "Miêu tả sản phẩm"; //商品-收藏-新建专辑
 
 "dp_add_cart_success_toast" = "Đã thêm vào giỏ hàng"; //商品-成功加入购物车-toast

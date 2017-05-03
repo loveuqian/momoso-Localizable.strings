@@ -317,7 +317,7 @@
 "dp_favorite_popup_confirm" = "Ok"; //商品-收藏-新建专辑
 "dp_favorite_toast_success" = "Berhasil ditambahkan ke"; //商品-收藏-新建专辑
 "dp_favorite_popup_unfav_success" = "Berhasil membatalkan koleksi"; //商品-收藏-新建专辑
-"dp_soldout" = "Sudah terjual habis, cari yang mirip"; //商品-售光了-找相似
+"dp_soldout" = "Sudah terjual habis"; //商品-售光了-找相似
 "dp_description" = "Deskripsi produk"; //商品-收藏-新建专辑
 
 "dp_add_cart_success_toast" = "Ditambahkan ke keranjang"; //商品-成功加入购物车-toast
