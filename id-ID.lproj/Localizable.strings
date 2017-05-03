@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Pernyataan privasi/";
 "agreements_content_cart3" = "Pernyataan penolakan/";
 "agreements_content_cart4" = "Kebijakan pengembalian dan penukaran barang";
-"summit_checkout_btn_cart" = "Membuat transaksi";
+"summit_checkout_btn_cart" = "Ok";
 "mall_shipping_fee_title_cart" = "Biaya pengiriman Mall";
 "tax_fee_title_cart" = "Biaya pajak bea dan cukai";
 "supply_title_cart" = "Penyedia stok";
@@ -209,7 +209,7 @@
 "asap_pay_detail_content_cart" = "Harga dapat berubah sewaktu-waktu, kesempatan berikutnya harus lebih cepat ya!(≥ 3 ≤)";
 "choose_payment_title_cart" = "Pilih metode pembayaran";
 "hint_choose_payment_title_cart" = "Silahkan pilih metode pembayaran";
-"final_price_title_cart" = "Total pembayaran";
+"final_price_title_cart" = "Pembayaran";
 
 "logistic_message_title_index_message" = "Transaksi/status pengiriman";
 
@@ -320,7 +320,7 @@
 "dp_soldout" = "Sudah terjual habis, cari yang mirip"; //商品-售光了-找相似
 "dp_description" = "Deskripsi produk"; //商品-收藏-新建专辑
 
-"dp_add_cart_success_toast" = "Berhasil ditambahkan ke dalam troli"; //商品-成功加入购物车-toast
+"dp_add_cart_success_toast" = "Ditambahkan ke keranjang"; //商品-成功加入购物车-toast
 
 ////////////////////////////////// 搜索_search ///////////////////////////////////
 
@@ -371,7 +371,7 @@
 "cart_edit_delete_no_goods" = "Hapus yang habis terjual"; //购物车-编辑-完成
 "cart_edit_delete_item" = "Hapus"; //购物车-编辑-完成
 "cart_checkout_all_item" = "Total X produk"; //购物车-结算-共X件商品
-"cart_checkout_sum_price" = "Total harga:"; //购物车-编辑-完成
+"cart_checkout_sum_price" = "Total: "; //购物车-编辑-完成
 
 "cart_checkout_cancel_payment_popup_title" = "Konfirmasi pembayaran"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_content" = "Silahkan melakukan pembayaran dalam waktu 24 jam"; //购物车-订单-取消支付-弹窗

@@ -206,7 +206,7 @@
 
 "confirm_payment_btn_profile_order" = "Xác nhận thanh toán";
 "asap_pay_title_cart" = "Vui lòng thanh toán đơn hàng";
-"asap_pay_detail_content_cart" = "Giá cả đổi thay, mua hàng liền tay, nhận ngay giá tốt (≥ 3 ≤)";
+"asap_pay_detail_content_cart" = "Giá cả đổi thay, mua hàng liền tay, nhận ngay giá tốt";
 "choose_payment_title_cart" = "Phương thức thanh toán";
 "hint_choose_payment_title_cart" = "Vui lòng chọn phương thức thanh toán";
 "final_price_title_cart" = "Thanh toán thực tế";
