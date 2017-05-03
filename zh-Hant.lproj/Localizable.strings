@@ -461,3 +461,7 @@
 "index_bannerlist_highlight" = "精選列表"; //首页-二级页面-board标题
 "index_pagingbanner_highlight" = "精选列表"; //首页-二级页面-board标题
 "index_hotshop_highlight" = "精选列表"; //首页-二级页面-board标题
+
+//////////////////////////////// 搜索_search ////////////////////////////////////
+
+"search_input_defualt" = "搜索CloudMall"; //首页-二级页面-board标题

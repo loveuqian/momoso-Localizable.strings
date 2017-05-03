@@ -461,3 +461,7 @@
 "index_bannerlist_highlight" = "Hàng cao cấp"; //首页-二级页面-board标题
 "index_pagingbanner_highlight" = "Hàng cao cấp"; //首页-二级页面-board标题
 "index_hotshop_highlight" = "Hàng cao cấp"; //首页-二级页面-board标题
+
+//////////////////////////////// 搜索_search ////////////////////////////////////
+
+"search_input_defualt" = "Tìm kiếm trên CloudMall"; //首页-二级页面-board标题

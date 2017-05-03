@@ -461,3 +461,7 @@
 "index_bannerlist_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
 "index_pagingbanner_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
 "index_hotshop_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
+
+//////////////////////////////// 搜索_search ////////////////////////////////////
+
+"search_input_defualt" = "Cari di CloudMall"; //首页-二级页面-board标题
