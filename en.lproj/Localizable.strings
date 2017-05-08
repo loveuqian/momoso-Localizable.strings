@@ -465,3 +465,12 @@
 //////////////////////////////// 搜索_search ////////////////////////////////////
 
 "search_input_defualt" = "Search CloudMall"; //首页-二级页面-board标题
+
+/////////////////////////////// 个人-profile /////////////////////////////////////
+
+"profile_address_input_default" = "Fill in"; //个人-地址-输入框
+"profile_address_select_default" = "Select"; //个人-地址-下拉框
+"profile_address_province" = "Province/State"; //个人-地址-省州
+"profile_address_city" = "City"; //个人-地址-城市
+"profile_address_district" = "District"; //个人-地址-下拉框
+"profile_address_detail" = "Detail-Apartment, Building...(Optional)"; //个人-地址-详细地址
