@@ -474,3 +474,7 @@
 "profile_address_city" = "City"; //个人-地址-城市
 "profile_address_district" = "District"; //个人-地址-下拉框
 "profile_address_detail" = "Detail-Apartment, Building...(Optional)"; //个人-地址-详细地址
+
+////////////////////////////// 商品详细-detail ////////////////////////////////
+
+"dp_select_null_toast" = "Please choose"; //个人-地址-详细地址
