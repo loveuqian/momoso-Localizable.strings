@@ -444,12 +444,12 @@
 "press_again_exit_toast_all"="Ấn lần nữa để thoát khỏi Cloudmall";
 "write_need"="Điền thông tin bắt buộc";
 
-"adyen_expired_year_toast_1"="信用卡有效期格式为:";
-"adyen_expired_year_toast_2"="有效期年必须为4位";
-"cart_year_expire_toast"="信用卡有效期的格式不正确";
-"cart_year_expire_write_toast"="请填写信用卡的有效期限";
-"new_sort_title_search_result"="新品优先";
-"no_delivery_supported"="当前地区不支持配送";
+"adyen_expired_year_toast_1"="Thời hạn hiệu lực thẻ tín dụng:";
+"adyen_expired_year_toast_2"="Năm hiệu lực bắt buộc điền 4 chữ số";
+"cart_year_expire_toast"="Thời hạn hiệu lực thẻ tín dụng không đúng";
+"cart_year_expire_write_toast"="Vui lòng nhập thời hạn hiệu lực thẻ tín dụng";
+"new_sort_title_search_result"="Ưu tiên hàng mới";
+"no_delivery_supported"="Chưa hỗ trợ chuyển phát đến khu vực này";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -468,13 +468,13 @@
 
 /////////////////////////////// 个人-profile /////////////////////////////////////
 
-"profile_address_input_default" = "请填写"; //个人-地址-输入框
-"profile_address_select_default" = "请选择"; //个人-地址-下拉框
-"profile_address_province" = "省/州"; //个人-地址-省州
-"profile_address_city" = "城市"; //个人-地址-城市
-"profile_address_district" = "区"; //个人-地址-下拉框
-"profile_address_detail" = "详细地址-公寓、楼层等（选填）"; //个人-地址-详细地址
+"profile_address_input_default" = "Vui lòng điền đầy đủ thông tin"; //个人-地址-输入框
+"profile_address_select_default" = "Vui lòng chọn"; //个人-地址-下拉框
+"profile_address_province" = "Tỉnh"; //个人-地址-省州
+"profile_address_city" = "Thành phố"; //个人-地址-城市
+"profile_address_district" = "Quận/Huyện"; //个人-地址-下拉框
+"profile_address_detail" = "Địa chỉ chi tiết- Khu trung cư, tầng (chọn điền)"; //个人-地址-详细地址
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
-"dp_select_null_toast" = "请选择"; //个人-地址-详细地址
+"dp_select_null_toast" = "Vui lòng chọn"; //个人-地址-详细地址
