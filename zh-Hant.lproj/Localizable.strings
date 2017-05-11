@@ -475,6 +475,28 @@
 "profile_address_district" = "區"; //个人-地址-下拉框
 "profile_address_detail" = "詳細地址-公寓、樓層等（選填）"; //个人-地址-详细地址
 
+"profile_address_us" = "美國";
+"profile_address_uk" = "英國";
+"profile_address_ca" = "加拿大";
+"profile_address_de" = "德國"; 
+"profile_address_au" = "澳大利亞"; 
+"profile_address_nz" = "新西蘭";
+"profile_address_fr" = "法國";
+"profile_address_it" = "意大利";
+"profile_address_es" = "西班牙"; 
+"profile_address_ru" = "俄羅斯"; 
+"profile_address_mx" = "墨西哥";
+"profile_address_nl" = "荷蘭";
+"profile_address_no" = "挪威";
+"profile_address_dk" = "丹麥"; 
+"profile_address_se" = "瑞典"; 
+"profile_address_ch" = "瑞士";
+"profile_address_pl" = "波蘭";
+"profile_address_be" = "比利時";
+"profile_address_ie" = "愛爾蘭"; 
+"profile_address_fi" = "芬蘭"; 
+"profile_address_pt" = "葡萄牙"; 
+
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
 "dp_select_null_toast" = "請選擇"; //个人-地址-详细地址
