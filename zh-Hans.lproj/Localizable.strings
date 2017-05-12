@@ -496,6 +496,11 @@
 "profile_address_ie" = "爱尔兰"; 
 "profile_address_fi" = "芬兰"; 
 "profile_address_pt" = "葡萄牙"; 
+"profile_address_ph" = "菲律宾";
+"profile_address_my" = "马来西亚";
+"profile_address_jp" = "日本"; 
+"profile_address_kr" = "韩国"; 
+"profile_address_ua" = "乌克兰"; 
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
