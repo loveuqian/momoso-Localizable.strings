@@ -457,10 +457,10 @@
 
 ////////////////////////////////// 首页_index ///////////////////////////////////
 
-"index_board_highlight" = "精選"; //首页-二级页面-board标题
-"index_bannerlist_highlight" = "精選列表"; //首页-二级页面-board标题
-"index_pagingbanner_highlight" = "精选列表"; //首页-二级页面-board标题
-"index_hotshop_highlight" = "精选列表"; //首页-二级页面-board标题
+"index_board_highlight" = "Recommended Items"; //首页-二级页面-board标题
+"index_bannerlist_highlight" = "Recommended List"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "Recommended List"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "Recommended List"; //首页-二级页面-board标题
 
 //////////////////////////////// 搜索_search ////////////////////////////////////
 
