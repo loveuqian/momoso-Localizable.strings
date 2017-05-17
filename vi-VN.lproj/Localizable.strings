@@ -111,8 +111,8 @@
 "warn_sign_out_toast_profile_setting" = "Bạn sẽ không nhận được các thông báo về thuế và các mặt hàng mới nhất sau khi đăng xuất, bạn có muốn tiếp tục không?";
 
 "total_pay_title_cart" = "Tổng tiền";
-"view_detail_btn_dp" = "Chi tiết đơn hàng";
-"view_logistics_btn_profile_order" = "Quá trình vận chuyển";
+"view_detail_btn_dp" = "Chi tiết";
+"view_logistics_btn_profile_order" = "Logistics";
 "go_pay_btn_profile_order" = "Thanh toán";
 "delete_order_btn_profile_order" = "Hủy đơn hàng";
 "pay_tax_btn_profile" = "Nộp thuế";

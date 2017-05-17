@@ -112,7 +112,7 @@
 
 "total_pay_title_cart" = "Perhitungan total:";
 "view_detail_btn_dp" = "Lihat rincian";
-"view_logistics_btn_profile_order" = "Lihat status pengiriman";
+"view_logistics_btn_profile_order" = "Logistik";
 "go_pay_btn_profile_order" = "Bayar";
 "delete_order_btn_profile_order" = "Hapus transaksi";
 "pay_tax_btn_profile" = "Bayar pajak bea dan cukai";
