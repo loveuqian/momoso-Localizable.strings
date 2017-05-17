@@ -173,7 +173,7 @@
 "regioin_title_profile_address" = "Region"; //地址-新建地址/编辑地址-地区
 "delete_btn_profile_address" = "Delete"; //地址-左滑删除时
 
-"profile_address_receiver_title" = "Recipient full name"; //地址管理-收件人栏的默认显示文案
+"profile_address_receiver_title" = "Full name"; //地址管理-收件人栏的默认显示文案
 "profile_address_postcode_title" = "Zip code"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
