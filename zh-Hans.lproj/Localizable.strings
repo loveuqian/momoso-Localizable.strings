@@ -130,7 +130,7 @@
 
 "address_manage_title_all" = "地址管理";
 "add_address_btn_cart" = "添加新地址";
-"id_phone_title_profile_cash" = "手机号";
+"id_phone_title_profile_cash" = "手机号：";
 "detail_address_title_cart" = "详细地址";
 
 "change_region_title_profile_setting" = "切换收货地区"; //个人-设置页面-切换地区
@@ -173,8 +173,8 @@
 "regioin_title_profile_address" = "地区"; //地址-新建地址/编辑地址-地区
 "delete_btn_profile_address" = "删除"; //地址-左滑删除时
 
-"profile_address_receiver_title" = "收件人"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "邮编"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_receiver_title" = "收件人："; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "邮编："; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "还没创建专辑哦~"; //地址-新建地址/编辑地址-地区
 
@@ -471,8 +471,8 @@
 "profile_address_input_default" = "请填写"; //个人-地址-输入框
 "profile_address_select_default" = "请选择"; //个人-地址-下拉框
 "profile_address_province" = "省/州"; //个人-地址-省州
-"profile_address_city" = "城市"; //个人-地址-城市
-"profile_address_district" = "区"; //个人-地址-下拉框
+"profile_address_city" = "城市："; //个人-地址-城市
+"profile_address_district" = "区："; //个人-地址-下拉框
 "profile_address_detail" = "详细地址-公寓、楼层等（选填）"; //个人-地址-详细地址
 
 "profile_address_us" = "美国";

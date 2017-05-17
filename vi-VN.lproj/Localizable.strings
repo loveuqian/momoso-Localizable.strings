@@ -130,7 +130,7 @@
 
 "address_manage_title_all" = "Quản lý địa chỉ";
 "add_address_btn_cart" = "Thêm địa chỉ mới";
-"id_phone_title_profile_cash" = "Số điện thoại";
+"id_phone_title_profile_cash" = "Số điện thoại:";
 "detail_address_title_cart" = "Địa chỉ chi tiết";
 
 "change_region_title_profile_setting" = "Thay đổi nơi nhận hàng"; //个人-设置页面-切换地区
@@ -173,8 +173,8 @@
 "regioin_title_profile_address" = "Quận/ Thành phố"; //地址-新建地址/编辑地址-地区
 "delete_btn_profile_address" = "Xóa"; //地址-左滑删除时
 
-"profile_address_receiver_title" = "Người nhận"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Mã vùng"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_receiver_title" = "Người nhận:"; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "Mã vùng:"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "Chưa có bộ sưu tập"; //地址-新建地址/编辑地址-地区
 
@@ -471,8 +471,8 @@
 "profile_address_input_default" = "Vui lòng điền đầy đủ thông tin"; //个人-地址-输入框
 "profile_address_select_default" = "Vui lòng chọn"; //个人-地址-下拉框
 "profile_address_province" = "Tỉnh"; //个人-地址-省州
-"profile_address_city" = "Thành phố"; //个人-地址-城市
-"profile_address_district" = "Quận/Huyện"; //个人-地址-下拉框
+"profile_address_city" = "Thành phố:"; //个人-地址-城市
+"profile_address_district" = "Quận/Huyện:"; //个人-地址-下拉框
 "profile_address_detail" = "Địa chỉ chi tiết- Khu trung cư, tầng (chọn điền)"; //个人-地址-详细地址
 
 "profile_address_us" = "United States";
