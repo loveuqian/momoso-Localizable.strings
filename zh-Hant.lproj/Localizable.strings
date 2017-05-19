@@ -504,6 +504,9 @@
 
 "profile_order_package_number" = "包裹編號"; //个人-物流详细
 
+"profile_setting_feedback_null_toast" = "請填寫信息"; //个人-物流详细
+"profile_setting_feedback_null_mail_toast" = "請填寫正確的郵箱"; //个人-物流详细
+
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
 "dp_select_null_toast" = "請選擇"; //个人-地址-详细地址

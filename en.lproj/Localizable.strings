@@ -504,6 +504,9 @@
 
 "profile_order_package_number" = "Package number"; //个人-物流详细
 
+"profile_setting_feedback_null_toast" = "Please enter all the information"; //个人-物流详细
+"profile_setting_feedback_null_mail_toast" = "Please enter email address correctly"; //个人-物流详细
+
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
 "dp_select_null_toast" = "Please choose"; //个人-地址-详细地址

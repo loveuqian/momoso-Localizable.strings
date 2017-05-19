@@ -110,7 +110,7 @@
 
 "warn_sign_out_toast_profile_setting" = "Setelah keluar Anda tidak akan menerima pemberitahuan tentang pembaharuan status pengiriman dan pajak bea cukai. Apakah tetap dilanjutkan?";
 
-"total_pay_title_cart" = "Perhitungan total:";
+"total_pay_title_cart" = "Total:";
 "view_detail_btn_dp" = "Lihat rincian";
 "view_logistics_btn_profile_order" = "Logistik";
 "go_pay_btn_profile_order" = "Bayar";
@@ -503,6 +503,9 @@
 "profile_address_ua" = "Ukraine"; 
 
 "profile_order_package_number" = "Nomor paket"; //个人-物流详细
+
+"profile_setting_feedback_null_toast" = "Harap masukkan semua informasi"; //个人-物流详细
+"profile_setting_feedback_null_mail_toast" = "Silahkan masukkan alamat email dengan benar"; //个人-物流详细
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
