@@ -506,6 +506,15 @@
 
 "profile_setting_feedback_null_toast" = "Please enter all the information"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "Please enter email address correctly"; //个人-物流详细
+"address_hint_postcode_not_null"="Please enter email address";
+"choose_logistic"="Please select the shipment method";
+"confirm_delete_order_title_profile_order"="Are you sure to delete the order?";
+"confirm_valid_hint"="Passwords are not consistent";
+"pay_lack_param"="Necessary data is missing";
+"please_select_address"="Please select the address";
+"success_hide_order_profile_order"="Deleted successfully";
+"network_connect_error"="Network error";
+"network_error"="Network connection timeout";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 

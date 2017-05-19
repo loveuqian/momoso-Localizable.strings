@@ -506,6 +506,15 @@
 
 "profile_setting_feedback_null_toast" = "請填寫信息"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "請填寫正確的郵箱"; //个人-物流详细
+"address_hint_postcode_not_null"="郵編不能為空";
+"choose_logistic"="請選擇物流渠道！";
+"confirm_delete_order_title_profile_order"="確定刪除這個訂單？";
+"confirm_valid_hint"="兩次密碼輸入不一致";
+"pay_lack_param"="缺少必要的支付參數";
+"please_select_address"="請選擇地址";
+"success_hide_order_profile_order"="刪除成功";
+"network_connect_error"="網絡異常";
+"network_error"="網絡超時";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 

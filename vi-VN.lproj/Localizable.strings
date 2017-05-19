@@ -506,6 +506,15 @@
 
 "profile_setting_feedback_null_toast" = "Vui lòng nhập tất cả thông tin"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "Vui lòng nhập địa chỉ email một cách chính xác"; //个人-物流详细
+"address_hint_postcode_not_null"="Vui lòng nhập địa chỉ email";
+"choose_logistic"="Vui lòng chọn phương thức vận chuyển";
+"confirm_delete_order_title_profile_order"="Bạn có chắc chắn để xóa đơn đặt hàng?";
+"confirm_valid_hint"="Mật khẩu không nhất quán";
+"pay_lack_param"="Không có dữ liệu cần thiết";
+"please_select_address"="Vui lòng chọn địa chỉ";
+"success_hide_order_profile_order"="Xóa thành công";
+"network_connect_error"="Lỗi mạng";
+"network_error"="Thời gian chờ kết nối mạng";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 

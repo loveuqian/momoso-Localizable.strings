@@ -506,6 +506,15 @@
 
 "profile_setting_feedback_null_toast" = "Harap masukkan semua informasi"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "Silahkan masukkan alamat email dengan benar"; //个人-物流详细
+"address_hint_postcode_not_null"="Silahkan masukkan alamat email";
+"choose_logistic"="Silahkan pilih metode pengiriman";
+"confirm_delete_order_title_profile_order"="Anda yakin untuk menghapus pesanan?";
+"confirm_valid_hint"="Sandi tidak konsisten";
+"pay_lack_param"="Data yang diperlukan tidak ada";
+"please_select_address"="Silahkan pilih alamatnya";
+"success_hide_order_profile_order"="Berhasil dihapus";
+"network_connect_error"="Kesalahan jaringan";
+"network_error"="Waktu habis koneksi jaringan";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
