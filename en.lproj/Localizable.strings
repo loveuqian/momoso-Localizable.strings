@@ -449,7 +449,7 @@
 "cart_year_expire_toast"="Format of the expiry date is wrong";
 "cart_year_expire_write_toast"="Please fill the card expiry date";
 "new_sort_title_search_result"="New to Old";
-"no_delivery_supported"="Current locations not supported";
+"no_delivery_supported"="Delivery cannot supported";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -519,3 +519,7 @@
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
 "dp_select_null_toast" = "Please choose"; //个人-地址-详细地址
+
+////////////////////////////// 购物车-cart ////////////////////////////////
+
+"cart_soldout_toast" = "Some items sold out"; //个人-地址-详细地址

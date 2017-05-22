@@ -449,7 +449,7 @@
 "cart_year_expire_toast"="Thời hạn hiệu lực thẻ tín dụng không đúng";
 "cart_year_expire_write_toast"="Vui lòng nhập thời hạn hiệu lực thẻ tín dụng";
 "new_sort_title_search_result"="Ưu tiên hàng mới";
-"no_delivery_supported"="Chưa hỗ trợ chuyển phát đến khu vực này";
+"no_delivery_supported"="Giao hàng không được hỗ trợ";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -519,3 +519,7 @@
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
 "dp_select_null_toast" = "Vui lòng chọn"; //个人-地址-详细地址
+
+////////////////////////////// 购物车-cart ////////////////////////////////
+
+"cart_soldout_toast" = "Một số mặt hàng đã hết"; //个人-地址-详细地址
