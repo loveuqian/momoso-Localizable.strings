@@ -537,3 +537,20 @@
 "search_filter_more" = "More"; //搜索-筛选-全部
 "search_filter_reset" = "Reset"; //搜索-筛选-全部
 "search_filter_apply" = "Apply"; //搜索-筛选-全部
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_coupon_title" = "Coupons";
+"profile_coupon_only_country" = "Only in";
+"profile_coupon_condition_over" = "Buy";
+"profile_coupon_condition_get" = "and get an";
+"profile_coupon_valid_period" = "Valid period";
+"profile_coupon_specific" = "Specific mall or brand ";
+"profile_coupon_null" = "No coupons right now";
+"profile_coupon_available" = "Available";
+"profile_coupon_unavailable" = "Unavailable";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_coupon_available" = "Available";//支付是提示有没可用
+"cart_coupon_unavailable" = "Unavailable";//支付时提示有没可用
