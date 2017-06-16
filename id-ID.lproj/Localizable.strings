@@ -532,7 +532,7 @@
 
 "search_filter_source" = "Sellers"; //搜索-筛选-来源
 "search_filter_brand" = "Brand"; //搜索-筛选-品牌
-"search_filter_category" = "Catogery"; //搜索-筛选-类目
+"search_filter_category" = "Category";//搜索-筛选-类目
 "search_filter_crowd" = "Crowd"; //搜索-筛选-人群
 "search_filter_more" = "More"; //搜索-筛选-全部
 "search_filter_reset" = "Reset"; //搜索-筛选-全部
@@ -540,17 +540,17 @@
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
-"profile_coupon_title" = "优惠券";
-"profile_coupon_only_country" = "仅限";
-"profile_coupon_condition_over" = "买满";
-"profile_coupon_condition_get" = "即获得";
-"profile_coupon_valid_period" = "有效期";
-"profile_coupon_specific" = "特定商店/品牌可用";
-"profile_coupon_null" = "暂时没有任何优惠券哦";
-"profile_coupon_available" = "可用";
-"profile_coupon_unavailable" = "不可用";
+"profile_coupon_title" = "Kupon diskon";
+"profile_coupon_only_country" = "hanya terbatas pada";
+"profile_coupon_condition_over" = "Belanja mencapai";
+"profile_coupon_condition_get" = "akan mendapatkan";
+"profile_coupon_valid_period" = "masa berlaku";
+"profile_coupon_specific" = "Dapat digunakan pada toko/merk tertentu";
+"profile_coupon_null" = "Sementara tidak ada kupon diskon ya";
+"profile_coupon_available" = "Dapat digunakan";
+"profile_coupon_unavailable" = "Tidak dapat digunakan";
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 
-"cart_coupon_available" = "有可用";//支付是提示有没可用
-"cart_coupon_unavailable" = "无可用";//支付时提示有没可用
+"cart_coupon_available" = "Tersedia";//支付是提示有没可用
+"cart_coupon_unavailable" = "Tidak tersedia";//支付时提示有没可用
