@@ -449,7 +449,7 @@
 "cart_year_expire_toast"="Format of the expiry date is wrong";
 "cart_year_expire_write_toast"="Please fill the card expiry date";
 "new_sort_title_search_result"="New to Old";
-"no_delivery_supported"="Delivery cannot supported";
+"no_delivery_supported"="Delivery is not supported";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -554,3 +554,10 @@
 
 "cart_coupon_available" = "Available";//支付是提示有没可用
 "cart_coupon_unavailable" = "Unavailable";//支付时提示有没可用
+
+//////////////////////////// 商品详细页-DP /////////////////////////////////
+
+"dp_shipment_title" = "Ship from ";//支付是提示有没可用
+"dp_shipment_to_title" = " to ";//支付时提示有没可用
+"dp_receive_title" = "Received in";//支付时提示有没可用
+"dp_receive_days_title" = "days";//支付时提示有没可用

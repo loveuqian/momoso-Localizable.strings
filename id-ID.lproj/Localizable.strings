@@ -554,3 +554,10 @@
 
 "cart_coupon_available" = "Tersedia";//支付是提示有没可用
 "cart_coupon_unavailable" = "Tidak tersedia";//支付时提示有没可用
+
+//////////////////////////// 商品详细页-DP /////////////////////////////////
+
+"dp_shipment_title" = "Pengiriman dari ";//支付是提示有没可用
+"dp_shipment_to_title" = " untuk ";//支付时提示有没可用
+"dp_receive_title" = "Diterima di ";//支付时提示有没可用
+"dp_receive_days_title" = " Hari";//支付时提示有没可用

@@ -554,3 +554,10 @@
 
 "cart_coupon_available" = "有可用";//支付是提示有没可用
 "cart_coupon_unavailable" = "無可用";//支付时提示有没可用
+
+//////////////////////////// 商品详细页-DP /////////////////////////////////
+
+"dp_shipment_title" = "物流發貨從";//支付是提示有没可用
+"dp_shipment_to_title" = "到";//支付时提示有没可用
+"dp_receive_title" = "收貨時間";//支付时提示有没可用
+"dp_receive_days_title" = "天";//支付时提示有没可用
