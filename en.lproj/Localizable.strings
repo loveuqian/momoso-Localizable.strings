@@ -542,7 +542,7 @@
 
 "profile_coupon_title" = "Coupons";
 "profile_coupon_only_country" = "Only in";
-"profile_coupon_condition_over" = "Buy";
+"profile_coupon_condition_over" = "Buy ";
 "profile_coupon_condition_get" = "and get an";
 "profile_coupon_valid_period" = "Valid period";
 "profile_coupon_specific" = "Specific mall or brand ";

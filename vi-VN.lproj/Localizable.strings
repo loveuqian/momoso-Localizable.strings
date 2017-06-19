@@ -542,7 +542,7 @@
 
 "profile_coupon_title" = "coupon";
 "profile_coupon_only_country" = "giới hạn";
-"profile_coupon_condition_over" = "mua đầy";
+"profile_coupon_condition_over" = "mua ";
 "profile_coupon_condition_get" = "nhận được";
 "profile_coupon_valid_period" = "thời hạn";
 "profile_coupon_specific" = "dùng cho cửa hàng/nhãn hiệu";
