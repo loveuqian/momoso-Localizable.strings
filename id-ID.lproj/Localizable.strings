@@ -537,6 +537,9 @@
 "search_filter_more" = "More"; //搜索-筛选-全部
 "search_filter_reset" = "Reset"; //搜索-筛选-全部
 "search_filter_apply" = "Apply"; //搜索-筛选-全部
+"search_sort_popular" = "Populer"; //搜索-筛选-全部
+"search_sort_topsale" = "Terlaris"; //搜索-筛选-全部
+"search_sort_price" = "Harga"; //搜索-筛选-全部
 
 //////////////////////////// 个人-profile /////////////////////////////////
 

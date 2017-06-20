@@ -537,6 +537,9 @@
 "search_filter_more" = "More"; //搜索-筛选-全部
 "search_filter_reset" = "Reset"; //搜索-筛选-全部
 "search_filter_apply" = "Apply"; //搜索-筛选-全部
+"search_sort_popular" = "Popular"; //搜索-筛选-全部
+"search_sort_topsale" = "Top Sale"; //搜索-筛选-全部
+"search_sort_price" = "Price"; //搜索-筛选-全部
 
 //////////////////////////// 个人-profile /////////////////////////////////
 

@@ -537,6 +537,9 @@
 "search_filter_more" = "Nhiều hơn"; //搜索-筛选-全部
 "search_filter_reset" = "Đặt lại"; //搜索-筛选-全部
 "search_filter_apply" = "Ứng dụng"; //搜索-筛选-全部
+"search_sort_popular" = "Phổ biến"; //搜索-筛选-全部
+"search_sort_topsale" = "Bán chạy"; //搜索-筛选-全部
+"search_sort_price" = "Giá"; //搜索-筛选-全部
 
 //////////////////////////// 个人-profile /////////////////////////////////
 

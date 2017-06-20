@@ -537,6 +537,9 @@
 "search_filter_more" = "全部"; //搜索-筛选-全部
 "search_filter_reset" = "重置"; //搜索-筛选-全部
 "search_filter_apply" = "應用"; //搜索-筛选-全部
+"search_sort_popular" = "熱門"; //搜索-筛选-全部
+"search_sort_topsale" = "熱銷"; //搜索-筛选-全部
+"search_sort_price" = "價格"; //搜索-筛选-全部
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
