@@ -564,3 +564,5 @@
 "dp_shipment_to_title" = "到";//支付时提示有没可用
 "dp_receive_title" = "收货时间";//支付时提示有没可用
 "dp_receive_days_title" = "天";//支付时提示有没可用
+"dp_shipment_notsupport_title" = "不支持派送";//支付是提示有没可用
+"dp_shipment_notsupport_description" = "当前地区不支持派送";//支付是提示有没可用
