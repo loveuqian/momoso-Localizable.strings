@@ -541,6 +541,8 @@
 "search_sort_topsale" = "熱銷"; //搜索-筛选-全部
 "search_sort_price" = "價格"; //搜索-筛选-全部
 
+"search_list_supply_by" = "供貨商"; //搜索-筛选-全部
+
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_coupon_title" = "優惠券";

@@ -541,6 +541,8 @@
 "search_sort_topsale" = "Terlaris"; //搜索-筛选-全部
 "search_sort_price" = "Harga"; //搜索-筛选-全部
 
+"search_list_supply_by" = "Supplied by"; //搜索-筛选-全部
+
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_coupon_title" = "Kupon diskon";

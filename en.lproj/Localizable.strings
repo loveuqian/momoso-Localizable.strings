@@ -541,6 +541,8 @@
 "search_sort_topsale" = "Top Sale"; //搜索-筛选-全部
 "search_sort_price" = "Price"; //搜索-筛选-全部
 
+"search_list_supply_by" = "Supplied by"; //搜索-筛选-全部
+
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_coupon_title" = "Coupons";

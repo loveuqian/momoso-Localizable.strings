@@ -541,6 +541,8 @@
 "search_sort_topsale" = "热销"; //搜索-筛选-全部
 "search_sort_price" = "价格"; //搜索-筛选-全部
 
+"search_list_supply_by" = "供货商"; //搜索-筛选-全部
+
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_coupon_title" = "优惠券";
