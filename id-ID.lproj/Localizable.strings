@@ -531,6 +531,10 @@
 ////////////////////////////首页-index /////////////////////////////////
 
 "index_got_coupon_toast" = "Selamat! Anda punya kupon"; //搜索-筛选-来源
+"index_wrong_region_toast" = "Kupon tidak tersedia di wilayah saat ini"; //搜索-筛选-来源
+"index_condition_not_meet_toast" = "Anda tidak bisa mengambil kupon"; //搜索-筛选-来源
+"index_number_limit_toast" = "Anda sudah mendapat kupon lebih dari satu kali"; //搜索-筛选-来源
+"index_timeout_toast" = "Kuponnya sudah kadaluarsa"; //搜索-筛选-来源
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
