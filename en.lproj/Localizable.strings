@@ -564,7 +564,7 @@
 
 "dp_shipment_title" = "Ship from ";//支付是提示有没可用
 "dp_shipment_to_title" = " to ";//支付时提示有没可用
-"dp_receive_title" = "Received in";//支付时提示有没可用
-"dp_receive_days_title" = "days";//支付时提示有没可用
+"dp_receive_title" = "Received in ";//支付时提示有没可用
+"dp_receive_days_title" = " days";//支付时提示有没可用
 "dp_shipment_notsupport_title" = "Delivery not supported";//支付是提示有没可用
 "dp_shipment_notsupport_description" = "Current region do not support delivery";//支付是提示有没可用
