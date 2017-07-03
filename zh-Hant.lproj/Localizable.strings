@@ -587,3 +587,7 @@
 "index_comment_sub_title" = "喜歡CloudMall麼？來表達一下你的想法吧";//支付是提示有没可用
 "index_bad_feedback_btn" = "反饋意見";//支付是提示有没可用
 "index_good_feedback_btn" = "鼓勵一下！";//支付是提示有没可用
+"index_timeout_title" = "已結束";//支付是提示有没可用
+"index_pending_title" = "未開始";//支付是提示有没可用
+"index_timeout2_title" = "活動已結束";//支付是提示有没可用
+"index_pending2_title" = "活动未開始";//支付是提示有没可用
