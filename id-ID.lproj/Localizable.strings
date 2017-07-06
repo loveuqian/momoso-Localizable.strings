@@ -591,3 +591,7 @@
 "index_pending_title" = "未開始";//支付是提示有没可用
 "index_timeout2_title" = "活動已結束";//支付是提示有没可用
 "index_pending2_title" = "活动未開始";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"dp_total_sale_title" = "Total sold";//支付是提示有没可用
