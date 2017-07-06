@@ -583,14 +583,14 @@
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
-"index_comment_main_title" = "给个评价哦";//支付是提示有没可用
-"index_comment_sub_title" = "喜欢CloudMall么？来表达一下你的想法吧";//支付是提示有没可用
-"index_bad_feedback_btn" = "吐槽一下";//支付是提示有没可用
-"index_good_feedback_btn" = "鼓励一下！";//支付是提示有没可用
-"index_timeout_title" = "已結束";//支付是提示有没可用
-"index_pending_title" = "未開始";//支付是提示有没可用
-"index_timeout2_title" = "活動已結束";//支付是提示有没可用
-"index_pending2_title" = "活动未開始";//支付是提示有没可用
+"index_comment_main_title" = "Bình luận";//支付是提示有没可用
+"index_comment_sub_title" = "Giống như chúng tôi và bình luận";//支付是提示有没可用
+"index_bad_feedback_btn" = "Phản hồi";//支付是提示有没可用
+"index_good_feedback_btn" = "Như chúng tôi!";//支付是提示有没可用
+"index_timeout_title" = "Hết giờ";//支付是提示有没可用
+"index_pending_title" = "Chưa bắt đầu";//支付是提示有没可用
+"index_timeout2_title" = "Thời gian khuyến mãi";//支付是提示有没可用
+"index_pending2_title" = "Khuyến mãi Chưa bắt đầu";//支付是提示有没可用
 
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
