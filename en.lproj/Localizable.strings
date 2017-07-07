@@ -263,7 +263,7 @@
 "brand_title_dp" = "Brand"; //商品详细页下
 "item_description_title_dp" = "Product description"; //商品详细下-商品概述
 "more_item_title_dp" = "Other Products You May Like"; //商品详细-最底部商品推荐
-"supplier_btn_dp" = "Supplier"; //商品详细-tabbar上
+"supplier_btn_dp" = "Seller"; //商品详细-tabbar上
 
 "new_album_btn_dp" = "New Album"; //商品详细-点击收藏-新建
 
@@ -539,9 +539,9 @@
 //////////////////////////// 搜索-Search /////////////////////////////////
 
 "search_filter_source" = "Sellers"; //搜索-筛选-来源
-"search_filter_brand" = "Brand"; //搜索-筛选-品牌
-"search_filter_category" = "Catogery"; //搜索-筛选-类目
-"search_filter_crowd" = "Crowd"; //搜索-筛选-人群
+"search_filter_brand" = "Brands"; //搜索-筛选-品牌
+"search_filter_category" = "Category"; //搜索-筛选-类目
+"search_filter_crowd" = "Consumer"; //搜索-筛选-人群
 "search_filter_more" = "More"; //搜索-筛选-全部
 "search_filter_reset" = "Reset"; //搜索-筛选-全部
 "search_filter_apply" = "Apply"; //搜索-筛选-全部
@@ -570,12 +570,12 @@
 
 //////////////////////////// 商品详细页-DP /////////////////////////////////
 
-"dp_shipment_title" = "Ship from";//支付是提示有没可用
+"dp_shipment_title" = "Ships from";//支付是提示有没可用
 "dp_shipment_to_title" = "to";//支付时提示有没可用
 "dp_receive_title" = "Received in";//支付时提示有没可用
 "dp_receive_days_title" = "days";//支付时提示有没可用
 "dp_shipment_notsupport_title" = "Delivery not supported";//支付是提示有没可用
-"dp_shipment_notsupport_description" = "Current region do not support delivery";//支付是提示有没可用
+"dp_shipment_notsupport_description" = "Item cannot be delivered to current region";//支付是提示有没可用
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
