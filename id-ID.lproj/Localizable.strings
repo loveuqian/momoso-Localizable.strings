@@ -592,6 +592,8 @@
 "index_timeout2_title" = "Waktu tunggu promosi";//支付是提示有没可用
 "index_pending2_title" = "Promosi Belum dimulai";//支付是提示有没可用
 
+"index_region_null" = "Silakan pilih wilayah dan bahasa";//支付是提示有没可用
+
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
 "dp_total_sale_title" = "Total sold";//支付是提示有没可用
