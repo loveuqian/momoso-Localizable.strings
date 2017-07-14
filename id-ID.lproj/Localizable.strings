@@ -604,11 +604,11 @@
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
-"index_minutes_ago" = "minutes ago";//支付是提示有没可用
-"index_hours_ago" = "hours ago";//支付是提示有没可用
-"index_days_ago" = "days ago";//支付是提示有没可用
-"index_weeks_ago" = "weeks ago";//支付是提示有没可用
-"index_months_ago" = "month ago";//支付是提示有没可用
+"index_minutes_ago" = " minutes ago";//支付是提示有没可用
+"index_hours_ago" = " hours ago";//支付是提示有没可用
+"index_days_ago" = " days ago";//支付是提示有没可用
+"index_weeks_ago" = " weeks ago";//支付是提示有没可用
+"index_months_ago" = " month ago";//支付是提示有没可用
 
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
