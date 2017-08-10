@@ -570,9 +570,9 @@
 
 //////////////////////////// 商品详细页-DP /////////////////////////////////
 
-"dp_shipment_title" = "Ships from";//支付是提示有没可用
+"dp_shipment_title" = "Ship from";//支付是提示有没可用
 "dp_shipment_to_title" = "to";//支付时提示有没可用
-"dp_receive_title" = "Received in";//支付时提示有没可用
+"dp_receive_title" = "Receive in";//支付时提示有没可用
 "dp_receive_days_title" = "days";//支付时提示有没可用
 "dp_shipment_notsupport_title" = "Delivery not supported";//支付是提示有没可用
 "dp_shipment_notsupport_description" = "Item cannot be delivered to current region";//支付是提示有没可用
@@ -613,3 +613,11 @@
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
 "search_current_filter" = "Filter";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_no_result" = "Sorry, we can not find the results";//支付是提示有没可用
