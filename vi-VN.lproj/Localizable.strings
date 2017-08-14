@@ -630,6 +630,7 @@
 
 "search_ai_search" = "AI Search";//支付是提示有没可用
 "search_ai_found" = "Những mục tương tự";//支付是提示有没可用
+"search_ai_eplore" = "Những mục tương tự";//支付是提示有没可用
 "search_ai_not_found" = "Không có mục tương tự";//支付是提示有没可用
 "search_ai_description" = "Bây giờ bạn có thể tìm thấy các mặt hàng tương tự với AI search";//支付是提示有没可用
 "search_ai_description_confirm" = "Hiểu rồi";//支付是提示有没可用

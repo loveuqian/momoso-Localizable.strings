@@ -630,6 +630,7 @@
 
 "search_ai_search" = "AI search";//支付是提示有没可用
 "search_ai_found" = "Barang serupa";//支付是提示有没可用
+"search_ai_eplore" = "Barang serupa";//支付是提示有没可用
 "search_ai_not_found" = "Tidak ada barang serupa";//支付是提示有没可用
 "search_ai_description" = "Sekarang Anda dapat menemukan item serupa dengan AI search";//支付是提示有没可用
 "search_ai_description_confirm" = "Mengerti";//支付是提示有没可用

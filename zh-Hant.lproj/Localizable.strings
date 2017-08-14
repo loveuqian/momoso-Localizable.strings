@@ -630,6 +630,7 @@
 
 "search_ai_search" = "AI圖搜";//支付是提示有没可用
 "search_ai_found" = "件相似商品";//支付是提示有没可用
+"search_ai_explore" = "相似商品";//支付是提示有没可用
 "search_ai_not_found" = "無相似商品";//支付是提示有没可用
 "search_ai_description" = "現在可以一鍵查找跟商品外貿相似的商品了";//支付是提示有没可用
 "search_ai_description_confirm" = "知道了";//支付是提示有没可用
