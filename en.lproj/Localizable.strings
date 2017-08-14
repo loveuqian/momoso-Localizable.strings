@@ -621,3 +621,28 @@
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
 "search_no_result" = "Sorry, we can not find the results";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_ai_search" = "AI search";//支付是提示有没可用
+"search_ai_found" = "similar items";//支付是提示有没可用
+"search_ai_not_found" = "No similar items";//支付是提示有没可用
+"search_ai_description" = "Now you can find similar items with AI search";//支付是提示有没可用
+"search_ai_description_confirm" = "Got it";//支付是提示有没可用
+
+"search_ai_finding" = "AI search is now progressing";//支付是提示有没可用
+"search_ai_find_nothing" = "Sorry, no similar items";//支付是提示有没可用
+"search_ai_similarity" = "Similarity:";//支付是提示有没可用
+
+"search_sort_discount" = "Discount";//支付是提示有没可用
+
+//////////////////////////// 详细-DP /////////////////////////////////
+
+"dp_ai_found" = "similar items";//支付是提示有没可用
+"dp_ai_explore" = "Explore more similar items";//支付是提示有没可用
+"dp_ai_find_nothing" = "No similar items";//支付是提示有没可用
+"dp_ai_find_nothing_toast" = "Sorry, no similar items";//支付是提示有没可用
