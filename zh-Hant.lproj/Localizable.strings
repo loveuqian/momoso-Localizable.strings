@@ -645,5 +645,5 @@
 
 "dp_ai_found" = "件相似商品";//支付是提示有没可用
 "dp_ai_explore" = "查找相似商品";//支付是提示有没可用
-"dp_ai_find_nothing" = "找不到相似商品";//支付是提示有没可用
+"dp_ai_find_nothing" = "暫無相似商品";//支付是提示有没可用
 "dp_ai_find_nothing_toast" = "抱歉，找不到相似商品";//支付是提示有没可用
