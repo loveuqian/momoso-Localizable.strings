@@ -392,12 +392,12 @@
 
 "cart_not_login_btn" = "Login"; //购物车-未登录-登录按钮
 "cart_checkout_card_cancel" = "Cancel"; //购物车-选择支付-取消
-"cart_checkout_card_pay" = "Pay "; //购物车-选择支付-付款
+"cart_checkout_card_pay" = "Purchase "; //购物车-选择支付-付款
 "cart_checkout_card_popup_title" = "Error"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_content" = "There was an error with your payment. Please verify that the card details you entered were correct or try paying with a different card."; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_cancel" = "Later"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_tryagain" = "Try Again"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_pay_total" = "Pay"; //购物车-选择支付-取消
+"cart_checkout_pay_total" = "Purchase"; //购物车-选择支付-取消
 "cart_checkout_bill_total" = "Bill Total "; //购物车-选择支付-付款
 "cart_checkout_pay_success_title" = "Success"; //购物车-选择支付-支付成功
 
@@ -647,3 +647,11 @@
 "dp_ai_explore" = "Explore more similar items";//支付是提示有没可用
 "dp_ai_find_nothing" = "No similar items";//支付是提示有没可用
 "dp_ai_find_nothing_toast" = "Sorry, no similar items";//支付是提示有没可用
+
+//////////////////////////// 个人-Profile /////////////////////////////////
+
+"profile_favorite_ablum_nothing" = "Nothing in album";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_tab_all" = "Semua";//支付是提示有没可用

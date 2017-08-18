@@ -647,3 +647,11 @@
 "dp_ai_explore" = "Jelajahi lebih banyak item serupa";//支付是提示有没可用
 "dp_ai_find_nothing" = "Tidak ada barang serupa";//支付是提示有没可用
 "dp_ai_find_nothing_toast" = "Maaf, tidak ada barang serupa";//支付是提示有没可用
+
+//////////////////////////// 个人-Profile /////////////////////////////////
+
+"profile_favorite_ablum_nothing" = "Tidak ada dalam album";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_tab_all" = "全部";//支付是提示有没可用

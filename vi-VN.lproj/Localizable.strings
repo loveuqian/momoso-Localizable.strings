@@ -647,3 +647,11 @@
 "dp_ai_explore" = "Khám phá nhiều mục tương tự hơn";//支付是提示有没可用
 "dp_ai_find_nothing" = "Không có mục tương tự";//支付是提示有没可用
 "dp_ai_find_nothing_toast" = "Xin lỗi, không có mục tương tự";//支付是提示有没可用
+
+//////////////////////////// 个人-Profile /////////////////////////////////
+
+"profile_favorite_ablum_nothing" = "Không có gì trong album";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_tab_all" = "Tất cả các";//支付是提示有没可用
