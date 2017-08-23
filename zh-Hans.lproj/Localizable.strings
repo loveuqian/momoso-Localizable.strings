@@ -662,9 +662,11 @@
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 
-"cart_purchase_add_card" = "+ 添加信用卡";//支付是提示有没可用
+"cart_purchase_add_card" = "使用新信用卡支付";//支付是提示有没可用
+"cart_purchase_choose_card" = "选择已有信用卡支付";//支付是提示有没可用
 "cart_purchase_delete_card_title" = "删除信用卡";//支付是提示有没可用
 "cart_purchase_delete_card_content" = "确定要删除该信用卡？";//支付是提示有没可用
+"cart_purchase_delete_card" = "删除";//支付是提示有没可用
 
 //////////////////////////// 个人-profile /////////////////////////////////
 

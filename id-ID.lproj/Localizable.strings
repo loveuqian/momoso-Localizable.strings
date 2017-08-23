@@ -662,9 +662,11 @@
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 
-"cart_purchase_add_card" = "+ Kartu Kredit / Debit Baru";//支付是提示有没可用
+"cart_purchase_add_card" = "Gunakan Kartu Kredit / Debet Baru";//支付是提示有没可用
+"cart_purchase_choose_card" = "Pilih Dari Daftar Kartu Saya";//支付是提示有没可用
 "cart_purchase_delete_card_title" = "Hapus Kartu Kredit";//支付是提示有没可用
 "cart_purchase_delete_card_content" = "Yakin ingin menghapus kartu ini?";//支付是提示有没可用
+"cart_purchase_delete_card" = "Menghapus";//支付是提示有没可用
 
 //////////////////////////// 个人-profile /////////////////////////////////
 

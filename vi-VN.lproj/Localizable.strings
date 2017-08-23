@@ -662,9 +662,11 @@
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 
-"cart_purchase_add_card" = "+ Thẻ tín dụng / ghi nợ mới";//支付是提示有没可用
+"cart_purchase_add_card" = "Sử dụng Thẻ tín dụng / Ghi nợ mới";//支付是提示有没可用
+"cart_purchase_choose_card" = "Chọn Từ Danh Sách của Tôi";//支付是提示有没可用
 "cart_purchase_delete_card_title" = "Xóa Thẻ Tín dụng";//支付是提示有没可用
 "cart_purchase_delete_card_content" = "Bạn có chắc chắn muốn xóa thẻ này?";//支付是提示有没可用
+"cart_purchase_delete_card" = "Xóa bỏ";//支付是提示有没可用
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
