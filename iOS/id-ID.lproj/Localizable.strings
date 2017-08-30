@@ -1,0 +1,691 @@
+
+"language_resources " = "id";
+
+////////////////////////////////// 全局_all ///////////////////////////////////
+
+"pull_to_refresh_title_all" = "Tarik ke bawah untuk memuat ulang"; //购物车、首页、个人-订单、搜索结果
+"release_to_refresh_title_all" = "Lepaskan untuk memuat ulang"; //购物车、首页、个人-订单、搜索结果
+"refreshing_title_all" = "Sedang memuat ulang"; //购物车、首页、个人-订单、搜索结果
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_flash_sale_title" = "Penawaran sepesial hari ini"; //首页-闪购标题
+"index_great_price_title" = "harga terbaik"; //首页-白菜价
+"index_mini_banner_title" = "pilihan spesial mini"; //首页-迷你精选
+"index_great_collection_title" = "kategori pilihan spesial"; //首页-类目精选
+"index_daily_update_title" = "Status harian"; //首页-海淘动态
+
+"index_tabbar_daily_update_title" = "Pilihan terbaik setiap hari"; //首页-分屏每日精选-标题
+
+"index_choose_address_title" = "Pilih alamat pengiriman"; //首页-选择收货地址
+"index_cannot_choose_address_toast" = "Pengiriman ke daerah tersebut sementara tidak didukung"; //首页-选择新加坡/台湾时toast提示
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"hot_catogery_title_search" = "kategori populer"; //搜索页面
+"hot_brand_title_search" = "merk populer"; //搜索页面
+"hot_mall_title_search" = "Mall populer"; //搜索页面
+"all_brand_btn_searh" = "semua merk"; //搜索页面
+"all_mall_title_search" = "semua Mall"; //搜索页面
+"best_sell_title_search" = "kategori pilihan spesial"; //搜索页面
+
+"all_people_title_search_result" = "semua golongan"; //所有结果-筛选人群
+"all_brand_title_search_result" = "semua merk"; //所有结果-筛选品牌
+"general_sort_title_search_result" = "urutkan acak"; //所有结果-排序
+"price_high_sort_title_search_result" = "dari harga tertinggi ke terendah"; //所有结果-排序
+"price_low_sort_title_search_result" = "dari harga terendah ke tertinggi"; //所有结果-排序
+"discount_sort_title_search_result" = "prioritaskan yang memiliki diskon"; //所有结果-排序
+"sale_sort_title_search_result" = "prioritaskan jumlah penjualan"; //所有结果-排序
+
+"mall_filter_title_search_result" = "Mall"; //所有结果-筛选
+"all_mall_filter_title_search_result" = "semua Mall"; //所有结果-筛选
+"price_filter_title_search_result" = "harga"; //所有结果-筛选
+"clear_price_filter_title_search_result" = "hapus"; //所有结果-筛选
+"close_filter_title_search_result" = "tutup"; //所有结果-筛选
+"reset_filter_title_search_result" = "atur ulang"; //所有结果-筛选
+"ok_filter_title_search_result" = "ok"; //所有结果-筛选
+
+"search_result_subscribe_btn" = "berlangganan"; //搜索结果-品牌-订阅按钮
+"search_result_have_subscribed_btn" = "sudah berlangganan"; //搜索结果-品牌-已订阅按钮
+
+////////////////////////////////// 登录_signlogin ///////////////////////////////////
+
+"facebook_login_btn_signlogin" = "Facebook";
+"email_signup_btn_signlogin" = "Daftar menggunakan e-mail";
+"login_btn_signlogin" = "Masuk";
+
+"email_title_signlogin" = "e-mail";
+"password_title_signlogin" = "Kata sandi";
+"forget_password_btn_signlogin" = "Lupa kata sandi";
+
+"next_btn_signlogin" = "Berikutnya";
+
+"comfire_password_btn_signlogin" = "Konfirmasi kata sandi";
+"finish_btn_signlogin" = "Selesai";
+
+"phone_number_validation_title_signlogin" = "Kode verifikasi sudah dikirim";
+"validation_code_title_signlogin" = "Masukkan kode verifikasi";
+
+"create_password_title_signlogin" = "Buat kata sandi"; //注册页面
+"new_username_btn_signlogin" = "Nama pengguna";
+
+////////////////////////////////// 我_profile ///////////////////////////////////
+
+"favorite_title_profile" = "Koleksi";
+"advances_address_title_profile_setting" = "Alamat";
+
+"order_title_profile_order" = "Transaksi pemesanan";
+"un_paid_btn_profile_order" = "Belum di bayar";
+"processing_btn_profile_order" = "Sedang dalam proses";
+"received_btn_profile_order" = "Sudah selesai";
+"all_order_btn_profile_order" = "Semua transaksi";
+
+"problem_consult_title_profile_setting" = "Konsultasi masalah";
+"title_consult_title_profile_setting" = "Tuliskan judul konsultasi";
+"title_consult_description_profile_setting" = "Deskripsi masalah";
+"placeholder_title_consult_description_profile_setting" = "Silahkan jelaskan dengan rinci masalah yang ingin anda konsultasikan";
+"order_number_consult_profile_setting" = "Nomor transaksi";
+"placeholder_order_number_consult_profile_setting" = "Nomor transaksi yang memiliki masalah";
+"title_email_consult_profile_setting" = "Alamat e-mail";
+"placeholder_email_consult_profile_setting" = "Silahkan masukkan alamat e-mail";
+"title_name_consult_profile_setting" = "Sapaan";
+"placeholder_title_name_consult_profile_setting" = "Silahkan tuliskan nama Anda";
+
+"feedback_title_profile_setting" = "Umpan balik";
+"rate_title_profile_setting" = "Beri penilaian bagus";
+"about_me_title_profile_setting" = "Tentang kami";
+"sign_out_title_profile_setting" = "Keluar";
+
+"confirm_clear_cache_title_profile_about" = "Apakah Anda yakin ingin menghapus cache?";
+
+"hint_feedback_title_profile_feedback" = "Silahkan masukkan umpan balik mengenai produk";
+"hint_contact_title_profile_feedback" = "e-mail/nomor ponsel/QQ (pilih salah satu)";
+
+"my_profile_title_profile_info" = "Profil saya";
+"modify_avatar_btn_profile_info" = "Ganti foto profil";
+"modify_name_btn_profile_info" = "Ubah nama panggilan";
+"reset_password_btn_profile_info" = "Atur ulang";
+"reset_password_info_title_profile_info" = "Setelah melakukan pengaturan, Anda dapat masuk dengan nomor ponsel + kode sandi";
+"reset_password_title_profile_setting" = "Atur kata sandi";
+
+"warn_sign_out_toast_profile_setting" = "Setelah keluar Anda tidak akan menerima pemberitahuan tentang pembaharuan status pengiriman dan pajak bea cukai. Apakah tetap dilanjutkan?";
+
+"total_pay_title_cart" = "Total:";
+"view_detail_btn_dp" = "Lihat rincian";
+"view_logistics_btn_profile_order" = "Logistik";
+"go_pay_btn_profile_order" = "Bayar";
+"delete_order_btn_profile_order" = "Hapus transaksi";
+"pay_tax_btn_profile" = "Bayar pajak bea dan cukai";
+
+"share_lucky_money_btn_cart" = "Kirim angpau";
+
+"favors_album_title_profile_favors" = "Album koleksi";
+"camera_edit_btn_profile_address" = "Edit";
+"delete_album_tips_title_profile_favors" = "Dunia ini terlalu kacau, barang yang disimpan di album akan sangat sulit ditemukan kembali. Apakah anda yakin ingin menghapusnya?";
+"delete_album_btn_profile_favors" = "Hapus album";
+"no_album_desc_title_profile_favors" = "Belum ada deskripsi apapun";
+"title_title_profile_favors" = "Judul";
+"description_title_profile_favors" = "Deskripsi";
+"new_album_title_dp" = "Silahkan ketikkan judul album baru";
+
+"address_manage_title_all" = "Pengaturan alamat";
+"add_address_btn_cart" = "Tambahkan alamat baru";
+"id_phone_title_profile_cash" = "Nomor ponsel:";
+"detail_address_title_cart" = "Alamat rinci";
+
+"change_region_title_profile_setting" = "Ubah daerah penerimaan barang"; //个人-设置页面-切换地区
+"select_region_title_profile_setting" = "Pilih daerah penerimaan barang";
+"change_language_title_profile_setting" = "Ubah bahasa";
+"clear_cache_title_profile_setting" = "Bersihkan cache"; //个人-设置页面缺失
+"setting_title_profile_setting" = "Pengaturan"; //个人-设置页面头部
+"language_title_profile_setting" = "Bahasa"; //个人-设置页面-语言切换
+
+"cancle_send_question_profile_setting" = "Batal"; //个人-设置-问题咨询-左上角
+"ok_send_question_profile_setting" = "Kirimkan"; //个人-设置-问题咨询-左上角
+
+"cancle_clear_cache_profile_setting" = "Batal"; //个人-设置-清除缓存弹窗
+"ok_clear_cache_profile_setting" = "Bersihkan"; //个人-设置-清除缓存弹窗
+
+"disclamier_btn_profile_setting" = "Pernyataan penolakan"; //个人-设置-关于我们
+
+"ok_logout_profile_setting" = "Ok"; //个人-设置-退出登录
+"cancle_logout_profile_setting" = "Batal"; //个人-设置-退出登录
+
+"take_photo_change_avatar_btn_profile" = "Ambil foto"; //头像修改-弹窗
+"open_photo__change_avatar_btn_profile" = "Pilih foto dari galeri"; //头像修改-弹窗
+"cancle_change_avatar_btn_profile" = "Batal"; //头像修改-弹窗 //专辑编辑-左上角取消
+
+"ok_change_name_btn_profile" = "Ok"; //昵称修改-弹窗
+"cancle_change_name_btn_profile" = "Batal"; //昵称修改-弹窗
+
+"order_number_title_profile_order" = "Nomor transaksi"; //订单-订单详细
+"order_time_title_profile_order" = "Waktu transaksi"; //订单-订单详细
+"today_sale_title_profile_order" = "Pilihan spesial hari ini"; //订单-物流详细
+"order_detail_title_profile_order" = "Rincian transaksi"; //订单-订单详细-标题
+"help_btn_profile_order" = "Ada masalah?"; //订单-物流详细-漏了的
+
+"cancle_btn_profile_favors" = "Batal"; //收藏-专辑编辑
+"save_btn_profile_favors" = "Simpan"; //收藏-专辑编辑
+"confirm_delete_album_btn_profile_favors" = "Hapus"; //收藏-专辑编辑-删除专辑弹窗
+"cancle_delete_album_btn_profile_favors" = "Batal"; //收藏-专辑编辑-删除专辑弹窗
+
+"ok_btn_profile_address" = "Selesai"; //地址-新建地址/编辑地址-右上角
+"regioin_title_profile_address" = "Daerah"; //地址-新建地址/编辑地址-地区
+"delete_btn_profile_address" = "Hapus"; //地址-左滑删除时
+
+"profile_address_receiver_title" = "Penerima:"; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "Kode pos:"; //地址管理-新加坡-邮编的默认显示文案
+
+"profile_favorite_no_album_title" = "Belum membuat album"; //地址-新建地址/编辑地址-地区
+
+"profile_default_addresss_title" = "Nama perusahaan, lantai, blok, bangunan, jalan"; //地址-新建地址/编辑地址-地区
+
+"profile_no_orders_title" = "Lebih dari jutaan produk menanti Anda"; //個人-訂單無訂單時顯示的內容
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_icon_all" = "Troli";
+"hint2_login_title_cart" = "Perhatian. Masuk lebih awal dapat menyinkronisasikan keranjang belanja, koleksian dan daftar penelusuran Anda";
+"select_all_btn_cart" = "Semua";
+"save_price_title_cart" = "Sudah di diskon";
+"checkout_btn_cart" = "Total pembayaran";
+"empty_title_cart" = "Keranjang belanja masih kosong";
+"item_viewed_title_cart" = "Produk yang pernah Anda telusuri";
+"mall_item_discount_title_dp" = "Saat penghitungan total pembayaran akan otomatis diberikan potongan";
+"drop_price_title_cart" = "Produk sudah turun harga";
+
+"agreements_content_cart1" = "Saya menerima .... Cloudmall";
+"agreements_content_cart2" = "Pernyataan privasi/";
+"agreements_content_cart3" = "Pernyataan penolakan/";
+"agreements_content_cart4" = "Kebijakan pengembalian dan penukaran barang";
+"summit_checkout_btn_cart" = "Ok";
+"mall_shipping_fee_title_cart" = "Biaya pengiriman Mall";
+"tax_fee_title_cart" = "Biaya pajak bea dan cukai";
+"supply_title_cart" = "Penyedia stok";
+"select_address_title_cart" = "Silahkan mengisi alamat penerima";
+
+"confirm_payment_btn_profile_order" = "Konfirmasi pembayaran";
+"asap_pay_title_cart" = "Segera lakukan pembayaran";
+"asap_pay_detail_content_cart" = "Harga dapat berubah sewaktu-waktu, kesempatan berikutnya harus lebih cepat ya!(≥ 3 ≤)";
+"choose_payment_title_cart" = "Pilih metode pembayaran";
+"hint_choose_payment_title_cart" = "Silahkan pilih metode pembayaran";
+"final_price_title_cart" = "Pembayaran";
+
+"logistic_message_title_index_message" = "Transaksi/status pengiriman";
+
+"ok_btn_cart" = "Selesai"; //购物车列表-点击右上角后
+"edit_btn_cart" = "Edit"; //购物车列表-右上角编辑
+"delete_sold_out_btn_cart" = "Hapus barang yang habis terjual"; //购物车列表-点击编辑后
+"delete_selected_btn_cart" = "Hapus"; //购物车列表-点击编辑后
+
+"no_return_title_cart" = "Mall tidak didukung layanan pengembalian dan penukaran barang"; //购物车列表-商品下说明
+"limited_number_title_cart" = "Pembelian terbatas"; //购物车列表-商品下说明
+"delete_btn_cart" = "Hapus"; //购物车列表-左滑删除
+"not_qualified_title_cart" = "Tidak memenuhi syarat"; //购物车列表-商城运费优惠
+"qualified_title_cart" = "Memenuhi syarat"; //购物车列表-商城运费优惠
+
+"choose_address_title_cart_checkout" = "Tuliskan alamat penerima"; //提交订单-地址栏
+"close_btn_cart_checkout" = "Tutup"; //点击渠道后-左上角关闭
+
+"order_submit_title_cart_checkout" = "Sedang memproses transaksi Anda, hasil pemrosesan transaksi akan diberitahukan kepada Anda dalam waktu 48 jam"; //订单完成-小鲸鱼下方的标题
+"order_submit_sub_title_cart_checkout" = "Jika transaksi gagal kami akan melakukan proses pengembalian dana, mohon perhatian untuk melihat pemberiahuan via e-mail"; //订单完成-小鲸鱼下方的标题
+
+"cart_benefit_title" = "Sudah mendapat potongan"; //购物车-总价下的小字，缺了已优惠
+
+"cart_checkout_logistic_self_title" = "Pilih alamat pengambilan sendiri"; //购物车-顺丰自提-弹窗
+
+"cart_checkout_order_description_title0" = "Jumlah total transaksi"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title1" = "(Saat pembayaran, sistem telah mengonversi mata uang)"; //购物车-提交订单-选择支付方式
+
+"cart_checkout_logistic_self_desc_title" = "Pastikan anda menerima pemberitahuan pengambilan barang, mohon isikan nomor ponsel dengan benar"; //购物车-顺丰自提-字体说明
+"cart_checkout_logistic_door_desc_title" = "Tempat yang bukan termasuk daerah industri dan perdagangan akan dikenakan biaya antar sebesar HK$30 per paket"; //购物车-顺丰自提-字体说明
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"add_cart_btn_dp" = "Beli sekarang";
+"favourite_icon_all" = "Koleksi";
+"add_to_album_title_dp" = "Tambahkan ke album";
+
+"just_sold_title_dp" = "Baru saja terjual";
+"subscribe_btn_search" = "+Berlangganan";
+"subscribed_btn_search" = "Sudah berlangganan";
+"translate_btn_dp" = "Satu klik terjemahkan";
+"translate_title_dp" = "Rincian Mall";
+
+"open_facebook_share_btn_dp" = "Cloudmall ingin membuka “Facebook”"; //商品详细-点击分享弹窗
+"cancle_open_facebook_share_btn_dp" = "Batal"; //商品详细-点击分享弹窗
+"ok_open_facebook_share_btn_dp" = "Buka"; //商品详细-点击分享弹窗
+
+"service_description_title_dp" = "Rincian layanan"; //商品详细-点击包税、超值等
+"great_deal_title_dp" = "Kelebihan berat"; //商品详细-超值
+"great_sale_title_dp" = "Promo"; //商品详细-优惠
+
+"brand_title_dp" = "Merk"; //商品详细页下
+"item_description_title_dp" = "Deskripsi umum produk"; //商品详细下-商品概述
+"more_item_title_dp" = "Produk lainnya"; //商品详细-最底部商品推荐
+"supplier_btn_dp" = "Penyedia"; //商品详细-tabbar上
+
+"new_album_btn_dp" = "Buat baru"; //商品详细-点击收藏-新建
+
+"have_select_desc_title_dp" = "Sudah dipilih"; //商品详细-点击加入购物车
+"warn_addcart_title_dp" = "Mohon perhatian! Informasi diatas (warna, ukuran dll) disediakan oleh Mall internasional dan hanya sebagai referensi saja.";
+"quantity_addcart_title_dp" = "Jumlah"; //商品详细-点击加入购物车
+"ok_addcart_btn_dp" = "Ok"; //商品详细-加入购物车
+
+"dp_about_mall_sale_title" = "Terkait promo Mall"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title1_title" = "Ini adalah promo yang disediakan Mall"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content1_title" = "Mall menyediakan kode promo untuk sebagian barang, kami akan mengapilkasikannya saat anda melakukan transaksi pemesanan. Promo ini bukan disediakan oleh CloudMall."; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title2_title" = "Promo akan otomatis dihitung pada total pembayaran"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content2_title" = "Saat penghitungan total pembayaran, promo juga otomatis terhitung. Anda tidak perlu mengambil kupon promo lagi."; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title3_title" = "Masa berlaku promo"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content3_title" = "Promo dapat berakhir sewaku-waktu bergantung pada kebijakan Mall. Manfaatkan kesempatan sebaik-baiknya."; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title4_title" = "Presentase keberhasilan promo"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content4_title" = "Penggunaan kode promo memiliki presentase keberhasilan."; //商品详细-关于商城优惠活动
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_main_realtime_discout" = "Diskon"; //首页-热门-实时折扣
+"index_main_time_limited_discout" = "Waktu terbatas"; //首页-热门-限时闪购
+"index_main_hot_mall" = "Pasar populer"; //首页-热门-热门市场
+"index_main_hot_mall_more" = "Lebih banyak Toko"; //首页-热门-热门市场-更多商铺
+"index_main_hot_mall_view" = "Masuk ke Toko"; //首页-热门-热门市场-进入商铺
+
+"index_main_lightlux" = "Mewah"; //首页-热门-类目精选-轻奢
+"index_main_bigbrand" = "Merek besar"; //首页-热门-类目精选-大牌
+"index_main_casual" = "Kasual"; //首页-热门-类目精选-休闲生活
+"index_main_beauty" = "Kecantikan dan perawatan kulit"; //首页-热门-类目精选-美妆护肤
+"index_main_sportwear" = "Olahraga"; //首页-热门-类目精选-户外运动
+"index_main_men" = "Pria"; //首页-热门-类目精选-睿智男士
+
+"index_sub_dailyupdate" = "Pilihan spesial setiap hari"; //首页-分屏-每日精选
+"index_sub_youmaylike" = "Tebak kesukaan Anda"; //首页-分屏-每日精选
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"dp_mall_high_grade_mall" = "Toko berkualitas"; //商品-商城-优质商家
+"dp_mall_all_product" = "Semua produk"; //商品-商城-全部商品
+"dp_mall_total_sale" = "Total penjualan"; //商品-商城-总销量
+"dp_mall_runs_years" = "Tahun berbisnis"; //商品-商城-优质商家
+
+"dp_flash_sale" = "Hitung mundur waktu promo"; //商品-限时闪购-倒计时
+"dp_favorite_new_abulm" = "Buat baru"; //商品-收藏-新建专辑
+"dp_favorite_popup_cancel" = "Batal"; //商品-收藏-新建专辑
+"dp_favorite_popup_confirm" = "Ok"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "Berhasil ditambahkan ke"; //商品-收藏-新建专辑
+"dp_favorite_popup_unfav_success" = "Berhasil membatalkan koleksi"; //商品-收藏-新建专辑
+"dp_soldout" = "Sudah terjual habis"; //商品-售光了-找相似
+"dp_description" = "Deskripsi produk"; //商品-收藏-新建专辑
+
+"dp_add_cart_success_toast" = "Ditambahkan ke keranjang"; //商品-成功加入购物车-toast
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"search_result_temp_title" = "Daftar produk"; //搜索-搜索结果-主标题
+
+"search_history_result" = "Pencarian histori"; //搜索-历史搜索
+"search_history_result_cancel" = "Batal"; //搜索-历史搜索-取消
+"search_hot_result" = "Pencarian popouler"; //搜索-搜索结果-热门搜索
+"search_all_brand" = "Semua merk"; //搜索-所有品牌
+"search_brand_list" = "Daftar merk"; //搜索-品牌列表
+"search_result_filter_clear" = "Bersihkan"; //搜索-品牌列表
+
+"search_history_result_clear_popup_title" = "Hapus daftar histori"; //搜索-清空历史记录-标题
+"search_history_result_clear_popup_content" = "Apakah Anda yakin ingin menghapus histori pencarian?"; //搜索-清空历史记录-内容
+"search_history_result_clear_popup_cancle" = "Batal"; //搜索-清空历史记录-取消
+"search_history_result_clear_popup_confirm" = "Yakin"; //搜索-清空历史记录-确定
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_checkout_credit_card" = "Pembayaran dengan kartu kredit"; //购物车-确认支付-信用卡标题
+"cart_checkout_total_bill" = "Total pembayaran"; //购物车-确认支付-确认标题前
+
+"cart_checkout_credit_card_title" = "Pembayaran dengan kartu kredit"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_change_credit_card" = "Ganti kartu kredit"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
+"cart_checkout_new_credit_card" = "Buat kartu kredit/debit"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_credit_card_toast" = "Silahkan buat kartu kredit terlebih dahulu"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_credit_card_cancel" = "Batal"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "Bayar"; //购物车-确认支付-选择信用卡支付-付款
+
+"cart_checkout_card_holdername_title" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "Nomor kartu"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "Silahkan masukkan nomor kartu"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "Masa berlaku"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "Bulan bulan / Tahun tahun"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "Kode keamanan"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "Isi kode keamananan yang tertera di belakang kartu"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "Pembayaran disediakan oleh pihak ketiga, kami berkomitmen dan menjamin keamanan dan kerahasiaan informasi di dalam kartu, serta tidak akan membocorkannya ke pihak luar. CloudMall tidak akan menyimpan informasi kartu Anda."; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "Selesai"; //购物车-确认支付-选择信用卡支付-完成按钮
+
+"cart_checkout_card_holdername_toast" = "Silahkan mengisi nama pemegang kartu sesuai dengan yang tertera di kartu kredit Anda"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "Silahkan masukkan dengan benar nomor kartu kredit Anda"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "Sementara tidak didukung pembayaran melalui jenis kartu kredit tersebut"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "Masa berlaku kartu Anda telah habis"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "Silahkan masukkan kode keamanan yang benar"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+
+"cart_edit_done" = "Selesai"; //购物车-编辑-完成
+"cart_edit_delete_no_goods" = "Hapus yang habis terjual"; //购物车-编辑-完成
+"cart_edit_delete_item" = "Hapus"; //购物车-编辑-完成
+"cart_checkout_all_item" = "Total X produk"; //购物车-结算-共X件商品
+"cart_checkout_sum_price" = "Total: "; //购物车-编辑-完成
+
+"cart_checkout_cancel_payment_popup_title" = "Konfirmasi pembayaran"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "Silahkan melakukan pembayaran dalam waktu 24 jam"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_confirm" = "Saya sudah tahu"; //购物车-订单-取消支付-弹窗
+
+"cart_checkout_card_date_jan" = "01-Januari"; //购物车-确认支付-填写信用卡日期-一月
+"cart_checkout_card_date_feb" = "02-Februari"; //购物车-确认支付-填写信用卡日期-二月
+"cart_checkout_card_date_mar" = "03-Maret"; //购物车-确认支付-填写信用卡日期-三月
+"cart_checkout_card_date_apr" = "04-April"; //购物车-确认支付-填写信用卡日期-四月
+"cart_checkout_card_date_may" = "05-Mei"; //购物车-确认支付-填写信用卡日期-五月
+"cart_checkout_card_date_jun" = "06-Juni"; //购物车-确认支付-填写信用卡日期-六月
+"cart_checkout_card_date_jul" = "07-Juli"; //购物车-确认支付-填写信用卡日期-七月
+"cart_checkout_card_date_aug" = "08-Agustus"; //购物车-确认支付-填写信用卡日期-八月
+"cart_checkout_card_date_sep" = "09-September"; //购物车-确认支付-填写信用卡日期-九月
+"cart_checkout_card_date_oct" = "10-Oktober"; //购物车-确认支付-填写信用卡日期-十月
+"cart_checkout_card_date_nov" = "11-November"; //购物车-确认支付-填写信用卡日期-十一月
+"cart_checkout_card_date_dec" = "12-Desember"; //购物车-确认支付-填写信用卡日期-十二月
+
+"cart_not_login_btn" = "Log in"; //购物车-未登录-登录按钮
+"cart_checkout_card_cancel" = "Batal"; //购物车-选择支付-取消
+"cart_checkout_card_pay" = "; //购物车-选择支付-付款"; //购物车-选择支付-付款
+"cart_checkout_card_popup_title" = "Pembayaran mengalami masalah"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_content" = "Silahkan masukkan ulang informasi kartu dengan tepat atau coba gunakan metode pembayaran lain untuk melakukan pembayaran."; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_cancel" = "Silahkan coba beberapa saat lagi"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_tryagain" = "Coba lagi"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_pay_total" = "Total pembayaran"; //购物车-选择支付-取消
+"cart_checkout_bill_total" = "Total pesanan"; //购物车-选择支付-付款
+"cart_checkout_pay_success_title" = "Berhasil membayar"; //购物车-选择支付-支付成功
+
+////////////////////////////////// 个人-Proilfe ///////////////////////////////////
+
+"profile_setting_customer_service_cancel" = "Batal"; //个人-客服-取消
+"profile_setting_customer_service_confirm" = "Serahkan"; //个人-客服-提交
+"profile_setting_clearcache_clearing" = "Sedang menghapus cache..."; //个人-清除缓存-取消
+"profile_setting_clearcache_cancel" = "Batal"; //个人-清除缓存-取消
+"profile_setting_clearcache_confirm" = "Bersihkan"; //个人-清除缓存-清除
+"profile_setting_feedback_cancel" = "Batal"; //个人-反馈-取消
+"profile_setting_feedback_confirm" = "Kirim"; //个人-反馈-发送
+"profile_setting_signout_cancel" = "Batal"; //个人-退出登录-取消
+"profile_setting_signout_title" = "Peringatan"; //个人-退出登录-取消
+
+"profile_change_photo_cancel" = "Batal"; //个人-清除缓存-取消
+
+"profile_favorite_edit_cancel" = "Batal"; //个人-编辑专辑-取消
+"profile_favorite_edit_save" = "Simpan"; //个人-编辑专辑-保存
+"profile_favorite_edit_title" = "Edit Album"; //个人-编辑专辑-标题-专辑编辑
+
+"profile_address_edit_confirm" = "Selesai"; //个人-地址编辑-完成
+
+"profile_setting_termsofuse" = "Syarat dan Ketentuan"; //个人-设置-协议条款与条件
+"profile_setting_rateapp" = "Beri komentar"; //个人-设置-给个评价
+
+"profile_change_name_cancel" = "Batal"; //个人-更改名字-取消
+"profile_address_hongkong" = "Hongkong";//香港
+"profile_address_singapore" = "Singapura";//新加坡
+"profile_address_taiwan" = "Taiwan";//台湾
+"profile_address_vietnam" = "Vietnam"; //越南
+"profile_address_indonesia" = "Indonesia"; //印度尼西亚
+"profile_setting_clearcache_success" = "Berhasil dibersihkan"; //个人-清除缓存-清除
+"profile_order_logistic_title" = "Cek status pengiriman"; //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "Paket"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Pilih daerah"; //个人-订单-物流查询-标题
+"profile_address_empty_toast" = "Silahkan isi data"; //个人-地址-空提醒
+
+//////////////////////////////android 新增//////////////////////////////////////////
+
+"loading_title_profile"="Sedang memuat&#8230;";
+"more"="Lebih banyak";
+"no_entries_in_cart_detail"="Ayo lihat barang-barang kesukaanmu!";
+"press_again_exit_toast_all"="Klik sekali lagi untuk keluar Cloudmall";
+"write_need"="Silahkan isi informasi yang diperlukan";
+
+"adyen_expired_year_toast_1"="Format masa berlaku kartu kredit：";
+"adyen_expired_year_toast_2"="Tahun masa berlaku harus 4 digit";
+"cart_year_expire_toast"="Format masa berlaku kartu kredit salah";
+"cart_year_expire_write_toast"="Silahkan isi masa berlaku kartu kredit";
+"new_sort_title_search_result"="Produk baru diutamakan";
+"no_delivery_supported"="Pengiriman tidak dapat didukung";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_board_highlight" = "Pilihan terbaik"; //首页-二级页面-board标题
+"index_bannerlist_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "Daftar pilihan terbaik"; //首页-二级页面-board标题
+
+//////////////////////////////// 搜索_search ////////////////////////////////////
+
+"search_input_defualt" = "Cari di CloudMall"; //首页-二级页面-board标题
+
+/////////////////////////////// 个人-profile /////////////////////////////////////
+
+"profile_address_input_default" = "Silahkan isi"; //个人-地址-输入框
+"profile_address_select_default" = "Silahkan pilih"; //个人-地址-下拉框
+"profile_address_province" = "Provinsi/State"; //个人-地址-省州
+"profile_address_city" = "Kota:"; //个人-地址-城市
+"profile_address_district" = "Distrik:"; //个人-地址-下拉框
+"profile_address_detail" = "Alamat lengkap-apartemen, lantai dan lain-lain (pilih dan isi)"; //个人-地址-详细地址
+
+"profile_address_us" = "United States";
+"profile_address_uk" = "United Kingdom";
+"profile_address_ca" = "Canada";
+"profile_address_de" = "Deutschland";
+"profile_address_au" = "Australia";
+"profile_address_nz" = "New Zealand";
+"profile_address_fr" = "France";
+"profile_address_it" = "Italy";
+"profile_address_es" = "España";
+"profile_address_ru" = "Россия";
+"profile_address_mx" = "Mexico";
+"profile_address_nl" = "Netherlands";
+"profile_address_no" = "Norway";
+"profile_address_dk" = "Denmark";
+"profile_address_se" = "Sweden";
+"profile_address_ch" = "Switzerland";
+"profile_address_pl" = "Poland";
+"profile_address_be" = "Belgium";
+"profile_address_ie" = "Ireland";
+"profile_address_fi" = "Finland";
+"profile_address_pt" = "Portugal";
+"profile_address_ph" = "Philippines";
+"profile_address_my" = "Malaysia";
+"profile_address_jp" = "Japan";
+"profile_address_kr" = "Korea";
+"profile_address_ua" = "Ukraine";
+
+"profile_order_package_number" = "Nomor paket"; //个人-物流详细
+
+"profile_setting_feedback_null_toast" = "Harap masukkan semua informasi"; //个人-物流详细
+"profile_setting_feedback_null_mail_toast" = "Silahkan masukkan alamat email dengan benar"; //个人-物流详细
+"address_hint_postcode_not_null"="Silahkan masukkan alamat email";
+"choose_logistic"="Silahkan pilih metode pengiriman";
+"confirm_delete_order_title_profile_order"="Anda yakin untuk menghapus pesanan?";
+"confirm_valid_hint"="Sandi tidak konsisten";
+"pay_lack_param"="Data yang diperlukan tidak ada";
+"please_select_address"="Silahkan pilih alamatnya";
+"success_hide_order_profile_order"="Berhasil dihapus";
+"network_connect_error"="Kesalahan jaringan";
+"network_error"="Waktu habis koneksi jaringan";
+
+////////////////////////////// 商品详细-detail ////////////////////////////////
+
+"dp_select_null_toast" = "Silahkan pilih"; //个人-地址-详细地址
+
+////////////////////////////// 购物车-cart ////////////////////////////////
+
+"cart_soldout_toast" = "Beberapa item terjual habis"; //个人-地址-详细地址
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//ver
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////首页-index /////////////////////////////////
+
+"index_got_coupon_toast" = "Selamat! Anda punya kupon"; //搜索-筛选-来源
+"index_wrong_region_toast" = "Kupon tidak tersedia di wilayah saat ini"; //搜索-筛选-来源
+"index_condition_not_meet_toast" = "Anda tidak bisa mengambil kupon"; //搜索-筛选-来源
+"index_number_limit_toast" = "Anda sudah mendapat kupon lebih dari satu kali"; //搜索-筛选-来源
+"index_timeout_toast" = "Kuponnya sudah kadaluarsa"; //搜索-筛选-来源
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_filter_source" = "Sellers"; //搜索-筛选-来源
+"search_filter_brand" = "Brand"; //搜索-筛选-品牌
+"search_filter_category" = "Category";//搜索-筛选-类目
+"search_filter_crowd" = "Crowd"; //搜索-筛选-人群
+"search_filter_more" = "More"; //搜索-筛选-全部
+"search_filter_reset" = "Reset"; //搜索-筛选-全部
+"search_filter_apply" = "Apply"; //搜索-筛选-全部
+"search_sort_popular" = "Populer"; //搜索-筛选-全部
+"search_sort_topsale" = "Terlaris"; //搜索-筛选-全部
+"search_sort_price" = "Harga"; //搜索-筛选-全部
+
+"search_list_supply_by" = "Supplied by"; //搜索-筛选-全部
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_coupon_title" = "Kupon diskon";
+"profile_coupon_only_country" = "hanya terbatas pada";
+"profile_coupon_condition_over" = "Membeli ";
+"profile_coupon_condition_get" = "akan mendapatkan";
+"profile_coupon_valid_period" = "masa berlaku";
+"profile_coupon_specific" = "Dapat digunakan pada toko/merk tertentu";
+"profile_coupon_null" = "Sementara tidak ada kupon diskon ya";
+"profile_coupon_available" = "Dapat digunakan";
+"profile_coupon_unavailable" = "Tidak dapat digunakan";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_coupon_available" = "Tersedia";//支付是提示有没可用
+"cart_coupon_unavailable" = "Tidak tersedia";//支付时提示有没可用
+
+//////////////////////////// 商品详细页-DP /////////////////////////////////
+
+"dp_shipment_title" = "Pengiriman dari";//支付是提示有没可用
+"dp_shipment_to_title" = "untuk";//支付时提示有没可用
+"dp_receive_title" = "Diterima di";//支付时提示有没可用
+"dp_receive_days_title" = "Hari";//支付时提示有没可用
+"dp_shipment_notsupport_title" = "Pengiriman tidak didukung";//支付是提示有没可用
+"dp_shipment_notsupport_description" = "Daerah saat ini tidak mendukung pengiriman";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_comment_main_title" = "Oh memberikan evaluasi";//支付是提示有没可用
+"index_comment_sub_title" = "Seperti kita dan berkomentar";//支付是提示有没可用
+"index_bad_feedback_btn" = "Umpan balik";//支付是提示有没可用
+"index_good_feedback_btn" = "Seperti kita!";//支付是提示有没可用
+"index_timeout_title" = "Waktu habis";//支付是提示有没可用
+"index_pending_title" = "Belum mulai";//支付是提示有没可用
+"index_timeout2_title" = "Waktu tunggu promosi";//支付是提示有没可用
+"index_pending2_title" = "Promosi Belum dimulai";//支付是提示有没可用
+
+"index_region_null" = "Silakan pilih wilayah dan bahasa";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"dp_total_sale_title" = "Total sold";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_minutes_ago" = " minutes ago";//支付是提示有没可用
+"index_hours_ago" = " hours ago";//支付是提示有没可用
+"index_days_ago" = " days ago";//支付是提示有没可用
+"index_weeks_ago" = " weeks ago";//支付是提示有没可用
+"index_months_ago" = " month ago";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_current_filter" = "当前筛选";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_no_result" = "Maaf, kami tidak dapat menemukan hasilnya";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_ai_search" = "AI search";//支付是提示有没可用
+"search_ai_found" = "Barang serupa";//支付是提示有没可用
+"search_ai_explore" = "Barang serupa";//支付是提示有没可用
+"search_ai_not_found" = "Tidak ada barang serupa";//支付是提示有没可用
+"search_ai_description" = "Sekarang Anda dapat menemukan item serupa dengan AI search";//支付是提示有没可用
+"search_ai_description_confirm" = "Mengerti";//支付是提示有没可用
+
+"search_ai_finding" = "AI search sekarang sedang maju";//支付是提示有没可用
+"search_ai_find_nothing" = "Maaf, tidak ada barang serupa";//支付是提示有没可用
+"search_ai_similarity" = "Kesamaan:";//支付是提示有没可用
+
+"search_sort_discount" = "Diskon";//支付是提示有没可用
+
+//////////////////////////// 详细-DP /////////////////////////////////
+
+"dp_ai_found" = "Barang serupa";//支付是提示有没可用
+"dp_ai_explore" = "Jelajahi lebih banyak item serupa";//支付是提示有没可用
+"dp_ai_find_nothing" = "Tidak ada barang serupa";//支付是提示有没可用
+"dp_ai_find_nothing_toast" = "Maaf, tidak ada barang serupa";//支付是提示有没可用
+
+//////////////////////////// 个人-Profile /////////////////////////////////
+
+"profile_favorite_ablum_nothing" = "Tidak ada dalam album";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_tab_all" = "All";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_purchase_add_card" = "Gunakan Kartu Kredit / Debet Baru";//支付是提示有没可用
+"cart_purchase_choose_card" = "Pilih Dari Daftar Kartu Saya";//支付是提示有没可用
+"cart_purchase_delete_card_title" = "Hapus Kartu Kredit";//支付是提示有没可用
+"cart_purchase_delete_card_content" = "Yakin ingin menghapus kartu ini?";//支付是提示有没可用
+"cart_purchase_delete_card" = "Menghapus";//支付是提示有没可用
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_cards_tips" = "Swipe to delete credit/debit card";//支付是提示有没可用
+"profile_cards_null" = "Kartu Kredit / Debit akan ditambahkan di sini setelah Anda berhasil membeli";//支付是提示有没可用
+
+//////////////////////////// 详细页-DP /////////////////////////////////
+
+"dp_follow_btn" = "关注";
+"dp_brand_title" = "品牌";
+"dp_brand_shai_title" = "品牌晒单";
+"dp_soldby_title" = "供货商";
+"dp_mall_followers" = "关注";
+"dp_mall_items" = "商品";
+"dp_mall_rate" = "评分";
+"dp_mall_location" = "所在地区";
+
+"dp_desc_title" = "商品详细";
+"dp_desc_attention" = "注意";
+"dp_desc_attention_content" = "一切以实物为准";
+
+"dp_you_may_like" = "看了又看";
