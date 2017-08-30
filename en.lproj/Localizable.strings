@@ -630,7 +630,7 @@
 
 "search_ai_search" = "AI search";//支付是提示有没可用
 "search_ai_found" = "similar items";//支付是提示有没可用
-"search_ai_eplore" = "Similar items";//支付是提示有没可用
+"search_ai_explore" = "Similar items";//支付是提示有没可用
 "search_ai_not_found" = "No similar items";//支付是提示有没可用
 "search_ai_description" = "Now you can find similar items with AI search";//支付是提示有没可用
 "search_ai_description_confirm" = "Got it";//支付是提示有没可用
@@ -672,3 +672,20 @@
 
 "profile_cards_tips" = "Swipe to delete credit/debit card";//支付是提示有没可用
 "profile_cards_null" = "Credit/Debit card will add here after you purchase successfully";//支付是提示有没可用
+
+//////////////////////////// 详细页-DP /////////////////////////////////
+
+"dp_follow_btn" = "关注";
+"dp_brand_title" = "品牌";
+"dp_brand_shai_title" = "品牌晒单";
+"dp_soldby_title" = "供货商";
+"dp_mall_followers" = "关注";
+"dp_mall_items" = "商品";
+"dp_mall_rate" = "评分";
+"dp_mall_location" = "所在地区";
+
+"dp_desc_title" = "商品详细";
+"dp_desc_attention" = "注意";
+"dp_desc_attention_content" = "一切以实物为准";
+
+"dp_you_may_like" = "看了又看";
