@@ -675,6 +675,8 @@
 
 //////////////////////////// 详细页-DP /////////////////////////////////
 
+"dp_message_title" = "消息";
+
 "dp_follow_btn" = "关注";
 "dp_brand_title" = "品牌";
 "dp_brand_shai_title" = "品牌晒单";
