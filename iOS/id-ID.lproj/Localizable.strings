@@ -682,7 +682,11 @@
 "dp_mall_followers" = "关注";
 "dp_mall_items" = "商品";
 "dp_mall_rate" = "评分";
+"dp_mall_sold" = "销量";
 "dp_mall_location" = "所在地区";
+"dp_mall_type" = "类型";
+"dp_mall_type_general" = "百货网站";
+"dp_mall_type_brand" = "品牌网站";
 
 "dp_desc_title" = "商品详细";
 
