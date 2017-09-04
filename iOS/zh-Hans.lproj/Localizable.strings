@@ -694,3 +694,7 @@
 "dp_desc_title" = "商品详细";
 
 "dp_you_may_like" = "看了又看";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_incomplete" = "地址不完整";

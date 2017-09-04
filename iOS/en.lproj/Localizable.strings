@@ -694,3 +694,7 @@
 "dp_desc_title" = "Detail";
 
 "dp_you_may_like" = "You May Like";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_incomplete" = "The address is incomplete";

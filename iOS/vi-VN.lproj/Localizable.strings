@@ -694,3 +694,7 @@
 "dp_desc_title" = "Chi tiết";
 
 "dp_you_may_like" = "Bạn có thể thích";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_incomplete" = "Địa chỉ không đầy đủ";
