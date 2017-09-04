@@ -675,21 +675,22 @@
 
 //////////////////////////// 详细页-DP /////////////////////////////////
 
-"dp_message_title" = "消息";
+"dp_message_title" = "Melihat";
 
-"dp_follow_btn" = "关注";
-"dp_brand_title" = "品牌";
-"dp_brand_shai_title" = "品牌晒单";
-"dp_soldby_title" = "供货商";
-"dp_mall_followers" = "关注";
-"dp_mall_items" = "商品";
-"dp_mall_rate" = "评分";
-"dp_mall_sold" = "销量";
-"dp_mall_location" = "所在地区";
-"dp_mall_type" = "类型";
-"dp_mall_type_general" = "百货网站";
-"dp_mall_type_brand" = "品牌网站";
+"dp_follow_btn" = "Mengikuti";
+"dp_following_btn" = "Berikut";
+"dp_brand_title" = "Merek";
+"dp_brand_shai_title" = "Brand Menampilkan";
+"dp_soldby_title" = "Dipasok oleh";
+"dp_mall_followers" = "Pengikutnya";
+"dp_mall_items" = "Item";
+"dp_mall_rate" = "Menilai";
+"dp_mall_sold" = "Terjual";
+"dp_mall_location" = "Wilayah";
+"dp_mall_type" = "Mengetik";
+"dp_mall_type_general" = "Pemasok umum";
+"dp_mall_type_brand" = "Pemasok Merek";
 
-"dp_desc_title" = "商品详细";
+"dp_desc_title" = "Detail";
 
-"dp_you_may_like" = "看了又看";
+"dp_you_may_like" = "Kamu mungkin suka";

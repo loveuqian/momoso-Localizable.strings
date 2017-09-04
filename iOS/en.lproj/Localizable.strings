@@ -675,21 +675,22 @@
 
 //////////////////////////// 详细页-DP /////////////////////////////////
 
-"dp_message_title" = "消息";
+"dp_message_title" = "Notice";
 
-"dp_follow_btn" = "关注";
-"dp_brand_title" = "品牌";
-"dp_brand_shai_title" = "品牌晒单";
-"dp_soldby_title" = "供货商";
-"dp_mall_followers" = "关注";
-"dp_mall_items" = "商品";
-"dp_mall_rate" = "评分";
-"dp_mall_sold" = "销量";
-"dp_mall_location" = "所在地区";
-"dp_mall_type" = "类型";
-"dp_mall_type_general" = "百货网站";
-"dp_mall_type_brand" = "品牌网站";
+"dp_follow_btn" = "Follow";
+"dp_following_btn" = "Following";
+"dp_brand_title" = "Brand";
+"dp_brand_shai_title" = "Brand Showing";
+"dp_soldby_title" = "Supplied by";
+"dp_mall_followers" = "Followers";
+"dp_mall_items" = "Items";
+"dp_mall_rate" = "Rate";
+"dp_mall_sold" = "Sold";
+"dp_mall_location" = "Region";
+"dp_mall_type" = "Type";
+"dp_mall_type_general" = "General Supplier";
+"dp_mall_type_brand" = "Brand Supplier";
 
-"dp_desc_title" = "商品详细";
+"dp_desc_title" = "Detail";
 
-"dp_you_may_like" = "看了又看";
+"dp_you_may_like" = "You May Like";
