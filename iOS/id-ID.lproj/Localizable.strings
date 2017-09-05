@@ -51,8 +51,8 @@
 ////////////////////////////////// 登录_signlogin ///////////////////////////////////
 
 "facebook_login_btn_signlogin" = "Facebook";
-"email_signup_btn_signlogin" = "Daftar menggunakan e-mail";
-"login_btn_signlogin" = "Masuk";
+"email_signup_btn_signlogin" = "Daftar dengan email";
+"login_btn_signlogin" = "Login dengan email";
 
 "email_title_signlogin" = "e-mail";
 "password_title_signlogin" = "Kata sandi";
@@ -702,3 +702,4 @@
 //////////////////////////// 首页-index /////////////////////////////////
 
 "index_topic_all" = "Semua barang";
+"index_topic_title" = "Topik unggulan";

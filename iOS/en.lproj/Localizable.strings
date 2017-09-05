@@ -50,9 +50,9 @@
 
 ////////////////////////////////// 登录_signlogin ///////////////////////////////////
 
-"facebook_login_btn_signlogin" = "Login with Facebook";
+"facebook_login_btn_signlogin" = "Continue with Facebook";
 "email_signup_btn_signlogin" = "Sign up with email";
-"login_btn_signlogin" = "Login";
+"login_btn_signlogin" = "Login with email";
 
 "email_title_signlogin" = "Email";
 "password_title_signlogin" = "Password";
@@ -473,7 +473,7 @@
 "profile_address_province" = "Province/State"; //个人-地址-省州
 "profile_address_city" = "City:"; //个人-地址-城市
 "profile_address_district" = "District:"; //个人-地址-下拉框
-"profile_address_detail" = "Detail-Apartment, Building...(Optional)"; //个人-地址-详细地址
+"profile_address_detail" = "Apartment, Building...(Optional)"; //个人-地址-详细地址
 
 "profile_address_us" = "United States";
 "profile_address_uk" = "United Kingdom";
@@ -570,9 +570,9 @@
 
 //////////////////////////// 商品详细页-DP /////////////////////////////////
 
-"dp_shipment_title" = "Ship from";//支付是提示有没可用
+"dp_shipment_title" = "Ships from";//支付是提示有没可用
 "dp_shipment_to_title" = "to";//支付时提示有没可用
-"dp_receive_title" = "Receive in";//支付时提示有没可用
+"dp_receive_title" = "Delivered in";//支付时提示有没可用
 "dp_receive_days_title" = "days";//支付时提示有没可用
 "dp_shipment_notsupport_title" = "Delivery not supported";//支付是提示有没可用
 "dp_shipment_notsupport_description" = "Item cannot be delivered to current region";//支付是提示有没可用
@@ -671,7 +671,7 @@
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_cards_tips" = "Swipe to delete credit/debit card";//支付是提示有没可用
-"profile_cards_null" = "Credit/Debit card will add here after you purchase successfully";//支付是提示有没可用
+"profile_cards_null" = "There are no credit/debit cards linked with your account";//支付是提示有没可用
 
 //////////////////////////// 详细页-DP /////////////////////////////////
 
@@ -702,3 +702,4 @@
 //////////////////////////// 首页-index /////////////////////////////////
 
 "index_topic_all" = "All Items";
+"index_topic_title" = "Featured Topics";
