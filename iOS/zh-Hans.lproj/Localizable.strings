@@ -52,7 +52,7 @@
 
 "facebook_login_btn_signlogin" = "继续使用Facebook登录";
 "email_signup_btn_signlogin" = "使用邮箱注册";
-"login_btn_signlogin" = "登录";
+"login_btn_signlogin" = "邮箱登录";
 
 "email_title_signlogin" = "邮箱";
 "password_title_signlogin" = "密码";
@@ -703,3 +703,15 @@
 
 "index_topic_all" = "全部商品";
 "index_topic_title" = "精选专题";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_alert1_title" = "注册了我们平台即表示已阅读并同意我们的";
+"login_alert2_title" = "使用条款";
+"login_alert3_title" = "和";
+"login_alert4_title" = "隐私声明.";
+"login_alert5_title" = "另外，将会给你邮箱发送订单通知、优惠信息等.";

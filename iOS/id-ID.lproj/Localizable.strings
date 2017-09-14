@@ -703,3 +703,15 @@
 
 "index_topic_all" = "Semua barang";
 "index_topic_title" = "Topik unggulan";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_alert1_title" = "Dengan bergabung dengan Anda, kami menyetujui";
+"login_alert2_title" = " Ketentuan";
+"login_alert3_title" = " &";
+"login_alert4_title" = " Kebijakan pribadi.";
+"login_alert5_title" = " dapatkan kabar terbaru, lansiran penjualan, dan lebih banyak lagi di kotak masuk Anda.";
