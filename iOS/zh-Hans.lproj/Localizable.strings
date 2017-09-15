@@ -715,3 +715,5 @@
 "login_alert3_title" = "和";
 "login_alert4_title" = "隐私声明.";
 "login_alert5_title" = "另外，将会给你邮箱发送订单通知、优惠信息等.";
+
+"login_email_validation" = "已发送重设密码邮件到您的邮箱，请查看并重设密码";

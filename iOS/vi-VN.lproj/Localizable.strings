@@ -715,3 +715,5 @@
 "login_alert3_title" = " &";
 "login_alert4_title" = " Chính sách bảo mật.";
 "login_alert5_title" = " Plus của chúng tôi, nhận cập nhật đơn đặt hàng, cảnh báo bán hàng và nhiều hơn nữa trong hộp thư đến của bạn.";
+
+"login_email_validation" = "Chúng tôi đã gửi cho bạn một email về mật khẩu lại. Vui lòng kiểm tra email của bạn và đặt lại mật khẩu";

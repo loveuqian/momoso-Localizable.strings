@@ -715,3 +715,5 @@
 "login_alert3_title" = " &";
 "login_alert4_title" = " Kebijakan pribadi.";
 "login_alert5_title" = " dapatkan kabar terbaru, lansiran penjualan, dan lebih banyak lagi di kotak masuk Anda.";
+
+"login_email_validation" = "Kami telah mengirimi Anda email tentang mereset kata sandi. Silakan cek email anda dan reset password anda";

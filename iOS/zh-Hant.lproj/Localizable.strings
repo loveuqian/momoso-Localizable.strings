@@ -715,3 +715,5 @@
 "login_alert3_title" = "和";
 "login_alert4_title" = "隱私條款.";
 "login_alert5_title" = "另外，將會給你郵箱發送訂單通知、優惠信息等";
+
+"login_email_validation" = "已發送重設密碼郵件到您的郵箱，請查看并重設密碼";
