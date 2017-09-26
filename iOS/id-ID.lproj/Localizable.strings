@@ -725,3 +725,15 @@
 //////////////////////////// 全局-all /////////////////////////////////
 
 "all_no_more_items" = "- tidak ada barang lagi -";
+
+//////////////////////////// 详细页-dp /////////////////////////////////
+
+"dp_mall_title" = "Harga AI Membandingkan";
+"dp_sizeguide_title" = "Panduan Ukuran";
+"dp_mall_nofulfilment_title" = "Maaf, kami tidak mendukung pemenuhannya sekarang juga. Kamu
+boleh cari di situsnya.";
+"dp_size_description" = "Sebaiknya pilih ukuran yang tepat sesuai dengan bagan ukuran yang disediakan. Harap dicatat bahwa informasi produk (warna, ukuran, dll.) Disediakan oleh pemasok kami dan hanya untuk referensi.";
+
+//////////////////////////// 購物車-cart /////////////////////////////////
+
+"cart_shipment_title" = "Pengiriman: ";

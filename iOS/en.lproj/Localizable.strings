@@ -725,3 +725,16 @@
 //////////////////////////// 全局-all /////////////////////////////////
 
 "all_no_more_items" = "- no more items -";
+
+//////////////////////////// 详细页-dp /////////////////////////////////
+
+"dp_mall_title" = "Harga AI Membandingkan";
+"dp_sizeguide_title" = "Size Guide";
+"dp_mall_nofulfilment_title" = "Sorry, We do not support the fulfillment right now. You 
+may search it on its website.";
+"dp_size_description" = "We recommend that you choose the right size according to the size chart provided.  Please note that product information (color, sizing, etc.) is provided by our suppliers and is for reference only.
+";
+
+//////////////////////////// 購物車-cart /////////////////////////////////
+
+"cart_shipment_title" = "Shipment: ";
