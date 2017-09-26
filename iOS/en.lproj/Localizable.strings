@@ -738,4 +738,4 @@ may search it on its website.";
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Shipment: ";
-"cart_shipment_title" = " days";
+"cart_shipment_days_title" = " days";

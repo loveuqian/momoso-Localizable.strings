@@ -737,4 +737,4 @@ boleh cari di situsnya.";
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Pengiriman: ";
-"cart_shipment_title" = " hari";
+"cart_shipment_days_title" = " hari";
