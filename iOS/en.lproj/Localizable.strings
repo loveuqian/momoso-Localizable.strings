@@ -728,7 +728,7 @@
 
 //////////////////////////// 详细页-dp /////////////////////////////////
 
-"dp_mall_title" = "Harga AI Membandingkan";
+"dp_mall_title" = "AI Price Comparing";
 "dp_sizeguide_title" = "Size Guide";
 "dp_mall_nofulfilment_title" = "Sorry, We do not support the fulfillment right now. You 
 may search it on its website.";
@@ -738,3 +738,4 @@ may search it on its website.";
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Shipment: ";
+"cart_shipment_title" = " days";

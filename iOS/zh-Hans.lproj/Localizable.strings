@@ -735,4 +735,5 @@
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 
-"cart_shipment_title" = "时效: ";
+"cart_shipment_title" = "时效:";
+"cart_shipment_title" = "天";
