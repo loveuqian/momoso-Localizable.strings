@@ -738,3 +738,7 @@ boleh cari di situsnya.";
 
 "cart_shipment_title" = "Pengiriman: ";
 "cart_shipment_days_title" = " hari";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_no_content" = "Silahkan isi formulirnya";

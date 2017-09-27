@@ -738,3 +738,7 @@ có thể tìm kiếm nó trên trang web của mình.";
 
 "cart_shipment_title" = "Lô hàng: ";
 "cart_shipment_days_title" = " ngày";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_no_content" = "Vui lòng điền mẫu đơn";

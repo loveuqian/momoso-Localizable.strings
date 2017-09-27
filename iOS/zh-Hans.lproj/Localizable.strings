@@ -737,3 +737,8 @@
 
 "cart_shipment_title" = "时效:";
 "cart_shipment_days_title" = "天";
+"" = "天";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_no_content" = "请输入信息";

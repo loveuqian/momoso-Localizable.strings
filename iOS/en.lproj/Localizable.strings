@@ -739,3 +739,7 @@ may search it on its website.";
 
 "cart_shipment_title" = "Shipment: ";
 "cart_shipment_days_title" = " days";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_no_content" = "Please fulfill the form";
