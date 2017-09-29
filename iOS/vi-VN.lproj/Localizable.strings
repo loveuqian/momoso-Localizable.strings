@@ -735,6 +735,8 @@ có thể tìm kiếm nó trên trang web của mình.";
 "dp_size_description" = "Chúng tôi khuyên bạn nên chọn đúng kích cỡ theo biểu đồ kích thước được cung cấp. Xin lưu ý rằng các nhà cung cấp của chúng tôi cung cấp thông tin sản phẩm (màu sắc, kích cỡ, vv) và chỉ mang tính tham khảo.";
 "dp_mall_location_taobao" = "Hồng Kông";
 
+"dp_outorder_title" = "Trật tự";
+
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Lô hàng: ";

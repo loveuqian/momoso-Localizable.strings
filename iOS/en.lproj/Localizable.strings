@@ -736,6 +736,8 @@ may search it on its website.";
 ";
 "dp_mall_location_taobao" = "Hongkong";
 
+"dp_outorder_title" = "Habis";
+
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Shipment: ";

@@ -735,6 +735,8 @@ boleh cari di situsnya.";
 "dp_size_description" = "Sebaiknya pilih ukuran yang tepat sesuai dengan bagan ukuran yang disediakan. Harap dicatat bahwa informasi produk (warna, ukuran, dll.) Disediakan oleh pemasok kami dan hanya untuk referensi.";
 "dp_mall_location_taobao" = "Hongkong";
 
+"dp_outorder_title" = "Habis";
+
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Pengiriman: ";
