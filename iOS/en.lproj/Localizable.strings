@@ -194,7 +194,7 @@
 "mall_item_discount_title_dp" = "Offer applied automatically";
 "drop_price_title_cart" = "On Sale";
 
-"agreements_content_cart1" = "I accept CloudMall's";
+"agreements_content_cart1" = "By submitting this order, I accept Cloudmall's";
 "agreements_content_cart2" = "Privacy & Security/";
 "agreements_content_cart3" = "Disclaimer/";
 "agreements_content_cart4" = "Return & Exchange Policies";
@@ -728,7 +728,7 @@
 
 //////////////////////////// 详细页-dp /////////////////////////////////
 
-"dp_mall_title" = "AI Price Comparing";
+"dp_mall_title" = "AI Price Compare";
 "dp_sizeguide_title" = "Size Guide";
 "dp_mall_nofulfilment_title" = "Sorry, We do not support the fulfillment right now. You 
 may search it on its website.";
@@ -736,7 +736,7 @@ may search it on its website.";
 ";
 "dp_mall_location_taobao" = "Hongkong";
 
-"dp_outorder_title" = "Habis";
+"dp_outorder_title" = "Out of order";
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 
