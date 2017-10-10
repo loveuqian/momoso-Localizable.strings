@@ -726,6 +726,12 @@
 
 "all_no_more_items" = "-沒有更多了-";
 
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_clearhistory_title" = "確認清空搜索歷史？";
+"search_clearhistory_cancel_title" = "取消";
+"search_clearhistory_sure_title" = "確認";
+
 //////////////////////////// 详细页-dp /////////////////////////////////
 
 "dp_mall_title" = "AI比價";

@@ -726,6 +726,12 @@
 
 "all_no_more_items" = "- tidak ada barang lagi -";
 
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_clearhistory_title" = "Apakah Anda yakin untuk menghapus riwayat pencarian?";
+"search_clearhistory_cancel_title" = "Membatalkan";
+"search_clearhistory_sure_title" = "Ya saya yakin";
+
 //////////////////////////// 详细页-dp /////////////////////////////////
 
 "dp_mall_title" = "Harga AI Membandingkan";

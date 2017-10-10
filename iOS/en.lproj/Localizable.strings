@@ -726,6 +726,12 @@
 
 "all_no_more_items" = "- no more items -";
 
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_clearhistory_title" = "Are you sure to clear search history";
+"search_clearhistory_cancel_title" = "Cancel";
+"search_clearhistory_sure_title" = "Yes, I'm sure";
+
 //////////////////////////// 详细页-dp /////////////////////////////////
 
 "dp_mall_title" = "AI Price Compare";
@@ -736,7 +742,7 @@ may search it on its website.";
 ";
 "dp_mall_location_taobao" = "Hongkong";
 
-"dp_outorder_title" = "Out of order";
+"dp_outorder_title" = "Out of Order";
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 

@@ -726,6 +726,12 @@
 
 "all_no_more_items" = "- không có thêm hàng -";
 
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_clearhistory_title" = "Bạn có chắc chắn để xóa lịch sử tìm kiếm?";
+"search_clearhistory_cancel_title" = "Hủy";
+"search_clearhistory_sure_title" = "Vâng tôi chắc chắn";
+
 //////////////////////////// 详细页-dp /////////////////////////////////
 
 "dp_mall_title" = "AI So sánh giá";
