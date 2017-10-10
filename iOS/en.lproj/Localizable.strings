@@ -752,3 +752,8 @@ may search it on its website.";
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_no_content" = "Please fulfill the form";
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_wrong_password" = "Password is inconsistent";
+"login_short_password" = "Password must be more than 6 character";

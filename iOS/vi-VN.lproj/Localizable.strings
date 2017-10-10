@@ -751,3 +751,8 @@ có thể tìm kiếm nó trên trang web của mình.";
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_no_content" = "Vui lòng điền mẫu đơn";
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_wrong_password" = "Mật khẩu không khớp";
+"login_short_password" = "Mật khẩu phải dài hơn 6 ký tự";

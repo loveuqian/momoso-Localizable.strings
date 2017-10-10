@@ -751,3 +751,8 @@ boleh cari di situsnya.";
 //////////////////////////// 个人-profile /////////////////////////////////
 
 "profile_no_content" = "Silahkan isi formulirnya";
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_wrong_password" = "Password tidak konsisten";
+"login_short_password" = "Password harus lebih dari 6 karakter";
