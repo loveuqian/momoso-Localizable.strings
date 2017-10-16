@@ -373,7 +373,7 @@
 "cart_checkout_all_item" = "X item(s)"; //购物车-结算-共X件商品
 "cart_checkout_sum_price" = "Subtotal:"; //购物车-编辑-完成
 
-"cart_checkout_cancel_payment_popup_title" = "Pay"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_title" = "Order Unpaid"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_content" = "Please pay within 24 hours"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_confirm" = "Confirm"; //购物车-订单-取消支付-弹窗
 
