@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Delete"; //地址-左滑删除时
 
 "profile_address_receiver_title" = "Full name:"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Zip code:"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_postcode_title" = "Zip/Postal code:"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
 
