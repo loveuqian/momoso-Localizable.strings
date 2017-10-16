@@ -736,12 +736,13 @@
 
 "dp_mall_title" = "Harga AI Membandingkan";
 "dp_sizeguide_title" = "Panduan Ukuran";
-"dp_mall_nofulfilment_title" = "Maaf, kami tidak mendukung pemenuhannya sekarang juga. Kamu
-boleh cari di situsnya.";
+"dp_mall_nofulfilment_title" = "Maaf, kami tidak mendukung pemenuhannya sekarang juga. Kamuboleh cari di situsnya.";
 "dp_size_description" = "Sebaiknya pilih ukuran yang tepat sesuai dengan bagan ukuran yang disediakan. Harap dicatat bahwa informasi produk (warna, ukuran, dll.) Disediakan oleh pemasok kami dan hanya untuk referensi.";
 "dp_mall_location_taobao" = "Hongkong";
 
 "dp_outorder_title" = "Habis";
+"dp_processingtime_title" = "Waktu memproses";
+"dp_processingtime_subtitle" = "Barang akan dikirim dalam waktu 1-2 hari kerja.";
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 
