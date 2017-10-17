@@ -743,6 +743,7 @@
 "dp_outorder_title" = "Out of Order";
 "dp_processingtime_title" = "Processing Time";
 "dp_processingtime_subtitle" = "Item will be shipped out within 1-2 business days.";
+"dp_addcart_fail_toast" = "Add to Cart failed";
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 

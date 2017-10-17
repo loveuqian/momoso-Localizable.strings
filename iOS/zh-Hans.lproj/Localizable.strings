@@ -743,6 +743,7 @@
 "dp_outorder_title" = "无货";
 "dp_processingtime_title" = "发货时间";
 "dp_processingtime_subtitle" = "商家1-2个工作日内处理完成并发货";
+"dp_addcart_fail_toast" = "加入购物车失败";
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 
