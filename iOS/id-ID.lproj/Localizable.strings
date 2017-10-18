@@ -755,6 +755,7 @@
 "profile_no_content" = "Silahkan isi formulirnya";
 "profile_help_title" = "Membantu";
 "profile_submitsuccess_toast" = "Kirim berhasil";
+"profile_address_submitsuccess_toast" = "Ditambahkan berhasil";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 

@@ -755,6 +755,7 @@
 "profile_no_content" = "Vui lòng điền mẫu đơn";
 "profile_help_title" = "Cứu giúp";
 "profile_submitsuccess_toast" = "Gửi thành công";
+"profile_address_submitsuccess_toast" = "Đã thêm thành công";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 

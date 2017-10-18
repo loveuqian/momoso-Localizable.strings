@@ -755,6 +755,7 @@
 "profile_no_content" = "請輸入信息";
 "profile_help_title" = "幫助信息";
 "profile_submitsuccess_toast" = "提交成功";
+"profile_address_submitsuccess_toast" = "添加成功";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 
