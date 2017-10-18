@@ -431,7 +431,7 @@
 "profile_address_vietnam" = "Vietnam"; //越南
 "profile_address_indonesia" = "Indonesia"; //印度尼西亚
 "profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
-"profile_order_logistic_title" = "Logistic"; //个人-订单-物流查询-标题
+"profile_order_logistic_title" = "Order Tracking"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
 "profile_address_region_title" = "Select Region"; //个人-订单-物流查询-标题
 "profile_address_empty_toast" = "Please fullfill the form"; //个人-地址-空提醒
@@ -518,7 +518,7 @@
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
-"dp_select_null_toast" = "Please choose"; //个人-地址-详细地址
+"dp_select_null_toast" = "Please choose "; //个人-地址-详细地址
 
 ////////////////////////////// 购物车-cart ////////////////////////////////
 
@@ -628,7 +628,7 @@
 
 //////////////////////////// 搜索-search /////////////////////////////////
 
-"search_ai_search" = "AI search";//支付是提示有没可用
+"search_ai_search" = "AI Search";//支付是提示有没可用
 "search_ai_found" = "similar items";//支付是提示有没可用
 "search_ai_explore" = "Similar items";//支付是提示有没可用
 "search_ai_not_found" = "No similar items";//支付是提示有没可用
@@ -754,6 +754,7 @@
 
 "profile_no_content" = "Please fulfill the form";
 "profile_help_title" = "Help";
+"profile_submitsuccess_toast" = "Submit successfully";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 

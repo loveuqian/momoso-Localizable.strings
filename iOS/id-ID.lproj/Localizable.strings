@@ -518,7 +518,7 @@
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
-"dp_select_null_toast" = "Silahkan pilih"; //个人-地址-详细地址
+"dp_select_null_toast" = "Silahkan pilih "; //个人-地址-详细地址
 
 ////////////////////////////// 购物车-cart ////////////////////////////////
 
@@ -754,6 +754,7 @@
 
 "profile_no_content" = "Silahkan isi formulirnya";
 "profile_help_title" = "Membantu";
+"profile_submitsuccess_toast" = "Kirim berhasil";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 
