@@ -501,6 +501,7 @@
 "profile_address_jp" = "Japan";
 "profile_address_kr" = "Korea";
 "profile_address_ua" = "Ukraine";
+"profile_address_in" = "India";
 
 "profile_order_package_number" = "Số gói"; //个人-物流详细
 
