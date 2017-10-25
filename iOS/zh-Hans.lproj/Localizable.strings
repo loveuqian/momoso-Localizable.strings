@@ -757,6 +757,7 @@
 "profile_help_title" = "帮助信息";
 "profile_submitsuccess_toast" = "提交成功";
 "profile_address_submitsuccess_toast" = "添加成功";
+"profile_bill_fail_toast" = "订单详情加载失败，请重试";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 
