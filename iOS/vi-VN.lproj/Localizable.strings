@@ -750,6 +750,9 @@
 
 "cart_shipment_title" = "Lô hàng: ";
 "cart_shipment_days_title" = " ngày";
+"cart_remove_items" = "Loại bỏ";
+"cart_remove_items_success" = "Sự thành công";
+"cart_remove_items_fail" = "Vui lòng thử lại";
 
 //////////////////////////// 个人-profile /////////////////////////////////
 

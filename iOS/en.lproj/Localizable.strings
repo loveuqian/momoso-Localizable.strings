@@ -750,6 +750,9 @@
 
 "cart_shipment_title" = "Shipment: ";
 "cart_shipment_days_title" = " days";
+"cart_remove_items" = "Removing";
+"cart_remove_items_success" = "Success";
+"cart_remove_items_fail" = "Please try again";
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
