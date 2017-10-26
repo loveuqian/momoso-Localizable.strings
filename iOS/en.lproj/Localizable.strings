@@ -746,6 +746,8 @@
 "dp_processingtime_subtitle" = "Item will be shipped out within 1-2 business days.";
 "dp_addcart_fail_toast" = "Add to Cart failed";
 
+"profile_album_need_title" = "Please enter title";
+
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Shipment: ";

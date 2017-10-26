@@ -746,6 +746,8 @@
 "dp_processingtime_subtitle" = "Sản phẩm sẽ được vận chuyển trong vòng 1-2 ngày làm việc.";
 "dp_addcart_fail_toast" = "Thêm vào giỏ hàng không thành công";
 
+"profile_album_need_title" = "Vui lòng nhập tiêu đề";
+
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Lô hàng: ";

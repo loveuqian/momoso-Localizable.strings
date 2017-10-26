@@ -746,6 +746,8 @@
 "dp_processingtime_subtitle" = "商家1-2個工作日內處理完成并發貨";
 "dp_addcart_fail_toast" = "加入購物車失敗";
 
+"profile_album_need_title" = "標題不能為空";
+
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "時效: ";
