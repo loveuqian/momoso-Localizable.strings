@@ -763,6 +763,7 @@
 "profile_submitsuccess_toast" = "Kirim berhasil";
 "profile_address_submitsuccess_toast" = "Ditambahkan berhasil";
 "profile_bill_fail_toast" = "Gagal memuat tagihan, coba lagi nanti";
+"profile_bill_confirm" = "Memastikan";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 

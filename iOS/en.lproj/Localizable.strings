@@ -763,6 +763,7 @@
 "profile_submitsuccess_toast" = "Submit successfully";
 "profile_address_submitsuccess_toast" = "Added successfully";
 "profile_bill_fail_toast" = "Bill loading fail, please try again later";
+"profile_bill_confirm" = "Confrim";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 

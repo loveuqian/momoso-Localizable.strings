@@ -763,6 +763,7 @@
 "profile_submitsuccess_toast" = "提交成功";
 "profile_address_submitsuccess_toast" = "添加成功";
 "profile_bill_fail_toast" = "訂單詳情加載失敗，請重試";
+"profile_bill_confirm" = "確認收貨";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 

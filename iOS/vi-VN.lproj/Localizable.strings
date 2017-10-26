@@ -763,6 +763,7 @@
 "profile_submitsuccess_toast" = "Gửi thành công";
 "profile_address_submitsuccess_toast" = "Đã thêm thành công";
 "profile_bill_fail_toast" = "Quá trình tải bảng không thành công, vui lòng thử lại sau";
+"profile_bill_confirm" = "Xác nhận";
 
 //////////////////////////// 登陆-login /////////////////////////////////
 
