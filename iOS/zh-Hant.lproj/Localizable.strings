@@ -374,7 +374,7 @@
 "cart_checkout_sum_price" = "总计:"; //购物车-编辑-完成
 
 "cart_checkout_cancel_payment_popup_title" = "付款提示"; //购物车-订单-取消支付-弹窗
-"cart_checkout_cancel_payment_popup_content" = "请在24小时内付款"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "請在24小時內付款"; //购物车-订单-取消支付-弹窗
 "cart_checkout_cancel_payment_popup_confirm" = "我知道了"; //购物车-订单-取消支付-弹窗
 
 "cart_checkout_card_date_jan" = "01-一月"; //购物车-确认支付-填写信用卡日期-一月
