@@ -743,7 +743,7 @@
 
 "dp_outorder_title" = "Habis";
 "dp_processingtime_title" = "Waktu memproses";
-"dp_processingtime_subtitle" = "Barang akan dikirim dalam waktu 1-2 hari kerja.";
+"dp_processingtime_subtitle" = "Barang akan dikirim dalam waktu 3-5 hari kerja.";
 "dp_addcart_fail_toast" = "Gagal menambah keranjang";
 
 "profile_album_need_title" = "Silahkan masukkan judul";

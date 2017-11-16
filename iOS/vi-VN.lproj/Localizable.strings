@@ -743,7 +743,7 @@
 
 "dp_outorder_title" = "Trật tự";
 "dp_processingtime_title" = "Thời gian xử lý";
-"dp_processingtime_subtitle" = "Sản phẩm sẽ được vận chuyển trong vòng 1-2 ngày làm việc.";
+"dp_processingtime_subtitle" = "Sản phẩm sẽ được vận chuyển trong vòng 3-5 ngày làm việc.";
 "dp_addcart_fail_toast" = "Thêm vào giỏ hàng không thành công";
 
 "profile_album_need_title" = "Vui lòng nhập tiêu đề";

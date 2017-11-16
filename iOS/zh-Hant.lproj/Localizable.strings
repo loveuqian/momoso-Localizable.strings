@@ -743,7 +743,7 @@
 
 "dp_outorder_title" = "無貨";
 "dp_processingtime_title" = "發貨時間";
-"dp_processingtime_subtitle" = "商家1-2個工作日內處理完成并發貨";
+"dp_processingtime_subtitle" = "商家3-5個工作日內處理完成并發貨";
 "dp_addcart_fail_toast" = "加入購物車失敗";
 
 "profile_album_need_title" = "標題不能為空";
