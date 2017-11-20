@@ -781,3 +781,12 @@
 //////////////////////////// 购物车-cart /////////////////////////////////
 
 "cart_use_coupon" = "使用優惠券";
+"checkout_sure_popup_title" = "確定退出支付？";
+"checkout_sure_popup_yes" = "確定";
+"checkout_sure_popup_no" = "取消";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_discount_notice_title" = "優惠";
+"dp_favorite_add_toast" = "已加入收藏";
+"dp_favorite_remove_toast" = "已移除收藏";

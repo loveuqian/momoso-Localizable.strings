@@ -781,3 +781,12 @@
 //////////////////////////// 购物车-cart /////////////////////////////////
 
 "cart_use_coupon" = "Phiếu giảm giá";
+"checkout_sure_popup_title" = "Bạn có chắc chắn muốn hủy thanh toán này không?";
+"checkout_sure_popup_yes" = "Xác nhận";
+"checkout_sure_popup_no" = "Hủy";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_discount_notice_title" = "Giảm giá";
+"dp_favorite_add_toast" = "Thêm vào yêu thích của bạn";
+"dp_favorite_remove_toast" = "Đã loại bỏ thành yêu thích của bạn";

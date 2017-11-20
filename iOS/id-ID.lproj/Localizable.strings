@@ -781,3 +781,12 @@
 //////////////////////////// 购物车-cart /////////////////////////////////
 
 "cart_use_coupon" = "Gunakan Kupon";
+"checkout_sure_popup_title" = "Yakin ingin membatalkan pembayaran ini?";
+"checkout_sure_popup_yes" = "Konfirmasi";
+"checkout_sure_popup_no" = "Batal";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_discount_notice_title" = "Diskon";
+"dp_favorite_add_toast" = "Ditambahkan ke favorit Anda";
+"dp_favorite_remove_toast" = "Dihapus ke favoritmu";
