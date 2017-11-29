@@ -134,7 +134,7 @@
 "detail_address_title_cart" = "Địa chỉ chi tiết";
 
 "change_region_title_profile_setting" = "Thay đổi nơi nhận hàng"; //个人-设置页面-切换地区
-"select_region_title_profile_setting" = "Chọn nơi nhận hàng";
+"select_region_title_profile_setting" = "Tàu";
 "change_language_title_profile_setting" = "Đổi ngôn ngữ";
 "clear_cache_title_profile_setting" = "Xóa lưu trữ"; //个人-设置页面缺失
 "setting_title_profile_setting" = "Cài đặt"; //个人-设置页面头部
@@ -433,7 +433,7 @@
 "profile_setting_clearcache_success" = "Đã xóa"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "Kiểm tra vận chuyển"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Bưu phẩm"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "Tàu"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Chọn khu vực"; //个人-订单-物流查询-标题
 "profile_address_empty_toast" = "Điền thông tin"; //个人-地址-空提醒
 
 //////////////////////////////android 新增//////////////////////////////////////////

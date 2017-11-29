@@ -134,7 +134,7 @@
 "detail_address_title_cart" = "Alamat rinci";
 
 "change_region_title_profile_setting" = "Ubah daerah penerimaan barang"; //个人-设置页面-切换地区
-"select_region_title_profile_setting" = "Pilih daerah penerimaan barang";
+"select_region_title_profile_setting" = "Dikirim ke";
 "change_language_title_profile_setting" = "Ubah bahasa";
 "clear_cache_title_profile_setting" = "Bersihkan cache"; //个人-设置页面缺失
 "setting_title_profile_setting" = "Pengaturan"; //个人-设置页面头部
@@ -433,7 +433,7 @@
 "profile_setting_clearcache_success" = "Berhasil dibersihkan"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "Cek status pengiriman"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Paket"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "Dikirim ke"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Pilih daerah"; //个人-订单-物流查询-标题
 "profile_address_empty_toast" = "Silahkan isi data"; //个人-地址-空提醒
 
 //////////////////////////////android 新增//////////////////////////////////////////

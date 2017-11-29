@@ -134,7 +134,7 @@
 "detail_address_title_cart" = "Unit/Floor/Block/Building/Street";
 
 "change_region_title_profile_setting" = "Change region"; //个人-设置页面-切换地区
-"select_region_title_profile_setting" = "Select region";
+"select_region_title_profile_setting" = "Ship to";
 "change_language_title_profile_setting" = "Language";
 "clear_cache_title_profile_setting" = "Clear cache"; //个人-设置页面缺失
 "setting_title_profile_setting" = "Setting"; //个人-设置页面头部
@@ -433,7 +433,7 @@
 "profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "Order Tracking"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "Ship to"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Select Region"; //个人-订单-物流查询-标题
 "profile_address_empty_toast" = "Please fullfill the form"; //个人-地址-空提醒
 
 //////////////////////////////android 新增//////////////////////////////////////////
