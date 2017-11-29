@@ -433,7 +433,7 @@
 "profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
 "profile_order_logistic_title" = "Order Tracking"; //个人-订单-物流查询-标题
 "profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "Select Region"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Ship to"; //个人-订单-物流查询-标题
 "profile_address_empty_toast" = "Please fullfill the form"; //个人-地址-空提醒
 
 //////////////////////////////android 新增//////////////////////////////////////////
