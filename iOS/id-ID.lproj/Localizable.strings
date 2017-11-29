@@ -134,7 +134,7 @@
 "detail_address_title_cart" = "Alamat rinci";
 
 "change_region_title_profile_setting" = "Ubah daerah penerimaan barang"; //个人-设置页面-切换地区
-"select_region_title_profile_setting" = "Dikirim ke";
+"select_region_title_profile_setting" = "Dikirim Ke";
 "change_language_title_profile_setting" = "Ubah bahasa";
 "clear_cache_title_profile_setting" = "Bersihkan cache"; //个人-设置页面缺失
 "setting_title_profile_setting" = "Pengaturan"; //个人-设置页面头部

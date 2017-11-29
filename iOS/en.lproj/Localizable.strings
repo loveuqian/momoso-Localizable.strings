@@ -134,7 +134,7 @@
 "detail_address_title_cart" = "Unit/Floor/Block/Building/Street";
 
 "change_region_title_profile_setting" = "Change region"; //个人-设置页面-切换地区
-"select_region_title_profile_setting" = "Ship to";
+"select_region_title_profile_setting" = "Ship To";
 "change_language_title_profile_setting" = "Language";
 "clear_cache_title_profile_setting" = "Clear cache"; //个人-设置页面缺失
 "setting_title_profile_setting" = "Setting"; //个人-设置页面头部
