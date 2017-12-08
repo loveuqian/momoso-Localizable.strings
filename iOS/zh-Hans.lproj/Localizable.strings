@@ -502,6 +502,12 @@
 "profile_address_kr" = "韩国";
 "profile_address_ua" = "乌克兰";
 "profile_address_in" = "印度";
+"profile_address_ae" = "阿联酋";
+"profile_address_sa" = "沙特阿拉伯";
+"profile_address_qa" = "卡塔尔";
+"profile_address_kw" = "科威特";
+"profile_address_tr" = "土耳其";
+"profile_address_il" = "以色列";
 
 "profile_order_package_number" = "包裹编号"; //个人-物流详细
 
