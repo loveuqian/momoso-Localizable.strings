@@ -821,3 +821,12 @@
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
 "dp_less" = "Ít hơn";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_order_confirmation_button" = "Nhận xác nhận";
+"profile_order_confirmation_popup_title" = "Nhận xác nhận";
+"profile_order_confirmation_popup_content" = "Nếu bạn nhận được gói, nhấn
+“Xác nhận” ";
+"profile_order_confirmation_popup_cancel" = "Hủy";
+"profile_order_confirmation_popup_confirm" = "Xác nhận";

@@ -820,3 +820,12 @@
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
 "dp_less" = "Kurang";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_order_confirmation_button" = "Menerima konfirmasi";
+"profile_order_confirmation_popup_title" = "Menerima konfirmasi";
+"profile_order_confirmation_popup_content" = "Jika Anda menerima paketnya, tekan
+“Memastikan” ";
+"profile_order_confirmation_popup_cancel" = "Tidak";
+"profile_order_confirmation_popup_confirm" = "Memastikan";

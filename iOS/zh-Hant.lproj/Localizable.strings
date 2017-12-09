@@ -820,3 +820,11 @@
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
 "dp_less" = "收起";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_order_confirmation_button" = "確認收貨";
+"profile_order_confirmation_popup_title" = "確認收貨";
+"profile_order_confirmation_popup_content" = "如果已收貨，點擊“確認”";
+"profile_order_confirmation_popup_cancel" = "取消";
+"profile_order_confirmation_popup_confirm" = "確認";
