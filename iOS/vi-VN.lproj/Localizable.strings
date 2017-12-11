@@ -797,7 +797,6 @@
 "dp_favorite_add_toast" = "Thêm vào yêu thích của bạn";
 "dp_favorite_remove_toast" = "Đã loại bỏ thành yêu thích của bạn";
 
-
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -826,7 +825,23 @@
 
 "profile_order_confirmation_button" = "Nhận xác nhận";
 "profile_order_confirmation_popup_title" = "Nhận xác nhận";
-"profile_order_confirmation_popup_content" = "Nếu bạn nhận được gói, nhấn
-“Xác nhận” ";
+"profile_order_confirmation_popup_content" = "Nếu bạn nhận được gói, nhấn “Xác nhận” ";
 "profile_order_confirmation_popup_cancel" = "Hủy";
 "profile_order_confirmation_popup_confirm" = "Xác nhận";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_order_unpaid" = "Chưa thanh toán";
+"sidebar_order_processing" = "Chế biến";
+"sidebar_order_all" = "Tất cả các";
+"sidebar_message" = "Thông điệp";
+"sidebar_category" = "Tất cả danh mục";
+"sidebar_favorite" = "Yêu thích";
+"sidebar_creditcard" = "Thẻ tín dụng";
+"sidebar_address" = "Địa chỉ nhà";
+"sidebar_setting" = "Cài đặt";
+"sidebar_faq" = "FAQ";

@@ -825,7 +825,23 @@
 
 "profile_order_confirmation_button" = "Menerima konfirmasi";
 "profile_order_confirmation_popup_title" = "Menerima konfirmasi";
-"profile_order_confirmation_popup_content" = "Jika Anda menerima paketnya, tekan
-“Memastikan” ";
+"profile_order_confirmation_popup_content" = "Jika Anda menerima paketnya, tekan“Memastikan” ";
 "profile_order_confirmation_popup_cancel" = "Tidak";
 "profile_order_confirmation_popup_confirm" = "Memastikan";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_order_unpaid" = "Tidak dibayar";
+"sidebar_order_processing" = "Pengolahan";
+"sidebar_order_all" = "Semua";
+"sidebar_message" = "Pesan";
+"sidebar_category" = "Semua Kategori";
+"sidebar_favorite" = "Favorit";
+"sidebar_creditcard" = "Kartu kredit";
+"sidebar_address" = "Alamat";
+"sidebar_setting" = "Setting";
+"sidebar_faq" = "FAQ";

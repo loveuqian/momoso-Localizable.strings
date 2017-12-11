@@ -828,3 +828,20 @@
 "profile_order_confirmation_popup_content" = "如果已收货，请点击“确认”";
 "profile_order_confirmation_popup_cancel" = "取消";
 "profile_order_confirmation_popup_confirm" = "确认";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_order_unpaid" = "未付款";
+"sidebar_order_processing" = "待收货";
+"sidebar_order_all" = "所有订单";
+"sidebar_message" = "消息";
+"sidebar_category" = "所有类目";
+"sidebar_favorite" = "收藏";
+"sidebar_creditcard" = "信用卡";
+"sidebar_address" = "地址";
+"sidebar_setting" = "设置";
+"sidebar_faq" = "FAQ";

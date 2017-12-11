@@ -825,7 +825,23 @@
 
 "profile_order_confirmation_button" = "Receiving confirmation";
 "profile_order_confirmation_popup_title" = "Receiving confirmation";
-"profile_order_confirmation_popup_content" = "If you recieve the package, press
-“Confrim” ";
+"profile_order_confirmation_popup_content" = "If you recieve the package, press“Confrim” ";
 "profile_order_confirmation_popup_cancel" = "Cancel";
 "profile_order_confirmation_popup_confirm" = "Confirm";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_order_unpaid" = "Unpaid";
+"sidebar_order_processing" = "Processing";
+"sidebar_order_all" = "All";
+"sidebar_message" = "Message";
+"sidebar_category" = "All Cateogry";
+"sidebar_favorite" = "Favorite";
+"sidebar_creditcard" = "Credit Card";
+"sidebar_address" = "Address";
+"sidebar_setting" = "Setting";
+"sidebar_faq" = "FAQ";
