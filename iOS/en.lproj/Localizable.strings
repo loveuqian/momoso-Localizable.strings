@@ -853,5 +853,5 @@
 "search_sort_discount_descend" = "Discount High to Low";
 "search_sort_discount_ascend" = "Discount Low to High";
 "search_sort_price_descend" = "Price High to Low";
-"search_sort_price_ascend" = "Price High to Low";
+"search_sort_price_ascend" = "Price Low to High";
 "search_fitler" = "Filter";
