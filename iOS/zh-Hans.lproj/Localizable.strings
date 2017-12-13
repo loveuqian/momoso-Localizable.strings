@@ -464,7 +464,7 @@
 
 //////////////////////////////// 搜索_search ////////////////////////////////////
 
-"search_input_defualt" = "搜索CloudMall"; //首页-二级页面-board标题
+"search_input_defualt" = "全场免邮"; //首页-二级页面-board标题
 
 /////////////////////////////// 个人-profile /////////////////////////////////////
 
@@ -845,3 +845,13 @@
 "sidebar_address" = "地址";
 "sidebar_setting" = "设置";
 "sidebar_faq" = "FAQ";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_sort_popular" = "推荐";
+"search_sort_hotsale" = "热销排行";
+"search_sort_discount_descend" = "折扣从高到低";
+"search_sort_discount_ascend" = "折扣从低到高";
+"search_sort_price_descend" = "价格从高到低";
+"search_sort_price_ascend" = "价格从低到高";
+"search_fitler" = "筛选";

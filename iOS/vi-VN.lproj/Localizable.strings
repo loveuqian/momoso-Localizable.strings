@@ -464,7 +464,7 @@
 
 //////////////////////////////// 搜索_search ////////////////////////////////////
 
-"search_input_defualt" = "Tìm kiếm trên CloudMall"; //首页-二级页面-board标题
+"search_input_defualt" = "Giao hang miên phi toan câu"; //首页-二级页面-board标题
 
 /////////////////////////////// 个人-profile /////////////////////////////////////
 
@@ -845,3 +845,13 @@
 "sidebar_address" = "Địa chỉ nhà";
 "sidebar_setting" = "Cài đặt";
 "sidebar_faq" = "FAQ";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_sort_popular" = "Phổ biến";
+"search_sort_hotsale" = "Bán chạy nhất";
+"search_sort_discount_descend" = "Giảm giá cao xuống thấp";
+"search_sort_discount_ascend" = "Giảm giá thấp đến cao";
+"search_sort_price_descend" = "Giá cao đến thấp";
+"search_sort_price_ascend" = "Giá thấp đến cao";
+"search_fitler" = "Bộ lọc";

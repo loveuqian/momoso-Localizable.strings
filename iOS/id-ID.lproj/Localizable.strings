@@ -464,7 +464,7 @@
 
 //////////////////////////////// 搜索_search ////////////////////////////////////
 
-"search_input_defualt" = "Cari di CloudMall"; //首页-二级页面-board标题
+"search_input_defualt" = "Pengiriman Gratis Seluruh Dunia"; //首页-二级页面-board标题
 
 /////////////////////////////// 个人-profile /////////////////////////////////////
 
@@ -845,3 +845,13 @@
 "sidebar_address" = "Alamat";
 "sidebar_setting" = "Setting";
 "sidebar_faq" = "FAQ";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_sort_popular" = "Populer";
+"search_sort_hotsale" = "Penjual Teratas";
+"search_sort_discount_descend" = "Diskon Tinggi ke Rendah";
+"search_sort_discount_ascend" = "Diskon rendah ke tinggi";
+"search_sort_price_descend" = "Harga Tinggi ke Rendah";
+"search_sort_price_ascend" = "Harga Tinggi ke Rendah";
+"search_fitler" = "Menyaring";
