@@ -855,3 +855,8 @@
 "search_sort_price_descend" = "Price High to Low";
 "search_sort_price_ascend" = "Price Low to High";
 "search_fitler" = "Filter";
+"search_top_search" = "Top Search";
+"search_category_title" = "Category";
+"search_brand_title" = "Brand";
+"search_trending_title" = "Trending";
+

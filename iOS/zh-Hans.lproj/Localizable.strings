@@ -838,7 +838,7 @@
 "sidebar_order_unpaid" = "未付款";
 "sidebar_order_processing" = "待收货";
 "sidebar_order_all" = "所有订单";
-"sidebar_message" = "消息";
+"siTìm kiếm nóngdebar_message" = "消息";
 "sidebar_category" = "所有类目";
 "sidebar_favorite" = "收藏";
 "sidebar_creditcard" = "信用卡";
@@ -855,3 +855,8 @@
 "search_sort_price_descend" = "价格从高到低";
 "search_sort_price_ascend" = "价格从低到高";
 "search_fitler" = "筛选";
+
+"search_top_search" = "推荐搜索";
+"search_category_title" = "所有类别";
+"search_brand_title" = "品牌";
+"search_trending_title" = "热门搜索";

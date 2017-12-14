@@ -855,3 +855,8 @@
 "search_sort_price_descend" = "Harga Tinggi ke Rendah";
 "search_sort_price_ascend" = "Harga rendah ke tinggi";
 "search_fitler" = "Menyaring";
+
+"search_top_search" = "Pencarian Teratas";
+"search_category_title" = "Kategori";
+"search_brand_title" = "Merek";
+"search_trending_title" = "Tren";
