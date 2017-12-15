@@ -860,3 +860,7 @@
 "search_category_title" = "Kategori";
 "search_brand_title" = "Merek";
 "search_trending_title" = "Tren";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_more_items" = "Lebih";

@@ -860,3 +860,7 @@
 "search_category_title" = "所有類別";
 "search_brand_title" = "品牌";
 "search_trending_title" = "熱門搜索";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_more_items" = "更多商品";

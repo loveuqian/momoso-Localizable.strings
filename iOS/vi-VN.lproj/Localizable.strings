@@ -860,3 +860,7 @@
 "search_category_title" = "thể loại";
 "search_brand_title" = "Nhãn hiệu";
 "search_trending_title" = "Xu hướng";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_more_items" = "Hơn";

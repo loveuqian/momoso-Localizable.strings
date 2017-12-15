@@ -825,7 +825,7 @@
 
 "profile_order_confirmation_button" = "Receiving confirmation";
 "profile_order_confirmation_popup_title" = "Receiving confirmation";
-"profile_order_confirmation_popup_content" = "If you recieve the package, press“Confrim” ";
+"profile_order_confirmation_popup_content" = "If you recieve the package, press“Confirm” ";
 "profile_order_confirmation_popup_cancel" = "Cancel";
 "profile_order_confirmation_popup_confirm" = "Confirm";
 
@@ -855,8 +855,12 @@
 "search_sort_price_descend" = "Price High to Low";
 "search_sort_price_ascend" = "Price Low to High";
 "search_fitler" = "Filter";
+
 "search_top_search" = "Top Search";
 "search_category_title" = "Category";
 "search_brand_title" = "Brand";
 "search_trending_title" = "Trending";
 
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_more_items" = "More Items";
