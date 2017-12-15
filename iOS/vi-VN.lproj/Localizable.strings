@@ -861,6 +861,8 @@
 "search_brand_title" = "Nhãn hiệu";
 "search_trending_title" = "Xu hướng";
 
+"search_filter_cancel" = "Gần"; 
+
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_more_items" = "Hơn";

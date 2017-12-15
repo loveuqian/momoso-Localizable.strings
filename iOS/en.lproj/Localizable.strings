@@ -861,6 +861,8 @@
 "search_brand_title" = "Brand";
 "search_trending_title" = "Trending";
 
+"search_filter_cancel" = "Cancel"; 
+
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_more_items" = "More Items";

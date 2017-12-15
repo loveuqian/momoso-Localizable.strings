@@ -861,6 +861,8 @@
 "search_brand_title" = "Merek";
 "search_trending_title" = "Tren";
 
+"search_filter_cancel" = "Dekat"; 
+
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_more_items" = "Lebih";

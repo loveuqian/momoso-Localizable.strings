@@ -861,6 +861,8 @@
 "search_brand_title" = "品牌";
 "search_trending_title" = "熱門搜索";
 
+"search_filter_cancel" = "取消"; 
+
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_more_items" = "更多商品";
