@@ -873,7 +873,9 @@
 
 //////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
 
-"search_mallpage_soldby" = "商家";
-"search_brandpage_title" = "品牌";
-"search_all_items_title" = "件商品";
-"search_watching_title" = "人在看";
+"search_mallpage_soldby" = "Seller";
+"search_brandpage_title" = "Brand";
+"search_all_items_title" = "items";
+"search_watching_title" = "views";
+
+
