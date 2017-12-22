@@ -137,7 +137,7 @@
 "select_region_title_profile_setting" = "Ship To";
 "change_language_title_profile_setting" = "Language";
 "clear_cache_title_profile_setting" = "Clear cache"; //个人-设置页面缺失
-"setting_title_profile_setting" = "Setting"; //个人-设置页面头部
+"setting_title_profile_setting" = "Settings"; //个人-设置页面头部
 "language_title_profile_setting" = "Language"; //个人-设置页面-语言切换
 
 "cancle_send_question_profile_setting" = "Cancel"; //个人-设置-问题咨询-左上角
@@ -838,11 +838,11 @@
 "sidebar_order_unpaid" = "Unpaid";
 "sidebar_order_processing" = "Processing";
 "sidebar_order_all" = "All";
-"sidebar_message" = "Message";
-"sidebar_category" = "All Cateogry";
-"sidebar_favorite" = "Favorite";
-"sidebar_creditcard" = "Credit Card";
-"sidebar_address" = "Address";
+"sidebar_message" = "Messages";
+"sidebar_category" = "All Categories";
+"sidebar_favorite" = "Favorites";
+"sidebar_creditcard" = "Credit Cards";
+"sidebar_address" = "Address Book";
 "sidebar_setting" = "Settings";
 "sidebar_faq" = "FAQ";
 
