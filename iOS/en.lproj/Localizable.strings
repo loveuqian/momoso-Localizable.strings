@@ -211,7 +211,7 @@
 "hint_choose_payment_title_cart" = "Please select payment method";
 "final_price_title_cart" = "Order total:";
 
-"logistic_message_title_index_message" = "Track Order";
+"logistic_message_title_index_message" = "Messages";
 
 "ok_btn_cart" = "Done"; //购物车列表-点击右上角后
 "edit_btn_cart" = "Edit"; //购物车列表-右上角编辑
@@ -837,7 +837,7 @@
 
 "sidebar_order_unpaid" = "Unpaid";
 "sidebar_order_processing" = "Processing";
-"sidebar_order_all" = "All";
+"sidebar_order_all" = "All Orders";
 "sidebar_message" = "Messages";
 "sidebar_category" = "All Categories";
 "sidebar_favorite" = "Favorites";

@@ -211,7 +211,7 @@
 "hint_choose_payment_title_cart" = "Vui lòng chọn phương thức thanh toán";
 "final_price_title_cart" = "Thanh toán thực tế";
 
-"logistic_message_title_index_message" = "Đơn hàng/Trợ giúp";
+"logistic_message_title_index_message" = "Tin nhắn";
 
 "ok_btn_cart" = "Hoàn tất"; //购物车列表-点击右上角后
 "edit_btn_cart" = "Sửa"; //购物车列表-右上角编辑

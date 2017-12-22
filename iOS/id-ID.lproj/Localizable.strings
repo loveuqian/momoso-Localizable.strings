@@ -211,7 +211,7 @@
 "hint_choose_payment_title_cart" = "Silahkan pilih metode pembayaran";
 "final_price_title_cart" = "Pembayaran";
 
-"logistic_message_title_index_message" = "Transaksi/status pengiriman";
+"logistic_message_title_index_message" = "Pesan";
 
 "ok_btn_cart" = "Selesai"; //购物车列表-点击右上角后
 "edit_btn_cart" = "Edit"; //购物车列表-右上角编辑

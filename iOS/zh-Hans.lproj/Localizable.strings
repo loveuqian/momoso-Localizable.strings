@@ -211,7 +211,7 @@
 "hint_choose_payment_title_cart" = "请您选择支付方式";
 "final_price_title_cart" = "实付";
 
-"logistic_message_title_index_message" = "订单/物流助手";
+"logistic_message_title_index_message" = "消息中心";
 
 "ok_btn_cart" = "完成"; //购物车列表-点击右上角后
 "edit_btn_cart" = "编辑"; //购物车列表-右上角编辑
