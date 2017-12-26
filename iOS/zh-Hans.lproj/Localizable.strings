@@ -845,6 +845,7 @@
 "sidebar_address" = "地址";
 "sidebar_setting" = "设置";
 "sidebar_faq" = "FAQ";
+"sidebar_coupon"="优惠券"
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
@@ -877,15 +878,3 @@
 "search_brandpage_title" = "品牌";
 "search_all_items_title" = "件商品";
 "search_watching_title" = "人在看";
-
-//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
-
-"sidebar_coupon_title" = "优惠券";
-"sidebar_coupon_only_country" = "仅限";
-"sidebar_coupon_condition_over" = "购买";
-"sidebar_coupon_condition_get" = "即获得";
-"sidebar_coupon_valid_period" = "有效期";
-"sidebar_coupon_specific" = "特定商店/品牌可用";
-"sidebar_coupon_null" = "暂时没有任何优惠券哦";
-"sidebar_coupon_available" = "可用";
-"sidebar_coupon_unavailable" = "不可用";
