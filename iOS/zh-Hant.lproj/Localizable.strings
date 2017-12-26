@@ -877,3 +877,15 @@
 "search_brandpage_title" = "品牌";
 "search_all_items_title" = "件商品";
 "search_watching_title" = "人在看";
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_coupon_title" = "優惠券";
+"sidebar_coupon_only_country" = "僅限";
+"sidebar_coupon_condition_over" = "購買";
+"sidebar_coupon_condition_get" = "即可獲";
+"sidebar_coupon_valid_period" = "有效期";
+"sidebar_coupon_specific" = "特定商店/品牌可用";
+"sidebar_coupon_null" = "暫時沒有任何優惠券哦";
+"sidebar_coupon_available" = "可用";
+"sidebar_coupon_unavailable" = "不可用";

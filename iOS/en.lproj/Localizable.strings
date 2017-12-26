@@ -877,3 +877,15 @@
 "search_brandpage_title" = "Brand";
 "search_all_items_title" = "items";
 "search_watching_title" = "views";
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+ 
+"sidebar_coupon_title" = "Coupons";
+"sidebar_coupon_only_country" = "Only in";
+"sidebar_coupon_condition_over" = "Buy";
+"sidebar_coupon_condition_get" = "and get an";
+"sidebar_coupon_valid_period" = "Valid period";
+"sidebar_coupon_specific" = "Specific mall or brand";
+"sidebar_coupon_null" = "No coupons right now";
+"sidebar_coupon_available" = "Available";
+"sidebar_coupon_unavailable" = "Unavailable";

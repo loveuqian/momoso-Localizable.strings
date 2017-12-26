@@ -877,3 +877,15 @@
 "search_brandpage_title" = "Thương hiệu";
 "search_all_items_title" = "điều";
 "search_watching_title" = "lượt xem";
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_coupon_title" = "coupon";
+"sidebar_coupon_only_country" = "giới hạn";
+"sidebar_coupon_condition_over" = "mua";
+"sidebar_coupon_condition_get" = "nhận được";
+"sidebar_coupon_valid_period" = "thời hạn";
+"sidebar_coupon_specific" = "dùng cho cửa hàng/nhãn hiệu";
+"sidebar_coupon_null" = "không có coupon";
+"sidebar_coupon_available" = "có thể sử dụng";
+"sidebar_coupon_unavailable" = "không thể sử dụng";
