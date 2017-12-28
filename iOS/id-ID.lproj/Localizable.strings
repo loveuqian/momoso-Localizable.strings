@@ -878,3 +878,18 @@
 "search_brandpage_title" = "Merek";
 "search_all_items_title" = "barang";
 "search_watching_title" = "melihat";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_popup_title" = "Apa pendapatmu tentang Cloudmall?";
+"cart_popup_nice" = "Menyenangkan!";
+"cart_popup_soso" = "Tidak begitu baik";
+"cart_popup_cancel" = "Membatalkan";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_guide_region" = "Anda bisa mengubah wilayah pengiriman";
+"index_guide_hot" = "Gesek untuk melihat lebih banyak konten";
+"index_guide_profile" = "Lihat profil Anda";
+"index_guide_search" = "Cari lebih";
+"index_guide_cart" = "Daftar disini";

@@ -878,3 +878,18 @@
 "search_brandpage_title" = "品牌";
 "search_all_items_title" = "件商品";
 "search_watching_title" = "人在看";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_popup_title" = "您覺得Cloudmall怎麼樣?";
+"cart_popup_nice" = "棒棒噠!";
+"cart_popup_soso" = "有待提升";
+"cart_popup_cancel" = "取消";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_guide_region" = "點擊選擇收貨地區與語言";
+"index_guide_hot" = "滑動查看更多內容";
+"index_guide_profile" = "點擊查看個人資料";
+"index_guide_search" = "點擊搜索商品";
+"index_guide_cart" = "點擊查看購物車";

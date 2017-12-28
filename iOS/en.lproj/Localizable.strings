@@ -146,7 +146,7 @@
 "cancle_clear_cache_profile_setting" = "Cancel"; //个人-设置-清除缓存弹窗
 "ok_clear_cache_profile_setting" = "Clear cache"; //个人-设置-清除缓存弹窗
 
-"disclamier_btn_profile_setting" = "Disclaimer"; //个人-设置-关于我们
+"disclamier_btn_profile_setting" = "Terms of use"; //个人-设置-关于我们
 
 "ok_logout_profile_setting" = "Log Out"; //个人-设置-退出登录
 "cancle_logout_profile_setting" = "Cancel"; //个人-设置-退出登录
@@ -196,7 +196,7 @@
 
 "agreements_content_cart1" = "By submitting this order, I accept Cloudmall's";
 "agreements_content_cart2" = "Privacy & Security/";
-"agreements_content_cart3" = "Disclaimer/";
+"agreements_content_cart3" = "Terms of use/";
 "agreements_content_cart4" = "Return & Exchange Policies";
 "summit_checkout_btn_cart" = "Submit Order";
 "mall_shipping_fee_title_cart" = "Mall shipping fee";
@@ -878,3 +878,18 @@
 "search_brandpage_title" = "Brand";
 "search_all_items_title" = "items";
 "search_watching_title" = "views";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_popup_title" = "What do you think of Cloudmall?";
+"cart_popup_nice" = "That is nice!";
+"cart_popup_soso" = "Not so good";
+"cart_popup_cancel" = "Cancel";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_guide_region" = "You may change the shipping region";
+"index_guide_hot" = "Swipe to view more content";
+"index_guide_profile" = "View your profile";
+"index_guide_search" = "Search for more";
+"index_guide_cart" = "Cart here";

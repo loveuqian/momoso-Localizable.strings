@@ -878,3 +878,18 @@
 "search_brandpage_title" = "Thương hiệu";
 "search_all_items_title" = "điều";
 "search_watching_title" = "lượt xem";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_popup_title" = "Bạn nghĩ gì về Cloudmall?";
+"cart_popup_nice" = "Đó là tốt đẹp!";
+"cart_popup_soso" = "Không tốt như vậy";
+"cart_popup_cancel" = "Hủy";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_guide_region" = "Bạn có thể thay đổi khu vực vận chuyển";
+"index_guide_hot" = "Vuốt để xem thêm nội dung";
+"index_guide_profile" = "Xem hồ sơ của bạn";
+"index_guide_search" = "Tìm kiếm thêm";
+"index_guide_cart" = "Giỏ hàng ở đây";
