@@ -845,7 +845,8 @@
 "sidebar_address" = "Địa chỉ nhà";
 "sidebar_setting" = "Cài đặt";
 "sidebar_faq" = "FAQ";
-"sidebar_coupon"="Phiếu giảm giá";
+"sidebar_coupon" = "Phiếu giảm giá";
+"sidebar_signin" = "Nhấp để đăng nhập";
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
@@ -889,7 +890,3 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_guide_region" = "Bạn có thể thay đổi khu vực vận chuyển";
-"index_guide_hot" = "Vuốt để xem thêm nội dung";
-"index_guide_profile" = "Xem hồ sơ của bạn";
-"index_guide_search" = "Tìm kiếm thêm";
-"index_guide_cart" = "Giỏ hàng ở đây";

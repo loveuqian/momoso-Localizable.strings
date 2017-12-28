@@ -845,7 +845,8 @@
 "sidebar_address" = "地址";
 "sidebar_setting" = "设置";
 "sidebar_faq" = "FAQ";
-"sidebar_coupon"="优惠券";
+"sidebar_coupon" = "优惠券";
+"sidebar_signin" = "点击登陆";
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
@@ -889,7 +890,3 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_guide_region" = "点击选择收货地区与语言";
-"index_guide_hot" = "滑动查看更多内容";
-"index_guide_profile" = "点击查看个人资料";
-"index_guide_search" = "点击搜索商品";
-"index_guide_cart" = "点击查看购物车";

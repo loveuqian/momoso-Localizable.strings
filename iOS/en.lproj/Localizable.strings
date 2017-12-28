@@ -845,7 +845,8 @@
 "sidebar_address" = "Address Book";
 "sidebar_setting" = "Settings";
 "sidebar_faq" = "FAQ";
-"sidebar_coupon"="Coupons";
+"sidebar_coupon" = "Coupons";
+"sidebar_signin" = "Click to Sign in";
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
@@ -889,7 +890,3 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_guide_region" = "You may change the shipping region";
-"index_guide_hot" = "Swipe to view more content";
-"index_guide_profile" = "View your profile";
-"index_guide_search" = "Search for more";
-"index_guide_cart" = "Cart here";

@@ -845,7 +845,8 @@
 "sidebar_address" = "Alamat";
 "sidebar_setting" = "Setting";
 "sidebar_faq" = "FAQ";
-"sidebar_coupon"="Kupon";
+"sidebar_coupon" = "Kupon";
+"sidebar_signin" = "Klik untuk masuk";
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
@@ -889,7 +890,3 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_guide_region" = "Anda bisa mengubah wilayah pengiriman";
-"index_guide_hot" = "Gesek untuk melihat lebih banyak konten";
-"index_guide_profile" = "Lihat profil Anda";
-"index_guide_search" = "Cari lebih";
-"index_guide_cart" = "Daftar disini";
