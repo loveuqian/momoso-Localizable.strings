@@ -896,3 +896,11 @@
 "cart_toast_greeting" = "Tin tốt!";
 "cart_toast_pricedrop" = "Giá giảm";
 "cart_toast_item" = "Mặt hàng!";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_aiprice_intitle" = "Pengecer Cloudmall";
+"dp_aiprice_inshop" = "Di Cloudmall";
+"dp_aiprice_viewmore" = "Lihat lebih";
+"dp_aiprice_outshop" = "Toko Lain";
+"dp_aiprice_outtitle" = "Pengecer lainnya";

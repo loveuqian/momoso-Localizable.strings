@@ -896,3 +896,11 @@
 "cart_toast_greeting" = "好消息！";
 "cart_toast_pricedrop" = "购物车内";
 "cart_toast_item" = "件商品降价啦！";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_aiprice_intitle" = "Cloudmall零售商";
+"dp_aiprice_inshop" = "Cloudmall门店内";
+"dp_aiprice_viewmore" = "更多商品";
+"dp_aiprice_outshop" = "非本门店";
+"dp_aiprice_outtitle" = "其他零售商";

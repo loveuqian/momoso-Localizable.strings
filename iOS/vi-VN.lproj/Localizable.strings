@@ -896,3 +896,11 @@
 "cart_toast_greeting" = "Tin vui!";
 "cart_toast_pricedrop" = "Giá giảm";
 "cart_toast_item" = "Mặt hàng!";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_aiprice_intitle" = "Nhà bán lẻ Cloudmall";
+"dp_aiprice_inshop" = "Trong Cloudmall";
+"dp_aiprice_viewmore" = "Xem thêm";
+"dp_aiprice_outshop" = "Khác? Cửa hàng";
+"dp_aiprice_outtitle" = "Nhà bán lẻ khác";

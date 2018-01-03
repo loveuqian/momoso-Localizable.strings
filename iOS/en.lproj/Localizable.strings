@@ -896,3 +896,11 @@
 "cart_toast_greeting" = "Good News!";
 "cart_toast_pricedrop" = "Price Drop on";
 "cart_toast_item" = "Item(s)!";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_aiprice_intitle" = "Cloudmall Retailer";
+"dp_aiprice_inshop" = "In Cloudmall";
+"dp_aiprice_viewmore" = "View More";
+"dp_aiprice_outshop" = "Out Shop";
+"dp_aiprice_outtitle" = "Other Retailer";
