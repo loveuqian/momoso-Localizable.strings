@@ -891,3 +891,8 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_guide_region" = "Bạn có thể thay đổi khu vực vận chuyển";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_toast_greeting" = "Tin vui!";
+"cart_toast_pricedrop" = "Giá giảm";
+"cart_toast_item" = "Mặt hàng!";

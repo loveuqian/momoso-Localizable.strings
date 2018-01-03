@@ -891,3 +891,8 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_guide_region" = "You may change the shipping region";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_toast_greeting" = "Good News!";
+"cart_toast_pricedrop" = "Price Drop on";
+"cart_toast_item" = "Item(s)!";
