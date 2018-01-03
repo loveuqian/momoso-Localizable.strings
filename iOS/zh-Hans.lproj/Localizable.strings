@@ -846,7 +846,8 @@
 "sidebar_setting" = "设置";
 "sidebar_faq" = "FAQ";
 "sidebar_coupon" = "优惠券";
-"sidebar_signin" = "点击登陆";
+"sidebar_signin" = "点击登录";
+"sidebar_setting_login" = "登录";
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 

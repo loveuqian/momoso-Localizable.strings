@@ -846,7 +846,8 @@
 "sidebar_setting" = "設置";
 "sidebar_faq" = "FAQ";
 "sidebar_coupon" = "優惠券";
-"sidebar_signin" = "點擊登陸";
+"sidebar_signin" = "點擊登錄";
+"sidebar_setting_login" = "登錄";
 
 //////////////////////////// 搜索-Search /////////////////////////////////
 
