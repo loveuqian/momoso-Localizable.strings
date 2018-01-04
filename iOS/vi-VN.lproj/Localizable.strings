@@ -899,8 +899,11 @@
 
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
-"dp_aiprice_intitle" = "Nhà bán lẻ Cloudmall";
-"dp_aiprice_inshop" = "Trong Cloudmall";
+"dp_aiprice_intitle" = "Nhà bán lẻ CloudMall";
+"dp_aiprice_inshop" = "CloudMall";
 "dp_aiprice_viewmore" = "Xem thêm";
-"dp_aiprice_outshop" = "Khác? Cửa hàng";
+"dp_aiprice_outshop" = "So sánh với";
 "dp_aiprice_outtitle" = "Nhà bán lẻ khác";
+"dp_aiprice_inshipping" = "Miễn phí vận chuyển";
+"dp_aiprice_outshipping" = "Bao gồm";
+"dp_aiprice_shipping" = "Phí vận chuyển";

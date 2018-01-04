@@ -899,8 +899,11 @@
 
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
-"dp_aiprice_intitle" = "Cloudmall Retailer";
-"dp_aiprice_inshop" = "In Cloudmall";
+"dp_aiprice_intitle" = "CloudMall Retailer";
+"dp_aiprice_inshop" = "CloudMall";
 "dp_aiprice_viewmore" = "View More";
-"dp_aiprice_outshop" = "Out Shop";
+"dp_aiprice_outshop" = "Compare With";
 "dp_aiprice_outtitle" = "Other Retailer";
+"dp_aiprice_inshipping" = "Free shipping";
+"dp_aiprice_outshipping" = "Includes";
+"dp_aiprice_shipping" = "shipping";
