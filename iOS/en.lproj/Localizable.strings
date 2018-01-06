@@ -823,9 +823,9 @@
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
-"profile_order_confirmation_button" = "Receiving confirmation";
-"profile_order_confirmation_popup_title" = "Receiving confirmation";
-"profile_order_confirmation_popup_content" = "If you recieve the package, press“Confirm” ";
+"profile_order_confirmation_button" = "Confirm Package Recieved";
+"profile_order_confirmation_popup_title" = "Confirm Package Recieved";
+"profile_order_confirmation_popup_content" = "If you have recieved the package, please press “Confirm”";
 "profile_order_confirmation_popup_cancel" = "Cancel";
 "profile_order_confirmation_popup_confirm" = "Confirm";
 
