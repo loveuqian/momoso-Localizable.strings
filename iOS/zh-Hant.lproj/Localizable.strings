@@ -907,3 +907,6 @@
 "dp_aiprice_inshipping" = "包郵";
 "dp_aiprice_outshipping" = "包含";
 "dp_aiprice_shipping" = "運費";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_mark_pricedrop" = "降價";

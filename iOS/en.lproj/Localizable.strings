@@ -907,3 +907,6 @@
 "dp_aiprice_inshipping" = "Free shipping";
 "dp_aiprice_outshipping" = "Includes";
 "dp_aiprice_shipping" = "shipping";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_mark_pricedrop" = "Price Drop";

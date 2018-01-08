@@ -907,3 +907,7 @@
 "dp_aiprice_inshipping" = "Miễn phí vận chuyển";
 "dp_aiprice_outshipping" = "Bao gồm";
 "dp_aiprice_shipping" = "Phí vận chuyển";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_mark_pricedrop" = "Rớt giá";
+	
