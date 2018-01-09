@@ -911,3 +911,6 @@
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 "cart_mark_pricedrop" = "降价";
 "cart_seller_from" = "供应商";
+"cart_total_shipping" = "不包含运费";
+"cart_total_total" = "合计";
+"cart_total_pay" = "支付";

@@ -911,3 +911,6 @@
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 "cart_mark_pricedrop" = "Price Drop";
 "cart_seller_from" = "From";
+"cart_total_shipping" = "Not include shipping";
+"cart_total_total" = "Total";
+"cart_total_pay" = "PAY";

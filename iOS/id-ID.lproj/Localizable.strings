@@ -911,3 +911,6 @@
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 "cart_mark_pricedrop" = "Turun harga";
 "cart_seller_from" = "Penjual";
+"cart_total_shipping" = "Tidak termasuk pengiriman";
+"cart_total_total" = "Total";
+"cart_total_pay" = "MEMBAYAR";

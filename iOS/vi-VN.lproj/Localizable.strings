@@ -911,3 +911,6 @@
 ////////////////////////////////// 购物车_cart ///////////////////////////////////
 "cart_mark_pricedrop" = "Rớt giá";
 "cart_seller_from" = "Người bán";
+"cart_total_shipping" = "Không bao gồm vận chuyển";
+"cart_total_total" = "Toàn bộ";
+"cart_total_pay" = "TRẢ";
