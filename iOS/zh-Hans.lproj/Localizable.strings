@@ -914,3 +914,4 @@
 "cart_total_shipping" = "不包含运费";
 "cart_total_total" = "合计";
 "cart_total_pay" = "支付";
+"cart_soldout_popup" = "部分选定商品已售罄，请取消选择并重试";

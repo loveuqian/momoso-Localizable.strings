@@ -914,3 +914,4 @@
 "cart_total_shipping" = "Shipping not included";
 "cart_total_total" = "Total";
 "cart_total_pay" = "Checkout";
+"cart_soldout_popup" = "Some selected items are sold out, please deselect and try again";
