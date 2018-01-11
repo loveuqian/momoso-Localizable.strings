@@ -916,3 +916,9 @@
 "cart_total_total" = "合計";
 "cart_total_pay" = "支付";
 "cart_soldout_popup" = "部分選定商品已售罄，請取消選擇並重試";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "供應商";
+"search_mall_about" = "店鋪故事";
+"search_mall_More" = "更多";
+"search_mall_less" = "收起";

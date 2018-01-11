@@ -916,3 +916,9 @@
 "cart_total_total" = "Toàn bộ";
 "cart_total_pay" = "TRẢ";
 "cart_soldout_popup" = "Một số mặt hàng đã chọn được bán hết, hãy bỏ chọn và thử lại";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "Được bán bởi";
+"search_mall_about" = "Trong khoảng";
+"search_mall_More" = "Hơn";
+"search_mall_less" = "Ít hơn";

@@ -916,3 +916,9 @@
 "cart_total_total" = "Total";
 "cart_total_pay" = "Checkout";
 "cart_soldout_popup" = "Some selected items are sold out, please deselect and try again";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "Sold by";
+"search_mall_about" = "About";
+"search_mall_More" = "More";
+"search_mall_less" = "Less";

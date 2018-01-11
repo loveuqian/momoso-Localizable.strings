@@ -916,3 +916,9 @@
 "cart_total_total" = "Total";
 "cart_total_pay" = "MEMBAYAR";
 "cart_soldout_popup" = "Beberapa item terpilih terjual habis, harap batalkan pilihan dan coba lagi";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "Dijual oleh";
+"search_mall_about" = "Tentang";
+"search_mall_More" = "Lebih";
+"search_mall_less" = "Kurang";
