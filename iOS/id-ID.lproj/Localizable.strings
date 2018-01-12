@@ -757,7 +757,7 @@
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Pengiriman: ";
-"cart_shipment_days_title" = " hari";
+"cart_shipment_days_title" = " hari kerja";
 "cart_remove_items" = "Melepaskan";
 "cart_remove_items_success" = "Keberhasilan";
 "cart_remove_items_fail" = "Silahkan coba lagi";

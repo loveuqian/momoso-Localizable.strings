@@ -757,7 +757,7 @@
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "时效:";
-"cart_shipment_days_title" = "天";
+"cart_shipment_days_title" = " 工作日";
 "cart_remove_items" = "移除中";
 "cart_remove_items_success" = "移除成功";
 "cart_remove_items_fail" = "请重试";
