@@ -349,6 +349,7 @@
 "cart_checkout_credit_card_toast" = "Vui lòng chọn lập thẻ tín dụng mới"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 "cart_checkout_credit_card_cancel" = "Hủy bỏ"; //购物车-确认支付-选择信用卡支付-取消
 "cart_checkout_credit_card_pay" = "Thanh toán"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_confirm" = "Xác nhận"; //购物车-确认支付-选择信用卡支付-增加新加-cvv-确定
 
 "cart_checkout_card_holdername_title" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Họ tên chủ thẻ"; //购物车-确认支付-选择信用卡支付-弹窗标题
@@ -919,3 +920,9 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_banner_more" = "Hơn";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "Được bán bởi";
+"search_mall_about" = "Trong khoảng";
+"search_mall_More" = "Hơn";
+"search_mall_less" = "Ít hơn";

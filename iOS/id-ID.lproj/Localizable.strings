@@ -349,6 +349,7 @@
 "cart_checkout_credit_card_toast" = "Silahkan buat kartu kredit terlebih dahulu"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 "cart_checkout_credit_card_cancel" = "Batal"; //购物车-确认支付-选择信用卡支付-取消
 "cart_checkout_credit_card_pay" = "Bayar"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_confirm" = "Memastikan"; //购物车-确认支付-选择信用卡支付-增加新加-cvv-确定
 
 "cart_checkout_card_holdername_title" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "Nama pemegang kartu"; //购物车-确认支付-选择信用卡支付-弹窗标题
@@ -919,3 +920,9 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_banner_more" = "Lebih";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "Dijual oleh";
+"search_mall_about" = "Tentang";
+"search_mall_More" = "Lebih";
+"search_mall_less" = "Kurang";

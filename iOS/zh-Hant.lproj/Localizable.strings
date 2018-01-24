@@ -349,6 +349,7 @@
 "cart_checkout_credit_card_toast" = "請先新建信用卡"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
 "cart_checkout_credit_card_cancel" = "取消"; //购物车-确认支付-选择信用卡支付-取消
 "cart_checkout_credit_card_pay" = "付款"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_confirm" = "確認"; //购物车-确认支付-选择信用卡支付-增加新加-cvv-确定
 
 "cart_checkout_card_holdername_title" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
 "cart_checkout_card_holdername_default" = "持卡人姓名"; //购物车-确认支付-选择信用卡支付-弹窗标题
@@ -919,3 +920,9 @@
 //////////////////////////// 首页-Index /////////////////////////////////
 
 "index_banner_more" = "更多";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "供應商";
+"search_mall_about" = "店鋪故事";
+"search_mall_More" = "更多";
+"search_mall_less" = "收起";
