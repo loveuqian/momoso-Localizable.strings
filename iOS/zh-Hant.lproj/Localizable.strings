@@ -471,7 +471,7 @@
 "profile_address_input_default" = "請填寫"; //个人-地址-输入框
 "profile_address_select_default" = "請選擇"; //个人-地址-下拉框
 "profile_address_province" = "省/州"; //个人-地址-省州
-"profile_address_city" = "城市："; //个人-地址-城市
+"profile_address_city" = "城/鎮："; //个人-地址-城市
 "profile_address_district" = "區："; //个人-地址-下拉框
 "profile_address_detail" = "詳細地址-公寓、樓層等（選填）"; //个人-地址-详细地址
 

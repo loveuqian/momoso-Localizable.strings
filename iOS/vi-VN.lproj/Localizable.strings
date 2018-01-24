@@ -471,7 +471,7 @@
 "profile_address_input_default" = "Vui lòng điền đầy đủ thông tin"; //个人-地址-输入框
 "profile_address_select_default" = "Vui lòng chọn"; //个人-地址-下拉框
 "profile_address_province" = "Tỉnh"; //个人-地址-省州
-"profile_address_city" = "Thành phố:"; //个人-地址-城市
+"profile_address_city" = "Thành phố/Thị trấn:"; //个人-地址-城市
 "profile_address_district" = "Quận/Huyện:"; //个人-地址-下拉框
 "profile_address_detail" = "Địa chỉ chi tiết- Khu trung cư, tầng (chọn điền)"; //个人-地址-详细地址
 
