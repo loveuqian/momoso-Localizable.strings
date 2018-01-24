@@ -915,3 +915,7 @@
 "cart_total_total" = "Total";
 "cart_total_pay" = "MEMBAYAR";
 "cart_soldout_popup" = "Beberapa item terpilih terjual habis, harap batalkan pilihan dan coba lagi";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_banner_more" = "Lebih";

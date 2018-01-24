@@ -915,3 +915,7 @@
 "cart_total_total" = "Toàn bộ";
 "cart_total_pay" = "TRẢ";
 "cart_soldout_popup" = "Một số mặt hàng đã chọn được bán hết, hãy bỏ chọn và thử lại";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_banner_more" = "Hơn";
