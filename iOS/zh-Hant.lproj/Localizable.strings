@@ -929,6 +929,4 @@
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 "profile_coupon_use" = "去使用";
-"profile_coupon_details" = "優惠券詳情";
-"profile_coupon_expired" = "已過期";
-"profile_coupon_viewdetails" = "查看詳情";
+"search_mall_about" = "優惠券詳情";

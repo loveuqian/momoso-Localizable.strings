@@ -929,6 +929,4 @@
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 "profile_coupon_use" = "MENGGUNAKAN";
-"profile_coupon_details" = "Detail Kupon";
-"profile_coupon_expired" = "Kadaluarsa";
-"profile_coupon_viewdetails" = "Melihat rincian";
+"search_mall_about" = "Detail Kupon";

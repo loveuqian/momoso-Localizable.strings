@@ -929,6 +929,4 @@
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 "profile_coupon_use" = "SỬ DỤNG";
-"profile_coupon_details" = "Chi tiết";
-"profile_coupon_expired" = "Đã hết hạn";
-"profile_coupon_viewdetails" = "Xem chi tiết";
+"search_mall_about" = "Chi tiết";
