@@ -926,3 +926,7 @@
 "search_mall_about" = "Tentang";
 "search_mall_More" = "Lebih";
 "search_mall_less" = "Kurang";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+"profile_coupon_use" = "MENGGUNAKAN";
+"search_mall_about" = "Detail Kupon";

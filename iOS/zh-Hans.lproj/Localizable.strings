@@ -926,3 +926,7 @@
 "search_mall_about" = "店铺故事";
 "search_mall_More" = "更多";
 "search_mall_less" = "收起";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+"profile_coupon_use" = "去使用";
+"search_mall_about" = "优惠券详情";
