@@ -928,5 +928,7 @@
 "search_mall_less" = "Less";
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
-"profile_coupon_use" = "USE NOW";
-"search_mall_about" = "Coupon Details";
+"profile_coupon_use" = "Use Now";
+"profile_coupon_details" = "Coupon Details";
+"profile_coupon_expired" = "Expired";
+"profile_coupon_viewdetail" = "View Details";

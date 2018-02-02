@@ -929,4 +929,6 @@
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 "profile_coupon_use" = "MENGGUNAKAN";
-"search_mall_about" = "Detail Kupon";
+"profile_coupon_details" = "Detail Kupon";
+"profile_coupon_expired" = "Kadaluarsa";
+"profile_coupon_viewdetail" = "Rincian";
