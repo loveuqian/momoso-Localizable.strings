@@ -932,3 +932,5 @@
 "profile_coupon_details" = "Detail Kupon";
 "profile_coupon_expired" = "Kadaluarsa";
 "profile_coupon_viewdetail" = "Rincian";
+"profile_coupon_timefrom" = "Sah Sejak";
+"profile_coupon_timeto" = "Sampai";

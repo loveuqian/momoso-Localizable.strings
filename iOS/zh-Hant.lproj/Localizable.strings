@@ -932,3 +932,5 @@
 "profile_coupon_details" = "優惠券詳情";
 "profile_coupon_expired" = "已過期";
 "profile_coupon_viewdetail" = "查看詳情";
+"profile_coupon_timefrom" = "有效期始於";
+"profile_coupon_timeto" = "止於";

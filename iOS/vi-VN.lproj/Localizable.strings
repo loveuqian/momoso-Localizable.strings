@@ -932,3 +932,5 @@
 "profile_coupon_details" = "Chi tiết";
 "profile_coupon_expired" = "Đã hết hạn";
 "profile_coupon_viewdetail" = "Xem chi tiết";
+"profile_coupon_timefrom" = "Có giá trị Từ";
+"profile_coupon_timeto" = "Đến";

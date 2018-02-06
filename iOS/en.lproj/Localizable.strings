@@ -932,3 +932,5 @@
 "profile_coupon_details" = "Coupon Details";
 "profile_coupon_expired" = "Expired";
 "profile_coupon_viewdetail" = "View Details";
+"profile_coupon_timefrom" = "Valid From";
+"profile_coupon_timeto" = "To";
