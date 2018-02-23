@@ -934,3 +934,4 @@
 "profile_coupon_viewdetail" = "View Details";
 "profile_coupon_timefrom" = "Valid From";
 "profile_coupon_timeto" = "To";
+"order_coupon_notchoose" = "Do not use coupon";

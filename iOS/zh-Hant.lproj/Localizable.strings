@@ -934,3 +934,4 @@
 "profile_coupon_viewdetail" = "查看詳情";
 "profile_coupon_timefrom" = "有效期始於";
 "profile_coupon_timeto" = "止於";
+"order_coupon_notchoose" = "不使用優惠券";
