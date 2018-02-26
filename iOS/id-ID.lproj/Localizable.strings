@@ -935,3 +935,5 @@
 "profile_coupon_timefrom" = "Sah Sejak";
 "profile_coupon_timeto" = "Sampai";
 "order_coupon_notchoose" = "Jangan gunakan kupon";
+"profile_coupon_unused" = "Tidak digunakan";
+"profile_coupon_expired" = "Kadaluarsa";

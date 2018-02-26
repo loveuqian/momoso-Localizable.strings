@@ -935,3 +935,5 @@
 "profile_coupon_timefrom" = "Có giá trị Từ";
 "profile_coupon_timeto" = "Đến";
 "order_coupon_notchoose" = "Không sử dụng phiếu giảm giá";
+"profile_coupon_unused" = "Chưa sử dụng";
+"profile_coupon_expired" = "Đã hết hạn";
