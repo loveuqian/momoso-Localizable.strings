@@ -937,3 +937,4 @@
 "order_coupon_notchoose" = "Jangan gunakan kupon";
 "profile_coupon_unused" = "Tidak digunakan";
 "profile_coupon_expired" = "Kadaluarsa";
+"profile_coupon_nocoupon" = "Tidak ada kupon yang tersedia";

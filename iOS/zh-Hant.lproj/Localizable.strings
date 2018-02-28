@@ -937,3 +937,4 @@
 "order_coupon_notchoose" = "不使用優惠券";
 "profile_coupon_unused" = "未使用";
 "profile_coupon_expired" = "已過期";
+"profile_coupon_nocoupon" = "無可用優惠券";

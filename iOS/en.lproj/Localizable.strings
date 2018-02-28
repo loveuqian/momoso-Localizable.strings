@@ -937,3 +937,4 @@
 "order_coupon_notchoose" = "Do not use coupon";
 "profile_coupon_unused" = "Unused";
 "profile_coupon_expired" = "Expired";
+"profile_coupon_nocoupon" = "No Coupons Available";

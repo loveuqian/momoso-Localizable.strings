@@ -937,3 +937,4 @@
 "order_coupon_notchoose" = "Không sử dụng phiếu giảm giá";
 "profile_coupon_unused" = "Chưa sử dụng";
 "profile_coupon_expired" = "Đã hết hạn";
+"profile_coupon_nocoupon" = "Không có phiếu giảm giá nào";
