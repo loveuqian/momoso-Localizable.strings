@@ -938,3 +938,10 @@
 "profile_coupon_unused" = "Unused";
 "profile_coupon_expired" = "Expired";
 "profile_coupon_nocoupon" = "No Coupons Available";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"order_status_unpaid" = "Unpaid";
+"order_status_pending" = "Pending";
+"order_status_shipping" = "Shipping";
+"order_status_all" = "All";

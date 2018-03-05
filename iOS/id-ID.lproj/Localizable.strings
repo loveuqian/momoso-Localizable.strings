@@ -938,3 +938,10 @@
 "profile_coupon_unused" = "Tidak digunakan";
 "profile_coupon_expired" = "Kadaluarsa";
 "profile_coupon_nocoupon" = "Tidak ada kupon yang tersedia";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"order_status_unpaid" = "Tidak dibayar";
+"order_status_pending" = "Tertunda";
+"order_status_shipping" = "Pengiriman";
+"order_status_all" = "Semua";

@@ -938,3 +938,10 @@
 "profile_coupon_unused" = "Chưa sử dụng";
 "profile_coupon_expired" = "Đã hết hạn";
 "profile_coupon_nocoupon" = "Không có phiếu giảm giá nào";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"order_status_unpaid" = "Không trả tiền";
+"order_status_pending" = "Chuẩn bị";
+"order_status_shipping" = "Chuyển";
+"order_status_all" = "Tất cả các";

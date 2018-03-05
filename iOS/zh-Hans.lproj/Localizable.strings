@@ -938,3 +938,10 @@
 "profile_coupon_unused" = "未使用";
 "profile_coupon_expired" = "已过期";
 "profile_coupon_nocoupon" = "无可用优惠券";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"order_status_unpaid" = "未付款";
+"order_status_pending" = "备货中";
+"order_status_shipping" = "运输中";
+"order_status_all" = "所有订单";
