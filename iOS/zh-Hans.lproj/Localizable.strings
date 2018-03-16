@@ -945,3 +945,8 @@
 "order_status_pending" = "备货中";
 "order_status_shipping" = "运输中";
 "order_status_all" = "所有订单";
+"order_detail_policy" = "售后政策";
+"order_policy_help" = "需要帮助？";
+"order_policy_contact" = " 联系我们。";
+"order_confirm_delivery" = "确认收货";
+"order_confirm_logistics" = "物流详情";

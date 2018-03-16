@@ -945,3 +945,8 @@
 "order_status_pending" = "Pending";
 "order_status_shipping" = "Shipping";
 "order_status_all" = "All";
+"order_detail_policy" = "After Sales Policy";
+"order_policy_help" = "Need help?";
+"order_policy_contact" = " Contact us.";
+"order_confirm_delivery" = "Confirm Delivery";
+"order_confirm_logistics" = "Logistics";

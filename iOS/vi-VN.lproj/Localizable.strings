@@ -945,3 +945,8 @@
 "order_status_pending" = "Chuẩn bị";
 "order_status_shipping" = "Chuyển";
 "order_status_all" = "Tất cả các";
+"order_detail_policy" = "Chính sách sau bán hàng";
+"order_policy_help" = "Cần giúp đỡ?";
+"order_policy_contact" = " Liên hệ chúng tôi.";
+"order_confirm_delivery" = "Xác nhận giao hàng";
+"order_confirm_logistics" = "Logistics";

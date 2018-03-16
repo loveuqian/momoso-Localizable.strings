@@ -945,3 +945,8 @@
 "order_status_pending" = "Tertunda";
 "order_status_shipping" = "Pengiriman";
 "order_status_all" = "Semua";
+"order_detail_policy" = "Kebijakan purna jual";
+"order_policy_help" = "Butuh bantuan?";
+"order_policy_contact" = " Hubungi kami.";
+"order_confirm_delivery" = "Konfirmasi pengiriman";
+"order_confirm_logistics" = "Logistik";
