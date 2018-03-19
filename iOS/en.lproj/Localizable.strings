@@ -954,3 +954,5 @@
 "order_status_refunded" = "Refunded";
 "order_logistics_co" = "Shipping company ";
 "order_logistics_no" = "\nTracking number ";
+"order_logistics_day" = " day";
+"order_logistics_days" = " days";

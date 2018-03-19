@@ -954,3 +954,5 @@
 "order_status_refunded" = "已退款";
 "order_logistics_co" = "物流公司 ";
 "order_logistics_no" = "\n運單號 ";
+"order_logistics_day" = " 天";
+"order_logistics_days" = " 天";

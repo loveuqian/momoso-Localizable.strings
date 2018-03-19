@@ -954,3 +954,5 @@
 "order_status_refunded" = "Hoàn lại tiền";
 "order_logistics_co" = "Đại lý giao nhận ";
 "order_logistics_no" = "\nSố theo dõi ";
+"order_logistics_day" = " ngày";
+"order_logistics_days" = " ngày";

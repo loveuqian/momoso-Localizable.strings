@@ -954,3 +954,5 @@
 "order_status_refunded" = "Dikembalikan";
 "order_logistics_co" = "Agen pengiriman ";
 "order_logistics_no" = "\nMelacak nomor ";
+"order_logistics_day" = " hari";
+"order_logistics_days" = " hari";
