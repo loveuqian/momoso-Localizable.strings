@@ -950,3 +950,5 @@
 "order_policy_contact" = " 联系我们。";
 "order_confirm_delivery" = "确认收货";
 "order_confirm_logistics" = "物流详情";
+"order_status_finished" = "已完成";
+"order_status_refunded" = "已退款";

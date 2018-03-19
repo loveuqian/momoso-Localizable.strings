@@ -950,3 +950,5 @@
 "order_policy_contact" = " Hubungi kami.";
 "order_confirm_delivery" = "Konfirmasi pengiriman";
 "order_confirm_logistics" = "Logistik";
+"order_status_finished" = "Jadi";
+"order_status_refunded" = "Dikembalikan";

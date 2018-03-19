@@ -950,3 +950,5 @@
 "order_policy_contact" = " Liên hệ chúng tôi.";
 "order_confirm_delivery" = "Xác nhận giao hàng";
 "order_confirm_logistics" = "Logistics";
+"order_status_finished" = "Đã kết thúc";
+"order_status_refunded" = "Hoàn lại tiền";

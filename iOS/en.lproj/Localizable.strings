@@ -950,3 +950,5 @@
 "order_policy_contact" = " Contact us.";
 "order_confirm_delivery" = "Confirm Delivery";
 "order_confirm_logistics" = "Logistics";
+"order_status_finished" = "Finished";
+"order_status_refunded" = "Refunded";
