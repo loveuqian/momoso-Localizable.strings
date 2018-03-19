@@ -952,3 +952,5 @@
 "order_confirm_logistics" = "Logistics";
 "order_status_finished" = "Finished";
 "order_status_refunded" = "Refunded";
+"order_logistics_co" = "Shipping company";
+"order_logistics_no" = "Tracking number";

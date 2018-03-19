@@ -952,3 +952,5 @@
 "order_confirm_logistics" = "Logistik";
 "order_status_finished" = "Jadi";
 "order_status_refunded" = "Dikembalikan";
+"order_logistics_co" = "Agen pengiriman";
+"order_logistics_no" = "Melacak nomor";

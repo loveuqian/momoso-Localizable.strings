@@ -952,3 +952,5 @@
 "order_confirm_logistics" = "Logistics";
 "order_status_finished" = "Đã kết thúc";
 "order_status_refunded" = "Hoàn lại tiền";
+"order_logistics_co" = "Đại lý giao nhận";
+"order_logistics_no" = "Số theo dõi";
