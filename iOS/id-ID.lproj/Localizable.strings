@@ -964,3 +964,5 @@
 "package_status_Delivered" = "Menyampaikan";
 "package_status_Refunded" = "Dikembalikan";
 "package_status_CanceledBeforePaid" = "Kadaluarsa";
+"order_item_no" = " barang";
+"order_item_nos" = " barang";

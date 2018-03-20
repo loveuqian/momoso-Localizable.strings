@@ -964,3 +964,5 @@
 "package_status_Delivered" = "Đang gửi";
 "package_status_Refunded" = "Hoàn lại tiền";
 "package_status_CanceledBeforePaid" = "Đã hết hạn";
+"order_item_no" = " mục";
+"order_item_nos" = " mục";

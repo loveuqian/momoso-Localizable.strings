@@ -964,3 +964,5 @@
 "package_status_Delivered" = "Delivering";
 "package_status_Refunded" = "Refunded";
 "package_status_CanceledBeforePaid" = "Expired";
+"order_item_no" = " item";
+"order_item_nos" = " items";

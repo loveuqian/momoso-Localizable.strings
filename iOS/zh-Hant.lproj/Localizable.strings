@@ -964,3 +964,5 @@
 "package_status_Delivered" = "派送中";
 "package_status_Refunded" = "已退款";
 "package_status_CanceledBeforePaid" = "已過期";
+"order_item_no" = " 件商品";
+"order_item_nos" = " 件商品";
