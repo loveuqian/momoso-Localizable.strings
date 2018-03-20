@@ -956,3 +956,11 @@
 "order_logistics_no" = "\n運單號 ";
 "order_logistics_day" = " 天";
 "order_logistics_days" = " 天";
+"package_status_unpaid" = "待支付";
+"package_status_Processing" = "備貨中";
+"package_status_readytoship" = "準備出倉";
+"package_status_canceledafterpaid" = "已取消";
+"package_status_transit" = "運輸中";
+"package_status_delivered" = "派送中";
+"package_status_refunded" = "已退款";
+"package_status_canceledbeforepaid" = "已過期";
