@@ -971,3 +971,4 @@
 "refunded_list_bottombar_no" = " mục";
 "refunded_list_bottombar_nos" = " mục";
 "pending_canceled_notice" = "Tiền của bạn sẽ được trả lại trong 48 giờ";
+"order_detail_delete" = "Xóa bỏ";
