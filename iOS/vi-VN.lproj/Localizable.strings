@@ -966,3 +966,8 @@
 "package_status_CanceledBeforePaid" = "Đã hết hạn";
 "order_item_no" = " mục";
 "order_item_nos" = " mục";
+"order_refunded_buy" = "Mua lại";
+"refunded_list_bottombar_sum" = "Hoàn toàn ";
+"refunded_list_bottombar_no" = " mục";
+"refunded_list_bottombar_nos" = " mục";
+"pending_canceled_notice" = "Tiền của bạn sẽ được trả lại trong 48 giờ";

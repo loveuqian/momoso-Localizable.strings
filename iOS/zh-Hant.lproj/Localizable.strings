@@ -966,3 +966,8 @@
 "package_status_CanceledBeforePaid" = "已過期";
 "order_item_no" = " 件商品";
 "order_item_nos" = " 件商品";
+"order_refunded_buy" = "再次購買";
+"refunded_list_bottombar_sum" = "總計 ";
+"refunded_list_bottombar_no" = " 件商品";
+"refunded_list_bottombar_nos" = " 件商品";
+"pending_canceled_notice" = "您將在48小時內收到退款";
