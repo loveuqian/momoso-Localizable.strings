@@ -952,8 +952,8 @@
 "order_confirm_logistics" = "Logistics";
 "order_status_finished" = "Finished";
 "order_status_refunded" = "Refunded";
-"order_logistics_co" = "Shipping company ";
-"order_logistics_no" = "\nTracking number ";
+"order_logistics_co" = "Shipping CO. ";
+"order_logistics_no" = "\nTracking No. ";
 "order_logistics_day" = " day";
 "order_logistics_days" = " days";
 "package_status_Unpaid" = "Unpaid";
@@ -961,7 +961,7 @@
 "package_status_ReadyToShip" = "Ready to ship";
 "package_status_CanceledAfterPaid" = "Canceled";
 "package_status_InTransit" = "In Transit";
-"package_status_Delivered" = "Delivering";
+"package_status_Delivered" = "Delivered";
 "package_status_Refunded" = "Refunded";
 "package_status_CanceledBeforePaid" = "Expired";
 "order_item_no" = " item";

@@ -961,7 +961,7 @@
 "package_status_ReadyToShip" = "準備出倉";
 "package_status_CanceledAfterPaid" = "已取消";
 "package_status_InTransit" = "運輸中";
-"package_status_Delivered" = "派送中";
+"package_status_Delivered" = "已签收";
 "package_status_Refunded" = "已退款";
 "package_status_CanceledBeforePaid" = "已過期";
 "order_item_no" = " 件商品";
