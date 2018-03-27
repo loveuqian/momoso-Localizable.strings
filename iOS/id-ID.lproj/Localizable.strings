@@ -972,4 +972,4 @@
 "refunded_list_bottombar_nos" = " barang";
 "pending_canceled_notice" = "Uang Anda akan dikembalikan dalam 48 jam";
 "order_detail_delete" = "Menghapus";
-"order_entry_allorder" = "Semua";
+"sidebar_order" = "Semua";
