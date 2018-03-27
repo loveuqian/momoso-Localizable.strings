@@ -972,3 +972,4 @@
 "refunded_list_bottombar_nos" = " items";
 "pending_canceled_notice" = "Your money will be returned in 48 hours";
 "order_detail_delete" = "Delete";
+"order_entry_allorder" = "All Orders";
