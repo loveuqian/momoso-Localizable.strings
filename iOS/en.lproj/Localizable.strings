@@ -974,3 +974,4 @@
 "order_detail_delete" = "Delete";
 "sidebar_order" = "All Orders";
 "order_viewdetail" = "View Details";
+"order_intransit_package" = "Package ";

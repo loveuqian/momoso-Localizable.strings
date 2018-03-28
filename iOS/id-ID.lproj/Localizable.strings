@@ -974,3 +974,4 @@
 "order_detail_delete" = "Menghapus";
 "sidebar_order" = "Semua";
 "order_viewdetail" = "Melihat rincian";
+"order_intransit_package" = "Paket ";

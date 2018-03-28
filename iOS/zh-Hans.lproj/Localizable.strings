@@ -974,3 +974,4 @@
 "order_detail_delete" = "删除订单";
 "sidebar_order" = "所有订单";
 "order_viewdetail" = "查看详情";
+"order_intransit_package" = "包裹 ";
