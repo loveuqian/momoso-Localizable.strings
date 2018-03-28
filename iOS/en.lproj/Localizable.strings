@@ -952,7 +952,7 @@
 "order_confirm_logistics" = "Logistics";
 "order_status_finished" = "Finished";
 "order_status_refunded" = "Refunded";
-"order_logistics_co" = "Shipping CO. ";
+"order_logistics_co" = "Shipping Co. ";
 "order_logistics_no" = "\nTracking No. ";
 "order_logistics_day" = " day";
 "order_logistics_days" = " days";
@@ -975,3 +975,4 @@
 "sidebar_order" = "All Orders";
 "order_viewdetail" = "View Details";
 "order_intransit_package" = "Package ";
+"order_detail_time" = "Order time";

@@ -975,3 +975,4 @@
 "sidebar_order" = "Semua";
 "order_viewdetail" = "Melihat rincian";
 "order_intransit_package" = "Paket ";
+"order_detail_time" = "Waktu";

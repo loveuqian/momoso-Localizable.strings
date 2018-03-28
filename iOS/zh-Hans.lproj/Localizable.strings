@@ -975,3 +975,4 @@
 "sidebar_order" = "所有订单";
 "order_viewdetail" = "查看详情";
 "order_intransit_package" = "包裹 ";
+"order_detail_time" = "下单时间";
