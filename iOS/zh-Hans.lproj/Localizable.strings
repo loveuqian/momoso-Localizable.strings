@@ -979,3 +979,8 @@
 "order_noorder_title" = "暂无订单";
 "order_noorder_info" = "快去装满你的购物车吧！";
 "order_noorder_button" = "去购物";
+"order_detail_param_price" = "价格";
+"order_detail_param_shipping" = "运费";
+"order_detail_param_total" = "合计";
+"order_detail_param_discount" = "折扣";
+"order_detail_param_refund" = "退款";

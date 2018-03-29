@@ -979,3 +979,8 @@
 "order_noorder_title" = "No Orders";
 "order_noorder_info" = "Go and add goods to your shopping cart!";
 "order_noorder_button" = "Go shopping";
+"order_detail_param_price" = "Price";
+"order_detail_param_shipping" = "Shipping";
+"order_detail_param_total" = "Total";
+"order_detail_param_discount" = "Discount";
+"order_detail_param_refund" = "Refund";

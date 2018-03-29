@@ -979,3 +979,8 @@
 "order_noorder_title" = "Bukan Pesanan";
 "order_noorder_info" = "Pergi dan tambahkan barang ke keranjang belanja Anda!";
 "order_noorder_button" = "Pergi berbelanja";
+"order_detail_param_price" = "Harga";
+"order_detail_param_shipping" = "Pengiriman";
+"order_detail_param_total" = "Jumlah";
+"order_detail_param_discount" = "Diskon";
+"order_detail_param_refund" = "Pengembalian dana";

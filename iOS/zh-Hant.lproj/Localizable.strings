@@ -979,3 +979,8 @@
 "order_noorder_title" = "暫無訂單";
 "order_noorder_info" = "快去裝滿你的購物車吧！";
 "order_noorder_button" = "去購物";
+"order_detail_param_price" = "價格";
+"order_detail_param_shipping" = "運費";
+"order_detail_param_total" = "合計";
+"order_detail_param_discount" = "折扣";
+"order_detail_param_refund" = "退款";

@@ -979,3 +979,8 @@
 "order_noorder_title" = "Không phải đơn đặt hàng";
 "order_noorder_info" = "Đi và thêm hàng vào giỏ hàng của bạn!";
 "order_noorder_button" = "Đi mua sắm";
+"order_detail_param_price" = "Giá";
+"order_detail_param_shipping" = "Vận chuyển";
+"order_detail_param_total" = "Tổng cộng";
+"order_detail_param_discount" = "Giảm giá";
+"order_detail_param_refund" = "Hoàn lại tiền";
