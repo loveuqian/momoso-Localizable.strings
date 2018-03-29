@@ -976,3 +976,6 @@
 "order_viewdetail" = "Melihat rincian";
 "order_intransit_package" = "Paket ";
 "order_detail_time" = "Waktu";
+"order_noorder_title" = "Bukan Pesanan";
+"order_noorder_info" = "Pergi dan tambahkan barang ke keranjang belanja Anda!";
+"order_noorder_button" = "Pergi berbelanja";

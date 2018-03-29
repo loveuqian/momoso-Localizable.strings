@@ -976,3 +976,6 @@
 "order_viewdetail" = "查看详情";
 "order_intransit_package" = "包裹 ";
 "order_detail_time" = "下单时间";
+"order_noorder_title" = "暂无订单";
+"order_noorder_info" = "快去装满你的购物车吧！";
+"order_noorder_button" = "去购物";

@@ -974,5 +974,8 @@
 "order_detail_delete" = "Delete";
 "sidebar_order" = "All Orders";
 "order_viewdetail" = "View Details";
-"order_intransit_package" = "Package ";
 "order_detail_time" = "Order time";
+"order_intransit_package" = "Package ";
+"order_noorder_title" = "No Orders";
+"order_noorder_info" = "Go and add goods to your shopping cart!";
+"order_noorder_button" = "Go shopping";

@@ -976,3 +976,6 @@
 "order_viewdetail" = "Xem chi tiết";
 "order_intransit_package" = "Trọn gói ";
 "order_detail_time" = "Thời gian";
+"order_noorder_title" = "Không phải đơn đặt hàng";
+"order_noorder_info" = "Đi và thêm hàng vào giỏ hàng của bạn!";
+"order_noorder_button" = "Đi mua sắm";
