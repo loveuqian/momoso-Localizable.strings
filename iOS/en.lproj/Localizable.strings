@@ -984,3 +984,11 @@
 "order_detail_param_total" = "Total";
 "order_detail_param_discount" = "Discount";
 "order_detail_param_refund" = "Refund";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"guide_cart_title" = "Shopping Cart";
+"guide_cart_para" = "Check the shopping cart here.";
+"guide_cart_button" = "Got it";
+"guide_dp_title" = "Add to Cart";
+"guide_dp_para" = "Put the goods into the shopping cart here.";

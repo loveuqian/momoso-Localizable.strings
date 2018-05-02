@@ -984,3 +984,11 @@
 "order_detail_param_total" = "Jumlah";
 "order_detail_param_discount" = "Diskon";
 "order_detail_param_refund" = "Pengembalian dana";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"guide_cart_title" = "Kereta Belanja";
+"guide_cart_para" = "Periksa keranjang belanja di sini.";
+"guide_cart_button" = "Mengerti";
+"guide_dp_title" = "Masukkan ke keranjang";
+"guide_dp_para" = "Masukkan barang ke keranjang belanja di sini.";

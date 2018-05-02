@@ -984,3 +984,11 @@
 "order_detail_param_total" = "合计";
 "order_detail_param_discount" = "折扣";
 "order_detail_param_refund" = "退款";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"guide_cart_title" = "购物车";
+"guide_cart_para" = "点击查看购物车";
+"guide_cart_button" = "知道了";
+"guide_dp_title" = "加入购物车";
+"guide_dp_para" = "点击将商品加入购物车";

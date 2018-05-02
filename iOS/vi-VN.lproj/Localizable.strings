@@ -984,3 +984,11 @@
 "order_detail_param_total" = "Tổng cộng";
 "order_detail_param_discount" = "Giảm giá";
 "order_detail_param_refund" = "Hoàn lại tiền";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"guide_cart_title" = "Giỏ hàng";
+"guide_cart_para" = "Kiểm tra giỏ hàng ở đây.";
+"guide_cart_button" = "Hiểu rồi";
+"guide_dp_title" = "Thêm vào giỏ hàng";
+"guide_dp_para" = "Đặt hàng vào giỏ mua hàng ở đây.";
