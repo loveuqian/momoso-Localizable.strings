@@ -992,3 +992,18 @@
 "guide_cart_button" = "Hiểu rồi";
 "guide_dp_title" = "Thêm vào giỏ hàng";
 "guide_dp_para" = "Đặt hàng vào giỏ mua hàng ở đây.";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "XIN CHÚC MỪNG";
+"coupon_loggedin_content_title" = "Đạt được";
+"coupon_loggedin_content_description_1" = "Phiếu giảm giá ứng dụng độc quyền";
+"coupon_loggedin_content_description_2" = "Phiếu thưởng người dùng mới";
+"coupon_loggedin_button" = "Xem phiếu giảm giá";
+"coupon_notloggedin_coupon" = "Phiếu mua hàng";
+"coupon_notloggedin_title_1" = "Gửi cho bạn\n";
+"coupon_notloggedin_title_2" = "Người dùng mới chỉ\n";
+"coupon_notloggedin_title_3" = "phiếu giảm giá";
+"coupon_notloggedin_content_description_1" = "Đăng ký để nhận ";
+"coupon_notloggedin_content_description_2" = "phiếu giảm giá.";
+"coupon_notloggedin_button" = "Hiểu rồi!";

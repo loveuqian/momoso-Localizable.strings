@@ -992,3 +992,18 @@
 "guide_cart_button" = "知道了";
 "guide_dp_title" = "加入购物车";
 "guide_dp_para" = "点击将商品加入购物车";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "恭喜你";
+"coupon_loggedin_content_title" = "获得";
+"coupon_loggedin_content_description_1" = "APP专属优惠券";
+"coupon_loggedin_content_description_2" = "新用户专属优惠券";
+"coupon_loggedin_button" = "查看我的优惠券";
+"coupon_notloggedin_coupon" = "优惠券";
+"coupon_notloggedin_title_1" = "送你\n";
+"coupon_notloggedin_title_2" = "新用户专属\n";
+"coupon_notloggedin_title_3" = "优惠券";
+"coupon_notloggedin_content_description_1" = "快注册去领取 ";
+"coupon_notloggedin_content_description_2" = "优惠券吧！";
+"coupon_notloggedin_button" = "领取优惠券!";
