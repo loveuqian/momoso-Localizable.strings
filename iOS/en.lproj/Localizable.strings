@@ -992,3 +992,22 @@
 "guide_cart_button" = "Got it";
 "guide_dp_title" = "Add to Cart";
 "guide_dp_para" = "Put the goods into the shopping cart here.";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "CONGRETULATIONS";
+"coupon_loggedin_content_title" = "Obtain";
+"coupon_loggedin_content_description_1" = "App Exclusive Coupon";
+"coupon_loggedin_content_description_2" = "New User Coupon";
+"coupon_loggedin_button" = "See My Coupons";
+"coupon_notloggedin_coupon" = "Coupon";
+"coupon_notloggedin_title_1" = "Send you\n";
+"coupon_notloggedin_title_2" = "the New User-Only\n";
+"coupon_notloggedin_title_3" = "coupons";
+"coupon_notloggedin_content_description_1" = "Sign up to get ";
+"coupon_notloggedin_content_description_2" = "coupons！";
+"coupon_notloggedin_button" = "Get it!";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"global_toast" = "Oops, you have lost internet connection.";

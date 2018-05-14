@@ -992,3 +992,22 @@
 "guide_cart_button" = "知道了";
 "guide_dp_title" = "加入購物車";
 "guide_dp_para" = "點擊將商品加入購物車";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "恭喜你";
+"coupon_loggedin_content_title" = "獲得";
+"coupon_loggedin_content_description_1" = "APP專屬優惠券";
+"coupon_loggedin_content_description_2" = "新用戶專屬優惠券";
+"coupon_loggedin_button" = "查看我的優惠券";
+"coupon_notloggedin_coupon" = "優惠券";
+"coupon_notloggedin_title_1" = "送你\n";
+"coupon_notloggedin_title_2" = "新用戶專屬\n";
+"coupon_notloggedin_title_3" = "優惠券";
+"coupon_notloggedin_content_description_1" = "快註冊去領取 ";
+"coupon_notloggedin_content_description_2" = "優惠券吧！";
+"coupon_notloggedin_button" = "領取優惠券!";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"global_toast" = "客官，網絡不給力啊！";

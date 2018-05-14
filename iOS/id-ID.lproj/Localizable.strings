@@ -992,3 +992,22 @@
 "guide_cart_button" = "Mengerti";
 "guide_dp_title" = "Masukkan ke keranjang";
 "guide_dp_para" = "Masukkan barang ke keranjang belanja di sini.";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "SELAMAT";
+"coupon_loggedin_content_title" = "Memperoleh";
+"coupon_loggedin_content_description_1" = "Kupon Eksklusif Aplikasi";
+"coupon_loggedin_content_description_2" = "Kupon Pengguna Baru";
+"coupon_loggedin_button" = "Lihat Kupon Saya";
+"coupon_notloggedin_coupon" = "Kupon";
+"coupon_notloggedin_title_1" = "Mengirimkan\n";
+"coupon_notloggedin_title_2" = "Hanya Pengguna Baru\n";
+"coupon_notloggedin_title_3" = "Kupon";
+"coupon_notloggedin_content_description_1" = "Daftar untuk mendapatkan ";
+"coupon_notloggedin_content_description_2" = "Kupon.";
+"coupon_notloggedin_button" = "Mendapatkan!";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"global_toast" = "Ups, Anda kehilangan koneksi internet Anda.";
