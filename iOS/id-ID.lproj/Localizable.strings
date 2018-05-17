@@ -1011,3 +1011,4 @@
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 
 "global_toast" = "Ups, Anda kehilangan koneksi internet Anda.";
+"cart_wrong_address_toast" = "Maaf, alamat ini tidak bisa dipilih.";

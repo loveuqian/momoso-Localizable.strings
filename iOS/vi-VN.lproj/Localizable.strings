@@ -1011,3 +1011,4 @@
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 
 "global_toast" = "Rất tiếc, bạn đã mất kết nối Internet.";
+"cart_wrong_address_toast" = "Rất tiếc, không thể chọn địa chỉ này.";
