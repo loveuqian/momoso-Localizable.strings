@@ -1012,3 +1012,13 @@
 
 "global_toast" = "Ups, Anda kehilangan koneksi internet Anda.";
 "cart_wrong_address_toast" = "Maaf, alamat ini tidak bisa dipilih.";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"orderpage_title_1" = "Pengembalian Dana Penuh";
+"orderpage_para_1" = "Jika Anda tidak menerima paket Anda.";
+"orderpage_title_2" = "Pengembalian dan Pengembalian Dana";
+"orderpage_para_2" = "Jika barang tidak sesuai deskripsi.";
+"orderpage_title_3" = "Pembayaran Aman dengan Perlindungan Escrow";
+"orderpage_title_4" = "Lebih Mudah, Resolusi Sengketa Lebih Cepat";
+"orderpage_title_5" = "Pengembalian Uang Jaminan 100%.";

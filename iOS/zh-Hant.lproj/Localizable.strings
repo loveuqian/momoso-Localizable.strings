@@ -1012,3 +1012,13 @@
 
 "global_toast" = "客官，網絡不給力啊！";
 "cart_wrong_address_toast" = "抱歉，該地址不可選。";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"orderpage_title_1" = "全額退款";
+"orderpage_para_1" = "如果您沒有收到訂單";
+"orderpage_title_2" = "退貨後退款";
+"orderpage_para_2" = "如果貨物與描述不符";
+"orderpage_title_3" = "安全支付有第三者保護";
+"orderpage_title_4" = "更容易更快速解決糾紛";
+"orderpage_title_5" = "保證100%退款";

@@ -1012,3 +1012,13 @@
 
 "global_toast" = "Oops, you have lost internet connection.";
 "cart_wrong_address_toast" = "Sorry, this address cannot be choosed.";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"orderpage_title_1" = "Full Refunded";
+"orderpage_para_1" = "If you do not receive your packages.";
+"orderpage_title_2" = "Return and Refunded";
+"orderpage_para_2" = "If item does not fit description.";
+"orderpage_title_3" = "Secure Payment with Escrow Protection";
+"orderpage_title_4" = "Easier, Faster Dispute Resolution";
+"orderpage_title_5" = "100% Guaranteed Refunds.";
