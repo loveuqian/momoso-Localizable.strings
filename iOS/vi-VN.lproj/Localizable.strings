@@ -1022,3 +1022,10 @@
 "orderpage_title_3" = "Thanh toán an toàn với bảo vệ ký quỹ";
 "orderpage_title_4" = "Độ phân giải tranh chấp nhanh hơn, dễ dàng hơn";
 "orderpage_title_5" = "Hoàn tiền 100% được đảm bảo";
+
+//////////////////////////// 商品详情-DP /////////////////////////////////
+
+"coupon_bigtitle" = "NGƯỜI SỬ DỤNG MỚI CHỈ";
+"coupon_para_title" = "PHIẾU MUA HÀNG";
+"coupon_para_button" = "Hiểu rồi!";
+"ai_price" = "AI GIÁ COMPARING";

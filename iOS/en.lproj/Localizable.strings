@@ -1022,3 +1022,10 @@
 "orderpage_title_3" = "Secure Payment with Escrow Protection";
 "orderpage_title_4" = "Easier, Faster Dispute Resolution";
 "orderpage_title_5" = "100% Guaranteed Refunds.";
+
+//////////////////////////// 商品详情-DP /////////////////////////////////
+
+"coupon_bigtitle" = "NEW USERS ONLY";
+"coupon_para_title" = "COUPON";
+"coupon_para_button" = "Get it!";
+"ai_price" = "AI PRICE COMPARISON";

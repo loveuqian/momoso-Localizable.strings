@@ -1022,3 +1022,10 @@
 "orderpage_title_3" = "Pembayaran Aman dengan Perlindungan Escrow";
 "orderpage_title_4" = "Lebih Mudah, Resolusi Sengketa Lebih Cepat";
 "orderpage_title_5" = "Pengembalian Uang Jaminan 100%.";
+
+//////////////////////////// 商品详情-DP /////////////////////////////////
+
+"coupon_bigtitle" = "PENGGUNA BARU SAJA";
+"coupon_para_title" = "KUPON";
+"coupon_para_button" = "Mendapatkan!";
+"ai_price" = "Perbandingan Harga AI";

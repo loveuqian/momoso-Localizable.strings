@@ -1022,3 +1022,10 @@
 "orderpage_title_3" = "安全支付有第三者保护";
 "orderpage_title_4" = "更容易更快速解决纠纷";
 "orderpage_title_5" = "保证100%退款";
+
+//////////////////////////// 商品详情-DP /////////////////////////////////
+
+"coupon_bigtitle" = "新用户专属";
+"coupon_para_title" = "优惠券";
+"coupon_para_button" = "领取";
+"ai_price" = "AI比价";
