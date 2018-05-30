@@ -1032,3 +1032,9 @@
 "ai_price_button" = "Lihatlah";
 "dp_share_para" = "Bagikan barang ini ke teman Anda";
 "dp_share_title" = "Bagikan ke Teman";
+"dp_item_description" = "Deskripsi";
+"dp_item_notice" = "Melihat";
+"dp_item_notice_time" = "waktu memproses";
+"dp_item_notice_size" = "Tentang Ukuran Bagan";
+"dp_item_description_more" = "Lebih";
+"dp_item_description_less" = "Kurang";

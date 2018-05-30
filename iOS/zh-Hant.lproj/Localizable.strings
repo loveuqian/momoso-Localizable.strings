@@ -1032,3 +1032,9 @@
 "ai_price_button" = "去看看";
 "dp_share_para" = "好東西怎能獨享，快分享給朋友們吧!";
 "dp_share_title" = "分享給朋友";
+"dp_item_description" = "商品詳情";
+"dp_item_notice" = "通知";
+"dp_item_notice_time" = "運輸時間";
+"dp_item_notice_size" = "關於尺寸";
+"dp_item_description_more" = "展開";
+"dp_item_description_less" = "收起";

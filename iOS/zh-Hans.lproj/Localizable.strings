@@ -1032,3 +1032,9 @@
 "ai_price_button" = "去看看";
 "dp_share_para" = "好东西怎能独享，快分享给朋友们吧!";
 "dp_share_title" = "分享给朋友";
+"dp_item_description" = "商品详情";
+"dp_item_notice" = "通知";
+"dp_item_notice_time" = "运输时间";
+"dp_item_notice_size" = "关于尺寸";
+"dp_item_description_more" = "展开";
+"dp_item_description_less" = "收起";

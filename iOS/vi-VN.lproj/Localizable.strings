@@ -1032,3 +1032,9 @@
 "ai_price_button" = "Hãy xem";
 "dp_share_para" = "Chia sẻ hàng này cho bạn bè của bạn";
 "dp_share_title" = "Chia sẻ với bạn bè";
+"dp_item_description" = "Sự miêu tả";
+"dp_item_notice" = "Để ý";
+"dp_item_notice_time" = "Thời gian xử lý";
+"dp_item_notice_size" = "Về kích thước biểu đồ";
+"dp_item_description_more" = "Hơn";
+"dp_item_description_less" = "Ít hơn";
