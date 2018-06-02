@@ -1038,3 +1038,8 @@
 "dp_item_notice_size" = "關於尺寸";
 "dp_item_description_more" = "展開";
 "dp_item_description_less" = "收起";
+
+//////////////////////////// 购物车-Cart /////////////////////////////////
+
+"free_shipping_title" = "免運費門檻 ";
+"free_shipping_goshopping" = "去購物";

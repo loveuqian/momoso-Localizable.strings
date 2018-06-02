@@ -1038,3 +1038,8 @@
 "dp_item_notice_size" = "Về kích thước biểu đồ";
 "dp_item_description_more" = "Hơn";
 "dp_item_description_less" = "Ít hơn";
+
+//////////////////////////// 购物车-Cart /////////////////////////////////
+
+"free_shipping_title" = "Giao hàng miễn phí trên đơn hàng qua ";
+"free_shipping_goshopping" = "Mua ngay";

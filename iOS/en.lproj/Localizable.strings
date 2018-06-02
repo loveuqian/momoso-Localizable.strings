@@ -1031,10 +1031,15 @@
 "ai_price" = "AI PRICE COMPARISON";
 "ai_price_button" = "Take A Look";
 "dp_share_para" = "Share this goods to your friends";
-"dp_share_title" = "Share to Friends";
+"dp_share_title" = "SHARE TO FRIEDNS";
 "dp_item_description" = "Description";
 "dp_item_notice" = "Notice";
 "dp_item_notice_time" = "Processing Time";
 "dp_item_notice_size" = "About Size Guide";
 "dp_item_description_more" = "More";
 "dp_item_description_less" = "Less";
+
+//////////////////////////// 购物车-Cart /////////////////////////////////
+
+"free_shipping_title" = "Free Shipping on Orders over ";
+"free_shipping_goshopping" = "Shop Now";

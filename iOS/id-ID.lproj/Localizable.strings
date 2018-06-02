@@ -1038,3 +1038,8 @@
 "dp_item_notice_size" = "Tentang Ukuran Bagan";
 "dp_item_description_more" = "Lebih";
 "dp_item_description_less" = "Kurang";
+
+//////////////////////////// 购物车-Cart /////////////////////////////////
+
+"free_shipping_title" = "Gratis Pengiriman pada Pesanan berakhir ";
+"free_shipping_goshopping" = "Beli Sekarang";
