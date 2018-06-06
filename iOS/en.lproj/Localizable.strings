@@ -1043,3 +1043,16 @@
 
 "free_shipping_title" = "Free Shipping on Orders over ";
 "free_shipping_goshopping" = "Shop Now";
+
+//////////////////////////// 登录-login /////////////////////////////////
+
+"Login_login" = "Log in";
+"login_facebook" = "Log in with Facebook";
+"login_phone" = "Log in with Phone";
+"login_google" = "Log in with Google";
+"login_email" = "Log in with Email";
+"signup_signin" = "Sign up";
+"signup_facebook" = "Sign up with Facebook";
+"signup_phone" = "Sign up with Phone";
+"signup_google" = "Sign up with Google";
+"signup_email" = "Sign up with Email";

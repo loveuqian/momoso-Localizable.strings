@@ -1043,3 +1043,16 @@
 
 "free_shipping_title" = "免运费门槛 ";
 "free_shipping_goshopping" = "去购物";
+
+//////////////////////////// 登录-login /////////////////////////////////
+
+"Login_login" = "登录";
+"login_facebook" = "Facebook登录";
+"login_phone" = "手机号登录";
+"login_google" = "谷歌登录";
+"login_email" = "邮箱登录";
+"signup_signin" = "注册";
+"signup_facebook" = "Facebook注册";
+"signup_phone" = "手机号注册";
+"signup_google" = "谷歌注册";
+"signup_email" = "邮箱注册";

@@ -1043,3 +1043,16 @@
 
 "free_shipping_title" = "Giao hàng miễn phí trên đơn hàng qua ";
 "free_shipping_goshopping" = "Mua ngay";
+
+//////////////////////////// 登录-login /////////////////////////////////
+
+"Login_login" = "Đăng nhập";
+"login_facebook" = "Đăng nhập bằng Facebook";
+"login_phone" = "Đăng nhập bằng Phone";
+"login_google" = "Đăng nhập bằng Google";
+"login_email" = "Đăng nhập bằng Email";
+"signup_signin" = "Đăng ký";
+"signup_facebook" = "Đăng ký với Facebook";
+"signup_phone" = "Đăng ký với Phone";
+"signup_google" = "Đăng ký với Google";
+"signup_email" = "Đăng ký với Email";

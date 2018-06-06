@@ -1043,3 +1043,16 @@
 
 "free_shipping_title" = "免運費門檻 ";
 "free_shipping_goshopping" = "去購物";
+
+//////////////////////////// 登录-login /////////////////////////////////
+
+"Login_login" = "登錄";
+"login_facebook" = "Facebook登錄";
+"login_phone" = "手機號登錄";
+"login_google" = "谷歌登錄";
+"login_email" = "郵箱登錄";
+"signup_signin" = "註冊";
+"signup_facebook" = "Facebook註冊";
+"signup_phone" = "手機號註冊";
+"signup_google" = "谷歌註冊";
+"signup_email" = "郵箱註冊";
