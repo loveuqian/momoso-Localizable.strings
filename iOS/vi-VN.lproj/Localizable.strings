@@ -1056,3 +1056,8 @@
 "signup_phone" = "Đăng ký với Phone";
 "signup_google" = "Đăng ký với Google";
 "signup_email" = "Đăng ký với Email";
+"signup_coupon" = " Dành cho người dùng mới";
+"signup_policydetail" = "Bằng cách tham gia, bạn đồng ý với";
+"signup_policydetail_1" = "Điều khoản";
+"signup_policydetail_2" = "&";
+"signup_policydetail_3" = "Chính sách bảo mật";

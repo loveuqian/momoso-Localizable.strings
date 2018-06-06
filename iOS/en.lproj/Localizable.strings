@@ -1056,3 +1056,8 @@
 "signup_phone" = "Sign up with Phone";
 "signup_google" = "Sign up with Google";
 "signup_email" = "Sign up with Email";
+"signup_coupon" = " for New Users";
+"signup_policydetail" = "By joining you agree to our";
+"signup_policydetail_1" = "Terms";
+"signup_policydetail_2" = "&";
+"signup_policydetail_3" = "Privacy Policy";
