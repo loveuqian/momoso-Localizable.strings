@@ -1061,3 +1061,15 @@
 "signup_policydetail_1" = "Ketentuan";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "Kebijakan Privasi";
+
+//////////////////////////// 空白页-nullpage /////////////////////////////////
+
+"no_coupon" = "Tanpa Kupon";
+"no_order" = "Tanpa Pesanan";
+"no_network" = "Kesalahan Jaringan";
+"no_network_retry" = "Silakan coba lagi";
+"no_search" = "Ups";
+"no_search_detail" = "Tidak Ada Hasil Pencarian";
+"no_goods_cart" = "Keranjang Kosong";
+"no_goods_cart_detail" = "Tambahkan barang di keranjang Anda sekarang!";
+"no_goods_cart_shop" = "Belanja Sekarang";

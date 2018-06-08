@@ -1061,3 +1061,15 @@
 "signup_policydetail_1" = "條款";
 "signup_policydetail_2" = "和";
 "signup_policydetail_3" = "隱私聲明";
+
+//////////////////////////// 空白页-nullpage /////////////////////////////////
+
+"no_coupon" = "暫無優惠券";
+"no_order" = "暫無訂單";
+"no_network" = "網絡異常";
+"no_network_retry" = "請重試";
+"no_search" = "喔哦";
+"no_search_detail" = "沒有搜索結果";
+"no_goods_cart" = "購物車為空";
+"no_goods_cart_detail" = "快去把購物車裝滿吧";
+"no_goods_cart_shop" = "去購物";

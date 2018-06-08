@@ -1061,3 +1061,15 @@
 "signup_policydetail_1" = "Terms";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "Privacy Policy";
+
+//////////////////////////// 空白页-nullpage /////////////////////////////////
+
+"no_coupon" = "No Coupon";
+"no_order" = "No Order";
+"no_network" = "Network Error";
+"no_network_retry" = "Please try again";
+"no_search" = "Oops";
+"no_search_detail" = "No Search Results";
+"no_goods_cart" = "Empty Cart";
+"no_goods_cart_detail" = "Add goods in your cart now!";
+"no_goods_cart_shop" = "Shopping Now";

@@ -1061,3 +1061,15 @@
 "signup_policydetail_1" = "Điều khoản";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "Chính sách bảo mật";
+
+//////////////////////////// 空白页-nullpage /////////////////////////////////
+
+"no_coupon" = "Không có phiếu giảm giá";
+"no_order" = "Không có đơn hàng nào";
+"no_network" = "Lỗi mạng";
+"no_network_retry" = "Vui lòng thử lại";
+"no_search" = "Rất tiếc";
+"no_search_detail" = "Không có kết quả tìm kiếm";
+"no_goods_cart" = "Giỏ hàng trống";
+"no_goods_cart_detail" = "Thêm hàng trong giỏ hàng của bạn ngay bây giờ!";
+"no_goods_cart_shop" = "Mua sắm ngay";
