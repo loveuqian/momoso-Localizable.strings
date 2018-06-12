@@ -1081,3 +1081,5 @@
 "india_street1_detail" = "房屋号，建筑物，街道，地点";
 "india_street2_detail" = "地标 (选填)";
 "india_city_title" = "市/区"; 
+"zip_wrong_toast" = "请输入六位数。";
+"zip_out_range" = "抱歉，该邮编地区暂不支持配送。";

@@ -1080,4 +1080,6 @@
 "india_address_postcode_title" = "Pincode";
 "india_street1_detail" = "House No, Building, Street, Locality";
 "india_street2_detail" = "Landmark (optional)";
-"india_city_title" = "City/District"; 
+"india_city_title" = "City/District";
+"zip_wrong_toast" = "Please enter 6 digits.";
+"zip_out_range" = "Sorry, we cannot deliver to this pincode.";

@@ -1081,3 +1081,5 @@
 "india_street1_detail" = "Nhà số, tòa nhà, đường phố, địa phương";
 "india_street2_detail" = "Mốc (không bắt buộc)";
 "india_city_title" = "Thành phố/Huyện"; 
+"zip_wrong_toast" = "Vui lòng nhập 6 chữ số.";
+"zip_out_range" = "Rất tiếc, chúng tôi không thể gửi tới mã PIN này.";
