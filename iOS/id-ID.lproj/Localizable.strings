@@ -1073,3 +1073,11 @@
 "no_goods_cart" = "Keranjang Kosong";
 "no_goods_cart_detail" = "Tambahkan barang di keranjang Anda sekarang!";
 "no_goods_cart_shop" = "Belanja Sekarang";
+
+//////////////////////////// 地址-Address /////////////////////////////////
+
+"phone_wrong_toast" = "Nomor telepon dalam format salah.";
+"india_address_postcode_title" = "Kode PIN";
+"india_street1_detail" = "Rumah Tidak, Gedung, Jalan, Lokalitas";
+"india_street2_detail" = "Tengara(pilihan)";
+"india_city_title" = "Kota/Distrik"; 

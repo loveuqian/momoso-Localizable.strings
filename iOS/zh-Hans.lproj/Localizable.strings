@@ -1073,3 +1073,11 @@
 "no_goods_cart" = "购物车为空";
 "no_goods_cart_detail" = "快去把购物车装满吧";
 "no_goods_cart_shop" = "去购物";
+
+//////////////////////////// 地址-Address /////////////////////////////////
+
+"phone_wrong_toast" = "电话号码不符合规则。";
+"india_address_postcode_title" = "邮编";
+"india_street1_detail" = "房屋号，建筑物，街道，地点";
+"india_street2_detail" = "地标 (选填)";
+"india_city_title" = "市/区"; 

@@ -1073,3 +1073,11 @@
 "no_goods_cart" = "Empty Cart";
 "no_goods_cart_detail" = "Add goods in your cart now!";
 "no_goods_cart_shop" = "Shopping Now";
+
+//////////////////////////// 地址-Address /////////////////////////////////
+
+"phone_wrong_toast" = "Phone number is in wrong format.";
+"india_address_postcode_title" = "Pincode";
+"india_street1_detail" = "House No, Building, Street, Locality";
+"india_street2_detail" = "Landmark (optional)";
+"india_city_title" = "City/District"; 
