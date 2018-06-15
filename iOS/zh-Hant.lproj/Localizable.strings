@@ -1090,3 +1090,11 @@
 "cash_on_delivery_0" = "附加費";
 "cash_on_delivery_1" = "使用貨到付款，您可在簽收時付款。";
 "cash_on delivery_2" = "若您有一筆貨到付款訂單未簽收，則不能使用貨到付款。";
+"phone_verify_title" = "訂單確認";
+"phone_verify_detail_0" = "請驗證手機號。";
+"phone_verify_detail_1" = "點擊‘驗證’獲取驗證碼。";
+"phone_verify_input" = "輸入您的手機號";
+"phone_verify_button" = "驗證";
+"phone_code_detail" = "請輸入六位數驗證碼";
+"phone_code_input" = "六位數驗證碼";
+"phone_code_resend" = "重新發送";

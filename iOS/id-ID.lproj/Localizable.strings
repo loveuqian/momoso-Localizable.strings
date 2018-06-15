@@ -1090,3 +1090,11 @@
 "cash_on_delivery_0" = "Biaya tambahan";
 "cash_on_delivery_1" = "Anda dapat membayar tunai ketika pesanan Anda sedang dalam pengiriman.";
 "cash_on delivery_2" = "Anda dapat menggunakan COD hanya jika semua perintah COD Anda sebelumnya telah berhasil ditandatangani.";
+"phone_verify_title" = "Konfirmasi pesanan";
+"phone_verify_detail_0" = "Harap verifikasi nomor telepon Anda.";
+"phone_verify_detail_1" = "Ketuk 'Verifikasi' untuk meminta kode verifikasi";
+"phone_verify_input" = "Telepon Anda";
+"phone_verify_button" = "Memeriksa";
+"phone_code_detail" = "Masukkan kode 6 digit yang kami kirim";
+"phone_code_input" = "Kode 6 digit";
+"phone_code_resend" = "Kirim ulang";
