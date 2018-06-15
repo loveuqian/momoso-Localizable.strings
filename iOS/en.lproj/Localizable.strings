@@ -1084,3 +1084,9 @@
 "zip_wrong_toast" = "Please enter 6 digits.";
 "zip_out_range" = "Sorry, we cannot deliver to this pincode.";
 "location_failed" = "Getting Location Failed.";
+
+//////////////////////////// 支付-Pay /////////////////////////////////
+
+"cash_on_delivery_0" = "Additional Cost";
+"cash_on_delivery_1" = "You can pay in cash when your order is on delivery.";
+"cash_on delivery_2" = "You can use COD only if all your previous COD orders have been signed successfully.";

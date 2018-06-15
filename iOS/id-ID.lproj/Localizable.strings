@@ -1084,3 +1084,9 @@
 "zip_wrong_toast" = "Harap masukkan 6 digit.";
 "zip_out_range" = "Maaf, kami tidak dapat mengirim ke kode PIN ini.";
 "location_failed" = "Mendapatkan Lokasi Gagal.";
+
+//////////////////////////// 支付-Pay /////////////////////////////////
+
+"cash_on_delivery_0" = "Biaya tambahan";
+"cash_on_delivery_1" = "Anda dapat membayar tunai ketika pesanan Anda sedang dalam pengiriman.";
+"cash_on delivery_2" = "Anda dapat menggunakan COD hanya jika semua perintah COD Anda sebelumnya telah berhasil ditandatangani.";
