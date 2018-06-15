@@ -1083,3 +1083,4 @@
 "india_city_title" = "Kota/Distrik"; 
 "zip_wrong_toast" = "Harap masukkan 6 digit.";
 "zip_out_range" = "Maaf, kami tidak dapat mengirim ke kode PIN ini.";
+"location_failed" = "Mendapatkan Lokasi Gagal.";

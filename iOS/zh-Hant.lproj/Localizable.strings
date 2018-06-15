@@ -1061,6 +1061,7 @@
 "signup_policydetail_1" = "條款";
 "signup_policydetail_2" = "和";
 "signup_policydetail_3" = "隱私聲明";
+"location_failed" = "獲取定位失敗。";
 
 //////////////////////////// 空白页-nullpage /////////////////////////////////
 

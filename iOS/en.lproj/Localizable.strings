@@ -1083,3 +1083,4 @@
 "india_city_title" = "City/District";
 "zip_wrong_toast" = "Please enter 6 digits.";
 "zip_out_range" = "Sorry, we cannot deliver to this pincode.";
+"location_failed" = "Getting Location Failed.";
