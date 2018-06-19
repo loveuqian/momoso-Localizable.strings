@@ -1095,6 +1095,6 @@
 "phone_verify_detail_1" = "Nhấn 'Xác minh' để yêu cầu mã xác minh";
 "phone_verify_input" = "Điện thoại của bạn";
 "phone_verify_button" = "Kiểm chứng";
-"phone_code_detail" = "Nhập mã gồm 6 chữ số mà chúng tôi đã gửi tới";
-"phone_code_input" = "Mã 6 chữ số";
+"phone_code_detail" = "Nhập mã gồm 4 chữ số mà chúng tôi đã gửi tới";
+"phone_code_input" = "Mã 4 chữ số";
 "phone_code_resend" = "Gửi lại";

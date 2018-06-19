@@ -1095,6 +1095,6 @@
 "phone_verify_detail_1" = "Tap 'Verify' to request verification code.";
 "phone_verify_input" = "Your Phone";
 "phone_verify_button" = "Verify";
-"phone_code_detail" = "Enter the 6-digit code we sent to";
-"phone_code_input" = "6-digit code";
+"phone_code_detail" = "Enter the 4-digit code we sent to";
+"phone_code_input" = "4-digit code";
 "phone_code_resend" = "Resend";

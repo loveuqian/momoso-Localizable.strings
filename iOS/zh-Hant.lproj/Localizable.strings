@@ -1095,6 +1095,6 @@
 "phone_verify_detail_1" = "點擊‘驗證’獲取驗證碼。";
 "phone_verify_input" = "輸入您的手機號";
 "phone_verify_button" = "驗證";
-"phone_code_detail" = "請輸入六位數驗證碼";
-"phone_code_input" = "六位數驗證碼";
+"phone_code_detail" = "請輸入四位數驗證碼";
+"phone_code_input" = "四位數驗證碼";
 "phone_code_resend" = "重新發送";
