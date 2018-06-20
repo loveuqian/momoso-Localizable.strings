@@ -1092,9 +1092,10 @@
 "cash_on delivery_2" = "若您有一笔货到付款订单未签收，则不能使用货到付款。";
 "phone_verify_title" = "订单确认";
 "phone_verify_detail_0" = "请验证手机号。";
-"phone_verify_detail_1" = "点击‘验证’获取验证码。";
+"phone_verify_detail_1" = "点击‘发送验证码’获取验证码。";
 "phone_verify_input" = "输入您的手机号";
 "phone_verify_button" = "验证";
 "phone_code_detail" = "请输入四位数验证码";
 "phone_code_input" = "四位数验证码";
 "phone_code_resend" = "重新发送";
+"phone_verify_send" = "发送验证码";

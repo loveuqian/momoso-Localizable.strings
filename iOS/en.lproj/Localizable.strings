@@ -1092,9 +1092,10 @@
 "cash_on delivery_2" = "You can use COD only if all your previous COD orders have been signed successfully.";
 "phone_verify_title" = "Order Confirmation.";
 "phone_verify_detail_0" = "Please verify your phone number.";
-"phone_verify_detail_1" = "Tap 'Verify' to request verification code.";
+"phone_verify_detail_1" = "Tap 'Send Code' to request verification code.";
 "phone_verify_input" = "Your Phone";
 "phone_verify_button" = "Verify";
 "phone_code_detail" = "Enter the 4-digit code we sent to";
 "phone_code_input" = "4-digit code";
 "phone_code_resend" = "Resend";
+"phone_verify_send" = "Send Code";

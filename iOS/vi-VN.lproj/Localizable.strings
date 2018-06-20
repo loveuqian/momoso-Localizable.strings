@@ -1092,9 +1092,10 @@
 "cash_on delivery_2" = "Bạn chỉ có thể sử dụng COD nếu tất cả đơn đặt hàng COD trước đó của bạn đã được ký thành công.";
 "phone_verify_title" = "Xác nhận đơn đặt hàng";
 "phone_verify_detail_0" = "Vui lòng xác minh số điện thoại của bạn.";
-"phone_verify_detail_1" = "Nhấn 'Xác minh' để yêu cầu mã xác minh";
+"phone_verify_detail_1" = "Nhấn 'Gửi mã' để yêu cầu mã xác minh";
 "phone_verify_input" = "Điện thoại của bạn";
 "phone_verify_button" = "Kiểm chứng";
 "phone_code_detail" = "Nhập mã gồm 4 chữ số mà chúng tôi đã gửi tới";
 "phone_code_input" = "Mã 4 chữ số";
 "phone_code_resend" = "Gửi lại";
+"phone_verify_send" = "Gửi mã";
