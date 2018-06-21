@@ -1061,7 +1061,6 @@
 "signup_policydetail_1" = "條款";
 "signup_policydetail_2" = "和";
 "signup_policydetail_3" = "隱私聲明";
-"location_failed" = "獲取定位失敗。";
 
 //////////////////////////// 空白页-nullpage /////////////////////////////////
 
@@ -1082,8 +1081,9 @@
 "india_street1_detail" = "房屋號，建築物，街道，地點";
 "india_street2_detail" = "地標 (選填)";
 "india_city_title" = "市/區"; 
-"zip_wrong_toast" = "請輸入六位數。";
+"zip_wrong_toast" = "請輸入六位數郵編。";
 "zip_out_range" = "抱歉，該郵編地區暫不支持配送。";
+"location_failed" = "獲取定位失敗。";
 
 //////////////////////////// 支付-Pay /////////////////////////////////
 
