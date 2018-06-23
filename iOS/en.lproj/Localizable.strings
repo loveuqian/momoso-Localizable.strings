@@ -1080,7 +1080,7 @@
 "india_address_postcode_title" = "Pincode";
 "india_street1_detail" = "House No, Building, Street, Locality";
 "india_street2_detail" = "Landmark (optional)";
-"india_city_title" = "City/District";
+"india_city_title" = "City/District: ";
 "zip_wrong_toast" = "Please enter 6-digit pincode.";
 "zip_out_range" = "Sorry, we cannot deliver to this pincode.";
 "location_failed" = "Getting Location Failed.";
@@ -1095,7 +1095,7 @@
 "phone_verify_detail_1" = "Tap 'Send Code' to request verification code.";
 "phone_verify_input" = "Your Phone";
 "phone_verify_button" = "Verify";
-"phone_code_detail" = "Enter the 4-digit code we sent to";
+"phone_code_detail" = "Please enter the 4-digit code sent to";
 "phone_code_input" = "4-digit code";
 "phone_code_resend" = "Resend";
 "phone_verify_send" = "Send Code";
