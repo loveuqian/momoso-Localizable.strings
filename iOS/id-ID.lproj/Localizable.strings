@@ -1041,8 +1041,9 @@
 
 //////////////////////////// 购物车-Cart /////////////////////////////////
 
-"free_shipping_title" = "Gratis Pengiriman pada Pesanan berakhir ";
-"free_shipping_goshopping" = "Beli Sekarang";
+"free_shipping_noenough_0" = "Meli ";
+"free_shipping_noenough_1" = " lagi untuk menikmati PENGIRIMAN GRATIS!";
+"free_shipping_enough" = "Memenuhi syarat untuk GRATIS Pengiriman!";
 
 //////////////////////////// 登录-login /////////////////////////////////
 

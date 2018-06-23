@@ -1041,8 +1041,9 @@
 
 //////////////////////////// 购物车-Cart /////////////////////////////////
 
-"free_shipping_title" = "Giao hàng miễn phí trên đơn hàng qua ";
-"free_shipping_goshopping" = "Mua ngay";
+"free_shipping_noenough_0" = "Mua thêm ";
+"free_shipping_noenough_1" = " để được hưởng MIỄN PHÍ VẬN CHUYỂN!";
+"free_shipping_enough" = "Hội đủ điều kiện cho Vận chuyển miễn phí!";
 
 //////////////////////////// 登录-login /////////////////////////////////
 

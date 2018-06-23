@@ -1041,8 +1041,9 @@
 
 //////////////////////////// 购物车-Cart /////////////////////////////////
 
-"free_shipping_title" = "免运费门槛 ";
-"free_shipping_goshopping" = "去购物";
+"free_shipping_noenough_0" = "再买";
+"free_shipping_noenough_1" = "就能享受包邮！";
+"free_shipping_enough" = "已包邮！";
 
 //////////////////////////// 登录-login /////////////////////////////////
 
