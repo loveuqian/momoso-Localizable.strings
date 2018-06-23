@@ -1082,6 +1082,7 @@
 "india_street1_detail" = "Rumah Tidak, Gedung, Jalan, Lokalitas";
 "india_street2_detail" = "Tengara(pilihan)";
 "india_city_title" = "Kota/Distrik: "; 
+"india_state_title" = "Wilayah / Negara: ";
 "zip_wrong_toast" = "Harap masukkan 6 digit Kode PIN.";
 "zip_out_range" = "Maaf, kami tidak dapat mengirim ke kode PIN ini.";
 "location_failed" = "Mendapatkan Lokasi Gagal.";
@@ -1100,3 +1101,4 @@
 "phone_code_input" = "Kode 4 digit";
 "phone_code_resend" = "Kirim ulang";
 "phone_verify_send" = "Kirim Kode";
+"shipping_free" = "Bebas";
