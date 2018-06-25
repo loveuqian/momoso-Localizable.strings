@@ -1067,12 +1067,12 @@
 
 "no_coupon" = "Tanpa Kupon";
 "no_order" = "Tanpa Pesanan";
-"no_network" = "Kesalahan Jaringan";
-"no_network_retry" = "Silakan coba lagi";
-"no_search" = "Ups";
-"no_search_detail" = "Tidak Ada Hasil Pencarian";
+"no_network" = "Ups!";
+"no_network_retry" = "Periksa apakah ponsel Anda terhubung ke internet.";
+"no_search" = "Ups!";
+"no_search_detail" = "Tidak Ada Hasil Pencarian.";
 "no_goods_cart" = "Keranjang Kosong";
-"no_goods_cart_detail" = "Tambahkan barang di keranjang Anda sekarang!";
+"no_goods_cart_detail" = "Saya merasa sangat kosong ketika Anda tidak berbelanja.";
 "no_goods_cart_shop" = "Belanja Sekarang";
 
 //////////////////////////// 地址-Address /////////////////////////////////

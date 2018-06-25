@@ -1067,13 +1067,13 @@
 
 "no_coupon" = "Không có phiếu giảm giá";
 "no_order" = "Không có đơn hàng nào";
-"no_network" = "Lỗi mạng";
-"no_network_retry" = "Vui lòng thử lại";
+"no_network" = "Rất tiếc!";
+"no_network_retry" = "Kiểm tra xem điện thoại của bạn có được kết nối với Internet không.";
 "no_search" = "Rất tiếc";
-"no_search_detail" = "Không có kết quả tìm kiếm";
+"no_search_detail" = "Không có kết quả tìm kiếm.";
 "no_goods_cart" = "Giỏ hàng trống";
-"no_goods_cart_detail" = "Thêm hàng trong giỏ hàng của bạn ngay bây giờ!";
-"no_goods_cart_shop" = "Mua sắm ngay";
+"no_goods_cart_detail" = "Tôi cảm thấy trống rỗng khi bạn không mua sắm.";
+"no_goods_cart_shop" = "Mua ngay";
 
 //////////////////////////// 地址-Address /////////////////////////////////
 

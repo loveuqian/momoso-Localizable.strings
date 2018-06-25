@@ -1068,11 +1068,11 @@
 "no_coupon" = "暂无优惠券";
 "no_order" = "暂无订单";
 "no_network" = "网络异常";
-"no_network_retry" = "请重试";
-"no_search" = "喔哦";
-"no_search_detail" = "没有搜索结果";
+"no_network_retry" = "请检查网络。";
+"no_search" = "喔哦！";
+"no_search_detail" = "没有搜索结果。";
 "no_goods_cart" = "购物车为空";
-"no_goods_cart_detail" = "快去把购物车装满吧";
+"no_goods_cart_detail" = "没有商品我好空虚啊。";
 "no_goods_cart_shop" = "去购物";
 
 //////////////////////////// 地址-Address /////////////////////////////////

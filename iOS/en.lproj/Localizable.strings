@@ -1065,15 +1065,15 @@
 
 //////////////////////////// 空白页-nullpage /////////////////////////////////
 
-"no_coupon" = "No Coupon";
+"no_coupon" = "No Coupons Available";
 "no_order" = "No Order";
-"no_network" = "Network Error";
-"no_network_retry" = "Please try again";
-"no_search" = "Oops";
-"no_search_detail" = "No Search Results";
+"no_network" = "Oops!";
+"no_network_retry" = "Check if your phone is connected to the internet.";
+"no_search" = "Oops!";
+"no_search_detail" = "No Search Results.";
 "no_goods_cart" = "Empty Cart";
-"no_goods_cart_detail" = "Add goods in your cart now!";
-"no_goods_cart_shop" = "Shopping Now";
+"no_goods_cart_detail" = "I feel so empty when you don't shop.";
+"no_goods_cart_shop" = "Shop Now";
 
 //////////////////////////// 地址-Address /////////////////////////////////
 
