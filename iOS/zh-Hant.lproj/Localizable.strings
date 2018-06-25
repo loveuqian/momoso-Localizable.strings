@@ -1082,6 +1082,7 @@
 "india_street1_detail" = "房屋號，建築物，街道，地點";
 "india_street2_detail" = "地標 (選填)";
 "india_city_title" = "市/區: "; 
+"india_state_title" = "地區/省：";
 "zip_wrong_toast" = "請輸入六位數郵編。";
 "zip_out_range" = "抱歉，該郵編地區暫不支持配送。";
 "location_failed" = "獲取定位失敗。";
@@ -1100,3 +1101,4 @@
 "phone_code_input" = "四位數驗證碼";
 "phone_code_resend" = "重新發送";
 "phone_verify_send" = "發送驗證碼";
+"shipping_free" = "免費";

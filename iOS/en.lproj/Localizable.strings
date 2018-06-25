@@ -1082,6 +1082,7 @@
 "india_street1_detail" = "House No, Building, Street, Locality";
 "india_street2_detail" = "Landmark (optional)";
 "india_city_title" = "City/District: ";
+"india_state_title" = "Region/State: ";
 "zip_wrong_toast" = "Please enter 6-digit pincode.";
 "zip_out_range" = "Sorry, we cannot deliver to this pincode.";
 "location_failed" = "Getting Location Failed.";
@@ -1100,3 +1101,4 @@
 "phone_code_input" = "4-digit code";
 "phone_code_resend" = "Resend";
 "phone_verify_send" = "Send Code";
+"shipping_free" = "Free";
