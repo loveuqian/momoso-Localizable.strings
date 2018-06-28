@@ -1097,7 +1097,7 @@
 "phone_verify_detail_1" = "Ketuk 'Kirim Kode' untuk meminta kode verifikasi";
 "phone_verify_input" = "Telepon Anda";
 "phone_verify_button" = "Memeriksa";
-"phone_code_detail" = "Masukkan kode 4 digit yang kami kirim";
+"phone_code_detail" = "Harap masukkan kode 4 digit.";
 "phone_code_input" = "Kode 4 digit";
 "phone_code_resend" = "Kirim ulang";
 "phone_verify_send" = "Kirim Kode";
