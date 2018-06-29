@@ -1007,6 +1007,9 @@
 "coupon_notloggedin_content_description_1" = "快注册去领取 ";
 "coupon_notloggedin_content_description_2" = "优惠券吧！";
 "coupon_notloggedin_button" = "领取优惠券!";
+"coupon_cant_get" = "您已注册过，不能获得优惠券哦。";
+"coupon_cant_get_enjoy" = "祝您购物愉快";
+"coupon_cant_get_button" = "去购物";
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 

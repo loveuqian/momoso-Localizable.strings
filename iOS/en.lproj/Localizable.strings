@@ -1007,6 +1007,9 @@
 "coupon_notloggedin_content_description_1" = "Sign up to get ";
 "coupon_notloggedin_content_description_2" = "coupons！";
 "coupon_notloggedin_button" = "Get it!";
+"coupon_cant_get" = "You have registered before, cannot get the coupons.";
+"coupon_cant_get_enjoy" = "Enjoy your shopping";
+"coupon_cant_get_button" = "Go shopping";
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 

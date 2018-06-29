@@ -1007,6 +1007,9 @@
 "coupon_notloggedin_content_description_1" = "Đăng ký để nhận ";
 "coupon_notloggedin_content_description_2" = "phiếu giảm giá.";
 "coupon_notloggedin_button" = "Hiểu rồi!";
+"coupon_cant_get" = "Bạn đã đăng ký trước đó, không thể nhận được phiếu giảm giá.";
+"coupon_cant_get_enjoy" = "Thưởng thức mua sắm của bạn";
+"coupon_cant_get_button" = "Mua sắm";
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 

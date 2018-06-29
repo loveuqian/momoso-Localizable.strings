@@ -1007,6 +1007,9 @@
 "coupon_notloggedin_content_description_1" = "Daftar untuk mendapatkan ";
 "coupon_notloggedin_content_description_2" = "Kupon.";
 "coupon_notloggedin_button" = "Mendapatkan!";
+"coupon_cant_get" = "Anda telah mendaftar sebelumnya, tidak bisa mendapatkan kupon.";
+"coupon_cant_get_enjoy" = "Nikmati belanja Anda";
+"coupon_cant_get_button" = "Pergi berbelanja";
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 
