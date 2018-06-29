@@ -1086,6 +1086,11 @@
 "zip_wrong_toast" = "请输入六位数邮编。";
 "zip_out_range" = "抱歉，该邮编地区暂不支持配送。";
 "location_failed" = "获取定位失败。";
+"sa_address_province_title" = "州/省/域: ";
+"sa_address_city_title" = "市: ";
+"sa_address_district_title" = "区 (选填):";
+"sa_address_street1_title" = "街道";
+"sa_address_street2_title" = "详细地址 (选填)";
 
 //////////////////////////// 支付-Pay /////////////////////////////////
 

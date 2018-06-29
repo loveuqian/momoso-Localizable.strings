@@ -1086,6 +1086,11 @@
 "zip_wrong_toast" = "Harap masukkan 6 digit Kode PIN.";
 "zip_out_range" = "Maaf, kami tidak dapat mengirim ke kode PIN ini.";
 "location_failed" = "Mendapatkan Lokasi Gagal.";
+"sa_address_province_title" = "Negara Bagian/Provinsi/Wilayah:";
+"sa_address_city_title" = "Kota: ";
+"sa_address_district_title" = "Distrik(Pilihan):";
+"sa_address_street1_title" = "jalan";
+"sa_address_street2_title" = "Alamat Lengkap(Pilihan)";
 
 //////////////////////////// 支付-Pay /////////////////////////////////
 

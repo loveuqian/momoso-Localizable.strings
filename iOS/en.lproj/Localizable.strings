@@ -1087,6 +1087,11 @@
 "zip_wrong_toast" = "Please enter 6-digit pincode.";
 "zip_out_range" = "Sorry, we cannot deliver to this pincode.";
 "location_failed" = "Getting Location Failed.";
+"sa_address_province_title" = "State/Prov./Region: ";
+"sa_address_city_title" = "City: ";
+"sa_address_district_title" = "District (Optional):";
+"sa_address_street1_title" = "Street";
+"sa_address_street2_title" = "Address Details (Optional)";
 
 //////////////////////////// 支付-Pay /////////////////////////////////
 

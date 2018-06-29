@@ -1086,6 +1086,11 @@
 "zip_wrong_toast" = "Vui lòng nhập 6 chữ số ma pin.";
 "zip_out_range" = "Rất tiếc, chúng tôi không thể gửi tới mã PIN này.";
 "location_failed" = "Không nhận được vị trí.";
+"sa_address_province_title" = "Tiểu bang/Tỉnh/Vùng: ";
+"sa_address_city_title" = "Thành phố: ";
+"sa_address_district_title" = "Huyện (Không bắt buộc):";
+"sa_address_street1_title" = "đường phố";
+"sa_address_street2_title" = "Chi tiết địa chỉ (Không bắt buộc)";
 
 //////////////////////////// 支付-Pay /////////////////////////////////
 
