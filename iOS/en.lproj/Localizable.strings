@@ -995,8 +995,8 @@
 
 //////////////////////////// 优惠券-Coupon /////////////////////////////////
 
-"coupon_loggedin_title" = "CONGRETULATIONS";
-"coupon_loggedin_content_title" = "Obtain";
+"coupon_loggedin_title" = "CONGRATULATIONS";
+"coupon_loggedin_content_title" = "You Got";
 "coupon_loggedin_content_description_1" = "App Exclusive Coupon";
 "coupon_loggedin_content_description_2" = "New User Coupon";
 "coupon_loggedin_button" = "See My Coupons";
