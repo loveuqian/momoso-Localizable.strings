@@ -1111,3 +1111,4 @@
 "phone_code_resend" = "Kirim ulang";
 "phone_verify_send" = "Kirim Kode";
 "shipping_free" = "Bebas";
+"phone_verify_sending" = "Mengirim";

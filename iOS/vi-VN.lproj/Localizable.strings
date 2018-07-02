@@ -1111,3 +1111,4 @@
 "phone_code_resend" = "Gửi lại";
 "phone_verify_send" = "Gửi mã";
 "shipping_free" = "Miễn phí";
+"phone_verify_sending" = "Gửi";

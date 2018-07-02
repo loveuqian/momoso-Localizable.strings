@@ -1111,3 +1111,4 @@
 "phone_code_resend" = "Resend";
 "phone_verify_send" = "Send Code";
 "shipping_free" = "Free";
+"phone_verify_sending" = "Sending";

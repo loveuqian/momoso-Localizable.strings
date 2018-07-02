@@ -1111,3 +1111,4 @@
 "phone_code_resend" = "重新發送";
 "phone_verify_send" = "發送驗證碼";
 "shipping_free" = "免費";
+"phone_verify_sending" = "發送中";
