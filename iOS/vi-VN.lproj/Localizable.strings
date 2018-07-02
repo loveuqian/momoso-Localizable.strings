@@ -1070,6 +1070,7 @@
 
 "no_coupon" = "Không có phiếu giảm giá";
 "no_order" = "Không có đơn hàng nào";
+"no_order_detail" = "YBạn chưa thực hiện bất kỳ đơn đặt hàng nào.";
 "no_network" = "Rất tiếc!";
 "no_network_retry" = "Kiểm tra xem điện thoại của bạn có được kết nối với Internet không.";
 "no_search" = "Rất tiếc";

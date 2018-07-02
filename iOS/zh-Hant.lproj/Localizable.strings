@@ -1070,6 +1070,7 @@
 
 "no_coupon" = "暫無優惠券";
 "no_order" = "暫無訂單";
+"no_order_detail" = "您還沒有訂單喲。";
 "no_network" = "網絡異常";
 "no_network_retry" = "請檢查網絡。";
 "no_search" = "喔哦！";

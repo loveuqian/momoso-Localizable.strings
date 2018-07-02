@@ -1070,6 +1070,7 @@
 
 "no_coupon" = "Tanpa Kupon";
 "no_order" = "Tanpa Pesanan";
+"no_order_detail" = "Anda belum membuat pesanan apa pun.";
 "no_network" = "Ups!";
 "no_network_retry" = "Periksa apakah ponsel Anda terhubung ke internet.";
 "no_search" = "Ups!";

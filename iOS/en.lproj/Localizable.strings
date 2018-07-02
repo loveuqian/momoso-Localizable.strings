@@ -1070,7 +1070,7 @@
 
 "no_coupon" = "No Coupons Available";
 "no_order" = "No Order";
-"no_order_detail" = "You haven't made any orders"
+"no_order_detail" = "You haven't made any orders";
 "no_network" = "Oops!";
 "no_network_retry" = "Check if your phone is connected to the internet.";
 "no_search" = "Oops!";

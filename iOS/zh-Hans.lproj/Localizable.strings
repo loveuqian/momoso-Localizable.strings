@@ -1070,6 +1070,7 @@
 
 "no_coupon" = "暂无优惠券";
 "no_order" = "暂无订单";
+"no_order_detail" = "您还没有订单哟。";
 "no_network" = "网络异常";
 "no_network_retry" = "请检查网络。";
 "no_search" = "喔哦！";
