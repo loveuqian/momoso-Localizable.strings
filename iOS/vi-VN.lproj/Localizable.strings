@@ -1082,7 +1082,7 @@
 //////////////////////////// 地址-Address /////////////////////////////////
 
 "phone_wrong_toast" = "Số điện thoại có định dạng sai.";
-"india_address_postcode_title" = "Ma pin";
+"india_address_postcode_title" = "Ma pin:";
 "india_street1_detail" = "Nhà số, tòa nhà, đường phố, địa phương";
 "india_street2_detail" = "Mốc (không bắt buộc)";
 "india_city_title" = "Thành phố/Huyện: "; 

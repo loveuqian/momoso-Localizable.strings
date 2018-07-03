@@ -1082,7 +1082,7 @@
 //////////////////////////// 地址-Address /////////////////////////////////
 
 "phone_wrong_toast" = "電話號碼不符合規則。";
-"india_address_postcode_title" = "郵編";
+"india_address_postcode_title" = "郵編:";
 "india_street1_detail" = "房屋號，建築物，街道，地點";
 "india_street2_detail" = "地標 (選填)";
 "india_city_title" = "市/區: "; 
