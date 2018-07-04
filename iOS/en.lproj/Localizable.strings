@@ -1112,3 +1112,4 @@
 "phone_verify_send" = "Send Code";
 "shipping_free" = "Free";
 "phone_verify_sending" = "Sending";
+"phone_verify_wrong" = "Wrong code. Try again.";

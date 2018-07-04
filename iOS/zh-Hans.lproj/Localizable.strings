@@ -1112,3 +1112,4 @@
 "phone_verify_send" = "发送验证码";
 "shipping_free" = "免费";
 "phone_verify_sending" = "发送中";
+"phone_verify_wrong" = "验证码错误，请重试。";

@@ -1112,3 +1112,4 @@
 "phone_verify_send" = "Kirim Kode";
 "shipping_free" = "Bebas";
 "phone_verify_sending" = "Mengirim";
+"phone_verify_wrong" = "Salah kode. Coba lagi.";

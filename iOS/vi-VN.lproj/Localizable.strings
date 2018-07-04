@@ -1112,3 +1112,4 @@
 "phone_verify_send" = "Gửi mã";
 "shipping_free" = "Miễn phí";
 "phone_verify_sending" = "Gửi";
+"phone_verify_wrong" = "Sai mã. Thử lại.";

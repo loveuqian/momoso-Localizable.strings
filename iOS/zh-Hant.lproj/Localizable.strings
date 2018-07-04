@@ -1112,3 +1112,4 @@
 "phone_verify_send" = "發送驗證碼";
 "shipping_free" = "免費";
 "phone_verify_sending" = "發送中";
+"phone_verify_wrong" = "驗證碼錯誤，請重試。";
