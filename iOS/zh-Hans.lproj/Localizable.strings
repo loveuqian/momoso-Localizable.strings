@@ -1113,3 +1113,8 @@
 "shipping_free" = "免费";
 "phone_verify_sending" = "发送中";
 "phone_verify_wrong" = "验证码错误，请重试。";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = " 条评论";
+"dp_no_reviews" = "暂无评论";

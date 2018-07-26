@@ -1113,3 +1113,8 @@
 "shipping_free" = "Miễn phí";
 "phone_verify_sending" = "Gửi";
 "phone_verify_wrong" = "Sai mã. Thử lại.";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = " Nhận xét";
+"dp_no_reviews" = "Không có bài đánh giá nào";

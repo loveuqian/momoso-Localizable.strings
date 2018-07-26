@@ -1113,3 +1113,8 @@
 "shipping_free" = "免費";
 "phone_verify_sending" = "發送中";
 "phone_verify_wrong" = "驗證碼錯誤，請重試。";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = " 條評論";
+"dp_no_reviews" = "暫無評論";

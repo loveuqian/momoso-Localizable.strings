@@ -1113,3 +1113,8 @@
 "shipping_free" = "Free";
 "phone_verify_sending" = "Sending";
 "phone_verify_wrong" = "Wrong code. Try again.";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = " Reviews";
+"dp_no_reviews" = "No Reviews";

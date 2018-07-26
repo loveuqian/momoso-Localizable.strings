@@ -1113,3 +1113,8 @@
 "shipping_free" = "Bebas";
 "phone_verify_sending" = "Mengirim";
 "phone_verify_wrong" = "Salah kode. Coba lagi.";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = " Ulasan";
+"dp_no_reviews" = "Tidak Ada Ulasan";
