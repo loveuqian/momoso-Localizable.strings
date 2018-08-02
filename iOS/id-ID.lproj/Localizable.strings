@@ -1114,6 +1114,8 @@
 "phone_verify_sending" = "Mengirim";
 "phone_verify_wrong" = "Salah kode. Coba lagi.";
 "code_send_failed" = "Gagal mengirim kode, silakan periksa ponsel Anda dan coba lagi.";
+"cod_not" = "Tidak tersedia";
+"cod_not_detail" = "Maaf, Anda tidak dapat menggunakan metode pembayaran COD karena jumlah pesanan di bawah atau melebihi batas.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 

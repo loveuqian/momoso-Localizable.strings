@@ -1114,6 +1114,8 @@
 "phone_verify_sending" = "Gửi";
 "phone_verify_wrong" = "Sai mã. Thử lại.";
 "code_send_failed" = "Không thể gửi mã, vui lòng kiểm tra điện thoại của bạn và thử lại.";
+"cod_not" = "Không có sẵn";
+"cod_not_detail" = "Rất tiếc, bạn không thể sử dụng phương thức thanh toán COD vì số tiền đặt hàng thấp hơn hoặc vượt quá giới hạn.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
