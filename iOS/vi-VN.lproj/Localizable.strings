@@ -1113,6 +1113,7 @@
 "shipping_free" = "Miễn phí";
 "phone_verify_sending" = "Gửi";
 "phone_verify_wrong" = "Sai mã. Thử lại.";
+"code_send_failed" = "Không thể gửi mã, vui lòng kiểm tra điện thoại của bạn và thử lại.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 

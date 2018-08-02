@@ -1113,6 +1113,7 @@
 "shipping_free" = "Free";
 "phone_verify_sending" = "Sending";
 "phone_verify_wrong" = "Wrong code. Try again.";
+"code_send_failed" = "Failed to send the code, please check your phone and try again.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 

@@ -1113,6 +1113,7 @@
 "shipping_free" = "Bebas";
 "phone_verify_sending" = "Mengirim";
 "phone_verify_wrong" = "Salah kode. Coba lagi.";
+"code_send_failed" = "Gagal mengirim kode, silakan periksa ponsel Anda dan coba lagi.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
