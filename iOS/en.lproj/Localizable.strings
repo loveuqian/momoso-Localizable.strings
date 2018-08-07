@@ -1113,7 +1113,7 @@
 "shipping_free" = "Free";
 "phone_verify_sending" = "Sending";
 "phone_verify_wrong" = "Wrong code. Try again.";
-"code_send_failed" = "Failed to send the code, please check your phone and try again.";
+"code_send_failed" = "Failed to send the code, please check your phone number and try again.";
 "cod_not" = "Not Available";
 "cod_not_detail" = "Sorry, you can't use the COD payment method because order amount is below or exceeds limit.";
 
@@ -1121,3 +1121,4 @@
 
 "dp_reviews" = " Reviews";
 "dp_no_reviews" = "No Reviews";
+"dp_review" = " Review";
