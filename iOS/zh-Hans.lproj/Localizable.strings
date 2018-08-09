@@ -509,6 +509,10 @@
 "profile_address_kw" = "科威特";
 "profile_address_tr" = "土耳其";
 "profile_address_il" = "以色列";
+"profile_address_th" = "泰国";
+"profile_address_at" = "奥地利";
+"profile_address_cs" = "捷克";
+"profile_address_za" = "南非";
 
 "profile_order_package_number" = "包裹编号"; //个人-物流详细
 
