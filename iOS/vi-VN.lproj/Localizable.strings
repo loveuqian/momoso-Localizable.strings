@@ -511,7 +511,7 @@
 "profile_address_il" = "Israel";
 "profile_address_th" = "Thailand";
 "profile_address_at" = "Austria";
-"profile_address_cs" = "Czech";
+"profile_address_cz" = "Czech";
 "profile_address_za" = "South Africa";
 
 "profile_order_package_number" = "Số gói"; //个人-物流详细

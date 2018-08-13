@@ -503,7 +503,7 @@
 "profile_address_kr" = "Korea";
 "profile_address_ua" = "Ukraine";
 "profile_address_in" = "India";
-"profile_address_ae" = "Arab Emirates";
+"profile_address_ae" = "United Arab Emirates";
 "profile_address_sa" = "Saudi Arabia";
 "profile_address_qa" = "Qatar";
 "profile_address_kw" = "Kuwait";
@@ -511,7 +511,7 @@
 "profile_address_il" = "Israel";
 "profile_address_th" = "Thailand";
 "profile_address_at" = "Austria";
-"profile_address_cs" = "Czech";
+"profile_address_cz" = "Czech";
 "profile_address_za" = "South Africa";
 
 "profile_order_package_number" = "Package number"; //个人-物流详细
