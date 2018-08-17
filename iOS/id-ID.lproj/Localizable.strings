@@ -1126,3 +1126,7 @@
 "dp_reviews" = " Ulasan";
 "dp_no_reviews" = "Tidak Ada Ulasan";
 "dp_review" = " Ulasan";
+"dp_topban_welcome" = "Welcome ";
+"dp_topban_order" = "Pesanan terbaru,";
+"dp_topban_ordertime" = " detik yang lalu.";
+"dp_topban_view" = " Menonton sekarang!";

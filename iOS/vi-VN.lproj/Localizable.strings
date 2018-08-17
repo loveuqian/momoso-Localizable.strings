@@ -1126,3 +1126,7 @@
 "dp_reviews" = " Nhận xét";
 "dp_no_reviews" = "Không có bài đánh giá nào";
 "dp_review" = " ôn tập";
+"dp_topban_welcome" = "Chào mừng ";
+"dp_topban_order" = "Thứ tự mới nhất,";
+"dp_topban_ordertime" = " giây trước.";
+"dp_topban_view" = " đang xem ngay bây giờ!";

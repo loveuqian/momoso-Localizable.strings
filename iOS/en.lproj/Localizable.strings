@@ -1126,3 +1126,7 @@
 "dp_reviews" = " Reviews";
 "dp_no_reviews" = "No Reviews";
 "dp_review" = " Review";
+"dp_topban_welcome" = "Welcome ";
+"dp_topban_order" = "The latest order,";
+"dp_topban_ordertime" = " sec ago.";
+"dp_topban_view" = " is viewing now!";

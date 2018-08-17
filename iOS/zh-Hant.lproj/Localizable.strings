@@ -1126,3 +1126,7 @@
 "dp_reviews" = " 條評論";
 "dp_no_reviews" = "暫無評論";
 "dp_review" = " 條評論";
+"dp_topban_welcome" = "歡迎 ";
+"dp_topban_order" = "最新訂單,";
+"dp_topban_ordertime" = " 秒前";
+"dp_topban_view" = " 正在查看";
