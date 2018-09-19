@@ -892,6 +892,11 @@
 "cart_popup_nice" = "Đó là tốt đẹp!";
 "cart_popup_soso" = "Không tốt như vậy";
 "cart_popup_cancel" = "Hủy";
+"coupon_tip_buy" = "Mua";
+"coupon_tip_more_save" = "Thêm, lưu";
+"coupon_tip_max" = "Đặt hàng và lưu";
+"coupon_tip_buy_lower" = "Mua";
+"coupon_tip_nil" = "Áp dụng Phiếu giảm giá trong bước tiếp theo.";
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
@@ -942,6 +947,10 @@
 "profile_coupon_unused" = "Chưa sử dụng";
 "profile_coupon_expired" = "Đã hết hạn";
 "profile_coupon_nocoupon" = "Không có phiếu giảm giá nào";
+
+"add_coupon_code_title" = "mã giảm giá";
+"add_coupon_code_input" = "nhập mã phiếu giảm giá";
+"add_coupon_code_apply" = "ứng dụng";
 
 //////////////////////////// 订单-Order /////////////////////////////////
 
@@ -1091,6 +1100,15 @@
 "india_street2_detail" = "Mốc (không bắt buộc)";
 "india_city_title" = "Thành phố/Huyện: "; 
 "india_state_title" = "Vùng / Tiểu bang: ";
+"india_mobile" = "Điện thoại di động";
+"india_mobile_phone_number" = "Số điện thoại";
+"india_country" = "Quận";
+"india_town" = "Địa phương / Thị trấn";
+"india_street_address" = "Địa chỉ đường phố";
+"india_address" = "Địa chỉ nhà";
+"india_address_details" = "Chi tiết địa chỉ";
+"india_detail_address_input" = "Đường, Khu vực, Số nhà, C/O.";
+"india_addition_address" = "Apt, Suite, Sàn nhà, Bldg, etc.(Không bắt buộc)";
 "zip_wrong_toast" = "Vui lòng nhập 6 chữ số ma pin.";
 "zip_out_range" = "Rất tiếc, chúng tôi không thể gửi tới mã PIN này.";
 "location_failed" = "Không nhận được vị trí.";
@@ -1130,3 +1148,17 @@
 "dp_topban_order" = "Thứ tự mới nhất,";
 "dp_topban_ordertime" = " giây trước.";
 "dp_topban_view" = " mọi người đang xem ngay bây giờ!";
+
+//////////////////////////// 首页-闪购 /////////////////////////////////
+"flash_sale_end_in" = "Kết thúc bằng";
+"flash_sale_not_started" = "Chưa bắt đầu";
+"flash_sale_over" = "Hơn";
+
+///////////////////////// DP-加购解锁功能 //////////////////////////////
+"limited_time_offer_info" = "Penawaran instan: Tambahkan ke keranjang sekarang juga cho membuka kunci harga yang lebih rendah!";
+"limited_time_offer_expired" = "Đã hết hạn";
+"limited_time_offer_now_only" = "Chỉ bây giờ";
+"limited_time_offer_text_first" = "Bạn đã mở khóa";
+"limited_time_offer_text_second" = "Tắt sản phẩm này.";
+"limited_time_offer_text_third" = "Giá này sẽ hết hạn sau 1 giờ để thanh toán sớm!";
+"limited_time_offer_continue" = "Tiếp tục";

@@ -795,6 +795,11 @@
 "checkout_sure_popup_title" = "确定退出支付？";
 "checkout_sure_popup_yes" = "确定";
 "checkout_sure_popup_no" = "取消";
+"coupon_tip_buy" = "购买";
+"coupon_tip_more_save" = "节省";
+"coupon_tip_max" = "下订单并节省";
+"coupon_tip_buy_lower" = "购买";
+"coupon_tip_nil" = "在下一步中使用優惠券。";
 
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
@@ -942,6 +947,10 @@
 "profile_coupon_unused" = "未使用";
 "profile_coupon_expired" = "已过期";
 "profile_coupon_nocoupon" = "无可用优惠券";
+
+"add_coupon_code_title" = "优惠券码";
+"add_coupon_code_input" = "输入优惠券码";
+"add_coupon_code_apply" = "应用";
 
 //////////////////////////// 订单-Order /////////////////////////////////
 
@@ -1091,6 +1100,15 @@
 "india_street2_detail" = "地标 (选填)";
 "india_city_title" = "市/区: "; 
 "india_state_title" = "地区/省：";
+"india_mobile" = "电话";
+"india_mobile_phone_number" = "电话号码";
+"india_country" = "国家";
+"india_town" = "地区";
+"india_street_address" = "街道地址";
+"india_address" = "地址";
+"india_address_details" = "详细地址";
+"india_detail_address_input" = "街道，区域，门牌号";
+"india_addition_address" = "公寓，套房，楼，大厦等。（可选）";
 "zip_wrong_toast" = "请输入六位数邮编。";
 "zip_out_range" = "抱歉，该邮编地区暂不支持配送。";
 "location_failed" = "获取定位失败。";
@@ -1130,3 +1148,17 @@
 "dp_topban_order" = "最新订单,";
 "dp_topban_ordertime" = " 秒前";
 "dp_topban_view" = " 人正在查看";
+
+//////////////////////////// 首页-闪购 /////////////////////////////////
+"flash_sale_end_in" = "即将结束";
+"flash_sale_not_started" = "未开始";
+"flash_sale_over" = "已结束";
+
+///////////////////////// DP-加购解锁功能 //////////////////////////////
+"limited_time_offer_info" = "即时优惠：立即加入购物车以解锁更低的价格！";
+"limited_time_offer_expired" = "已过期";
+"limited_time_offer_now_only" = "现在仅需";
+"limited_time_offer_text_first" = "你解锁了这款产品的";
+"limited_time_offer_text_second" = "的优惠";
+"limited_time_offer_text_third" = "此价格将在1小时后到期，尽快结账！";
+"limited_time_offer_continue" = "继续";

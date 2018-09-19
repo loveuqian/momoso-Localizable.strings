@@ -173,8 +173,8 @@
 "regioin_title_profile_address" = "Region/State"; //地址-新建地址/编辑地址-地区
 "delete_btn_profile_address" = "Delete"; //地址-左滑删除时
 
-"profile_address_receiver_title" = "Full name:"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Zip/Postal code:"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_receiver_title" = "Full Name:"; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "Zip/Postal Code:"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
 
@@ -795,6 +795,11 @@
 "checkout_sure_popup_title" = "Are you sure you want to cancel this payment?";
 "checkout_sure_popup_yes" = "Confirm";
 "checkout_sure_popup_no" = "Cancel";
+"coupon_tip_buy" = "Buy";
+"coupon_tip_more_save" = "more, save";
+"coupon_tip_max" = "Place order and save";
+"coupon_tip_buy_lower" = "buy";
+"coupon_tip_nil" = "Apply Coupon in next step.";
 
 //////////////////////////// 商品详细-DP /////////////////////////////////
 
@@ -942,6 +947,10 @@
 "profile_coupon_unused" = "Unused";
 "profile_coupon_expired" = "Expired";
 "profile_coupon_nocoupon" = "No Coupons Available";
+
+"add_coupon_code_title" = "Coupon Code";
+"add_coupon_code_input" = "Enter coupon code";
+"add_coupon_code_apply" = "Apply";
 
 //////////////////////////// 订单-Order /////////////////////////////////
 
@@ -1091,6 +1100,15 @@
 "india_street2_detail" = "Landmark (optional)";
 "india_city_title" = "City/District: ";
 "india_state_title" = "Region/State: ";
+"india_mobile" = "Mobile";
+"india_mobile_phone_number" = "Mobile Phone Number";
+"india_country" = "County";
+"india_town" = "Locality/Town";
+"india_street_address" = "Street Address";
+"india_address" = "Address";
+"india_address_details" = "Address Details";
+"india_detail_address_input" = "Street,Area,House No.,C/O.";
+"india_addition_address" = "Apt,Suite,Floor,Bldg,etc.(Optional)";
 "zip_wrong_toast" = "Please enter 6-digit pincode.";
 "zip_out_range" = "Sorry, we cannot deliver to this pincode.";
 "location_failed" = "Getting Location Failed.";
@@ -1130,3 +1148,17 @@
 "dp_topban_order" = "The latest order,";
 "dp_topban_ordertime" = " sec ago.";
 "dp_topban_view" = " people viewing now!";
+
+//////////////////////////// 首页-闪购 /////////////////////////////////
+"flash_sale_end_in" = "End in";
+"flash_sale_not_started" = "Not started";
+"flash_sale_over" = "Over";
+
+///////////////////////// DP-加购解锁功能 //////////////////////////////
+"limited_time_offer_info" = "Instant offer: Add to cart right now to unlock a lower price!";
+"limited_time_offer_expired" = "Expired";
+"limited_time_offer_now_only" = "Now Only ";
+"limited_time_offer_text_first" = "You unlocked";
+"limited_time_offer_text_second" = "off this product.";
+"limited_time_offer_text_third" = "This price expires in 1 hour so checkout soon!";
+"limited_time_offer_continue" = "Continue";

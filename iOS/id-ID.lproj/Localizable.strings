@@ -892,6 +892,11 @@
 "cart_popup_nice" = "Menyenangkan!";
 "cart_popup_soso" = "Tidak begitu baik";
 "cart_popup_cancel" = "Membatalkan";
+"coupon_tip_buy" = "Beli";
+"coupon_tip_more_save" = "Lebih banyak, simpan";
+"coupon_tip_max" = "Tempatkan pesanan dan simpan";
+"coupon_tip_buy_lower" = "Beli";
+"coupon_tip_nil" = "Terapkan Kupon di langkah berikutnya.";
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
@@ -942,6 +947,10 @@
 "profile_coupon_unused" = "Tidak digunakan";
 "profile_coupon_expired" = "Kadaluarsa";
 "profile_coupon_nocoupon" = "Tidak ada kupon yang tersedia";
+
+"add_coupon_code_title" = "Kode Kupon";
+"add_coupon_code_input" = "Masukkan kode kupon";
+"add_coupon_code_apply" = "menerapkan";
 
 //////////////////////////// 订单-Order /////////////////////////////////
 
@@ -1091,6 +1100,15 @@
 "india_street2_detail" = "Tengara(pilihan)";
 "india_city_title" = "Kota/Distrik: "; 
 "india_state_title" = "Wilayah / Negara: ";
+"india_mobile" = "Seluler";
+"india_mobile_phone_number" = "Nomor ponsel";
+"india_country" = "daerah";
+"india_town" = "Locality/Town";
+"india_street_address" = "Lokalitas / Kota";
+"india_address" = "Alamat";
+"india_address_details" = "Alamat Lengkap";
+"india_detail_address_input" = "Jalan, Area, Rumah No., C/O.";
+"india_addition_address" = "Apt, Suite, Lantai, Bldg, dll. (Opsional)";
 "zip_wrong_toast" = "Harap masukkan 6 digit Kode PIN.";
 "zip_out_range" = "Maaf, kami tidak dapat mengirim ke kode PIN ini.";
 "location_failed" = "Mendapatkan Lokasi Gagal.";
@@ -1130,3 +1148,17 @@
 "dp_topban_order" = "Pesanan terbaru,";
 "dp_topban_ordertime" = " detik yang lalu.";
 "dp_topban_view" = " orang sedang melihat sekarang!";
+
+//////////////////////////// 首页-闪购 /////////////////////////////////
+"flash_sale_end_in" = "Akhiri";
+"flash_sale_not_started" = "Belum dimulai";
+"flash_sale_over" = "Ganti";
+
+///////////////////////// DP-加购解锁功能 //////////////////////////////
+"limited_time_offer_info" = "Penawaran instan: Tambahkan ke keranjang sekarang juga untuk membuka kunci harga yang lebih rendah!";
+"limited_time_offer_expired" = "Kadaluarsa";
+"limited_time_offer_now_only" = "Sekarang Saja";
+"limited_time_offer_text_first" = "Anda membuka kunci";
+"limited_time_offer_text_second" = "Dari produk ini.";
+"limited_time_offer_text_third" = "Harga ini berakhir dalam 1 jam jadi segera checkout!";
+"limited_time_offer_continue" = "Lanjutkan";
