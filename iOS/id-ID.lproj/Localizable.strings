@@ -1148,6 +1148,7 @@
 "dp_topban_order" = "Pesanan terbaru,";
 "dp_topban_ordertime" = " detik yang lalu.";
 "dp_topban_view" = " orang sedang melihat sekarang!";
+"dp_more_reviews" = "Lebih banyak komentar";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
 "flash_sale_end_in" = "Akhiri";

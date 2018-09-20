@@ -1148,6 +1148,7 @@
 "dp_topban_order" = "Thứ tự mới nhất,";
 "dp_topban_ordertime" = " giây trước.";
 "dp_topban_view" = " mọi người đang xem ngay bây giờ!";
+"dp_more_reviews" = "Nhận xét khác";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
 "flash_sale_end_in" = "Kết thúc bằng";

@@ -1148,6 +1148,7 @@
 "dp_topban_order" = "最新订单,";
 "dp_topban_ordertime" = " 秒前";
 "dp_topban_view" = " 人正在查看";
+"dp_more_reviews" = "更多评论";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
 "flash_sale_end_in" = "即将结束";

@@ -1148,6 +1148,7 @@
 "dp_topban_order" = "The latest order,";
 "dp_topban_ordertime" = " sec ago.";
 "dp_topban_view" = " people viewing now!";
+"dp_more_reviews" = "More Reviews";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
 "flash_sale_end_in" = "End in";
