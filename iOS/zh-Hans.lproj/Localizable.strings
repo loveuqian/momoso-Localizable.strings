@@ -1162,3 +1162,7 @@
 "limited_time_offer_text_second" = "的优惠";
 "limited_time_offer_text_third" = "此价格将在1小时后到期，尽快结账！";
 "limited_time_offer_continue" = "继续";
+
+//////////////////////// coupon-优惠券 //////////////////////////////
+"coupon_available_info" = "订单";
+"coupon_available_click_info" = "单击此按钮可选择优惠券";

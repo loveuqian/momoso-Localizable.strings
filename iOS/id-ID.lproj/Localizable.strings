@@ -1162,3 +1162,7 @@
 "limited_time_offer_text_second" = "Dari produk ini.";
 "limited_time_offer_text_third" = "Harga ini berakhir dalam 1 jam jadi segera checkout!";
 "limited_time_offer_continue" = "Lanjutkan";
+
+//////////////////////// coupon-优惠券 //////////////////////////////
+"coupon_available_info" = "Memesan";
+"coupon_available_click_info" = "Klik ini untuk memilih kupon";

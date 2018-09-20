@@ -1162,3 +1162,7 @@
 "limited_time_offer_text_second" = "Tắt sản phẩm này.";
 "limited_time_offer_text_third" = "Giá này sẽ hết hạn sau 1 giờ để thanh toán sớm!";
 "limited_time_offer_continue" = "Tiếp tục";
+
+//////////////////////// coupon-优惠券 //////////////////////////////
+"coupon_available_info" = "Gọi món";
+"coupon_available_click_info" = "Nhấp vào đây để chọn phiếu giảm giá";
