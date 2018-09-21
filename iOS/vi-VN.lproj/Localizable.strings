@@ -1167,7 +1167,7 @@
 //////////////////////// coupon-优惠券 //////////////////////////////
 "coupon_available_info" = "Gọi món";
 "coupon_available_click_info" = "Nhấp vào đây để chọn phiếu giảm giá";
-"coupon_code_invalid" = "Mã phiếu giảm giá không hợp lệ.";
+"coupon_code_invalid" = "Mã phiếu giảm giá không hợp lệ";
 
 //////////////////////// index-首页 //////////////////////////////
 "index_middle-card" = "Giỏ hàng của bạn";

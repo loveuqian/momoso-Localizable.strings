@@ -1167,7 +1167,7 @@
 //////////////////////// coupon-优惠券 //////////////////////////////
 "coupon_available_info" = "Memesan";
 "coupon_available_click_info" = "Klik ini untuk memilih kupon";
-"coupon_code_invalid" = "Kode kupon tidak valid.";
+"coupon_code_invalid" = "Kode kupon tidak valid";
 
 //////////////////////// index-首页 //////////////////////////////
 "index_middle-card" = "Keranjang Anda";
