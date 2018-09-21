@@ -1167,6 +1167,7 @@
 //////////////////////// coupon-优惠券 //////////////////////////////
 "coupon_available_info" = "订单";
 "coupon_available_click_info" = "单击此按钮可选择优惠券";
+"coupon_code_invalid" = "优惠券代码无效。";
 
 //////////////////////// index-首页 //////////////////////////////
 "index_middle-card" = "你的购物车";

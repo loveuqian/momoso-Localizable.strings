@@ -1167,6 +1167,7 @@
 //////////////////////// coupon-优惠券 //////////////////////////////
 "coupon_available_info" = "Order";
 "coupon_available_click_info" = "Click this to select a coupon";
+"coupon_code_invalid" = "Coupon code is invalid.";
 
 //////////////////////// index-首页 //////////////////////////////
 "index_middle-card" = "Your Cart";//首页—中间-购物车
