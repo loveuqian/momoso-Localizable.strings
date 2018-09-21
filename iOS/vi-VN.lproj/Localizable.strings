@@ -1167,3 +1167,6 @@
 //////////////////////// coupon-优惠券 //////////////////////////////
 "coupon_available_info" = "Gọi món";
 "coupon_available_click_info" = "Nhấp vào đây để chọn phiếu giảm giá";
+
+//////////////////////// index-首页 //////////////////////////////
+"index_middle-card" = "Giỏ hàng của bạn";

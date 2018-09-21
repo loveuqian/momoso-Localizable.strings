@@ -1167,3 +1167,6 @@
 //////////////////////// coupon-优惠券 //////////////////////////////
 "coupon_available_info" = "Memesan";
 "coupon_available_click_info" = "Klik ini untuk memilih kupon";
+
+//////////////////////// index-首页 //////////////////////////////
+"index_middle-card" = "Keranjang Anda";
