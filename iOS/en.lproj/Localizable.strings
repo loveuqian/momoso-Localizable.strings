@@ -1176,8 +1176,8 @@
 "cart_tip_buy" = "Buy";
 
 //////////////////////// 地址优化 //////////////////////////////
-"address_landmark" = "Landmark";
-"address_phone_number" = "Alternative phone number";
-"address_location_type" = "Location Type";
+"address_landmark" = "Nearest Landmark";
+"address_phone_number" = "Alternative Phone Number";
+"address_location_type" = "Address Type";
 "address_location_type_home" = "Home";
 "address_location_type_business" = "Business";
