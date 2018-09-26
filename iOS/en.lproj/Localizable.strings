@@ -1181,3 +1181,4 @@
 "address_location_type" = "Address Type";
 "address_location_type_home" = "Home";
 "address_location_type_business" = "Business";
+"address_optional_prompt" = "Optional";

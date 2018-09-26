@@ -1181,3 +1181,4 @@
 "address_location_type" = "地址类型";
 "address_location_type_home" = "家庭住址";
 "address_location_type_business" = "办公地址";
+"address_optional_prompt" = "选填";

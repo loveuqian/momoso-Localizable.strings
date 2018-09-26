@@ -1181,3 +1181,4 @@
 "address_location_type" = "Loại địa điểm";
 "address_location_type_home" = "Nhà";
 "address_location_type_business" = "Kinh doanh";
+"address_optional_prompt" = "Không bắt buộc";

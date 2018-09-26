@@ -1181,3 +1181,4 @@
 "address_location_type" = "Tipe Lokasi";
 "address_location_type_home" = "Rumah";
 "address_location_type_business" = "Bisnis";
+"address_optional_prompt" = "Pilihan";
