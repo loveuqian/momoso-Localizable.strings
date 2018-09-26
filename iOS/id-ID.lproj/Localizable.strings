@@ -1174,3 +1174,10 @@
 
 //////////////////////// cart-购物车 //////////////////////////////
 "cart_tip_buy" = "Beli lagi";
+
+//////////////////////// 地址优化 //////////////////////////////
+"address_landmark" = "Landmark";
+"address_phone_number" = "Nomor telepon alternatif";
+"address_location_type" = "Tipe Lokasi";
+"address_location_type_home" = "Rumah";
+"address_location_type_business" = "Bisnis";
