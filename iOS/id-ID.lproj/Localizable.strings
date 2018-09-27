@@ -945,7 +945,7 @@
 "profile_coupon_timeto" = "Sampai";
 "order_coupon_notchoose" = "Jangan gunakan kupon";
 "profile_coupon_unused" = "Tidak digunakan";
-"profile_coupon_expired" = "Kadaluarsa";
+"profile_coupon_expired" = "Tidak tersedia";
 "profile_coupon_nocoupon" = "Tidak ada kupon yang tersedia";
 
 "add_coupon_code_title" = "Kode Kupon";
@@ -1170,7 +1170,7 @@
 "coupon_code_invalid" = "Kode kupon tidak valid";
 
 //////////////////////// index-首页 //////////////////////////////
-"index_middle-card" = "Keranjang Anda";
+"index_middle-card" = "CART ANDA";
 
 //////////////////////// cart-购物车 //////////////////////////////
 "cart_tip_buy" = "Beli lagi";

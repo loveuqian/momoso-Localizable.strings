@@ -945,7 +945,7 @@
 "profile_coupon_timeto" = "Đến";
 "order_coupon_notchoose" = "Không sử dụng phiếu giảm giá";
 "profile_coupon_unused" = "Chưa sử dụng";
-"profile_coupon_expired" = "Đã hết hạn";
+"profile_coupon_expired" = "Không có sẵn";
 "profile_coupon_nocoupon" = "Không có phiếu giảm giá nào";
 
 "add_coupon_code_title" = "mã giảm giá";
@@ -1170,7 +1170,7 @@
 "coupon_code_invalid" = "Mã phiếu giảm giá không hợp lệ";
 
 //////////////////////// index-首页 //////////////////////////////
-"index_middle-card" = "Giỏ hàng của bạn";
+"index_middle-card" = "GIỎ HÀNG";
 
 //////////////////////// cart-购物车 //////////////////////////////
 "cart_tip_buy" = "Mua lại";
