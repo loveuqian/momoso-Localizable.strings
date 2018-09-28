@@ -1101,7 +1101,7 @@
 "india_city_title" = "市/區: "; 
 "india_state_title" = "地區/省：";
 "india_mobile" = "電話";
-"india_mobile_phone_number" = "電話號碼";
+"india_mobile_phone_number" = "手機號碼";
 "india_country" = "國家";
 "india_town" = "地區";
 "india_street_address" = "街道地址";
@@ -1177,7 +1177,7 @@
 
 //////////////////////// 地址优化 //////////////////////////////
 "address_landmark" = "地標";
-"address_phone_number" = "備用手機號碼";
+"address_phone_number" = "備用號碼";
 "address_location_type" = "地址類型";
 "address_location_type_home" = "家庭住址";
 "address_location_type_business" = "辦公地址";
