@@ -1170,7 +1170,7 @@
 "coupon_code_invalid" = "Mã phiếu giảm giá không hợp lệ";
 
 //////////////////////// index-首页 //////////////////////////////
-"index_middle-card" = "GIỎ HÀNG";
+"index_middle-card" = "GIỎ HÀNG>";
 
 //////////////////////// cart-购物车 //////////////////////////////
 "cart_tip_buy" = "Mua lại";
