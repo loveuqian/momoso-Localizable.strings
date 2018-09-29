@@ -1031,9 +1031,9 @@
 
 //////////////////////////// 订单-Order /////////////////////////////////
 
-"orderpage_title_1" = "Full Refunded";
+"orderpage_title_1" = "Fully Refunded";
 "orderpage_para_1" = "If you do not receive your packages.";
-"orderpage_title_2" = "Return and Refunded";
+"orderpage_title_2" = "Return and Refund";
 "orderpage_para_2" = "If item does not fit description.";
 "orderpage_title_3" = "Secure Payment with Escrow Protection";
 "orderpage_title_4" = "Easier, Faster Dispute Resolution";
