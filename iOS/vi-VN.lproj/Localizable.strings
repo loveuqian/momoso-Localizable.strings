@@ -1182,3 +1182,14 @@
 "address_location_type_home" = "Nhà";
 "address_location_type_business" = "Kinh doanh";
 "address_optional_prompt" = "Không bắt buộc";
+
+//////////////////////// insta //////////////////////////////
+"instar_home_navigation" = "INSTA"
+"instar_trending_title" = "Insta"
+"instar_trending_shopping" = "Mua sắm>"
+"instar_trending_translation" = "SHOW TRANSLATION"
+"instar_trending_original" = "HIỂN THỊ NGUYÊN BẢN"
+"instar_blogger_likes" = "Lượt thích"
+"instar_blogger_follower" = "Người theo dõi"
+"instar_blogger_following" = "Tiếp theo"
+"instar-blogger_not_follow_button" = "+Theo"

@@ -1182,3 +1182,14 @@
 "address_location_type_home" = "Rumah";
 "address_location_type_business" = "Bisnis";
 "address_optional_prompt" = "Pilihan";
+
+//////////////////////// insta //////////////////////////////
+"instar_home_navigation" = "INSTA"
+"instar_trending_title" = "Insta"
+"instar_trending_shopping" = "Belanja>"
+"instar_trending_translation" = "TUNJUKKAN TRANSLATION"
+"instar_trending_original" = "TAMPILKAN ASLI"
+"instar_blogger_likes" = "Suka"
+"instar_blogger_follower" = "Pengikut"
+"instar_blogger_following" = "Mengikuti"
+"instar-blogger_not_follow_button" = "+Ikuti"

@@ -1182,3 +1182,14 @@
 "address_location_type_home" = "Home";
 "address_location_type_business" = "Business";
 "address_optional_prompt" = "Optional";
+
+//////////////////////// insta //////////////////////////////
+"instar_home_navigation" = "INSTA"
+"instar_trending_title" = "Insta"
+"instar_trending_shopping" = "Shopping>"
+"instar_trending_translation" = "SHOW TRANSLATION"
+"instar_trending_original" = "SHOW ORIGINAL"
+"instar_blogger_likes" = "Likes"
+"instar_blogger_follower" = "Followers"
+"instar_blogger_following" = "Following"
+"instar-blogger_not_follow_button" = "+Follow"

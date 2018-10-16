@@ -1182,3 +1182,14 @@
 "address_location_type_home" = "家庭住址";
 "address_location_type_business" = "办公地址";
 "address_optional_prompt" = "选填";
+
+//////////////////////// insta //////////////////////////////
+"instar_home_navigation" = "INSTA"
+"instar_trending_title" = "Insta"
+"instar_trending_shopping" = "购物>"
+"instar_trending_translation" = "显示翻译"
+"instar_trending_original" = "显示原文"
+"instar_blogger_likes" = "喜欢"
+"instar_blogger_follower" = "粉丝"
+"instar_blogger_following" = "关注"
+"instar-blogger_not_follow_button" = "+关注"
