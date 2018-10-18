@@ -1192,4 +1192,5 @@
 "instar_blogger_likes" = "喜歡"
 "instar_blogger_follower" = "粉絲"
 "instar_blogger_following" = "關注"
-"instar-blogger_not_follow_button" = "+關注"
+"instar_blogger_not_follow_button" = "+關注"
+"instar_detail_page" = "照片"

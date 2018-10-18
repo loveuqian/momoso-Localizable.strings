@@ -1192,4 +1192,5 @@
 "instar_blogger_likes" = "Likes"
 "instar_blogger_follower" = "Followers"
 "instar_blogger_following" = "Following"
-"instar-blogger_not_follow_button" = "+Follow"
+"instar_blogger_not_follow_button" = "+Follow"
+"instar_detail_page" = "Photo"
