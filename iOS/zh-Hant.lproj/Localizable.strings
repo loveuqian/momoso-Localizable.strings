@@ -1199,3 +1199,7 @@
 "instar_following_page_people" = "用戶"
 "instar_following_page_hashtags" = "標籤"
 "instar_trending_view_more" = "查看更多"
+"instar_unfollow_title" = "取消關注"
+"instar_unfollow_info" = "確認取消關注"
+"instar_unfollow_cancel" = "取消"
+"instar_unfollow_unfollow" = "取消關注"

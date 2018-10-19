@@ -1199,3 +1199,7 @@
 "instar_following_page_people" = "Những người"
 "instar_following_page_hashtags" = "Thẻ bắt đầu bằng #"
 "instar_trending_view_more" = "Xem thêm"
+"instar_unfollow_title" = "Hủy theo dõi"
+"instar_unfollow_info" = "Xác nhận hủy theo dõi"
+"instar_unfollow_cancel" = "Hủy bỏ"
+"instar_unfollow_unfollow" = "Hủy theo dõi"

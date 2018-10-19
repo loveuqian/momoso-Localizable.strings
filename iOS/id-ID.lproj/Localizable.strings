@@ -1199,3 +1199,7 @@
 "instar_following_page_people" = "Orang-orang"
 "instar_following_page_hashtags" = "Hashtag"
 "instar_trending_view_more" = "Lihat Lebih Banyak"
+"instar_unfollow_title" = "Berhenti mengikuti"
+"instar_unfollow_info" = "Konfirmasikan untuk berhenti mengikuti"
+"instar_unfollow_cancel" = "Membatalkan"
+"instar_unfollow_unfollow" = "Berhenti mengikuti"
