@@ -1208,3 +1208,8 @@
 "instar_posts" = "Posts";
 "instar_kol_not_post" = "hasn't posted anything yet~";
 "instar_own_not_post" = "You hasn't posted anything yet~";
+
+//////////////////////// 购物车 //////////////////////////////
+"fs_full_amount" = "Your order is eligible for FREE SHIPPING!";
+"fs_no_select" = "Free Shipping on order over ";
+"delete_no_select" = "Please select goods";

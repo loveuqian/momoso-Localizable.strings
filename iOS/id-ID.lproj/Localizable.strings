@@ -1208,3 +1208,8 @@
 "instar_posts" = "Kiriman";
 "instar_kol_not_post" = "belum memposting apa pun ~";
 "instar_own_not_post" = "Anda belum memposting apa pun ~";
+
+//////////////////////// 购物车 //////////////////////////////
+"fs_full_amount" = "Pesanan Anda memenuhi syarat untuk PENGIRIMAN GRATIS!";
+"fs_no_select" = "Gratis Ongkos Kirim pada pesanan berakhir ";
+"delete_no_select" = "Silakan pilih barang";
