@@ -1206,3 +1206,5 @@
 "instar_collapse" = "Sự sụp đổ";
 "insrar_object_recognized" = "Đối tượng được nhận dạng";
 "instar_posts" = "Bài đăng";
+"instar_kol_not_post" = "chưa đăng gì cả ~";
+"instar_own_not_post" = "Bạn chưa đăng gì cả ~";

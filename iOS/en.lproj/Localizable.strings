@@ -1206,3 +1206,5 @@
 "instar_collapse" = "Collapse";
 "insrar_object_recognized" = "Object Recognized";
 "instar_posts" = "Posts";
+"instar_kol_not_post" = "hasn't posted anything yet~";
+"instar_own_not_post" = "You hasn't posted anything yet~";

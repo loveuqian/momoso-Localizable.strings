@@ -1206,3 +1206,5 @@
 "instar_collapse" = "Jatuh";
 "insrar_object_recognized" = "Objek Diakui";
 "instar_posts" = "Kiriman";
+"instar_kol_not_post" = "belum memposting apa pun ~";
+"instar_own_not_post" = "Anda belum memposting apa pun ~";
