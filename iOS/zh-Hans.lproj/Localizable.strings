@@ -1213,3 +1213,4 @@
 "fs_full_amount" = "您的订单有资格免运费！";
 "fs_no_select" = "订单免运费 ";
 "delete_no_select" = "请选择商品";
+"we_accept" = "支持支付方式";
