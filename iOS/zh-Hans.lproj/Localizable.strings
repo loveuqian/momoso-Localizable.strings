@@ -1208,9 +1208,12 @@
 "instar_posts" = "帖子";
 "instar_kol_not_post" = "尚未发布任何东西〜";
 "instar_own_not_post" = "你还没有发布任何东西〜";
+"instar_following" = "已关注";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "您的订单有资格免运费！";
 "fs_no_select" = "订单免运费 ";
 "delete_no_select" = "请选择商品";
 "we_accept" = "支持支付方式";
+"fs_no_full_amount_0" = "再买";
+"fs_no_full_amount_1" = "就能享受包邮!";
