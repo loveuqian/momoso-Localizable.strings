@@ -1211,6 +1211,7 @@
 "instar_following" = "Following";
 "instar_sliding_into" = "Sliding into INSTA";
 "instar_release_into" = "Release into INSTA";
+"instar_bottom" ="You see my bottom";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "Your order is eligible for FREE SHIPPING!";

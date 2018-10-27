@@ -1211,6 +1211,7 @@
 "instar_following" = "已关注";
 "instar_sliding_into" = "滑动进入INSTA";
 "instar_release_into" = "释放进入INSTA";
+"instar_bottom" ="你看到我的底部了";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "您的订单有资格免运费！";
