@@ -1209,6 +1209,8 @@
 "instar_kol_not_post" = "hasn't posted anything yet~";
 "instar_own_not_post" = "You hasn't posted anything yet~";
 "instar_following" = "Following";
+"instar_sliding_into" = "Sliding into INSTA";
+"instar_release_into" = "Release into INSTA";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "Your order is eligible for FREE SHIPPING!";

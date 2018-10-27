@@ -1209,6 +1209,8 @@
 "instar_kol_not_post" = "belum memposting apa pun ~";
 "instar_own_not_post" = "Anda belum memposting apa pun ~";
 "instar_following" = "Mengikuti";
+"instar_sliding_into" = "Geser ke INSTA";
+"instar_release_into" = "Rilis ke INSTA";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "Pesanan Anda memenuhi syarat untuk PENGIRIMAN GRATIS!";

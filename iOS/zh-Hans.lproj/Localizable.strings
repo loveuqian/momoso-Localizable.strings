@@ -1209,6 +1209,8 @@
 "instar_kol_not_post" = "尚未发布任何东西〜";
 "instar_own_not_post" = "你还没有发布任何东西〜";
 "instar_following" = "已关注";
+"instar_sliding_into" = "滑动进入INSTA";
+"instar_release_into" = "释放进入INSTA";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "您的订单有资格免运费！";

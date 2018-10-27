@@ -1209,6 +1209,8 @@
 "instar_kol_not_post" = "chưa đăng gì cả ~";
 "instar_own_not_post" = "Bạn chưa đăng gì cả ~";
 "instar_following" = "Tiếp theo";
+"instar_sliding_into" = "Trượt vào INSTA";
+"instar_release_into" = "Phát hành vào INSTA";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "Đơn đặt hàng của bạn đủ điều kiện MIỄN PHÍ VẬN CHUYỂN!";
