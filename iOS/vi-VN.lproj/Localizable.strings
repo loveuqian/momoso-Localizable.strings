@@ -1220,3 +1220,12 @@
 "we_accept" = "Chúng tôi đồng ý";
 "fs_no_full_amount_0" = "Mua";
 "fs_no_full_amount_1" = "nhiều hơn để tận hưởng MIỄN PHÍ VẬN CHUYỂN!";
+
+//////////////////////// DP //////////////////////////////
+"DP_insta" = "INSTA SIMILARITY";
+"DP_info" = "Mô tả";
+"DP_coupon" = "Phiếu thưởng người dùng mới";
+"DP_selected" = "Chọn màu, kích thước";
+"DP_time" = "Thời gian đến dự kiến";
+"DP_product_similarity" = "ỨNG DỤNG SẢN PHẨM";
+"DP_to" = "đến";

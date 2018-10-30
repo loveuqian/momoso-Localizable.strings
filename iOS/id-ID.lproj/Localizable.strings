@@ -1220,3 +1220,12 @@
 "we_accept" = "Kami menerima";
 "fs_no_full_amount_0" = "Membeli";
 "fs_no_full_amount_1" = "lebih untuk menikmati PENGIRIMAN GRATIS!";
+
+//////////////////////// DP //////////////////////////////
+"DP_insta" = "KESEMPATAN INSTA";
+"DP_info" = "Deskripsi";
+"DP_coupon" = "Kupon Pengguna Baru";
+"DP_selected" = "Pilih Warna, Ukuran";
+"DP_time" = "Perkiraan waktu kedatangan";
+"DP_product_similarity" = "SIMILARITAS PRODUK";
+"DP_to" = "untuk";

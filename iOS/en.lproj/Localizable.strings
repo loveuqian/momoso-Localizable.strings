@@ -1220,3 +1220,12 @@
 "we_accept" = "We Accept";
 "fs_no_full_amount_0" = "Buy";
 "fs_no_full_amount_1" = "more to enjoy FREE SHIPPING!";
+
+//////////////////////// DP //////////////////////////////
+"DP_insta" = "INSTA SIMILARITY";
+"DP_info" = "Description";
+"DP_coupon" = "New User Coupon";
+"DP_selected" = "Select Color, Size";
+"DP_time" = "Estimated arrival time";
+"DP_product_similarity" = "PRODUCT SIMILARITY";
+"DP_to" = "to";

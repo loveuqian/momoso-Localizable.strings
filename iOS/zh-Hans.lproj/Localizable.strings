@@ -1220,3 +1220,12 @@
 "we_accept" = "支持支付方式";
 "fs_no_full_amount_0" = "再买";
 "fs_no_full_amount_1" = "就能享受包邮!";
+
+//////////////////////// DP //////////////////////////////
+"DP_insta" = "相似INSTA";
+"DP_info" = "描述";
+"DP_coupon" = "新人优惠券";
+"DP_selected" = "选择颜色、尺寸";
+"DP_time" = "预计到达时间";
+"DP_product_similarity" = "相似商品";
+"DP_to" = "至";
