@@ -1229,3 +1229,5 @@
 "DP_time" = "预计到达时间";
 "DP_product_similarity" = "相似商品";
 "DP_to" = "运送至";
+"DP_you_may_like" = "猜你喜欢";
+"DP_search_price" = "搜索最新价格";
