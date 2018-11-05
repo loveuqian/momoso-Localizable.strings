@@ -1231,3 +1231,17 @@
 "DP_to" = "運送至";
 "DP_you_may_like" = "猜你喜歡";
 "DP_search_price" = "搜索最新價格";
+
+//////////////////////// 首页 //////////////////////////////
+"home_shopping" = "推薦";
+"home_fashion" = "潮流精選";
+"fashion_new_arrival" = "新品首發";
+"fashion_trending" = "熱銷排行";
+
+//////////////////////// 搜索结果页 //////////////////////////////
+"search_results_top" = "銷量";
+"search_results_new" = "新品";
+"search_results_price" = "價格";
+"search_results_filter" = "篩選";
+"search_results_follow" = "+ 關注";
+"search_results_following" = "已關注";

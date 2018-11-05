@@ -1231,3 +1231,17 @@
 "DP_to" = "Ship to";
 "DP_you_may_like" = "YOU MAY LIKE";
 "DP_search_price" = "searching latest price";
+
+//////////////////////// 首页 //////////////////////////////
+"home_shopping" = "SHOPPING";
+"home_fashion" = "FASHION";
+"fashion_new_arrival" = "New Arrival";
+"fashion_trending" = "Trending";
+
+//////////////////////// 搜索结果页 //////////////////////////////
+"search_results_top" = "Top";
+"search_results_new" = "New";
+"search_results_price" = "Price";
+"search_results_filter" = "Filter";
+"search_results_follow" = "+Follow";
+"search_results_following" = "Following";

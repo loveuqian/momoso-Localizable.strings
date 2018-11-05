@@ -1231,3 +1231,17 @@
 "DP_to" = "Tàu";
 "DP_you_may_like" = "BẠN CÓ THỂ THÍCH";
 "DP_search_price" = "tìm kiếm giá mới nhất";
+
+//////////////////////// 首页 //////////////////////////////
+"home_shopping" = "MUA SẮM";
+"home_fashion" = "THỜI TRANG";
+"fashion_new_arrival" = "Hàng mới về";
+"fashion_trending" = "Xu hướng";
+
+//////////////////////// 搜索结果页 //////////////////////////////
+"search_results_top" = "Hàng đầu";
+"search_results_new" = "Mới";
+"search_results_price" = "Giá bán";
+"search_results_filter" = "Bộ lọc";
+"search_results_follow" = "+ Theo";
+"search_results_following" = "Tiếp theo";

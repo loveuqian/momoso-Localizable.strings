@@ -1231,3 +1231,17 @@
 "DP_to" = "Dikirim ke";
 "DP_you_may_like" = "KAMU MUNGKIN SUKA";
 "DP_search_price" = "mencari harga terbaru";
+
+//////////////////////// 首页 //////////////////////////////
+"home_shopping" = "PERBELANJAAN";
+"home_fashion" = "MODE";
+"fashion_new_arrival" = "Baru datang";
+"fashion_trending" = "Sedang ngetren";
+
+//////////////////////// 搜索结果页 //////////////////////////////
+"search_results_top" = "Teratas";
+"search_results_new" = "Baru";
+"search_results_price" = "Harga";
+"search_results_filter" = "Filter";
+"search_results_follow" = "+ Ikuti";
+"search_results_following" = "Berikut";
