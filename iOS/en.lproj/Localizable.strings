@@ -1237,6 +1237,7 @@
 "home_fashion" = "FASHION";
 "fashion_new_arrival" = "New Arrival";
 "fashion_trending" = "Trending";
+"home_all" = "ALL";
 
 //////////////////////// 搜索结果页 //////////////////////////////
 "search_results_top" = "Top";

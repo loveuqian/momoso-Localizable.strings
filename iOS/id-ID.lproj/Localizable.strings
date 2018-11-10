@@ -1237,6 +1237,7 @@
 "home_fashion" = "MODE";
 "fashion_new_arrival" = "Baru datang";
 "fashion_trending" = "Sedang ngetren";
+"home_all" = "SEMUA";
 
 //////////////////////// 搜索结果页 //////////////////////////////
 "search_results_top" = "Teratas";

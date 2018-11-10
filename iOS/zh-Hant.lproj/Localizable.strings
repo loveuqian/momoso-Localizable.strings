@@ -1237,6 +1237,7 @@
 "home_fashion" = "潮流精選";
 "fashion_new_arrival" = "新品首發";
 "fashion_trending" = "熱銷排行";
+"home_all" = "全部";
 
 //////////////////////// 搜索结果页 //////////////////////////////
 "search_results_top" = "銷量";
