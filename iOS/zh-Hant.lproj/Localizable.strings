@@ -1246,3 +1246,10 @@
 "search_results_filter" = "篩選";
 "search_results_follow" = "+ 關注";
 "search_results_following" = "已關注";
+
+//////////////////////// 购物车 //////////////////////////////
+"cart_invalid_items" = "失效商品";
+"cart_clear_items" = "清空失效商品";
+"cart_message" = "確認清空失效寶貝嗎？";
+"cart_cancel" = "取消";
+"cart_delete" = "刪除";

@@ -1246,3 +1246,10 @@
 "search_results_filter" = "Filter";
 "search_results_follow" = "+ Ikuti";
 "search_results_following" = "Berikut";
+
+//////////////////////// 购物车 //////////////////////////////
+"cart_invalid_items" = "Item Tidak Valid";
+"cart_clear_items" = "Hapus Item yang Tidak Valid";
+"cart_message" = "Konfirmasikan item kosong yang tidak valid?";
+"cart_cancel" = "Membatalkan";
+"cart_delete" = "Menghapus";

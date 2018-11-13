@@ -1246,3 +1246,10 @@
 "search_results_filter" = "Bộ lọc";
 "search_results_follow" = "+ Theo";
 "search_results_following" = "Tiếp theo";
+
+//////////////////////// 购物车 //////////////////////////////
+"cart_invalid_items" = "Mục không hợp lệ";
+"cart_clear_items" = "Xóa các mục không hợp lệ";
+"cart_message" = "Xác nhận (các) mục không hợp lệ trống?";
+"cart_cancel" = "Hủy bỏ";
+"cart_delete" = "Xóa bỏ";

@@ -1246,3 +1246,10 @@
 "search_results_filter" = "Filter";
 "search_results_follow" = "+Follow";
 "search_results_following" = "Following";
+
+//////////////////////// 购物车 //////////////////////////////
+"cart_invalid_items" = "Invalid Items";
+"cart_clear_items" = "Clear Invalid Items";
+"cart_message" = "Confirm empty invalid item(s)?";
+"cart_cancel" = "Cancel";
+"cart_delete" = "Delete";
