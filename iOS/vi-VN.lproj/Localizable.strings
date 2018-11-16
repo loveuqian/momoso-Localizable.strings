@@ -1253,3 +1253,16 @@
 "cart_message" = "Xác nhận (các) mục không hợp lệ trống?";
 "cart_cancel" = "Hủy bỏ";
 "cart_delete" = "Xóa bỏ";
+
+//////////////////////// 闪购 //////////////////////////////
+"flash_sale_on_sale_now" = "Bán ngay bây giờ";
+"flash_sale_coming_soon" = "Sắp có";
+"flash_sale_sold" = "Đã bán";
+"flash_sale_shop_now" = "Mua ngay";
+"flash_sale_almost_sold_out" = "Gần như hết hàng";
+"flash_sale_sold_out" = "Bán hết";
+"flash_sale_starts_in" = "Bắt đầu bằng";
+"flash_sale_end_in" = "Kết thúc bằng";
+"flash_sale_remind" = "Chúng tôi sẽ nhắc bạn khi nó bắt đầu. Bạn có thể kiểm tra nó trong Danh sách nhắc nhở của bạn.";
+"flash_sale_cancel_remind" = "Hủy lời nhắc";
+"flash_sale_reminder_list" = "Bạn chưa có tin được xem nào. Trước đó bạn thiết lập nhắc nhở, trước đó bạn nhận được các mặt hàng tốt.";

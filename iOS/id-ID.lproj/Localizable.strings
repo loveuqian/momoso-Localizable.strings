@@ -1253,3 +1253,16 @@
 "cart_message" = "Konfirmasikan item kosong yang tidak valid?";
 "cart_cancel" = "Membatalkan";
 "cart_delete" = "Menghapus";
+
+//////////////////////// 闪购 //////////////////////////////
+"flash_sale_on_sale_now" = "Dijual Sekarang";
+"flash_sale_coming_soon" = "Segera akan datang";
+"flash_sale_sold" = "Terjual";
+"flash_sale_shop_now" = "Berbelanja sekarang";
+"flash_sale_almost_sold_out" = "Hampir terjual habis";
+"flash_sale_sold_out" = "Habis terjual";
+"flash_sale_starts_in" = "Mulai masuk";
+"flash_sale_end_in" = "Akhiri";
+"flash_sale_remind" = "Kami akan mengingatkan Anda begitu dimulai. Anda dapat memeriksanya di Daftar Pengingat Anda.";
+"flash_sale_cancel_remind" = "Batalkan Pengingat";
+"flash_sale_reminder_list" = "Anda belum melihat item yang dilihat. Semakin awal Anda mengatur pengingat, semakin awal Anda mendapatkan barang bagus.";

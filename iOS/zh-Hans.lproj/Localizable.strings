@@ -1253,3 +1253,16 @@
 "cart_message" = "确认清空失效宝贝吗？";
 "cart_cancel" = "取消";
 "cart_delete" = "删除";
+
+//////////////////////// 闪购 //////////////////////////////
+"flash_sale_on_sale_now" = "抢购中";
+"flash_sale_coming_soon" = "即将开抢";
+"flash_sale_sold" = "已售";
+"flash_sale_shop_now" = "去抢购";
+"flash_sale_almost_sold_out" = "即将售光";
+"flash_sale_sold_out" = "卖光了";
+"flash_sale_start_in" = "距开始";
+"flash_sale_end_in" = "距结束";
+"flash_sale_remind" = "活动开始前将会提醒您，您可在提醒列表找到该活动商品";
+"flash_sale_cancel_remind" = "取消提醒";
+"flash_sale_reminder_list" = "您还没有收藏过闪购商品，赶紧收藏你的心仪商品吧~";

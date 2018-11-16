@@ -1253,3 +1253,16 @@
 "cart_message" = "Confirm empty invalid item(s)?";
 "cart_cancel" = "Cancel";
 "cart_delete" = "Delete";
+
+//////////////////////// 闪购 //////////////////////////////
+"flash_sale_on_sale_now" = "On Sale Now";
+"flash_sale_coming_soon" = "Coming Soon";
+"flash_sale_sold" = "Sold";
+"flash_sale_shop_now" = "Shop Now";
+"flash_sale_almost_sold_out" = "Almost Sold Out";
+"flash_sale_sold_out" = "Sold Out";
+"flash_sale_starts_in" = "Starts in";
+"flash_sale_end_in" = "End in";
+"flash_sale_remind" = "We will reminder you once it starts.You can check it in your Reminder List.";
+"flash_sale_cancel_remind" = "Cancel Reminder";
+"flash_sale_reminder_list" = "You have no viewed items yet. The earlier you set reminders, the earlier you get good items.";
