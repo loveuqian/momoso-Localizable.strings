@@ -1262,7 +1262,7 @@
 "flash_sale_shop_now" = "去抢购";
 "flash_sale_almost_sold_out" = "即将售光";
 "flash_sale_sold_out" = "卖光了";
-"flash_sale_start_in" = "距开始";
+"flash_sale_starts_in" = "距开始";
 "flash_sale_end_in" = "距结束";
 "flash_sale_remind" = "活动开始前将会提醒您，您可在提醒列表找到该活动商品";
 "flash_sale_cancel_remind" = "取消提醒";
