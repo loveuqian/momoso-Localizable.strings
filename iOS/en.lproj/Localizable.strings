@@ -1270,7 +1270,7 @@
 "flash_sale_fiery_buying" = "Fiery Buying";
 "flash_sale_coming_remind_me" = "Remind Me";
 "flash_sale_coming_following" = "Following";
-"flash_sale_reminder_list" = "Reminder List";
+"flash_sale_reminder_list_title" = "Reminder List";
 "flash_sale_reminder_canceled" = "Reminder Canceled";
 "flash_sale_reminder_list_on_going" = "On Going";
 "flash_sale_tomorrow" = "Tomorrow";
