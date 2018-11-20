@@ -1253,6 +1253,7 @@
 "cart_message" = "確認清空失效寶貝嗎？";
 "cart_cancel" = "取消";
 "cart_delete" = "刪除";
+"cart_1_hour_only" = "僅限1小時";
 
 //////////////////////// 闪购 //////////////////////////////
 "flash_sale_on_sale_now" = "搶購中";
@@ -1266,3 +1267,10 @@
 "flash_sale_remind" = "活動開始前將會提醒您，您可在提醒列表找到該活動商品";
 "flash_sale_cancel_remind" = "取消提醒";
 "flash_sale_reminder_list" = "您還沒有收藏過閃購商品，趕緊收藏你的心儀商品吧~";
+""flash_sale_fiery_buying" = "搶購中";
+"flash_sale_coming_remind_me" = "提醒我";
+"flash_sale_coming_following" = "關注";
+"flash_sale_reminder_list" = "我的提醒";
+"flash_sale_reminder_canceled" = "已取消提醒";
+"flash_sale_reminder_list_on_going" = "進行中";
+"flash_sale_tomorrow" = "明天";

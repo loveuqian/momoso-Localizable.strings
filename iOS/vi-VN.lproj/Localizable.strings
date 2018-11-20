@@ -1253,6 +1253,7 @@
 "cart_message" = "Xác nhận (các) mục không hợp lệ trống?";
 "cart_cancel" = "Hủy bỏ";
 "cart_delete" = "Xóa bỏ";
+"cart_1_hour_only" = "Chỉ 1 giờ";
 
 //////////////////////// 闪购 //////////////////////////////
 "flash_sale_on_sale_now" = "Bán ngay bây giờ";
@@ -1266,3 +1267,10 @@
 "flash_sale_remind" = "Chúng tôi sẽ nhắc bạn khi nó bắt đầu. Bạn có thể kiểm tra nó trong Danh sách nhắc nhở của bạn.";
 "flash_sale_cancel_remind" = "Hủy lời nhắc";
 "flash_sale_reminder_list" = "Bạn chưa có tin được xem nào. Trước đó bạn thiết lập nhắc nhở, trước đó bạn nhận được các mặt hàng tốt.";
+"flash_sale_fiery_buying" = "Fiery Buying";
+"flash_sale_coming_remind_me" = "Nhắc nhở tôi";
+"flash_sale_coming_following" = "Tiếp theo";
+"flash_sale_reminder_list" = "Danh sách nhắc nhở";
+"flash_sale_reminder_canceled" = "Đã hủy lời nhắc";
+"flash_sale_reminder_list_on_going" = "Đang diễn ra";
+"flash_sale_tomorrow" = "Ngày mai";
