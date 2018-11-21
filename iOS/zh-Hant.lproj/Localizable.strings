@@ -1274,3 +1274,8 @@
 "flash_sale_reminder_canceled" = "已取消提醒";
 "flash_sale_reminder_list_on_going" = "進行中";
 "flash_sale_tomorrow" = "明天";
+
+//////////////////////// 领券提醒 //////////////////////////////
+"coupon_successful" = "恭喜你，成功領取優惠券";
+"coupon_already_received" = "您已領取過該優惠券";
+"coupon_error" = "網絡出小差了，請重試";

@@ -1274,3 +1274,8 @@
 "flash_sale_reminder_canceled" = "Reminder Canceled";
 "flash_sale_reminder_list_on_going" = "On Going";
 "flash_sale_tomorrow" = "Tomorrow";
+
+//////////////////////// 领券提醒 //////////////////////////////
+"coupon_successful" = "You got the coupon(s)!";
+"coupon_already_received" = "You already got the coupon(s)!";
+"coupon_error" = "Somthing went wrong with the network, please try again";

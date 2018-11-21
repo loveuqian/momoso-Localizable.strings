@@ -1274,3 +1274,8 @@
 "flash_sale_reminder_canceled" = "Đã hủy lời nhắc";
 "flash_sale_reminder_list_on_going" = "Đang diễn ra";
 "flash_sale_tomorrow" = "Ngày mai";
+
+//////////////////////// 领券提醒 //////////////////////////////
+"coupon_successful" = "Bạn có phiếu giảm giá!";
+"coupon_already_received" = "Bạn đã có phiếu giảm giá!";
+"coupon_error" = "Đã xảy ra sự cố với mạng, vui lòng thử lại";

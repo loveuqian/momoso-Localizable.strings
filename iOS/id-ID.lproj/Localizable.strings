@@ -1274,3 +1274,8 @@
 "flash_sale_reminder_canceled" = "Pengingat Dibatalkan";
 "flash_sale_reminder_list_on_going" = "Sedang Berlangsung";
 "flash_sale_tomorrow" = "Besok";
+
+//////////////////////// 领券提醒 //////////////////////////////
+"coupon_successful" = "Anda mendapat kupon!";
+"coupon_already_received" = "Anda sudah mendapat kupon!";
+"coupon_error" = "Ada yang salah dengan jaringan, silakan coba lagi";
