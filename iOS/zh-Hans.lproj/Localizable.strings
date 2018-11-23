@@ -1297,3 +1297,6 @@
 "price_reduction_dp3" = "立即下单";
 "price_reduction_cart1" = "件商品已降价，";
 "price_reduction_cart2" = "赶紧去看看";
+
+//////////////////////// AE手机号校验 //////////////////////////////
+"phone_check" = "您的手机号码应为9位数字，以5开头";

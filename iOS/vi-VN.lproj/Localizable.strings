@@ -1297,3 +1297,6 @@
 "price_reduction_dp3" = "Trả phòng";
 "price_reduction_cart1" = "mục đã bị giảm,";
 "price_reduction_cart2" = "hãy xem!";
+
+//////////////////////// AE手机号校验 //////////////////////////////
+"phone_check" = "Số điện thoại di động của bạn phải là số có 9 chữ số bắt đầu bằng 5";

@@ -1297,3 +1297,6 @@
 "price_reduction_dp3" = "Periksa";
 "price_reduction_cart1" = "item telah dikurangi,";
 "price_reduction_cart2" = "Mari kita lihat!";
+
+//////////////////////// AE手机号校验 //////////////////////////////
+"phone_check" = "Nomor Ponsel Anda harus berupa angka 9 digit yang dimulai dengan angka 5";
