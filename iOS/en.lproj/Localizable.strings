@@ -1177,7 +1177,7 @@
 
 //////////////////////// 地址优化 //////////////////////////////
 "address_landmark" = "Nearest Landmark";
-"address_phone_number" = "Alternate Phone Number";
+"ae_address_phone_number" = "Alternate Phone Number";
 "address_location_type" = "Address Type";
 "address_location_type_home" = "Home";
 "address_location_type_business" = "Business";
@@ -1286,7 +1286,6 @@
 
 //////////////////////// 地址 //////////////////////////////
 "address_details" = "Address Details / Landmark (Optional)";
-"address_phone_number" = "Alternate Phone Number (Optional)";
 
 //////////////////////// 降价提醒 //////////////////////////////
 "price_reduction_home1" = "item(s) dropped a total of";

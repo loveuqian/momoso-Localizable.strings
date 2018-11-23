@@ -1177,7 +1177,7 @@
 
 //////////////////////// 地址优化 //////////////////////////////
 "address_landmark" = "Landmark";
-"address_phone_number" = "Số điện thoại thay thế";
+"ae_address_phone_number" = "Số điện thoại thay thế";
 "address_location_type" = "Loại địa điểm";
 "address_location_type_home" = "Nhà";
 "address_location_type_business" = "Kinh doanh";
@@ -1286,7 +1286,6 @@
 
 //////////////////////// 地址 //////////////////////////////
 "address_details" = "Chi tiết địa chỉ / Landmark (Tùy chọn)";
-"address_phone_number" = "Số điện thoại thay thế (Tùy chọn)";
 
 //////////////////////// 降价提醒 //////////////////////////////
 "price_reduction_home1" = "sản phẩm đã giảm tổng cộng";

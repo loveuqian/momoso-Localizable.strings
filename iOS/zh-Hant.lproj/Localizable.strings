@@ -1177,7 +1177,7 @@
 
 //////////////////////// 地址优化 //////////////////////////////
 "address_landmark" = "地標";
-"address_phone_number" = "備用號碼";
+"ae_address_phone_number" = "備用號碼";
 "address_location_type" = "地址類型";
 "address_location_type_home" = "家庭住址";
 "address_location_type_business" = "辦公地址";
@@ -1286,7 +1286,6 @@
 
 //////////////////////// 地址 //////////////////////////////
 "address_details" = "地址詳細信息/地標（可選）";
-"address_phone_number" = "備用電話號碼（可選）";
 
 //////////////////////// 降价提醒 //////////////////////////////
 "price_reduction_home1" = "件購物車商品總共降價";
