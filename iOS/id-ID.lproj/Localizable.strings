@@ -1279,3 +1279,21 @@
 "coupon_successful" = "Anda mendapat kupon!";
 "coupon_already_received" = "Anda sudah mendapat kupon!";
 "coupon_error" = "Ada yang salah dengan jaringan, silakan coba lagi";
+
+//////////////////////// DP比价 //////////////////////////////
+"comparison_price_sold_by" = "Dijual oleh";
+"comparison_price_cloudmall" = "di CloudMall";
+
+//////////////////////// 地址 //////////////////////////////
+"address_details" = "Alamat Detail / Landmark (Opsional)";
+"address_phone_number" = "Nomor Telepon Alternatif (Opsional)";
+
+//////////////////////// 降价提醒 //////////////////////////////
+"price_reduction_home1" = "item turun total";
+"price_reduction_home2" = "di keranjang Anda, lihat sekarang!";
+"price_reduction_home3" = "Mengerti";
+"price_reduction_dp1" = "Lihat sekarang dan dapatkan";
+"price_reduction_dp2" = "Gratis Pengiriman";
+"price_reduction_dp3" = "Periksa";
+"price_reduction_cart1" = "item telah dikurangi,";
+"price_reduction_cart2" = "Mari kita lihat!";

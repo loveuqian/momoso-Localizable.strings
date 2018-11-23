@@ -1279,3 +1279,21 @@
 "coupon_successful" = "恭喜你，成功领取优惠券";
 "coupon_already_received" = "您已领取过该优惠券";
 "coupon_error" = "网络出小差了，请重试";
+
+//////////////////////// DP比价 //////////////////////////////
+"comparison_price_sold_by" = "来自";
+"comparison_price_cloudmall" = "CloudMall";
+
+//////////////////////// 地址 //////////////////////////////
+"address_details" = "地址详细信息/地标（可选）";
+"address_phone_number" = "备用电话号码（可选）";
+
+//////////////////////// 降价提醒 //////////////////////////////
+"price_reduction_home1" = "件购物车商品总共降价";
+"price_reduction_home2" = "赶紧下单吧！";
+"price_reduction_home3" = "好的";
+"price_reduction_dp1" = "立即下单即可享受";
+"price_reduction_dp2" = "免运费优惠";
+"price_reduction_dp3" = "立即下单";
+"price_reduction_cart1" = "件商品已降价，";
+"price_reduction_cart2" = "赶紧去看看";

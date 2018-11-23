@@ -1279,3 +1279,21 @@
 "coupon_successful" = "You got the coupon(s)!";
 "coupon_already_received" = "You already got the coupon(s)!";
 "coupon_error" = "Somthing went wrong with the network, please try again";
+
+//////////////////////// DP比价 //////////////////////////////
+"comparison_price_sold_by" = "Sold by";
+"comparison_price_cloudmall" = "on CloudMall";
+
+//////////////////////// 地址 //////////////////////////////
+"address_details" = "Address Details / Landmark (Optional)";
+"address_phone_number" = "Alternate Phone Number (Optional)";
+
+//////////////////////// 降价提醒 //////////////////////////////
+"price_reduction_home1" = "item(s) dropped a total of";
+"price_reduction_home2" = "in your cart,check out now!";
+"price_reduction_home3" = "Got it";
+"price_reduction_dp1" = "Check out now and get";
+"price_reduction_dp2" = "Free Shipping";
+"price_reduction_dp3" = "Check Out";
+"price_reduction_cart1" = "item(s) have been reduced,";
+"price_reduction_cart2" = "let's see it!";

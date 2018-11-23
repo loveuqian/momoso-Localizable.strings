@@ -1279,3 +1279,21 @@
 "coupon_successful" = "Bạn có phiếu giảm giá!";
 "coupon_already_received" = "Bạn đã có phiếu giảm giá!";
 "coupon_error" = "Đã xảy ra sự cố với mạng, vui lòng thử lại";
+
+//////////////////////// DP比价 //////////////////////////////
+"comparison_price_sold_by" = "Bán bởi";
+"comparison_price_cloudmall" = "trên CloudMall";
+
+//////////////////////// 地址 //////////////////////////////
+"address_details" = "Chi tiết địa chỉ / Landmark (Tùy chọn)";
+"address_phone_number" = "Số điện thoại thay thế (Tùy chọn)";
+
+//////////////////////// 降价提醒 //////////////////////////////
+"price_reduction_home1" = "sản phẩm đã giảm tổng cộng";
+"price_reduction_home2" = "đô la trong giỏ hàng của bạn, hãy xem ngay bây giờ!";
+"price_reduction_home3" = "Hiểu rồi";
+"price_reduction_dp1" = "Kiểm tra ngay bây giờ và nhận";
+"price_reduction_dp2" = "được miễn phí vận chuyển";
+"price_reduction_dp3" = "Trả phòng";
+"price_reduction_cart1" = "mục đã bị giảm,";
+"price_reduction_cart2" = "hãy xem!";
