@@ -1294,8 +1294,8 @@
 "price_reduction_dp1" = "Check out now and get";
 "price_reduction_dp2" = "Free Shipping";
 "price_reduction_dp3" = "Check Out";
-"price_reduction_cart1" = "item(s) have been reduced,";
-"price_reduction_cart2" = "let's see it!";
+"price_reduction_cart1" = "item(s) price have been dropped,";
+"price_reduction_cart2" = "check it out!";
 
 //////////////////////// AE手机号校验 //////////////////////////////
 "phone_check" = "Your Mobile Phone Number should be a 9 digit number which start with 5";
