@@ -1309,6 +1309,6 @@
 "item_end_less_stock" = "Mảnh";
 
 ////////////////Filter中价格选择////////////////
-"filter_price" = "giá bán";
+"filter_price" = "Giá bán";
 "filter_price_min" = "tôi";
 "filter_price_max" = "tối đa";

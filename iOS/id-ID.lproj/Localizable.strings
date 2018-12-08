@@ -1309,6 +1309,6 @@
 "item_end_less_stock" = "Sepotong";
 
 ////////////////Filter中价格选择////////////////
-"filter_price" = "harga";
+"filter_price" = "Harga";
 "filter_price_min" = "saya";
 "filter_price_max" = "maks";
