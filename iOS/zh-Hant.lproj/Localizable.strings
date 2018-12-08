@@ -1303,3 +1303,7 @@
 ///// 库存相关的翻译 /////
 "stock_dp_only" = "庫存僅限";
 "stock_dp_stock" = "立即下單";
+
+//////////////////// item endless页面 ///////////////
+"item_end_less_only" = "庫存僅限";
+"item_end_less_stock" = "件";

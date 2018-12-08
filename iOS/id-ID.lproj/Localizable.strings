@@ -1303,3 +1303,7 @@
 ///// 库存相关的翻译 /////
 "stock_dp_only" = "Hanya saham";
 "stock_dp_stock" = "Pesan sekarang";
+
+//////////////////// item endless页面 ///////////////
+"item_end_less_only" = "Hanya saham";
+"item_end_less_stock" = "Sepotong";
