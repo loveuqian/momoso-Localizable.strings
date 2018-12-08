@@ -1307,3 +1307,8 @@
 //////////////////// item endless页面 ///////////////
 "item_end_less_only" = "Chỉ có chứng khoán";
 "item_end_less_stock" = "Mảnh";
+
+////////////////Filter中价格选择////////////////
+"filter_price" = "giá bán";
+"filter_price_min" = "tôi";
+"filter_price_max" = "tối đa";

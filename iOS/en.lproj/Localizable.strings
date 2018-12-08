@@ -1307,3 +1307,8 @@
 //////////////////// item endless页面 ///////////////
 "item_end_less_only" = "only";
 "item_end_less_stock" = "left";
+
+////////////////Filter中价格选择////////////////
+"filter_price" = "price";
+"filter_price_min" = "min";
+"filter_price_max" = "max";

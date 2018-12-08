@@ -1307,3 +1307,8 @@
 //////////////////// item endless页面 ///////////////
 "item_end_less_only" = "Hanya saham";
 "item_end_less_stock" = "Sepotong";
+
+////////////////Filter中价格选择////////////////
+"filter_price" = "harga";
+"filter_price_min" = "saya";
+"filter_price_max" = "maks";
