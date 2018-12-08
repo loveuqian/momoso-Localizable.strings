@@ -1310,5 +1310,5 @@
 
 ////////////////Filter中价格选择////////////////
 "filter_price" = "Price";
-"filter_price_min" = "min";
-"filter_price_max" = "max";
+"filter_price_min" = "Min";
+"filter_price_max" = "Max";

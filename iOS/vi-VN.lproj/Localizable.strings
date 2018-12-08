@@ -1310,5 +1310,5 @@
 
 ////////////////Filter中价格选择////////////////
 "filter_price" = "Giá bán";
-"filter_price_min" = "tôi";
-"filter_price_max" = "tối đa";
+"filter_price_min" = "Tối thiểu";
+"filter_price_max" = "Tối đa";

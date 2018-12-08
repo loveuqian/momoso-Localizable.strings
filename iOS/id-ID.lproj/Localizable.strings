@@ -1310,5 +1310,5 @@
 
 ////////////////Filter中价格选择////////////////
 "filter_price" = "Harga";
-"filter_price_min" = "saya";
-"filter_price_max" = "maks";
+"filter_price_min" = "Min";
+"filter_price_max" = "Max";
