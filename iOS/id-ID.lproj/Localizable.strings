@@ -1299,3 +1299,7 @@
 
 //////////////////////// AE手机号校验 //////////////////////////////
 "phone_check" = "Nomor Ponsel Anda harus berupa angka 9 digit yang dimulai dengan angka 5";
+
+///// 库存相关的翻译 /////
+"stock_dp_only" = "Hanya saham";
+"stock_dp_stock" = "Pesan sekarang";
