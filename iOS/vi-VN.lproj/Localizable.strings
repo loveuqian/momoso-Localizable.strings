@@ -1312,3 +1312,17 @@
 "filter_price" = "Giá bán";
 "filter_price_min" = "Tối thiểu";
 "filter_price_max" = "Tối đa";
+
+///////////Filter全部标题翻译//////////////
+"filter_brands" = "Nhãn hiệu";
+"filter_categories" = "Thể loại";
+"filter_colors" = "Màu sắc";
+"filter_countries" = "Các nước";
+"filter_interfaces" = "Giao diện";
+"filter_malls" = "Trung tâm thương mại";
+"filter_materials" = "Nguyên vật liệu";
+"filter_minorCategories" = "Tiểu thể loại";
+"filter_models" = "Mô hình";
+"filter_sexTags" = "SexTags";
+"filter_sizes" = "Kích cỡ";
+"filter_taobaoshoplds" = "TaobaoShoplds";

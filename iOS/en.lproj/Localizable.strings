@@ -1312,3 +1312,17 @@
 "filter_price" = "Price";
 "filter_price_min" = "Min";
 "filter_price_max" = "Max";
+
+///////////Filter全部标题翻译//////////////
+"filter_brands" = "Brands";
+"filter_categories" = "Categories";
+"filter_colors" = "Colors";
+"filter_countries" = "Countries";
+"filter_interfaces" = "Interfaces";
+"filter_malls" = "Malls";
+"filter_materials" = "Materials";
+"filter_minorCategories" = "MinorCategories";
+"filter_models" = "Models";
+"filter_sexTags" = "SexTags";
+"filter_sizes" = "Sizes";
+"filter_taobaoshoplds" = "TaobaoShoplds";

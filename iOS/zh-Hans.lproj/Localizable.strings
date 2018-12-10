@@ -1313,3 +1313,17 @@
 "filter_price" = "价格";
 "filter_price_min" = "最低";
 "filter_price_max" = "最高";
+
+///////////Filter全部标题翻译//////////////
+"filter_brands" = "品牌";
+"filter_categories" = "分类";
+"filter_colors" = "颜色";
+"filter_countries" = "国家";
+"filter_interfaces" = "接口";
+"filter_malls" = "商场";
+"filter_materials" = "材料";
+"filter_minorCategories" = "MinorCategories";
+"filter_models" = "楷模";
+"filter_sexTags" = "SexTags";
+"filter_sizes" = "尺码";
+"filter_taobaoshoplds" = "TaobaoShoplds";

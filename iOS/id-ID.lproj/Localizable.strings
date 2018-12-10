@@ -1312,3 +1312,17 @@
 "filter_price" = "Harga";
 "filter_price_min" = "Min";
 "filter_price_max" = "Max";
+
+///////////Filter全部标题翻译//////////////
+"filter_brands" = "Merek";
+"filter_categories" = "Kategori";
+"filter_colors" = "Warna";
+"filter_countries" = "Negara-negara";
+"filter_interfaces" = "Antarmuka";
+"filter_malls" = "Mal";
+"filter_materials" = "Material";
+"filter_minorCategories" = "MinorCategories";
+"filter_models" = "Model";
+"filter_sexTags" = "SexTags";
+"filter_sizes" = "Ukuran";
+"filter_taobaoshoplds" = "TaobaoShoplds";
