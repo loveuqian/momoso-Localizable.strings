@@ -1308,7 +1308,6 @@
 "item_end_less_only" = "库存仅限";
 "item_end_less_stock" = "件";
 
-
 ////////////////Filter中价格选择////////////////
 "filter_price" = "价格";
 "filter_price_min" = "最低";
@@ -1326,4 +1325,4 @@
 "filter_models" = "楷模";
 "filter_sexTags" = "SexTags";
 "filter_sizes" = "尺码";
-"filter_taobaoshoplds" = "TaobaoShoplds";
+"filter_taobaoshopids" = "TaobaoShopids";
