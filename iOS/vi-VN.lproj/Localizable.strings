@@ -1321,8 +1321,12 @@
 "filter_interfaces" = "Giao diện";
 "filter_malls" = "Trung tâm thương mại";
 "filter_materials" = "Nguyên vật liệu";
-"filter_minorCategories" = "Tiểu thể loại";
+"filter_minorcategories" = "Tiểu thể loại";
 "filter_models" = "Mô hình";
-"filter_sexTags" = "SexTags";
+"filter_sextags" = "SexTags";
 "filter_sizes" = "Kích cỡ";
 "filter_taobaoshopids" = "TaobaoShopids";
+
+//////////////////////filter中底部按钮/////////////////////
+"filter_reset" = "Cài lại";
+"filter_apply" = "Ứng dụng";

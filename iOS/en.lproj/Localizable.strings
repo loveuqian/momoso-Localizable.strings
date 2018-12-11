@@ -1321,8 +1321,12 @@
 "filter_interfaces" = "Interfaces";
 "filter_malls" = "Malls";
 "filter_materials" = "Materials";
-"filter_minorCategories" = "MinorCategories";
+"filter_minorcategories" = "MinorCategories";
 "filter_models" = "Models";
-"filter_sexTags" = "SexTags";
+"filter_sextags" = "SexTags";
 "filter_sizes" = "Sizes";
 "filter_taobaoshopids" = "TaobaoShopids";
+
+//////////////////////filter中底部按钮/////////////////////
+"filter_reset" = "Reset";
+"filter_apply" = "Apply";

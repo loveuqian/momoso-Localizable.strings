@@ -1321,8 +1321,12 @@
 "filter_interfaces" = "接口";
 "filter_malls" = "商场";
 "filter_materials" = "材料";
-"filter_minorCategories" = "MinorCategories";
+"filter_minorcategories" = "MinorCategories";
 "filter_models" = "楷模";
-"filter_sexTags" = "SexTags";
+"filter_sextags" = "SexTags";
 "filter_sizes" = "尺码";
 "filter_taobaoshopids" = "TaobaoShopids";
+
+//////////////////////filter中底部按钮/////////////////////
+"filter_reset" = "重置";
+"filter_apply" = "兑换";
