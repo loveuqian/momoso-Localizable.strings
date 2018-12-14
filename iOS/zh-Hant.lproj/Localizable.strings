@@ -1334,4 +1334,4 @@
 "cod_not_detail" = "COD僅在訂單介於AED99-AED1799之間且不包含非COD項目時可用.";
 
 ///////cart-MMS商品COD不可付款提示///////
-"cart_not_cod_message" = "這些項目不支持COD."
+"cart_not_cod_message" = "這些項目不支持COD.";

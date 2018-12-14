@@ -1334,4 +1334,4 @@
 "cod_not_detail" = "COD chỉ khả dụng khi đơn hàng nằm trong khoảng AED99-AED1799 và không chứa các mặt hàng không phải COD.";
 
 ///////cart-MMS商品COD不可付款提示///////
-"cart_not_cod_message" = "Những mặt hàng này không hỗ trợ COD."
+"cart_not_cod_message" = "Những mặt hàng này không hỗ trợ COD.";
