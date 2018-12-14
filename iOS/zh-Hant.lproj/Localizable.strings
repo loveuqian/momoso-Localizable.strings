@@ -1330,3 +1330,9 @@
 //////////////////////filter中底部按钮/////////////////////
 "filter_reset" = "重置";
 "filter_apply" = "確定";
+
+///////////////支付-MMS商品COD不可付款提示修改/////////
+"cod_not_detail" = "COD僅在訂單介於AED99-AED1799之間且不包含非COD項目時可用.";
+
+///////cart-MMS商品COD不可付款提示修改///////
+"cart_not_cod_message" = "這些項目不支持COD."
