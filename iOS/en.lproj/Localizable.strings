@@ -1137,7 +1137,6 @@
 "phone_verify_wrong" = "Wrong code. Try again.";
 "code_send_failed" = "Failed to send the code, please check your phone number and try again.";
 "cod_not" = "Not Available";
-"cod_not_detail" = "Sorry, you can't use the COD payment method because order amount is below or exceeds limit.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
@@ -1334,5 +1333,5 @@
 ///////////////支付-MMS商品COD不可付款提示修改/////////
 "cod_not_detail" = "COD is available only when the order is between AED99-AED1799 and doesn't contain non-COD items.";
 
-///////cart-MMS商品COD不可付款提示修改///////
+///////cart-MMS商品COD不可付款提示///////
 "cart_not_cod_message" = "These items do not support COD."

@@ -1137,7 +1137,6 @@
 "phone_verify_wrong" = "Salah kode. Coba lagi.";
 "code_send_failed" = "Gagal mengirim kode, silakan periksa ponsel Anda dan coba lagi.";
 "cod_not" = "Tidak tersedia";
-"cod_not_detail" = "Maaf, Anda tidak dapat menggunakan metode pembayaran COD karena jumlah pesanan di bawah atau melebihi batas.";
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
@@ -1334,5 +1333,5 @@
 ///////////////支付-MMS商品COD不可付款提示修改/////////
 "cod_not_detail" = "COD hanya tersedia ketika pesanan antara AED99-AED1799 dan tidak mengandung item non-COD.";
 
-///////cart-MMS商品COD不可付款提示修改///////
+///////cart-MMS商品COD不可付款提示///////
 "cart_not_cod_message" = "Item-item ini tidak mendukung COD."
