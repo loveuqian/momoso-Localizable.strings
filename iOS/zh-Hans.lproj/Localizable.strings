@@ -1317,14 +1317,12 @@
 "filter_categories" = "分类";
 "filter_colors" = "颜色";
 "filter_countries" = "国家";
-"filter_interfaces" = "接口";
-"filter_malls" = "商场";
-"filter_materials" = "材料";
+"filter_interfaces" = "端口";
+"filter_materials" = "材质";
 "filter_minorcategories" = "MinorCategories";
-"filter_models" = "楷模";
-"filter_sextags" = "SexTags";
+"filter_models" = "品牌";
+"filter_sextags" = "性别";
 "filter_sizes" = "尺码";
-"filter_taobaoshopids" = "TaobaoShopids";
 
 //////////////////////filter中底部按钮/////////////////////
 "filter_reset" = "重置";

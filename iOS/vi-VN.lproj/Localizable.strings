@@ -1318,13 +1318,11 @@
 "filter_colors" = "Màu sắc";
 "filter_countries" = "Các nước";
 "filter_interfaces" = "Giao diện";
-"filter_malls" = "Trung tâm thương mại";
 "filter_materials" = "Nguyên vật liệu";
 "filter_minorcategories" = "Tiểu thể loại";
 "filter_models" = "Mô hình";
-"filter_sextags" = "SexTags";
-"filter_sizes" = "Kích cỡ";
-"filter_taobaoshopids" = "TaobaoShopids";
+"filter_sextags" = "Giới tính";
+"filter_sizes" = "Kích thước";
 
 //////////////////////filter中底部按钮/////////////////////
 "filter_reset" = "Cài lại";

@@ -1317,14 +1317,12 @@
 "filter_categories" = "Categories";
 "filter_colors" = "Colors";
 "filter_countries" = "Countries";
-"filter_interfaces" = "Interfaces";
-"filter_malls" = "Malls";
+"filter_interfaces" = "Interface";
 "filter_materials" = "Materials";
 "filter_minorcategories" = "MinorCategories";
 "filter_models" = "Models";
-"filter_sextags" = "SexTags";
-"filter_sizes" = "Sizes";
-"filter_taobaoshopids" = "TaobaoShopids";
+"filter_sextags" = "Gender";
+"filter_sizes" = "Size";
 
 //////////////////////filter中底部按钮/////////////////////
 "filter_reset" = "Reset";

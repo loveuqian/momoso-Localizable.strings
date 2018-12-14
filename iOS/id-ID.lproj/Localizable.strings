@@ -1318,13 +1318,11 @@
 "filter_colors" = "Warna";
 "filter_countries" = "Negara-negara";
 "filter_interfaces" = "Antarmuka";
-"filter_malls" = "Mal";
 "filter_materials" = "Material";
 "filter_minorcategories" = "MinorCategories";
 "filter_models" = "Model";
-"filter_sextags" = "SexTags";
+"filter_sextags" = "Jenis kelamin";
 "filter_sizes" = "Ukuran";
-"filter_taobaoshopids" = "TaobaoShopids";
 
 //////////////////////filter中底部按钮/////////////////////
 "filter_reset" = "Setel ulang";
