@@ -1333,3 +1333,64 @@
 
 ///////cart-MMS商品COD不可付款提示///////
 "cart_not_cod_message" = "Item-item ini tidak mendukung COD.";
+
+/////////返利中的首次邀请弹窗////////
+"affiliate_invite_window_left" = "SELAMAT";
+"affiliate_invite_window_between" = "Anda mendapatkan";
+"affiliate_invite_window_right" = "uang tunai, mengundang teman-teman untuk mendapatkan lebih banyak uang.";
+"affiliate_invite_window_link" = "Menghasilkan tautan undangan Anda";
+"affiliate_invite_window_copy" = "Salinan";
+"affiliate_invite_window_copy_prompt" = "Salin Berhasil";
+"affiliate_invite_window_wallet" = "Lihat dompet saya";
+"affiliate_invite_window_invite" = "Undang temanmu";
+"affiliate_invite_window_invite_prompt_fb" = "Facebook tidak ditemukan";
+"affiliate_invite_window_invite_prompt_ms" = "Messenge tidak ditemukan";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger tidak ditemukan";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp tidak ditemukan";
+
+/////////返利中的非首次打开弹窗//////////////
+"affiliate_invite_window_not_first_left" = "DOMPET:";
+"affiliate_invite_window_not_first_right" = "Berhasil diundang:";
+"affiliate_invite_window_not_first_last" = "orang-orang";
+
+//////////被邀请人登录弹窗/////////
+"affiliate_invitee_pop_window_left" = "mengundang Anda untuk bergabung dengan CloudMall dan memberi Anda kupon eksklusif ini";
+"affiliate_invitee_pop_window_between" = "KUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Kupon Berakhir Di";
+"affiliate_invitee_pop_window_log_fb" = "Daftar dengan Facebook";
+"affiliate_invitee_pop_window_log_phone" = "Daftar dengan Telepon";
+
+///////////////返利通知消息/////////////////
+"affiliate_noti_friend_accept_left" = "Temanmu";
+"affiliate_noti_friend_accept_right" = "menerima undangan Anda.";
+"affiliate_noti_friend_log_right" = "baru saja masuk.";
+"affiliate_noti_friend_share_right" = "berbagi pos.";
+"affiliate_noti_friend_bought_right" = "baru saja membeli";
+"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_withdraw_available_left" = "Kamu punya";
+"affiliate_noti_withdraw_available_right" = "tersedia untuk menarik.";
+"affiliate_noti_become_friend_left" = "Kamu telah menjadi";
+"affiliate_noti_become_friend_right" = "teman.";
+"affiliate_noti_got_wallet_left" = "Anda baru saja mendapatkannya";
+"affiliate_noti_got_wallet_right" = "ke dompet.";
+
+////////////钱包/////////////
+"wallet_sider" = "Dompetku";
+"wallet_person_e_wallet" = "CloudMall E-Wallet";
+"wallet_person_cash" = "Kas";
+"wallet_person_pending" = "Menunggu keputusan";
+"wallet_person_refunded" = "Dana dikembalikan";
+"wallet_person_withdraw" = "Menarik";
+"wallet_person_messages" = "Pesan";
+"wallet_person_invite" = "Undang";
+
+//////////////////////rule弹窗//////////////////
+
+////////////withdraw policy弹窗//////////
+"withdraw_policy_window_left" = "Kebijakan Penarikan";
+"withdraw_policy_window_right" = "Tarik tunai minimum";
+"withdraw_policy_window_end" = "Terus undang";
+
+/////////////////////DP页面钱包弹窗//////////////////
+"wallet_dp_window_left" = "Uang kembali";
+"wallet_dp_window_right" = "Undang teman untuk mendapatkan";

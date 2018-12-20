@@ -1333,3 +1333,64 @@
 
 ///////cart-MMS商品COD不可付款提示///////
 "cart_not_cod_message" = "這些項目不支持COD.";
+
+/////////返利中的首次邀请弹窗////////
+"affiliate_invite_window_left" = "恭喜";
+"affiliate_invite_window_between" = "你得到";
+"affiliate_invite_window_right" = "現金，邀請朋友賺更多現金.";
+"affiliate_invite_window_link" = "生成邀請鏈接";
+"affiliate_invite_window_copy" = "複製";
+"affiliate_invite_window_copy_prompt" = "複製成功";
+"affiliate_invite_window_wallet" = "查看我的錢包";
+"affiliate_invite_window_invite" = "邀請你的朋友";
+"affiliate_invite_window_invite_prompt_fb" = "没找到Facebook";
+"affiliate_invite_window_invite_prompt_ms" = "没找到Messenge";
+"affiliate_invite_window_invite_prompt_msr" = "没找到Messenger";
+"affiliate_invite_window_invite_prompt_ws" = "没找到WhatsApp";
+
+/////////返利中的非首次打开弹窗//////////////
+"affiliate_invite_window_not_first_left" = "錢包:";
+"affiliate_invite_window_not_first_right" = "成功邀請:";
+"affiliate_invite_window_not_first_last" = "人";
+
+//////////被邀请人登录弹窗/////////
+"affiliate_invitee_pop_window_left" = "邀請您加入CloudMall並為您提供此獨家優惠券";
+"affiliate_invitee_pop_window_between" = "优惠券";
+"affiliate_invitee_pop_window_coupon_time" = "优惠券結束";
+"affiliate_invitee_pop_window_log_fb" = "用Facebook的註冊";
+"affiliate_invitee_pop_window_log_phone" = "用Phone的註冊";
+
+///////////////返利通知消息/////////////////
+"affiliate_noti_friend_accept_left" = "你的朋友";
+"affiliate_noti_friend_accept_right" = "接受了你的邀請.";
+"affiliate_noti_friend_log_right" = "剛剛登錄.";
+"affiliate_noti_friend_share_right" = "分享了一個帖子";
+"affiliate_noti_friend_bought_right" = "剛買了";
+"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_withdraw_available_left" = "你有";
+"affiliate_noti_withdraw_available_right" = "可以退出.";
+"affiliate_noti_become_friend_left" = "你變成了";
+"affiliate_noti_become_friend_right" = "的朋友.";
+"affiliate_noti_got_wallet_left" = "你剛剛得到了";
+"affiliate_noti_got_wallet_right" = "進入錢包.";
+
+////////////钱包/////////////
+"wallet_sider" = "我的錢包";
+"wallet_person_e_wallet" = "CloudMall電子錢包";
+"wallet_person_cash" = "現金";
+"wallet_person_pending" = "有待";
+"wallet_person_refunded" = "退款";
+"wallet_person_withdraw" = "退出";
+"wallet_person_messages" = "消息";
+"wallet_person_invite" = "邀請";
+
+//////////////////////rule弹窗//////////////////
+
+////////////withdraw policy弹窗//////////
+"withdraw_policy_window_left" = "退出政策";
+"withdraw_policy_window_right" = "提取最低現金";
+"withdraw_policy_window_end" = "繼續邀請";
+
+/////////////////////DP页面钱包弹窗//////////////////
+"wallet_dp_window_left" = "返現";
+"wallet_dp_window_right" = "邀請朋友來";

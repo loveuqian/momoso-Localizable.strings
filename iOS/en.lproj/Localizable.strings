@@ -1333,3 +1333,64 @@
 
 ///////cart-MMS商品COD不可付款提示///////
 "cart_not_cod_message" = "These items do not support COD.";
+
+/////////返利中的首次邀请弹窗////////
+"affiliate_invite_window_left" = "CONGRATULATIONS";
+"affiliate_invite_window_between" = "You get";
+"affiliate_invite_window_right" = "cash, inviting friends to earn more cash.";
+"affiliate_invite_window_link" = "Generating your invitation link";
+"affiliate_invite_window_copy" = "Copy";
+"affiliate_invite_window_copy_prompt" = "Copy Succefully";
+"affiliate_invite_window_wallet" = "See my wallet";
+"affiliate_invite_window_invite" = "Invite your friends";
+"affiliate_invite_window_invite_prompt_fb" = "Facebook not found";
+"affiliate_invite_window_invite_prompt_ms" = "Messenge not found";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger not found";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp not found";
+
+/////////返利中的非首次打开弹窗//////////////
+"affiliate_invite_window_not_first_left" = "WALLET:";
+"affiliate_invite_window_not_first_right" = "Successfully invited:";
+"affiliate_invite_window_not_first_last" = "people";
+
+//////////被邀请人登录弹窗/////////
+"affiliate_invitee_pop_window_left" = "invites you to join CloudMall and gives you this exclusive coupon";
+"affiliate_invitee_pop_window_between" = "COUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Coupon Ends In";
+"affiliate_invitee_pop_window_log_fb" = "Sign up with Facebook";
+"affiliate_invitee_pop_window_log_phone" = "Sign up with Phone";
+
+///////////////返利通知消息/////////////////
+"affiliate_noti_friend_accept_left" = "Your friend";
+"affiliate_noti_friend_accept_right" = "accepted your invitation.";
+"affiliate_noti_friend_log_right" = "just logged in.";
+"affiliate_noti_friend_share_right" = "shared a post.";
+"affiliate_noti_friend_bought_right" = "just bought";
+"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_withdraw_available_left" = "You have";
+"affiliate_noti_withdraw_available_right" = "available to withdraw.";
+"affiliate_noti_become_friend_left" = "You have become";
+"affiliate_noti_become_friend_right" = "'s friend.";
+"affiliate_noti_got_wallet_left" = "You have just got";
+"affiliate_noti_got_wallet_right" = "into wallet.";
+
+////////////钱包/////////////
+"wallet_sider" = "My Wallet";
+"wallet_person_e_wallet" = "CloudMall E-Wallet";
+"wallet_person_cash" = "Cash";
+"wallet_person_pending" = "Pending";
+"wallet_person_refunded" = "Refunded";
+"wallet_person_withdraw" = "Withdraw";
+"wallet_person_messages" = "Messages";
+"wallet_person_invite" = "Invite";
+
+//////////////////////rule弹窗//////////////////
+
+////////////withdraw policy弹窗//////////
+"withdraw_policy_window_left" = "Withdraw Policy";
+"withdraw_policy_window_right" = "Withdraw minimum cash";
+"withdraw_policy_window_end" = "Continue to invite";
+
+/////////////////////DP页面钱包弹窗//////////////////
+"wallet_dp_window_left" = "Cash Back";
+"wallet_dp_window_right" = "Invite friends to get";
