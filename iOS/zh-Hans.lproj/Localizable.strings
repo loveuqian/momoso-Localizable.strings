@@ -1385,6 +1385,7 @@
 "wallet_person_invite" = "邀请";
 
 //////////////////////rule弹窗//////////////////
+"rule_window" = "了解更多";
 
 ////////////withdraw policy弹窗//////////
 "withdraw_policy_window_left" = "退出政策";
