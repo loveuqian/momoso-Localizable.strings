@@ -1344,7 +1344,7 @@
 "affiliate_invite_window_wallet" = "查看我的钱包";
 "affiliate_invite_window_invite" = "邀请你的朋友";
 "affiliate_invite_window_invite_prompt_fb" = "没找到Facebook";
-"affiliate_invite_window_invite_prompt_ms" = "没找到Messenge;
+"affiliate_invite_window_invite_prompt_ms" = "没找到Messenge";
 "affiliate_invite_window_invite_prompt_msr" = "没找到Messenger";
 "affiliate_invite_window_invite_prompt_ws" = "没找到WhatsApp";
 
