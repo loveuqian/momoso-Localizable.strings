@@ -1378,9 +1378,9 @@
 "wallet_sider" = "我的钱包";
 "wallet_person_e_wallet" = "CloudMall 电子钱包";
 "wallet_person_cash" = "现金";
-"wallet_person_pending" = "有待";
+"wallet_person_pending" = "冻结";
 "wallet_person_refunded" = "退款";
-"wallet_person_withdraw" = "退出";
+"wallet_person_withdraw" = "提现";
 "wallet_person_messages" = "消息";
 "wallet_person_invite" = "邀请";
 
@@ -1388,7 +1388,7 @@
 "rule_window" = "了解更多";
 
 ////////////withdraw policy弹窗//////////
-"withdraw_policy_window_left" = "退出政策";
+"withdraw_policy_window_left" = "提现方案";
 "withdraw_policy_window_right" = "提取最低现金";
 "withdraw_policy_window_end" = "继续邀请";
 
