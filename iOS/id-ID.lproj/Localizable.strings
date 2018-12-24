@@ -1383,6 +1383,7 @@
 "wallet_person_withdraw" = "Menarik";
 "wallet_person_messages" = "Pesan";
 "wallet_person_invite" = "Undang";
+"sidebar_wallet" = "Dompetku";
 
 //////////////////////rule弹窗//////////////////
 "rule_window" = "Tahu lebih banyak";

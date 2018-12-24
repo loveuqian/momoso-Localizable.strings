@@ -1383,6 +1383,7 @@
 "wallet_person_withdraw" = "Withdraw";
 "wallet_person_messages" = "Messages";
 "wallet_person_invite" = "Invite";
+"sidebar_wallet" = "My Wallet";
 
 //////////////////////rule弹窗//////////////////
 "rule_window" = "Know More";
