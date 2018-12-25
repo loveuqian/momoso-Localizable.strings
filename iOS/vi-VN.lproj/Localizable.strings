@@ -1384,6 +1384,10 @@
 "wallet_person_messages" = "Tin nhắn";
 "wallet_person_invite" = "Mời gọi";
 "sidebar_wallet" = "Ví của tôi";
+"wallet_withdraw_error_left" = "Lỗi rút tiền";
+"wallet_withdraw_error_behind" = "Có gì sai với việc rút tiền?";
+"wallet_withdraw_error_right" = "Vui lòng liên hệ với dịch vụ khách hàng của CloudMall.";
+"wallet_withdraw_error_end" = "Liên hệ ngay";
 
 //////////////////////rule弹窗//////////////////
 "rule_window" = "Biêt nhiêu hơn";

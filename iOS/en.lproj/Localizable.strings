@@ -1384,6 +1384,10 @@
 "wallet_person_messages" = "Messages";
 "wallet_person_invite" = "Invite";
 "sidebar_wallet" = "My Wallet";
+"wallet_withdraw_error_left" = "Withdraw Error";
+"wallet_withdraw_error_behind" = "Something wrong with the withdrawal?";
+"wallet_withdraw_error_right" = "Please contact CloudMall customer service.";
+"wallet_withdraw_error_end" = "Contact Now";
 
 //////////////////////rule弹窗//////////////////
 "rule_window" = "Know More";

@@ -1384,6 +1384,10 @@
 "wallet_person_messages" = "消息";
 "wallet_person_invite" = "邀請";
 "sidebar_wallet" = "我的錢包";
+"wallet_withdraw_error_left" = "提取錯誤";
+"wallet_withdraw_error_behind" = "退出有什麼問題？";
+"wallet_withdraw_error_right" = "請聯繫CloudMall客戶服務.";
+"wallet_withdraw_error_end" = "現在聯繫";
 
 //////////////////////rule弹窗//////////////////
 "rule_window" = "了解更多";

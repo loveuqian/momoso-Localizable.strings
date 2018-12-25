@@ -1384,6 +1384,10 @@
 "wallet_person_messages" = "Pesan";
 "wallet_person_invite" = "Undang";
 "sidebar_wallet" = "Dompetku";
+"wallet_withdraw_error_left" = "Penarikan Kesalahan";
+"wallet_withdraw_error_behind" = "Ada yang salah dengan penarikan?";
+"wallet_withdraw_error_right" = "Silakan hubungi layanan pelanggan CloudMall.";
+"wallet_withdraw_error_end" = "Hubungi sekarang";
 
 //////////////////////rule弹窗//////////////////
 "rule_window" = "Tahu lebih banyak";
