@@ -1335,6 +1335,7 @@
 "cart_not_cod_message" = "Những mặt hàng này không hỗ trợ COD.";
 
 /////////返利中的首次邀请弹窗////////
+"affiliate_invite_window_first" = "Kiếm tiền";
 "affiliate_invite_window_left" = "XIN CHÚC MỪNG";
 "affiliate_invite_window_between" = "Bạn lấy";
 "affiliate_invite_window_right" = "tiền mặt, mời bạn bè để kiếm thêm tiền mặt.";

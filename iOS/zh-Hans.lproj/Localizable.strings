@@ -1335,6 +1335,7 @@
 "cart_not_cod_message" = "这些项目不支持COD.";
 
 /////////返利中的首次邀请弹窗////////
+"affiliate_invite_window_first" = "赚钱";
 "affiliate_invite_window_left" = "恭喜";
 "affiliate_invite_window_between" = "你得到";
 "affiliate_invite_window_right" = "现金，邀请朋友赚更多现金.";
