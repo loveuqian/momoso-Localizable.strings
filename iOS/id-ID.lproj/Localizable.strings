@@ -1374,8 +1374,8 @@
 "affiliate_noti_become_friend_right" = "teman.";
 "affiliate_noti_got_wallet_left" = "Anda baru saja mendapatkannya";
 "affiliate_noti_got_wallet_right" = "ke dompet.";
-"affiliate_noti_got_wallet_remind" = "Berhasil diikuti. Kami akan mengingatkan Anda setelah penjualan flash dimulai."
-"affiliate_noti_got_wallet_sale" = "Item yang dipilih ada di Flash Sale sekarang!"
+"affiliate_noti_got_wallet_remind" = "Berhasil diikuti. Kami akan mengingatkan Anda setelah penjualan flash dimulai.";
+"affiliate_noti_got_wallet_sale" = "Item yang dipilih ada di Flash Sale sekarang!";
 
 ////////////钱包/////////////
 "wallet_sider" = "Dompetku";

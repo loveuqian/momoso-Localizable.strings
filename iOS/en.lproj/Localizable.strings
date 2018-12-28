@@ -1374,8 +1374,8 @@
 "affiliate_noti_become_friend_right" = "'s friend.";
 "affiliate_noti_got_wallet_left" = "You have just got";
 "affiliate_noti_got_wallet_right" = "into wallet.";
-"affiliate_noti_got_wallet_remind" = "Successfully followed. We will remind you once the flash sale starts."
-"affiliate_noti_got_wallet_sale" = "Selected items is on Flash Sale now!"
+"affiliate_noti_got_wallet_remind" = "Successfully followed. We will remind you once the flash sale starts.";
+"affiliate_noti_got_wallet_sale" = "Selected items is on Flash Sale now!";
 
 ////////////钱包/////////////
 "wallet_sider" = "My Wallet";

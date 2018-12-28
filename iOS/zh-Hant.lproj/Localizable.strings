@@ -1374,8 +1374,8 @@
 "affiliate_noti_become_friend_right" = "的朋友.";
 "affiliate_noti_got_wallet_left" = "你剛剛得到了";
 "affiliate_noti_got_wallet_right" = "進入錢包.";
-"affiliate_noti_got_wallet_remind" = "關注成功.一旦閃購開始，我們會提醒您."
-"affiliate_noti_got_wallet_sale" = "所關注的閃購商品已開場!"
+"affiliate_noti_got_wallet_remind" = "關注成功.一旦閃購開始，我們會提醒您.";
+"affiliate_noti_got_wallet_sale" = "所關注的閃購商品已開場!";
 
 ////////////钱包/////////////
 "wallet_sider" = "我的錢包";
