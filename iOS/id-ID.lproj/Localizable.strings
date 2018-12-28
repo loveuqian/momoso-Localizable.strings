@@ -1367,13 +1367,15 @@
 "affiliate_noti_friend_log_right" = "baru saja masuk.";
 "affiliate_noti_friend_share_right" = "berbagi pos.";
 "affiliate_noti_friend_bought_right" = "baru saja membeli";
-"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_friend_bought_end" = "barang.";
 "affiliate_noti_withdraw_available_left" = "Kamu punya";
 "affiliate_noti_withdraw_available_right" = "tersedia untuk menarik.";
 "affiliate_noti_become_friend_left" = "Kamu telah menjadi";
 "affiliate_noti_become_friend_right" = "teman.";
 "affiliate_noti_got_wallet_left" = "Anda baru saja mendapatkannya";
 "affiliate_noti_got_wallet_right" = "ke dompet.";
+"affiliate_noti_got_wallet_remind" = "Berhasil diikuti. Kami akan mengingatkan Anda setelah penjualan flash dimulai."
+"affiliate_noti_got_wallet_sale" = "Item yang dipilih ada di Flash Sale sekarang!"
 
 ////////////钱包/////////////
 "wallet_sider" = "Dompetku";

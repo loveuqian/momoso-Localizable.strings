@@ -1367,13 +1367,15 @@
 "affiliate_noti_friend_log_right" = "刚刚登录.";
 "affiliate_noti_friend_share_right" = "分享了一个帖子.";
 "affiliate_noti_friend_bought_right" = "刚买了";
-"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_friend_bought_end" = "商品.";
 "affiliate_noti_withdraw_available_left" = "你有";
 "affiliate_noti_withdraw_available_right" = "可以退出.";
 "affiliate_noti_become_friend_left" = "你变成了";
 "affiliate_noti_become_friend_right" = "的朋友.";
 "affiliate_noti_got_wallet_left" = "你刚刚得到了";
 "affiliate_noti_got_wallet_right" = "进入钱包.";
+"affiliate_noti_got_wallet_remind" = "关注成功. 一旦闪购开始，我们会提醒您."
+"affiliate_noti_got_wallet_sale" = "所关注的闪购商品已开场!"
 
 ////////////钱包/////////////
 "wallet_sider" = "我的钱包";

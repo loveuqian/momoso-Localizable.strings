@@ -1367,13 +1367,15 @@
 "affiliate_noti_friend_log_right" = "剛剛登錄.";
 "affiliate_noti_friend_share_right" = "分享了一個帖子";
 "affiliate_noti_friend_bought_right" = "剛買了";
-"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_friend_bought_end" = "商品.";
 "affiliate_noti_withdraw_available_left" = "你有";
 "affiliate_noti_withdraw_available_right" = "可以退出.";
 "affiliate_noti_become_friend_left" = "你變成了";
 "affiliate_noti_become_friend_right" = "的朋友.";
 "affiliate_noti_got_wallet_left" = "你剛剛得到了";
 "affiliate_noti_got_wallet_right" = "進入錢包.";
+"affiliate_noti_got_wallet_remind" = "關注成功.一旦閃購開始，我們會提醒您."
+"affiliate_noti_got_wallet_sale" = "所關注的閃購商品已開場!"
 
 ////////////钱包/////////////
 "wallet_sider" = "我的錢包";

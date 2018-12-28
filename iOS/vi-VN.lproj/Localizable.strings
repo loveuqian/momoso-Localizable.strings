@@ -1367,13 +1367,15 @@
 "affiliate_noti_friend_log_right" = "vừa đăng nhập.";
 "affiliate_noti_friend_share_right" = "đã chia sẻ một bài viết.";
 "affiliate_noti_friend_bought_right" = "mới mua";
-"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_friend_bought_end" = "mục.";
 "affiliate_noti_withdraw_available_left" = "Bạn có";
 "affiliate_noti_withdraw_available_right" = "có sẵn để rút tiền.";
 "affiliate_noti_become_friend_left" = "Bạn đã trở thành";
 "affiliate_noti_become_friend_right" = "bạn của tôi";
 "affiliate_noti_got_wallet_left" = "Bạn vừa có";
 "affiliate_noti_got_wallet_right" = "vào ví.";
+"affiliate_noti_got_wallet_remind" = "Thành công theo sau. Chúng tôi sẽ nhắc nhở bạn khi bắt đầu flash sale."
+"affiliate_noti_got_wallet_sale" = "Các mục đã chọn hiện có trên Flash Sale!"
 
 ////////////钱包/////////////
 "wallet_sider" = "Ví của tôi";

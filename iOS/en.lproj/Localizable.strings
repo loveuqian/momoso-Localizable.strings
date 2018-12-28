@@ -1367,13 +1367,15 @@
 "affiliate_noti_friend_log_right" = "just logged in.";
 "affiliate_noti_friend_share_right" = "shared a post.";
 "affiliate_noti_friend_bought_right" = "just bought";
-"affiliate_noti_friend_bought_end" = ".";
+"affiliate_noti_friend_bought_end" = "item.";
 "affiliate_noti_withdraw_available_left" = "You have";
 "affiliate_noti_withdraw_available_right" = "available to withdraw.";
 "affiliate_noti_become_friend_left" = "You have become";
 "affiliate_noti_become_friend_right" = "'s friend.";
 "affiliate_noti_got_wallet_left" = "You have just got";
 "affiliate_noti_got_wallet_right" = "into wallet.";
+"affiliate_noti_got_wallet_remind" = "Successfully followed. We will remind you once the flash sale starts."
+"affiliate_noti_got_wallet_sale" = "Selected items is on Flash Sale now!"
 
 ////////////钱包/////////////
 "wallet_sider" = "My Wallet";
