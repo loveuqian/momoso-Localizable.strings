@@ -1403,3 +1403,8 @@
 /////////////////////DP页面钱包弹窗//////////////////
 "wallet_dp_window_left" = "返現";
 "wallet_dp_window_right" = "邀請朋友來";
+
+///////支付页面钱包/////////
+"submit_order_wallet" = "錢包";
+"submit_order_available" = "可用";
+"submit_order_not_available" = "不可用";

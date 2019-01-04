@@ -1403,3 +1403,8 @@
 /////////////////////DP页面钱包弹窗//////////////////
 "wallet_dp_window_left" = "Uang kembali";
 "wallet_dp_window_right" = "Undang teman untuk mendapatkan";
+
+///////支付页面钱包/////////
+"submit_order_wallet" = "Dompet";
+"submit_order_available" = "Tersedia";
+"submit_order_not_available" = "Tidak tersedia";

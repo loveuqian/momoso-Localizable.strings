@@ -1403,3 +1403,8 @@
 /////////////////////DP页面钱包弹窗//////////////////
 "wallet_dp_window_left" = "Hoàn lại tiền";
 "wallet_dp_window_right" = "Mời bạn bè để có được";
+
+///////支付页面钱包/////////
+"submit_order_wallet" = "Ví tiền";
+"submit_order_available" = "Có sẵn";
+"submit_order_not_available" = "Không availale";
