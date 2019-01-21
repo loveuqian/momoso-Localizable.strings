@@ -1338,8 +1338,8 @@
 "affiliate_invite_window_first" = "Earning Money";
 "affiliate_invite_window_left" = "CONGRATULATIONS";
 "affiliate_invite_window_between" = "You get";
-"affiliate_invite_window_right" = "cash, inviting friends to earn more cash.";
-"affiliate_invite_window_link" = "Generating your invitation link";
+"affiliate_invite_window_right" = "cash, invite friends to earn more cash.";
+"affiliate_invite_window_link" = "Your invitation link";
 "affiliate_invite_window_copy" = "Copy";
 "affiliate_invite_window_copy_prompt" = "Copy Succefully";
 "affiliate_invite_window_wallet" = "See my wallet";
@@ -1397,10 +1397,10 @@
 
 ////////////withdraw policy弹窗//////////
 "withdraw_policy_window_left" = "Withdraw Policy";
-"withdraw_policy_window_right" = "Withdraw minimum cash";
+"withdraw_policy_window_right" = "Minimum E-Wallet Cash for Withdraw";
 "withdraw_policy_window_end" = "Continue to invite";
 
-/////////////////////DP页面钱包弹窗//////////////////
+/////////////////////DP页面钱包弹窗/////////////////
 "wallet_dp_window_left" = "Cash Back";
 "wallet_dp_window_right" = "Invite friends to get";
 
