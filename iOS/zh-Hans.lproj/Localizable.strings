@@ -1408,3 +1408,6 @@
 "submit_order_wallet" = "钱包";
 "submit_order_available" = "可用";
 "submit_order_not_available" = "不可用";
+
+/////////////////message页面//////////////
+"message_bought_item" = "返利";

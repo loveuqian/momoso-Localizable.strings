@@ -1408,3 +1408,6 @@
 "submit_order_wallet" = "Dompet";
 "submit_order_available" = "Tersedia";
 "submit_order_not_available" = "Tidak tersedia";
+
+/////////////////message页面//////////////
+"message_bought_item" = "Penghargaan";
