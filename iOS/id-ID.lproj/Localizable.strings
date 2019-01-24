@@ -1366,6 +1366,7 @@
 "affiliate_noti_friend_accept_right" = "menerima undangan Anda.";
 "affiliate_noti_friend_log_right" = "baru saja masuk.";
 "affiliate_noti_friend_share_right" = "berbagi pos.";
+"affiliate_noti_friend_share_item" = "berbagi item.";
 "affiliate_noti_friend_bought_right" = "baru saja membeli";
 "affiliate_noti_friend_bought_end" = "barang.";
 "affiliate_noti_withdraw_available_left" = "Kamu punya";

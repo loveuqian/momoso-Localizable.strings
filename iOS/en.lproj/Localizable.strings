@@ -1366,6 +1366,7 @@
 "affiliate_noti_friend_accept_right" = "accepted your invitation.";
 "affiliate_noti_friend_log_right" = "just logged in.";
 "affiliate_noti_friend_share_right" = "shared a post.";
+"affiliate_noti_friend_share_item" = "shared an item.";
 "affiliate_noti_friend_bought_right" = "just bought";
 "affiliate_noti_friend_bought_end" = "item.";
 "affiliate_noti_withdraw_available_left" = "You have";

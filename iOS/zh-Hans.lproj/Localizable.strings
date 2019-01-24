@@ -1366,6 +1366,7 @@
 "affiliate_noti_friend_accept_right" = "接受了你的邀请.";
 "affiliate_noti_friend_log_right" = "刚刚登录.";
 "affiliate_noti_friend_share_right" = "分享了一个帖子.";
+"affiliate_noti_friend_share_item" = "分享了一个商品.";
 "affiliate_noti_friend_bought_right" = "刚买了";
 "affiliate_noti_friend_bought_end" = "商品.";
 "affiliate_noti_withdraw_available_left" = "你有";
