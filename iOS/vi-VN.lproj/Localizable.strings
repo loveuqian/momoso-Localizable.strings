@@ -1409,6 +1409,7 @@
 "submit_order_wallet" = "Ví tiền";
 "submit_order_available" = "Có sẵn";
 "submit_order_not_available" = "Không availale";
+"order_detail_param_cash" = "Ví";
 
 /////////////////message页面//////////////
 "message_bought_item" = "Phần thưởng";
