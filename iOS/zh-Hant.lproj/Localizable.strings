@@ -1362,20 +1362,20 @@
 "affiliate_invitee_pop_window_log_phone" = "用Phone的註冊";
 
 ///////////////返利通知消息/////////////////
-"affiliate_noti_friend_accept_left" = "你的朋友";
-"affiliate_noti_friend_accept_right" = "接受了你的邀請.";
-"affiliate_noti_friend_log_right" = "剛剛登錄.";
-"affiliate_noti_friend_share_right" = "分享了一個帖子";
-"affiliate_noti_friend_share_item" = "分享了一個商品.";
-"affiliate_noti_friend_bought_right" = "剛買了";
-"affiliate_noti_friend_bought_end" = "商品.";
-"affiliate_noti_withdraw_available_left" = "你有";
-"affiliate_noti_withdraw_available_right" = "可以退出.";
-"affiliate_noti_become_friend_left" = "你變成了";
-"affiliate_noti_become_friend_right" = "的朋友.";
-"affiliate_noti_got_wallet_left" = "你剛剛得到了";
-"affiliate_noti_got_wallet_remind" = "關注成功.一旦閃購開始，我們會提醒您.";
-"affiliate_noti_got_wallet_sale" = "所關注的閃購商品已開場!";
+"affiliate_noti_friend_accept_left" = "您的好友";
+"affiliate_noti_friend_accept_right" = "剛剛接受了您的邀請.";
+"affiliate_noti_friend_log_right" = "剛剛成功登錄.";
+"affiliate_noti_friend_share_right" = "剛剛分享了一個帖子";
+"affiliate_noti_friend_share_item" = "剛剛分享了一個商品.";
+"affiliate_noti_friend_bought_right" = "剛剛成功購買了";
+"affiliate_noti_friend_bought_end" = "件商品.";
+"affiliate_noti_withdraw_available_left" = "您錢包有";
+"affiliate_noti_withdraw_available_right" = "成功解凍.";
+"affiliate_noti_become_friend_left" = "您已成功成為";
+"affiliate_noti_become_friend_right" = "的好友.";
+"affiliate_noti_got_wallet_left" = "您的錢包賬戶成功收入";
+"affiliate_noti_got_wallet_remind" = "您已成功收藏该商品，我们将在闪购开场前通知您.";
+"affiliate_noti_got_wallet_sale" = "您心儀的閃購商品即將開搶啦~";
 
 ////////////钱包/////////////
 "wallet_sider" = "我的錢包";
