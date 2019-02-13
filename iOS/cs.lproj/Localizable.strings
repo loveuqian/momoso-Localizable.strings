@@ -1,0 +1,1414 @@
+
+"language_resources" = "捷克语";
+
+////////////////////////////////////////// 全局 _all ////////////// ///////////////
+
+"pull_to_refresh_title_all" = "Přejeďte prstem dolů pro obnovení"; // 购物 车, 首页, 个人 - 单单, 搜索 结果
+"release_to_refresh_title_all" = "Uvolnit pro obnovení"; // 购物 车, 首页, 个人 - 单单, 搜索 结果
+"refreshing_title_all" = "Načítání"; // 购物 车, 首页, 个人 - 单单, 搜索 结果
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////////////
+
+"index_flash_sale_title" = "Prodej blesku"; // 首页 - 闪 标题
+"index_great_price_title" = "Nejlepší cena"; // 首页 - 白菜 价
+"index_mini_banner_title" = "Velká hodnota"; // 首页 - 迷你 精选
+"index_great_collection_title" = "Nejprodávanější"; // 首页 - 目目 精选
+"index_daily_update_title" = "Doporučeno pro vás"; // 首页 - 海 淘 动态
+
+"index_tabbar_daily_update_title" = "Denní nabídky"; // 首页 - 分 屏 每日 精选 - 标题
+
+"index_choose_address_title" = "Vyberte poštovní adresu"; // 首页 - 选择 收货 地址
+"index_cannot_choose_address_toast" = "Tato oblast momentálně není k dispozici"; // 首页 - volba 新加坡 / 台灣 时 přípitek
+
+////////////////// Hledaný výraz /////////////// ///////////////
+
+"hot_catogery_title_search" = "Katalog"; // 搜索 页面
+"hot_brand_title_search" = "Značky"; // 搜索 页面
+"hot_mall_title_search" = "Střediska"; // 搜索 页面
+"all_brand_btn_searh" = "Další značky"; // 搜索 页面
+"all_mall_title_search" = "Další pobočky"; // 搜索 页面
+"best_sell_title_search" = "Oblíbené kategorie"; // 搜索 页面
+
+"all_people_title_search_result" = "Všichni lidé"; // 所有 结果 - 筛选 人群
+"all_brand_title_search_result" = "Značky"; // 所有 结果 - 筛选 品牌
+"general_sort_title_search_result" = "Seřadit"; // 所有 结果 - 排序
+"price_high_sort_title_search_result" = "Cena (od nejvyšší k nejnižší)"; // 所有 结果 - 排序
+"price_low_sort_title_search_result" = "Cena (od nejnižšího k vysokému)"; // 所有 结果 - 排序
+"discount_sort_title_search_result" = "Nejlepší nabídky"; // 所有 结果 - 排序
+"sale_sort_title_search_result" = "Nejpopulárnější"; // 所有 结果 - 排序
+
+"mall_filter_title_search_result" = "Mall"; // 所有 结果 - 筛选
+"all_mall_filter_title_search_result" = "Všechna centra"; // 所有 结果 - 筛选
+"price_filter_title_search_result" = "Cena"; // 所有 结果 - 筛选
+"clear_price_filter_title_search_result" = "Vymazat"; // 所有 结果 - 筛选
+"close_filter_title_search_result" = "Zavřít"; // 所有 结果 - 筛选
+"reset_filter_title_search_result" = "Reset"; // 所有 结果 - 筛选
+"ok_filter_title_search_result" = "Potvrdit"; // 所有 结果 - 筛选
+
+"search_result_subscribe_btn" = "Přihlásit se k odběru"; // 搜索 结果 - 品牌 - 保題 按钮
+"search_result_have_subscribed_btn" = "Přihlášeno"; // 搜索 结果 - 品牌 - 已 由人 按钮
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////////////
+
+"facebook_login_btn_signlogin" = "Pokračovat ve Facebooku";
+"email_signup_btn_signlogin" = "Přihlaste se pomocí e-mailu";
+"login_btn_signlogin" = "Přihlášení pomocí e-mailu";
+
+"email_title_signlogin" = "E-mail";
+"password_title_signlogin" = "Heslo";
+"forget_password_btn_signlogin" = "Zapomněli jste heslo?";
+
+"next_btn_signlogin" = "Další";
+
+"comfire_password_btn_signlogin" = "Potvrzení hesla";
+"finish_btn_signlogin" = "Dokončit";
+
+"phone_number_validation_title_signlogin" = "Ověřovací kód byl odeslán";
+"validation_code_title_signlogin" = "Zadejte ověřovací kód";
+
+"create_password_title_signlogin" = "Vytvořit heslo"; // Nahlásit stránku
+"new_username_btn_signlogin" = "Uživatelské jméno";
+
+////////////////////// 我 _profile ////////////// ///////////////
+
+"favorite_title_profile" = "Oblíbené";
+"advances_address_title_profile_setting" = "Adresář";
+
+"order_title_profile_order" = "Moje objednávky";
+"un_paid_btn_profile_order" = "Neplaceno";
+"processing_btn_profile_order" = "Probíhající";
+"received_btn_profile_order" = "Dokončeno";
+"all_order_btn_profile_order" = "Historie objednávek";
+
+"problem_consult_title_profile_setting" = "Centrum služeb zákazníkům";
+"title_consult_title_profile_setting" = "Vyplňte prosím předmět";
+"title_consult_description_profile_setting" = "Popište problém";
+"placeholder_title_consult_description_profile_setting" = "Povězte nám podrobnosti o problému";
+"order_number_consult_profile_setting" = "Číslo zakázky";
+"placeholder_order_number_consult_profile_setting" = "Číslo objednávky týkající se vašeho dotazu";
+"title_email_consult_profile_setting" = "E-mail";
+"placeholder_email_consult_profile_setting" = "Zadejte prosím svou e-mailovou adresu";
+"title_name_consult_profile_setting" = "Jméno";
+"placeholder_title_name_consult_profile_setting" = "Zadejte prosím své jméno";
+
+"feedback_title_profile_setting" = "Zpětná vazba";
+"rate_title_profile_setting" = "Hodnotit nás";
+"about_me_title_profile_setting" = "O nás";
+"sign_out_title_profile_setting" = "Odhlásit se";
+
+"confirm_clear_cache_title_profile_about" = "Opravdu chcete vymazat mezipaměť?";
+
+"hint_feedback_title_profile_feedback" = "Zadejte prosím vaše připomínky zde";
+"hint_contact_title_profile_feedback" = "E-mail / telefonní číslo (volitelné)";
+
+"my_profile_title_profile_info" = "Můj profil";
+"modify_avatar_btn_profile_info" = "Nahrát fotku";
+"modify_name_btn_profile_info" = "Změnit uživatelské jméno";
+"reset_password_btn_profile_info" = "Reset";
+"reset_password_info_title_profile_info" = "Verifikační kód bude zaslán na váš e-mail";
+"reset_password_title_profile_setting" = "Resetovat heslo";
+
+"warn_sign_out_toast_profile_setting" = "Aktualizace objednávky nebudou přijata po odhlášení. Proceed? ";
+
+"total_pay_title_cart" = "Celkem:";
+"view_detail_btn_dp" = "Podrobnosti objednávky";
+"view_logistics_btn_profile_order" = "Pořadí skladeb";
+"go_pay_btn_profile_order" = "Platba";
+"delete_order_btn_profile_order" = "Odstranit";
+"pay_tax_btn_profile" = "Platba daně";
+
+"share_lucky_money_btn_cart" = "Sdílet";
+
+"favors_album_title_profile_favors" = "Oblíbené";
+"camera_edit_btn_profile_address" = "Upravit";
+"delete_album_tips_title_profile_favors" = "Potvrdit smazání alba?";
+"delete_album_btn_profile_favors" = "Odstranit album";
+"no_album_desc_title_profile_favors" = "Bez popisu";
+"title_title_profile_favors" = "Název";
+"description_title_profile_favors" = "Popis";
+"new_album_title_dp" = "Upravit nový název alba";
+
+"address_manage_title_all" = "Správa adresáře";
+"add_address_btn_cart" = "Přidat novou adresu";
+"id_phone_title_profile_cash" = "Telefonní číslo:";
+"detail_address_title_cart" = "Jednotka / podlaha / blok / budova / ulice";
+
+"change_region_title_profile_setting" = "Změnit region"; // 个人 - 设置 页面 - 切换 地区
+"select_region_title_profile_setting" = "Odeslat do";
+"change_language_title_profile_setting" = "Jazyk";
+"clear_cache_title_profile_setting" = "Vymazat mezipaměť"; // 个人 - 设置 页面 缺失
+"setting_title_profile_setting" = "Nastavení"; // 个人 - 设置 页面 头部
+"language_title_profile_setting" = "Jazyk"; // 个人 - 设置 页面 - 语言 切换
+
+"cancle_send_question_profile_setting" = "Zrušit"; // 个人 - 设置 - 问题 问题 - 左上角
+"ok_send_question_profile_setting" = "Odeslat"; // 个人 - 设置 - 问题 问题 - 左上角
+
+"cancle_clear_cache_profile_setting" = "Zrušit"; // 个人 - 设置 - 清除 缓存 弹 窗
+"ok_clear_cache_profile_setting" = "Vymazat mezipaměť"; // 个人 - 设置 - 清除 缓存 弹 窗
+
+"disclamier_btn_profile_setting" = "Podmínky použití"; // 个人 - 设置 - O 我们
+
+"ok_logout_profile_setting" = "Odhlásit se"; // 个人 - 设置 - 退出 登录
+"cancle_logout_profile_setting" = "Zrušit"; // 个人 - 设置 - 退出 登录
+
+"take_photo_change_avatar_btn_profile" = "Fotografovat"; // 头像 修改 - 弹 窗
+"open_photo__change_avatar_btn_profile" = "Vybrat z knihovny fotografií"; // 头像 修改 - 弹 窗
+"cancle_change_avatar_btn_profile" = "Zrušit"; // 头像 修改 - 弹 窗 数据 编辑 - 左上角 取消
+
+"ok_change_name_btn_profile" = "Potvrdit"; // 昵称 修改 - 弹 窗
+"cancle_change_name_btn_profile" = "Zrušit"; // 昵称 修改 - 弹 窗
+
+"order_number_title_profile_order" = "Objednací číslo"; // rezervovat - rezervovat
+"order_time_title_profile_order" = "Datum objednávky"; // rezervovat - rezervovat
+"today_sale_title_profile_order" = "Denní nabídky"; // 预单 - 物流 详细
+"order_detail_title_profile_order" = "Podrobnosti objednávky"; // 預单 - 单单 λεπτομέρεια - 标题
+"help_btn_profile_order" = "Potřebujete pomoc?"; // 预单 - 物流 详细 - 漏 了 的
+
+"cancle_btn_profile_favors" = "Zrušit"; // 收藏 - 专辑 编辑
+"save_btn_profile_favors" = "Uložit"; // 收藏 - 专辑 编辑
+"confirm_delete_album_btn_profile_favors" = "Odstranit"; // 收藏 - 专辑 编辑 删除 专辑 弹 窗
+"cancle_delete_album_btn_profile_favors" = "Zrušit"; // 收藏 - 专辑 编辑 删除 专辑 弹 窗
+
+"ok_btn_profile_address" = "Hotovo"; // 地址 - 新建 地址 / 编辑 地址 - 右上角
+"regioin_title_profile_address" = "Region / stát"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"delete_btn_profile_address" = "Odstranit"; // 地址 - 左 滑 删除 时
+
+"profile_address_receiver_title" = "Celé jméno:"; // 地址 管理 - 收件人 栏 的 默认 zobrazení 文案
+"profile_address_postcode_title" = "PSČ:"; // 地址 管理 - 新加坡 - 邮件 的 默认 显示 文案
+
+"profile_favorite_no_album_title" = "ostatní"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+
+"profile_default_addresss_title" = "Pokoj, podlaha, budova, ulice"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+
+"profile_no_orders_title" = "Na vás čekají miliony produktů"; // 個人 - 訂單 無 訂單 時 顯示 的 內容
+
+//////////////////// 购物 车 _cart //////////// ///////////////////////////////////////////////
+
+"cart_icon_all" = "Košík";
+"hint2_login_title_cart" = "Přihlaste se pro zobrazení košíku, oblíbených položek a historie objednávek";
+"select_all_btn_cart" = "Vybrat vše";
+"save_price_title_cart" = "Nabídka byla uplatněna";
+"checkout_btn_cart" = "Pokladna";
+"empty_title_cart" = "Nákupní košík je prázdný";
+"item_viewed_title_cart" = "Naposledy zobrazené položky";
+"mall_item_discount_title_dp" = "Nabídka byla použita automaticky";
+"drop_price_title_cart" = "V prodeji";
+
+"agreements_content_cart1" = "Odesláním této objednávky souhlasím se společností Cloudmall";
+"agreements_content_cart2" = "Soukromí a bezpečnost /";
+"agreements_content_cart3" = "Podmínky použití /";
+"agreements_content_cart4" = "Návratové a směnné zásady";
+"summit_checkout_btn_cart" = "Odeslat objednávku";
+"mall_shipping_fee_title_cart" = "Poplatek za dopravu na Mall";
+"tax_fee_title_cart" = "daň";
+"supply_title_cart" = "Dodáno";
+"select_address_title_cart" = "Vybrat adresu";
+
+"confirm_payment_btn_profile_order" = "Odeslat platbu";
+"asap_pay_title_cart" = "Deal končí brzy";
+"asap_pay_detail_content_cart" = "Ceny se mohou kdykoli měnit, takže objednávku nyní zadejte, abyste získali nejlepší nabídku!";
+"choose_payment_title_cart" = "Výběr způsobu platby";
+"hint_choose_payment_title_cart" = "Vyberte způsob platby";
+"final_price_title_cart" = "Celkový počet objednávek:";
+
+"logistic_message_title_index_message" = "Zprávy";
+
+"ok_btn_cart" = "Hotovo"; // 购物 车 列表 - 点击 右上角 后
+"edit_btn_cart" = "Upravit"; // 购物 车 列表 - 右上角 编辑
+"delete_sold_out_btn_cart" = "Odstranit vyprodávané položky"; // 购物 车 列表 - 点击 编辑 后
+"delete_selected_btn_cart" = "Odstranit"; // 购物 车 列表 - 点击 编辑 后
+
+"no_return_title_cart" = "Dodavatel nepodporuje vrácení"; // 购物 车 列表 - 商品 下 说明
+"limited_number_title_cart" = "omezení počtu položek"; // 购物 车 列表 - 商品 下 说明
+"delete_btn_cart" = "Odstranit"; // 购物 车 列表 - 左 滑 删除
+"not_qualified_title_cart" = "Nabídka se nevztahuje";// 购物 车 列表 - 商城 运费 优惠
+"qualified_title_cart" = "Nabídka byla uplatněna"; // 购物 车 列表 - 商城 运费 优惠
+
+"choose_address_title_cart_checkout" = "Vyberte adresu odesílatele"; // 提交 reserved单 - 地址 栏
+"close_btn_cart_checkout" = "Zavřít"; // 点击 渠道 后 - 左上角 关闭
+
+"order_submit_title_cart_checkout" = "Zpracování, potvrzení bude zasláno do 48 hodin"; // 单单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_sub_title_cart_checkout" = "Pokud objednávku nelze dokončit, budeme vás informovat e-mailem a zpracovat refundaci"; // 单单 完成 - 小 鲸鱼 下方 的 标题
+
+"cart_benefit_title" = "Použitá sleva"; // 购物 车 - 总价 下 的 小字, 缺 了 已 优惠
+
+"cart_checkout_logistic_self_title" = "Vyberte místo pro vyzvednutí"; // 购物 车 - 顺丰 自 提 - 弹 窗
+
+"cart_checkout_order_description_title0" = "Celkem:"; // 购物 车 - 提交 单单 - 选择 支付 方式
+"cart_checkout_order_description_title1" = "(Měna bude převedena automaticky)"; // 购物 车 - 提交 单单 - 选择 支付 方式
+
+"cart_checkout_logistic_self_desc_title" = "Telefonní číslo"; // 购物 车 - 顺丰 自 提 - 字体 说明
+"cart_checkout_logistic_door_desc_title" = "HK 30 dolarů bude účtováno při doručení na adresy nepodnikatelské"; // 购物 车 - 顺丰 自 提 - 字体 说明
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////////////////////////////////////////////
+
+"add_cart_btn_dp" = "Přidat do košíku";
+"favourite_icon_all" = "Oblíbené";
+"add_to_album_title_dp" = "Přidat do alba";
+
+"just_sold_title_dp" = "Jen prodáno";
+"subscribe_btn_search" = "Přihlásit se k odběru";
+"subscribed_btn_search" = "Subscribed";
+"translate_btn_dp" = "Překlad";
+"translate_title_dp" = "Popis produktu";
+
+"open_facebook_share_btn_dp" = "'Cloudmall' by rád otevřel 'Facebook' "; // Odborné informace - klikněte na odkaz
+"cancle_open_facebook_share_btn_dp" = "Zrušit"; // Odborné informace - klikněte na odkaz
+"ok_open_facebook_share_btn_dp" = "Otevřít"; // Odborné informace - klikněte na odkaz
+
+"service_description_title_dp" = "Podrobnosti"; // 商品 詳細 - 点击 包 税, 超值 等
+"great_deal_title_dp" = "Velká hodnota"; // 商品 详细 - 超值
+"great_sale_title_dp" = "Speciální nabídka"; // 商品 详细 优惠
+
+"brand_title_dp" = "Značka"; // 商品 詳細 页 下
+"item_description_title_dp" = "Popis produktu"; // 商品 詳細 下 - 商品 描述
+"more_item_title_dp" = "Další produkty, které byste rádi"; // 商品 詳細 - 最底部 商品 推荐
+"supplier_btn_dp" = "Prodejce"; // 商品 详细 -tabbar 上
+
+"new_album_btn_dp" = "Nový album"; // 商品 詳細 - 点击 收藏 - 新建
+
+"have_select_desc_title_dp" = "Vybráno"; // Doplňkové informace - klikněte na tlačítko "Koupit"
+"warn_addcart_title_dp" = "Upozorňujeme, že výše uvedené informace (barva, velikost atd.) jsou poskytovány našimi dodavateli a jsou pouze orientační.";
+"quantity_addcart_title_dp" = "Množství"; // Doplňkové informace - klikněte na tlačítko "Koupit"
+"ok_addcart_btn_dp" = "OK"; // Detailní informace - 加入 购物 车
+
+"dp_about_mall_sale_title" = "Podrobnosti o nabídce"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_title1_title" = "Sleva je poskytována dodavatelem"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_content1_title" = "Sleva poskytnutá dodavatelem bude automaticky použita. CloudMall neodpovídá za změny této nabídky"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_title2_title" = "Sleva bude použita automaticky"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_content2_title" = "Sleva bude použita automaticky, žádné kupony nejsou nutné"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_title3_title" = "Platnost speciální nabídky vypršela"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_content3_title" = "Čas slevy je omezen a nabídka vypršela"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_title4_title" = "nabídka byla úspěšně použita"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+"dp_about_mall_sale_content4_title" = "Kód kupónu byl použit"; // Podrobné obchodní údaje - O společnosti 商城 优惠 活动
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2 // verze 0.2
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////////////
+
+"index_main_realtime_discout" = "Sleva"; // 首页 - 热门 - 实时 折扣
+"index_main_time_limited_discout" = "Prodej blesku"; // 首页 - 热门 - 限时 闪 购
+"index_main_hot_mall" = "Hot Sales"; // 首页 - 热门 - 热门 市场
+"index_main_hot_mall_more" = "Více"; // 首页 - 热门 - 热门 市场 - 更多 商铺
+"index_main_hot_mall_view" = "Více"; // 首页 - 热门 - 热门 市场 - 进入 商铺
+
+"index_main_lightlux" = "Trendy"; // 首页 - 热门 - 类目 精选 - 奢 奢
+"index_main_bigbrand" = "Velké značky"; // 首页 - 热门 - 类目 精选 - 大牌
+"index_main_casual" = "Neformální"; // 首页 - 热门 - 类目 精选 - 休闲 生活
+"index_main_beauty" = "Krása"; // 首页 - 热门 - 类目 精选 - 美 妆 护肤
+"index_main_sportwear" = "Sportovní oblečení"; // 首页 - 热门 - 类目 精选 - 户外 运动
+"index_main_men" = "Muži"; // 首页 - 热门 - 类目 精选 - 睿智 男士
+
+"index_sub_dailyupdate" = "Denní aktualizace"; // 首页 - 分 屏 - 每日 精选
+"index_sub_youmaylike" = "Můžete se také líbit"; // 首页 - 分 屏 - 每日 精选
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////////////////////////////////////////////
+
+"dp_mall_high_grade_mall" = "Nejlepší prodejce"; // 商品 - 商城 - 优质 商家
+"dp_mall_all_product" = "Produkty"; // 商品 - 商城 - 全部 商品
+"dp_mall_total_sale" = "Položky prodávané"; // 商品 - 商城 - 总 销量
+"dp_mall_runs_years" = "Roky"; // 商品 - 商城 - 优质 商家
+
+"dp_flash_sale" = "Prodej končí v"; // 商品 - 限时 闪 - - 倒计时
+"dp_favorite_new_abulm" = "Přidat"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_cancel" = "Zrušit"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_confirm" = "Potvrdit"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_toast_success" = "Položka byla přidána do vašeho alba"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_unfav_success" = "Úspěšně odebrat z alba"; // 商品 - 收藏 - 新建 专辑
+"dp_soldout" = "Vyprodáno"; // 商品 - 出 光 了 - 找 相似
+"dp_description" = "O položce"; // 商品 - 收藏 - 新建 专辑
+
+"dp_add_cart_success_toast" = "Přidáno do košíku"; // 商品 - 成功 加入 购物 车-toast
+
+////////////////// Hledaný výraz /////////////// ///////////////
+
+"search_result_temp_title" = "Výsledky hledání"; // vyhledávací - vyhledávací funkce - 主 标题
+
+"search_history_result" = "Historie"; // hledání - historie hledání
+"search_history_result_cancel" = "Zrušit"; // Hledání - Hledání historie - Zrušení
+"search_hot_result" = "Trendy"; // vyhledávací - vyhledávací dotaz - hledá
+"search_all_brand" = "Všechny značky"; // 搜索 - 所有 品牌
+"search_brand_list" = "Seznam značek"; // vyhledávací - výrobní nabídky
+"search_result_filter_clear" = "Vymazat"; // vyhledávací - výrobní nabídky
+
+"search_history_result_clear_popup_title" = "Vymazat historii vyhledávání"; // hledat - odstranit historii záznamu - 标题
+"search_history_result_clear_popup_content" = "Opravdu chcete vymazat svou historii vyhledávání?"; // hledat - odstranit historii záznamu - 内容
+"search_history_result_clear_popup_cancle" = "Zrušit"; // hledání - prázdný časopis - záznam
+"search_history_result_clear_popup_confirm" = "Potvrdit"; // hledání - prázdný čas záznam - 确定
+
+//////////////////// 购物 车 _cart //////////// ///////////////////////////////////////////////
+
+"cart_checkout_credit_card" = "Kreditní / debetní karta"; // 购物 车 - 确认 支付 - 信用卡 标题
+"cart_checkout_total_bill" = "Celkem"; // 购物 车 - 确认 支付 - 确认 标题 前
+
+"cart_checkout_credit_card_title" = "Kreditní / debetní karta"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_change_credit_card" = "Změna karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 预 一张 卡
+"cart_checkout_new_credit_card" = "Přidat novou kartu"; // 购物 车 - 确认 支付 - 选择 信用 支持 - 新 信 信用卡
+"cart_checkout_credit_card_toast" = "Nejprve přidejte novou kartu"; // 购物 车 - 确认 支付 - 选择 信息 支持 - 未 绑定 信用卡
+"cart_checkout_credit_card_cancel" = "Zrušit"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 取消
+"cart_checkout_credit_card_pay" = "Platba"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 付款
+"cart_checkout_credit_card_confirm" = "Potvrdit"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 增加 新 加 -cvv- 确定
+
+"cart_checkout_card_holdername_title" = "Jméno"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 持卡人 姓名
+"cart_checkout_card_holdername_default" = "Jméno držitele karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_card_number_title" = "Číslo karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_card_number_default" = "Zadejte číslo karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_valid_date_title" = "Datum ukončení platnosti"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 有效期
+"cart_checkout_valid_date_default" = "MM / YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
+"cart_checkout_safe_code_title" = "CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_safe_code_default" = "Zadejte CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_about_safety" = "Vaše platba za tento nákup je bezpečně zpracována zpracovatelem platby třetí stranou. CloudMall neukládá informace o vaší kreditní kartě."; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 承诺
+"cart_checkout_comfirm" = "Potvrdit"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 完成 按钮
+
+"cart_checkout_card_holdername_toast" = "Jméno držitele karty je neplatné. Použijte pouze alfanumerické znaky [A-z]"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 姓名 不 为 英文 时
+"cart_checkout_card_number_toast" = "Vložené číslo karty je neplatné. Zkontrolujte, prosím, číslo své karty"; // 购物 车 - 确认 支付 - 选择 信息 支付 - 卡号 填写 规则 / 长度 不对
+"cart_checkout_card_number_toast2" = "Typ karty není podporován. Zkuste použít jinou kartu"; // 购物 车 - 确认 支付 - 选择 信用 的 支持 - 卡号 规则 超过 支持 列表
+"cart_checkout_valid_date_toast" = "Datum vypršení platnosti karty je neplatné."; // 购物 车 - 确认 支付 - 选择 信用 的 支持 - 卡号 规则 超过 支持 列表
+"cart_checkout_safe_code_toast" = "CVV je neplatné. Zkontrolujte prosím dvojité zadání čísla, které jste zadali"; // 购物 车 - 确认 支付 - 选择 信用 的 支持 - 卡号 规则 超过 支持 列表
+
+"cart_edit_done" = "Potvrdit"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_no_goods" = "Odstranit vyprodávané položky"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_item" = "Odstranit"; // 购物 车 - 编辑 - 完成
+"cart_checkout_all_item" = "Položka X"; // 购物 车 - 结算 - 共 X 件 商品
+"cart_checkout_sum_price" = "Celkem:"; // 购物 车 - 编辑 - 完成
+
+"cart_checkout_cancel_payment_popup_title" = "Objednávka neplacená"; // 购物 车 - 单单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_content" = "Platíte prosím do 24 hodin"; // 购物 车 - 单单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_confirm" = "Potvrdit"; // 购物 车 - 单单 - 取消 支付 - 弹 窗
+
+"cart_checkout_card_date_jan" = "01-JAN"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 一月
+"cart_checkout_card_date_feb" = "02-FEB"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 二月
+"cart_checkout_card_date_mar" = "03-MAR"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 三月
+"cart_checkout_card_date_apr" = "04-APR"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 四月
+"cart_checkout_card_date_may" = "05-MAY"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 五月
+"cart_checkout_card_date_jun" = "06-JAN"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 六月
+"cart_checkout_card_date_jul" = "07-JUL"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 七月
+"cart_checkout_card_date_aug" = "08-AUG"; // 购物 车 - 确认 支付 - 填 používat 信用卡 日期 - 八月
+"cart_checkout_card_date_sep" = "09-SEP"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 九月
+"cart_checkout_card_date_oct" = "10-OCT"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 十月
+"cart_checkout_card_date_nov" = "11-NOV"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 十一月
+"cart_checkout_card_date_dec" = "12-DEC"; // 购物 车 - 确认 支付 - 填用 信用卡 日期 - 十二月
+
+"cart_not_login_btn" = "Přihlášení"; // 购物 车 - 登登 - 登录 按钮
+"cart_checkout_card_cancel" = "Zrušit"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_card_pay" = "Nákup"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_card_popup_title" = "Chyba"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_content" = "Při platbě došlo k chybě. Ověřte, zda zadané údaje karty byly správné, nebo zkuste platit jinou kartou."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_cancel" = "Později"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_tryagain "=" Zkuste znovu "; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_pay_total" = "Nákup"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_bill_total" = "Celkový účet"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_pay_success_title" = "Úspěch"; // 购物 车 - 选择 支付 - 支付 成功
+
+////////////// 个人 -Proilfe ///////////// ///////////////
+
+"profile_setting_customer_service_cancel" = "Zrušit"; // 个人 - 客服 - 取消
+"profile_setting_customer_service_confirm" = "Potvrdit"; // 个人 - 客服 - 提交
+"profile_setting_clearcache_clearing" = "Vymazání mezipaměti ..."; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_cancel" = "Zrušit"; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_confirm" = "Potvrdit"; // 个人 - 清除 缓存 - 清除
+"profile_setting_feedback_cancel" = "Zrušit"; // 个人 - 反馈 - 取消
+"profile_setting_feedback_confirm" = "Odeslat"; // 个人 - 反馈 - 发送
+"profile_setting_signout_cancel" = "Zrušit"; // 个人 - 退出 登录 - 取消
+"profile_setting_signout_title" = "Tipy"; // 个人 - 退出 登录 - 取消
+
+"profile_change_photo_cancel" = "Zrušit"; // 个人 - 清除 缓存 - 取消
+
+"profile_favorite_edit_cancel" = "Zrušit"; // 个人 - 编辑 专辑 - 取消
+"profile_favorite_edit_save" = "Uložit"; // 个人 - 编辑 专辑 - 保存
+"profile_favorite_edit_title" = "Upravit album"; // 个人 - 编辑 专辑 - 标题 - 专辑 编辑
+
+"profile_address_edit_confirm" = "Potvrdit"; // 个人 - 地址 编辑 - 完成
+
+"profile_setting_termsofuse" = "Podmínky použití"; // 个人 设置 - 协议 条款 与 条件
+"profile_setting_rateapp" = "Hodnotit CloudMall"; // 个人 - 设置 - 给 个 评价
+
+"profile_change_name_cancel" = "Zrušit"; // 个人 - 更改 名字 - 取消
+"profile_address_hongkong" = "Hongkong"; // 香港
+"profile_address_singapore" = "Singapur"; // 新加坡
+"profile_address_taiwan" = "Tchaj-wan"; // 台湾
+"profile_address_vietnam" = "Vietnam"; // 越南
+"profile_address_indonesia" = "Indonésie"; // 印度尼西亚
+"profile_setting_clearcache_success" = "Cache byl úspěšně vymazán"; // 个人 - 清除 缓存 - 清除
+"profile_order_logistic_title" = "Sledování objednávek"; // 个人 - 预单 - 物流 查询 - 标题
+"profile_order_logistic_package" = "balíček"; // 个人 - 预单 - 物流 查询 - 标题
+"profile_address_region_title" = "Vybrat oblast"; // 个人 - 预单 - 物流 查询 - 标题
+"profile_address_empty_toast" = "vyplňte prosím formulář"; // 个人 - 地址 - 空 提醒
+
+////////////////// android 新增 ///////////////////// ///////////////
+
+"load_title_profile" = "Načítání ...";
+"více" = "Více";
+"no_entries_in_cart_detail" = "Přejít a objevit další položky!";
+"press_again_exit_toast_all" = "Znovu klepněte a ukončete";
+"write_need" = "Zadejte prosím základní informace";
+
+"adyen_expired_year_toast_1" = "Datum ukončení platnosti kreditní karty:";
+"adyen_expired_year_toast_2" = "Datum vypršení platnosti kreditní karty má 4 číslice";
+"cart_year_expire_toast" = "Formát data exspirace je nesprávný";
+"cart_year_expire_write_toast" = "Vyplňte prosím datum vypršení platnosti karty";
+"new_sort_title_search_result" = "Nový do starého";
+"no_delivery_supported" = "Doručení není podporováno";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 0.2.5 // verze 0.2.5 // verze 0.2.5 // verze 0.2.5 // verze 0.2.5 // verze 0.2.5 // verze 0.2.5 // verze 0.2.5
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////////////
+
+"index_board_highlight" = "Doporučené položky"; // 首页 - 二级 页面 -board 标题
+"index_bannerlist_highlight" = "Doporučený seznam"; // 首页 - 二级 页面 -board 标题
+"index_pagingbanner_highlight" = "doporučený seznam"; // 首页 - 二级 页面 -board 标题
+"index_hotshop_highlight" = "doporučený seznam"; // 首页 - 二级 页面 -board 标题
+
+//////////////// Hledání hledání ///////////////// /////////////
+
+"search_input_defualt" = "Celosvětová doprava zdarma"; // 首页 - 二级 页面 -board 标题
+
+/////////////// 个人 -profile ////////////////// /////////////
+
+"profile_address_input_default" = "Vyplnit"; // 个人 - 地址 - 输入 框
+"profile_address_select_default" = "Vybrat"; // 个人 - 地址 - 下拉 框
+"profile_address_province" = "Provincie / stát:"; // 个人 - 地址 - 省 州
+"profile_address_city" = "Město / obec:"; // 个人 - 地址 - 城市
+"profile_address_district" = "Okres:"; // 个人 - 地址 - 下拉 框
+"profile_address_detail" = "Byt, budova ... (volitelné)"; // 个人 - 地址 - 详细 地址
+
+"profile_address_us" = "Spojené státy";
+"profile_address_uk" = "Velká Británie";
+"profile_address_ca" = "Kanada";
+"profile_address_de" = "Německo";
+"profile_address_au" = "Austrálie";
+"profile_address_nz" = "Nový Zéland";
+"profile_address_fr" = "Francie";
+"profile_address_it" = "Itálie";
+"profile_address_es" = "España";
+"profile_address_ru" = "Россия";
+"profile_address_mx" = "Mexiko";
+"profile_address_nl" = "Nizozemí";
+"profile_address_no" = "Norsko";
+"profile_address_dk" = "Dánsko";
+"profile_address_se" = "Švédsko";
+"profile_address_ch" = "Švýcarsko";
+"profile_address_pl" = "Polsko";
+"profile_address_be" = "Belgie";
+"profile_address_ie" = "Irsko";
+"profile_address_fi" = "Finsko";
+"profile_address_pt" = "Portugalsko";
+"profile_address_ph" = "Filipíny";
+"profile_address_my" = "Malajsie";
+"profile_address_jp" = "Japonsko";
+"profile_address_kr" = "Korea";
+"profile_address_ua" = "Ukrajina";
+"profile_address_in" = "Indie";
+"profile_address_ae" = "Spojené arabské emiráty";
+"profile_address_sa" = "Saúdská Arábie";
+"profile_address_qa" = "Katar";
+"profile_address_kw" = "Kuvajt";
+"profil_address_tr "=" Turecko ";
+"profile_address_il" = "Izrael";
+"profile_address_th" = "Thajsko";
+"profile_address_at" = "Rakousko";
+"profile_address_cz" = "čeština";
+"profile_address_za" = "Jižní Afrika";
+
+"profile_order_package_number" = "Číslo balíčku"; // 个人 - 物流 详细
+
+"profile_setting_feedback_null_toast" = "Zadejte prosím všechny informace"; // 个人 - 物流 详细
+"profile_setting_feedback_null_mail_toast" = "Zadejte správně e-mailovou adresu"; // 个人 - 物流 详细
+"address_hint_postcode_not_null" = "Zadejte prosím e-mailovou adresu";
+"choose_logistic" = "Vyberte způsob přepravy";
+"confirm_delete_order_title_profile_order" = "Opravdu chcete smazat objednávku?";
+"confirm_valid_hint" = "Hesla nejsou konzistentní";
+"pay_lack_param" = "Chybí potřebné údaje";
+"please_select_address" = "Prosím vyberte adresu";
+"successful_hide_order_profile_order" = "Úspěšně odstraněn";
+"network_connect_error" = "Chyba sítě";
+"network_error" = "Časový limit připojení k síti";
+
+//////////// Podrobné informace o produktu //////////////// ////////////////
+
+"dp_select_null_toast" = "Zvolte prosím"; // 个人 - 地址 - 详细 地址
+
+////////////// 购物 车 -cart ////////////////// ////////////////
+
+"cart_soldout_toast" = "Některé položky byly vyprodány"; // 个人 - 地址 - 详细 地址
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 0.3.0 // verze 0.3.0 // verze 0.3.0 // verze 0.3.0 // verze 0.3.0 // verze 0.3.0 // verze 0.3.0 // verze 0.3.0 // ver
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 首页 -index //////////////////////// //////////////
+
+"index_got_coupon_toast" = "Gratulujeme! Máte kupón"; // 搜索 - 筛选 - 来源
+"index_wrong_region_toast" = "Kupony nejsou k dispozici v aktuální oblasti"; // 搜索 - 筛选 - 来源
+"index_condition_not_meet_toast" = "Kupon nemůžete vzít"; // 搜索 - 筛选 - 来源
+"index_number_limit_toast" = "Máte kupón více než jednou"; // 搜索 - 筛选 - 来源
+"index_timeout_toast" = "Kupon je neúčinný"; // 搜索 - 筛选 - 来源
+
+//////////// Výsledek hledání ////////////// //////////////
+
+"search_filter_source" = "Prodejci"; // 搜索 - 筛选 - 来源
+"search_filter_brand" = "Značky"; // 搜索 - 筛选 - 品牌
+"search_filter_category" = "Kategorie"; // 搜索 - 筛选 - 类目
+"search_filter_crowd" = "Spotřebitel"; // 搜索 - 筛选 - 人群
+"search_filter_more" = "Více"; // 搜索 - 筛选 - 全部
+"search_filter_reset" = "Reset"; // 搜索 - 筛选 - 全部
+"search_filter_apply" = "Použití"; // 搜索 - 筛选 - 全部
+"search_sort_popular" = "Oblíbené"; // 搜索 - 筛选 - 全部
+"search_sort_topsale" = "Nejprodávanější"; // 搜索 - 筛选 - 全部
+"search_sort_price" = "Cena"; // 搜索 - 筛选 - 全部
+
+"search_list_supply_by" = "Dodáno"; // 搜索 - 筛选 - 全部
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_coupon_title" = "Kupóny";
+"profile_coupon_only_country" = "Pouze v";
+"profile_coupon_condition_over" = "Koupit";
+"profile_coupon_condition_get" = "a získat";
+"profile_coupon_valid_period" = "Platné období";
+"profile_coupon_specific" = "Specifický obchod nebo značka";
+"profile_coupon_null" = "Momentálně žádné kupony";
+"profile_coupon_available" = "Dostupné";
+"profile_coupon_unavailable" = "Nedostupný";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// /////////////
+
+"cart_coupon_available" = "K dispozici"; // 支付 是 提示 有 没 可用
+"cart_coupon_unavailable" = "Není k dispozici"; // 支付 时 提示 有 没 可用
+
+//////////// Údaje o produktu ////////////////////// ////////////////
+
+"dp_shipment_title" = "Lodě z"; // 支付 是 提示 有 没 可用
+"dp_shipment_to_title" = "to"; // 支付 时 提示 有 没 可用
+"dp_receive_title" = "Dodáno v"; // 支付 时 提示 有 没 可用
+"dp_receive_days_title" = "dny"; // 支付 时 提示 有 没 可用
+"dp_shipment_notsupport_title" = "Dodávka není podporována"; // 支付 是 提示 有 没 可用
+"dp_shipment_notsupport_description" = "Položka nemůže být doručena do aktuální oblasti"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"index_comment_main_title" = "Komentář"; // 支付 是 提示 有 没 可用
+"index_comment_sub_title" = "Jako my a komentář"; // 支付 是 提示 有 没 可用
+"index_bad_feedback_btn" = "Zpětná vazba"; // 支付 是 提示 有 没 可用
+"index_good_feedback_btn" = "Jako my!"; // 支付 是 提示 有 没 可用
+"index_timeout_title" = "Časový limit"; // 支付 是 提示 有 没 可用
+"index_pending_title" = "Nezačíná"; // 支付 是 提示 有 没 可用
+"index_timeout2_title" = "Propagační časový limit"; // 支付 是 提示 有 没 可用
+"index_pending2_title" = "Propagace nebyla spuštěna"; // 支付 是 提示 有 没 可用
+
+"index_region_null" = "Prosím vyberte region a jazyk"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////Www.//////////// ////////////////
+
+"dp_total_sale_title" = "Celkem prodaných"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0 // verze 1.1.0
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"index_minutes_ago" = "před minutami"; // 支付 是 提示 有 没 可用
+"index_hours_ago" = "před hodinou"; // 支付 是 提示 有 没 可用
+"index_days_ago" = "dny před"; // 支付 是 提示 有 没 可用
+"index_weeks_ago" = "před týdnem"; // 支付 是 提示 有 没 可用
+"index_months_ago" = "před měsícem"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////Www.//////////// ////////////////
+
+"search_current_filter" = "Filtr"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.2.0 // verze 1.2.0 // verze 1.2.0 // verze 1.2.0 // verze 1.2.0 // verze 1.2.0 // verze 1.2.0 // verze 1.2.0
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////Www.//////////// ////////////////
+
+"search_no_result" = "Sorry, nemůžeme najít výsledky"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.3.0 // verze 1.3.0 // verze 1.3.0 // verze 1.3.0 // verze 1.3.0 // verze 1.3.0 // verze 1.3.0 // verze 1.3.0
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// Hledání-hledání ////////////// //////////////
+
+"search_ai_search" = "Vyhledávání AI"; // 支付 是 提示 有 没 可用
+"search_ai_found" = "podobné položky"; // 支付 是 提示 有 没 可用
+"search_ai_explore" = "Podobné položky"; // 支付 是 提示 有 没 可用
+"search_ai_not_found" = "Žádné podobné položky"; // 支付 是 提示 有 没 可用
+"search_ai_description" = "Nyní můžete najít podobné položky s vyhledáváním AI"; // 支付 是 提示 有 没 可用
+"search_ai_description_confirm" = "Mám to"; // 支付 是 提示 有 没 可用
+
+"search_ai_finding" = "Vyhledávání AI nyní pokračuje"; // 支付 是 提示 有 没 可用
+"search_ai_find_nothing" = "Omlouváme se, žádné podobné položky"; // 支付 是 提示 有 没 可用
+"search_ai_similarity" = "Podobnost:"; // 支付 是 提示 有 没 可用
+
+"search_sort_discount" = "Sleva"; // 支付 是 提示 有 没 可用
+
+//////////// Další informace -DP ////////////////////// //////////////
+
+"dp_ai_found" = "podobné položky"; // 支付 是 提示 有 没 可用
+"dp_ai_explore" = "Prozkoumat další podobné položky"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing" = "Žádné podobné položky"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing_toast" = "Omlouváme se, žádné podobné položky"; // 支付 是 提示 有 没 可用
+
+//////////// 个人 -Profile //////////////// //////////////
+
+"profile_favorite_ablum_nothing" = "Nic v albu"; // 支付 是 提示 有 没 可用
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"index_tab_all" = "Vše"; // 支付 是 提示 有 没 可用
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.4.0 // verze 1.4.0 // verze 1.4.0 // verze 1.4.0 // verze 1.4.0 // verze 1.4.0 // verze 1.4.0 // verze 1.4.0
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// /////////////
+
+"cart_purchase_add_card" = "Použít novou kreditní nebo debetní kartu"; // 支付 是 提示 有 没 可用
+"cart_purchase_choose_card" = "Vyberte ze seznamu mých karet"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_title" = "Odstranit kreditní kartu"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_content" = "Opravdu chcete tuto kartu smazat?"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card" = "Odstranit"; // 支付 是 提示 有 没 可用
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_cards_tips" = "Přejetím prstu pro vymazání kreditní / debetní karty"; // 支付 是 提示 有 没 可用
+"profile_cards_null" = "Neexistují žádné kreditní / debetní karty spojené s vaším účtem"; // 支付 是 提示 有 没 可用
+
+//////////// Detailní stránka -DP //////////////////// /////////////
+
+"dp_message_title" = "Oznámení";
+
+"dp_follow_btn" = "Sledovat";
+"dp_following_btn" = "Následující";
+"dp_brand_title" = "Značka";
+"dp_brand_shai_title" = "Zobrazení značky";
+"dp_soldby_title" = "Dodáno";
+"dp_mall_followers" = "Příznivci";
+"dp_mall_items" = "Položky";
+"dp_mall_rate" = "Hodnotit";
+"dp_mall_sold" = "Prodáno";
+"dp_mall_location" = "Region";
+"dp_mall_type" = "Typ";
+"dp_mall_type_general" = "Generální dodavatel";
+"dp_mall_type_brand" = "Dodavatel značky";
+
+"dp_desc_title" = "Detail";
+
+"dp_you_may_like" = "Může se vám líbit";
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_address_incomplete" = "Adresa je neúplná";
+
+//////////// 首页 -index //////////////////////// //////////////
+
+"index_topic_all" = "Všechny položky";
+"index_topic_title" = "Vybrané témata";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.4.5 // verze 1.4.5 // verze 1.4.5 // verze 1.4.5 // verze 1.4.5 // verze 1.4.5 // verze 1.4.5 // verze 1.4.5
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////////////////////////////Zaregistrujte -login //////////////////////////////////////////////////////////////////////////
+
+"login_alert1_title" = "Tím, že jste se připojili, souhlasíte s našimi";
+"login_alert2_title" = "Podmínky";
+"login_alert3_title" = "&";
+"login_alert4_title" = "Zásady ochrany osobních údajů.";
+"login_alert5_title" = "Plus, získání aktualizací objednávek, upozornění na prodej a další ve vaší doručené poště.";
+
+"login_email_validation" = "Poslali jsme vám e-mail o opětovném hesle. Zkontrolujte prosím svůj e-mail a resetujte heslo";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.50 // verze 1.50 // verze 1.50 // verze 1.50 // verze 1.50 // verze 1.50 // verze 1.50 // verze 1.50 // verze 1.50
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 全局 -all ////////////////// //////////////
+
+"all_no_more_items" = "- žádné další položky -";
+
+//////////// Hledání-hledání ////////////// //////////////
+
+"search_clearhistory_title" = "Určitě vymažete historii vyhledávání";
+"search_clearhistory_cancel_title" = "Zrušit";
+"search_clearhistory_sure_title" = "Ano, jsem si jistý";
+
+//////////// Detailní stránka -dp ////////////////////// /////////////
+
+"dp_mall_title" = "Porovnání cen AI";
+"dp_sizeguide_title" = "Průvodce velikostí";
+"dp_mall_nofulfilment_title" = "Omlouváme se, momentálně nepodporujeme plnění. Můžete jej vyhledat na svých webových stránkách.";
+"dp_size_description" = "Doporučujeme, abyste si vybrali správnou velikost podle dodané tabulky velikostí. Upozorňujeme, že informace o produktech (barvy, rozměry apod.) jsou poskytovány našimi dodavateli a jsou pouze orientační.";
+"dp_mall_location_taobao" = "Hongkong";
+
+"dp_outorder_title" = "Neaktivní";
+"dp_processingtime_title" = "Čas zpracování";
+"dp_processingtime_subtitle" = "Položka bude odeslána během 3-5 pracovních dnů.";
+"dp_addcart_fail_toast" = "Přidat do košíku se nezdařilo";
+
+"profile_album_need_title" = "Prosím, zadejte název";
+
+//////////// 購物 車-card ////////////////////// /////////////
+
+"cart_shipment_title" = "Odeslání:";
+"cart_shipment_days_title" = "pracovní dny";
+"cart_remove_items" = "Odstranění";
+"cart_remove_items_success" = "Úspěch";
+"cart_remove_items_fail" = "Zkuste to prosím znovu";
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_no_content" = "Prosíme vyplňte formulář";
+"profile_help_title" = "Nápověda";
+"profile_submitsuccess_toast" = "Odeslat úspěšně";
+"profile_address_submitsuccess_toast" = "Přidáno úspěšně";
+"profile_bill_fail_toast" = "Zúčtování se nezdařilo, zkuste to prosím znovu později";
+"profil_bill_confirm" = "Confrim";
+
+//////////// 登陆 -login //////////////////// //////////////
+
+"login_wrong_password" = "Heslo je nekonzistentní";
+"login_short_password" = "Heslo musí mít více než 6 znaků";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6 // verze 1.6
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_address_success_toast" = "Úspěch";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// /////////////
+
+"cart_use_coupon" = "Použít kupóny";
+"checkout_sure_popup_title" = "Opravdu chcete tuto platbu zrušit?";
+"checkout_sure_popup_yes" = "Potvrdit";
+"checkout_sure_popup_no" = "Zrušit";
+"kupon_tip_buy" = "Koupit";
+"kupon_tip_more_save" = "více, uložit";
+"coupon_tip_max" = "Umístit objednávku a uložit";
+"kupon_tip_buy_lower" = "koupit";
+"coupon_tip_nil" = "Použijte Kupon v dalším kroku.";
+
+//////////// Další informace -DP ////////////////////// /////////////
+
+"dp_discount_notice_title" = "Sleva";
+"dp_favorite_add_toast" = "Přidáno do oblíbených";
+"dp_favorite_remove_toast" = "Odstraněno z vašich oblíbených";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65 // verze 1.65
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_switch_address&language_confirm" = "DONE";
+
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// /////////////
+
+"cart_shipping_recommend" = "HOT";
+
+//////////// Detail produktu -dp //////////////////// /////////////
+
+"dp_desctiption_more" = "Více";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68 // verze 1.68
+///////////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// Další informace -DP ////////////////////// /////////////
+
+"dp_less" = "Méně";
+
+//////////// 个人 -profile //////////////// //////////////
+
+"profile_order_confirmation_button" = "Potvrzení přijetí balíčku";
+"profile_order_confirmation_popup_title" = "Potvrzení přijetí balíčku";
+"profile_order_confirmation_popup_content" = "Pokud jste obdrželi balíček, stiskněte' Confirm '";
+"profile_order_confirmation_popup_cancel" = "Zrušit";
+"profile_order_confirmation_popup_confirm" = "Potvrdit";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00 // verze 2.00
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 个人 侧 栏 -Sidebar //////////////////// ////////////////
+
+"sidebar_order_unpaid" = "Neplaceno";
+"sidebar_order_processing" = "Zpracování";
+"sidebar_order_all" = "Všechny objednávky";
+"sidebar_message" = "Zprávy";
+"sidebar_category" = "Všechny kategorie";
+"sidebar_favorite" = "Oblíbené";
+"sidebar_creditcard" = "Kreditní karty";
+"sidebar_address" = "Adresář";
+"sidebar_setting" = "Nastavení";
+"sidebar_faq" = "FAQ";
+"sidebar_coupon" = "Kupony";
+"sidebar_signin" = "Kliknutím se přihlaste";
+"sidebar_setting_login" = "Přihlášení";
+
+//////////// Výsledek hledání ////////////// //////////////
+
+"search_sort_popular" = "Oblíbené";
+"search_sort_hotsale" = "Nejprodávanější";
+"search_sort_discount_descend" = "Sleva vysoká na nízkou";
+"search_sort_discount_ascend" = "Sleva nízká až vysoká";
+"search_sort_price_descend" = "Cena vysoká až nízká";
+"search_sort_price_ascend" = "cena nízká až vysoká";
+"search_fitler" = "Filtr";
+
+"search_top_search" = "Nejlépe vyhledávání";
+"search_category_title" = "Kategorie";
+"search_brand_title" = "Značka";
+"search_trending_title" = "Trendy";
+
+"search_filter_cancel" = "Zrušit";
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"index_more_items" = "Další položky";
+
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+// verze 2.01 // verze 2.01 // verze 2.01 // verze 2.01 // verze 2.01 // verze 2.01 // verze 2.01 // verze 2.01 // verze 2.01
+//////////////////////////////////////////////// //////////////////////////////// //////////////////////////////////////////////// //////////////////////////////// ///////////////
+
+//////////// 个人 侧 栏 -Sidebar //////////////////// ////////////////
+
+"search_mallpage_soldby" = "Prodejce";
+"search_brandpage_title" = "Značka";
+"search_all_items_title" = "položky";
+"search_watching_title" = "zobrazení";
+
+//////////////////// 购物 车 _cart //////////// ///////////////////////////////////////////////
+
+"cart_popup_title" = "Co si myslíte o CloudMall?";
+"cart_popup_nice" = "Docela dobrá!";
+"cart_popup_soso" = "Mohlo by být lepší";
+"cart_popup_cancel" = "Zrušit";
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"index_guide_region" = "Můžete změnit oblast dopravy";
+
+//////////////////// 购物 车 _cart //////////// ///////////////////////////////////////////////
+"cart_toast_greeting" = "Dobré zprávy!";
+"cart_toast_pricedrop" = "Pokles cen";
+"cart_toast_item" = "Položka (y)!";
+
+//////////// Další informace -DP ////////////////////// /////////////
+
+"dp_aiprice_intitle" = "Prodejce CloudMall";
+"dp_aiprice_inshop" = "CloudMall";
+"dp_aiprice_viewmore" = "Zobrazit více";
+"dp_aiprice_outshop" = "Porovnat s";
+"dp_aiprice_outtitle" = "Jiný maloobchodník";
+"dp_aiprice_inshipping" = "Doprava zdarma";
+"dp_aiprice_outshipping" = "Zahrnuje";
+"dp_aiprice_shipping" = "doprava";
+
+//////////////////// 购物 车 _cart //////////// ///////////////////////////////////////////////
+"cart_mark_pricedrop" = "Pokles cen";
+"cart_seller_from" = "Od";
+"cart_total_shipping" = "Přeprava není součástí dodávky";
+"cart_total_total" = "Celkem";
+"cart_total_pay" = "Pokladna";
+"cart_soldout_popup" = "Některé vybrané položky jsou vyprodány, prosím zrušte výběr a zkuste to znovu";
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"index_banner_more" = "ZOBRAZIT VŠECHNY";
+
+//////////// Výsledek hledání ////////////// //////////////
+"search_mall_soldby" = "Prodáno";
+"search_mall_about" = "O";
+"search_mall_More" = "Více";
+"search_mall_less" = "Méně";
+
+//////////// 优惠 券 -Coupon //////////////////// /////////////
+"profile_coupon_use" = "Použít nyní";
+"profile_coupon_details" = "Podrobnosti o kupónu";
+"profile_coupon_expired" = "Platnost vypršela";
+"profile_coupon_viewdetail" = "Zobrazit detaily";
+"profile_coupon_timefrom" = "Platný od";
+"profile_coupon_timeto" = "Do";
+"order_coupon_notchoose" = "Nepoužívejte kupony";
+"profile_coupon_unused" = "Nepoužité";
+"profile_coupon_expired" = "Nedostupné";
+"profile_coupon_nocoupon" = "Kupóny nejsou k dispozici";
+
+"add_coupon_code_title" = "Kód kupónu";
+"add_coon_code_input "=" Zadejte kuponový kód ";
+"add_coupon_code_apply" = "Použití";
+
+//////////// ➲ -Order //////////////////// //////////////
+
+"order_status_unpaid" = "Neplacené";
+"order_status_pending" = "Čekající";
+"order_status_shipping" = "Odeslání";
+"order_status_all" = "Vše";
+"order_detail_policy" = "Po obchodní politice";
+"order_policy_help" = "Potřebujete pomoc?";
+"order_policy_contact" = "Kontaktujte nás.";
+"order_confirm_delivery" = "Potvrzení doručení";
+"order_confirm_logistics" = "Logistika";
+"order_status_finished" = "Dokončeno";
+"order_status_refunded" = "Refunded";
+"order_logistics_co" = "Přepravní společnosti";
+"order_logistics_no" = "\ nPracovní č.";
+"order_logistics_day" = "den";
+"order_logistics_days" = "dny";
+"package_status_Unpaid" = "Neplacené";
+"package_status_Processing" = "Zpracování";
+"package_status_ReadyToShip" = "Připraveno k odeslání";
+"package_status_CanceledAfterPaid" = "Zrušeno";
+"package_status_InTransit" = "V režimu Transit";
+"package_status_Delivered" = "Dodáno";
+"package_status_Refunded" = "vráceno";
+"package_status_CanceledBeforePaid" = "Platnost vypršela";
+"order_item_no" = "položka";
+"order_item_nos" = "položky";
+"order_refunded_buy" = "Koupit znovu";
+"refunded_list_bottombar_sum" = "Celkem";
+"refunded_list_bottombar_no" = "položka";
+"refunded_list_bottombar_nos" = "položky";
+"pending_canceled_notice" = "Vaše peníze budou vráceny za 48 hodin";
+"order_detail_delete" = "Odstranit";
+"sidebar_order" = "Všechny objednávky";
+"order_viewdetail" = "Zobrazit podrobnosti";
+"order_detail_time" = "Čas objednávky";
+"order_intransit_package" = "Balíček";
+"order_noorder_title" = "Žádné objednávky";
+"order_noorder_info" = "Přejít a přidat zboží do nákupního vozíku!";
+"order_noorder_button" = "Jdi nakupovat";
+"order_detail_param_price" = "Cena";
+"order_detail_param_shipping" = "Odeslání";
+"order_detail_param_total" = "Celkem";
+"order_detail_param_discount" = "Sleva";
+"order_detail_param_refund" = "vrácení peněz";
+
+//////////// 首页 -Index ////////////////// //////////////
+
+"guide_cart_title" = "Nákupní košík";
+"guide_cart_para" = "Zkontrolujte nákupní košík zde.";
+"guide_cart_button" = "Mám to";
+"guide_dp_title" = "Přidat do košíku";
+"guide_dp_para" = "Vložte zboží do nákupního košíku zde.";
+
+//////////// 优惠 券 -Coupon //////////////////// /////////////
+
+"kupon_loggedin_title" = "Gratulujeme";
+"coupon_loggedin_content_title" = "Získali jste";
+"coupon_loggedin_content_description_1" = "Exkluzivní kupon aplikace";
+"coupon_loggedin_content_description_2" = "Nový kupón uživatele";
+"coupon_loggedin_button" = "Viz Moje kupóny";
+"coupon_notloggedin_coupon" = "Kupon";
+"coupon_notloggedin_title_1" = "Odeslat vás \ n";
+"coupon_notloggedin_title_2" = "Nový uživatel pouze \ n";
+"kupon_notloggedin_title_3" = "kupony";
+"coupon_notloggedin_content_description_1" = "Přihlaste se, abyste získali";
+"kupon_notloggedin_content_description_2" = "kupony!";
+"coupon_notloggedin_button" = "Získat!";
+"coupon_cant_get" = "Již jste se registrovali, kupony nelze získat.";
+"coupon_cant_get_enjoy" = "Užijte si nákupy";
+"kupon_cant_get_button" = "Jdi nakupovat";
+
+//////////// 优惠 券 -Coupon //////////////////// /////////////
+
+"global_toast" = "Jejda, jste ztratili připojení k internetu.";
+"cart_wrong_address_toast" = "Omlouváme se, tato adresa nemůže být zvolena.";
+
+//////////// ➲ -Order //////////////////// //////////////
+
+"orderpage_title_1" = "Plně refundováno";
+"orderpage_para_1" = "Pokud neobdržíte balíčky.";
+"orderpage_title_2" = "Návrat a vrácení peněz";
+"orderpage_para_2" = "Pokud položka neodpovídá popisu.";
+"orderpage_title_3" = "Zabezpečení platby pomocí ochrany escrow";
+"orderpage_title_4" = "Jednodušší, rychlejší řešení sporů";
+"orderpage_title_5" = "100% zaručené vrácení peněz.";
+
+//////////// Další informace -DP //////////////////// /////////////
+
+"kupon_bigtitle" = "POUZE NOVÉ UŽIVATELÉ";
+"kupon_para_title" = "COUPON";
+"coupon_para_button" = "Získat!";
+"ai_price" = "Srovnání ceny AI";
+"ai_price_button" = "Podívej se na to";
+"dp_share_para" = "Sdílejte tento zboží svým přátelům";
+"dp_share_title" = "SHARE TO FRIENDS";
+"dp_item_description" = "Popis";
+"dp_item_notice" = "Upozornění";
+"dp_item_notice_time" = "Doba zpracování";
+"dp_item_notice_size" = "O průvodci velikostí";
+"dp_item_description_more" = "Více";
+"dp_item_description_less" = "Méně";
+
+////////////// 购物 车 -Cart //////////////////// /////////////
+
+"free_shipping_noenough_0" = "Koupit";
+"free_shipping_noenough_1" = "více, abyste si mohli užívat DOPRAVU ZDARMA!";
+"free_shipping_enough" = "Způsobilé pro DOPRAVU ZDARMA!";
+
+//////////// 登录 -login ////////////////////// //////////////
+
+"Login_login" = "Přihlaste se";
+"login_facebook" = "Přihlaste se pomocí Facebooku";
+"login_phone" = "Přihlaste se pomocí telefonu";
+"login_google" = "Přihlaste se pomocí Google";
+"login_email" = "Přihlaste se pomocí e-mailu";
+"signup_signin" = "Registrace";
+"signup_facebook" = "Registrace s Facebookem";
+"signup_phone" = "Registrace s telefonem";
+"signup_google" = "Přihlaste se do Googlu";
+"signup_email" = "Přihlaste se pomocí e-mailu";
+"signup_coupon" = "pro nové uživatele";
+"signup_policydetail" = "Do joininsouhlasíte s našimi ";
+"signup_policydetail_1" = "Podmínky";
+"signup_policydetail_2" = "&";
+"signup_policydetail_3" = "Zásady ochrany osobních údajů";
+
+//////////// 空白 页 -nullpage //////////////// /////////////
+
+"no_coupon" = "Žádné kupony k dispozici";
+"no_order" = "Bez objednávky";
+"no_order_detail" = "Nevyrobili jste žádné objednávky";
+"no_network" = "Jejda!";
+"no_network_retry" = "Zkontrolujte, zda je telefon připojen k internetu.";
+"no_search" = "Jejda!";
+"no_search_detail" = "Žádné výsledky vyhledávání";
+"no_goods_cart" = "Prázdný košík";
+"no_goods_cart_detail" = "Cítím se tak prázdný, když nemáte nakupovat.";
+"no_goods_cart_shop" = "Nakupovat nyní";
+
+//////////// Adresa - adresa ///////////////// //////////////
+
+"phone_wrong_toast" = "Telefonní číslo je v nesprávném formátu.";
+"india_address_postcode_title" = "Pincode:";
+"india_street1_detail" = "dům ne, budova, ulice, lokalita";
+"india_street2_detail" = "Landmark (volitelné)";
+"india_city_title" = "Město / Oblast:";
+"india_state_title" = "Region / stát:";
+"india_mobile" = "Mobilní";
+"india_mobile_phone_number" = "Číslo mobilního telefonu";
+"india_country" = "kraj";
+"india_town" = "Lokalita / město";
+"india_street_address" = "Adresa ulice";
+"india_address" = "Adresa";
+"india_address_details" = "Podrobnosti o adrese";
+"india_detail_address_input" = "Ulice, oblast, číslo domu, C / O.";
+"india_addition_address" = "Apt, Suite, Floor, Bldg atd. (volitelné)";
+"zip_wrong_toast" = "Zadejte prosím 6místný pincode.";
+"zip_out_range" = "Omlouváme se, nemůžeme se k tomuto pincode dostat.";
+"location_failed" = "Selhání umístění se nezdařilo.";
+"sa_address_province_title" = "Stav / Prov. / Region:";
+"sa_address_city_title" = "Město:";
+"sa_address_district_title" = "Oblast (volitelné):";
+"sa_address_street1_title" = "Ulice";
+"sa_address_street2_title" = "Podrobnosti o adrese (volitelné)";
+
+//////////// 支付 -Pay //////////////////////// //////////////
+
+"cash_on_delivery_0" = "Dodatečné náklady";
+"cash_on_delivery_1" = "Při objednávce můžete platit v hotovosti.";
+"cash_on delivery_2" = "Kód COD můžete použít pouze v případě úspěšného podpisu všech předchozích příkazů COD.";
+"phone_verify_title" = "Potvrzení objednávky.";
+"phone_verify_detail_0" = "Ověřte prosím vaše telefonní číslo.";
+"phone_verify_detail_1" = "Chcete-li požádat o ověření, klepněte na' Odeslat kód '.";
+"phone_verify_input" = "Váš telefon";
+"phone_verify_button" = "Ověřit";
+"phone_code_detail" = "Zadejte prosím čtyřmístný kód.";
+"phone_code_input" = "čtyřmístný kód";
+"phone_code_resend" = "Znovu odeslat";
+"phone_verify_send" = "Odeslat kód";
+"shipping_free" = "Volný";
+"phone_verify_sending" = "Odesílání";
+"phone_verify_wrong" = "Špatný kód. Zkuste to znovu.";
+"code_send_failed" = "Nepodařilo se odeslat kód, zkontrolujte prosím své telefonní číslo a zkuste to znovu.";
+"cod_not" = "Není k dispozici";
+
+//////////// DP- 评论 //////////////// //////////////
+
+"dp_reviews" = "Recenze";
+"dp_no_reviews" = "Žádné recenze";
+"dp_review" = "Přezkum";
+"dp_topban_welcome" = "Vítejte";
+"dp_topban_order" = "Poslední objednávka";
+"dp_topban_ordertime" = "předtím.";
+"dp_topban_view" = "lidé se dívají nyní!";
+"dp_more_reviews" = "Další recenze";
+
+//////////// 首页 - 闪 购 //////////////////// /////////////
+"flash_sale_end_in" = "Konec";
+"flash_sale_not_started" = "Nezačalo";
+"flash_sale_over" = "Nad";
+
+/////////// DP-加 解锁 功能 /////////////////////// ///////////
+"limited_time_offer_info" = "Okamžitá nabídka: v tuto chvíli si můžete odemknout nižší cenu!";
+"limited_time_offer_expired" = "Platnost vypršela";
+"limited_time_offer_now_only" = "Nyní pouze";
+"limited_time_offer_text_first" = "Odemčeno";
+"limited_time_offer_text_second" = "vypnutí tohoto produktu.";
+"limited_time_offer_text_third" = "Tato cena vyprší za 1 hodinu, takže brzy skončí platba!";
+"limited_time_offer_continue" = "Pokračovat";
+
+////////// kupon- 优惠 券 //////////////// ////////
+"kupon_available_info" = "Objednávka";
+"coupon_available_click_info" = "Kliknutím vyberte kupon";
+"coupon_code_invalid" = "Kód kupónu je neplatný";
+
+////////// index = ////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////
+"index_middle-card" = "VÁŠ KOŠÍK"; // 首页 - 中间 - 购物 车
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////// //////////// ////////
+"cart_tip_buy" = "Koupit";
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //////
+"address_landmark" = "Nejbližší orientační bod";
+"ae_address_phone_number" = "Alternativní telefonní číslo";
+"address_location_type" = "Typ adresy";
+"address_location_type_home" = "Domovská stránka";
+"address_location_type_business" = "Obchodní";
+"address_optional_prompt" = "Volitelné";
+
+////////////////////////////////// insta /////////////////////////////////////////////////////////////////////// /////
+"instar_home_navigation" = "INSTA";
+"instar_trending_title" = "Insta";
+"instar_trending_shopping" = "SHOPPING>";
+"instar_trending_translation" = "SHOW TRANSLATION";
+"instar_trending_original" = "SHOW ORIGINAL";
+"instar_blogger_likes" = "Líbí se";
+"instar_blogger_follower" = "Příznivci";
+"instar_blogger_following" = "Následující";
+"instar_blogger_not_follow_button" = "+ Sledovat";
+"instar_detail_page" = "Foto";
+"instar_review_title" = "Recenze";
+"instar_related_posts "=" Související příspěvky ";
+"instar_following_page_people" = "Lidé";
+"instar_following_page_hashtags" = "Hashtags";
+"instar_trending_view_more" = "Zobrazit více";
+"instar_unfollow_title" = "Odstranit sledování";
+"instar_unfollow_info" = "Potvrdit zrušení sledování";
+"instar_unfollow_cancel" = "Zrušit";
+"instar_unfollow_unfollow" = "Odstranit sledování";
+"instar_collapse" = "Sbalit";
+"insrar_object_recognized" = "Objekt rozpoznán";
+"instar_posts" = "Příspěvky";
+"instar_kol_not_post" = "zatím nic neposlal ~";
+"instar_own_not_post" = "Zatím nic neposlal ~";
+"instar_following" = "Následující";
+"instar_sliding_into" = "Posun do INSTA";
+"instar_release_into" = "Uvolnit do INSTA";
+"instar_bottom" = "Dostanete dolů.";
+
+////////////////////////////////////////////////////////////////////////////////////////////////// //////////// //////
+"fs_full_amount" = "Vaše objednávka je způsobilá pro DOPRAVU ZDARMA!";
+"fs_no_select" = "Doprava zdarma po objednávce";
+"delete_no_select" = "Vyberte zboží";
+"we_accept" = "Přijmeme";
+"fs_no_full_amount_0" = "Koupit";
+"fs_no_full_amount_1" = "více si můžete užívat ZDARMA!";
+
+//////////////// DP DP //////////// /////
+"DP_insta" = "INSTA SIMILARITY";
+"DP_info" = "Popis";
+"DP_coupon" = "Nový uživatelský kupón";
+"DP_selected" = "Vyberte barvu, velikost";
+"DP_time" = "Odhadovaný čas příjezdu";
+"DP_product_similarity" = "SIMILARITA PRODUKTU";
+"DP_to" = "Odeslání do";
+"DP_you_may_like" = "MŮŽE MÍT RÁD";
+"DP_search_price" = "hledání nejnovější ceny";
+
+////////////////////////////////////////////////////////////////////////////////////////////// //// /////
+"home_shopping" = "SHOPPING";
+"home_fashion" = "FASHION";
+"fashion_new_arrival" = "Nový příjezd";
+"fashion_trending" = "Trendy";
+"home_all" = "ALL";
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// ///////
+"search_results_top" = "Nahoru";
+"search_results_new" = "Nový";
+"search_results_price" = "Cena";
+"search_results_filter" = "Filtr";
+"search_results_follow" = "+ Sledovat";
+"search_results_following" = "Následující";
+
+////////////////////////////////////////////////////////////////////////////////////////////////// //////////// //////
+"cart_invalid_items" = "Neplatné položky";
+"cart_clear_items" = "Vymazat neplatné položky";
+"cart_message" = "Potvrďte prázdné neplatné položky?";
+"cart_cancel" = "Zrušit";
+"cart_delete" = "Odstranit";
+"cart_1_hour_only" = "Pouze 1 hodina";
+
+//////////////////////////////////////////////////////////////////////////////////// //////////////// //////
+"flash_sale_on_sale_now" = "Prodej nyní";
+"flash_sale_coming_soon" = "Příchod brzy";
+"flash_sale_sold" = "Prodáno";
+"flash_sale_shop_now" = "Nakupovat nyní";
+"flash_sale_almost_sold_out" = "Téměř vyprodáno";
+"flash_sale_sold_out" = "Vyprodáno";
+"flash_sale_starts_in" = "Spustí se";
+"flash_sale_end_in" = "Konec";
+"flash_sale_remind" = "Budeme vám připomenout, jakmile začnete. Můžete jej zkontrolovat ve svém seznamu upomínek.";
+"flash_sale_cancel_remind" = "Zrušit připomenutí";
+"flash_sale_reminder_list" = "Nemáte zatím zobrazené položky. Čím dříve nastavíte připomenutí, tím dřív získáte dobré zboží.";
+"flash_sale_fiery_buying" = "nákup ohnivý";
+"flash_sale_coming_remind_me" = "Připomenout mě";
+"flash_sale_coming_following" = "Následující";
+"flash_sale_reminder_list_title" = "Seznam připomenutí";
+"flash_sale_reminder_canceled" = "Připomenutí bylo zrušeno";
+"flash_sale_reminder_list_on_going" = "On Going";
+"flash_sale_tomorrow" = "Zítra";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////// //////////// ///////
+"coupon_successful" = "Máte kupon (y)!";
+"coupon_already_received" = "Už jste dostali kupony!";
+"coupon_error" = "Somthing se pokazilo v síti, zkuste to znovu";
+
+///////////// DP /// //////////////// //////
+"comparison_price_sold_by" = "Prodáno";
+"comparison_price_cloudmall" = "ve službě CloudMall";
+
+//////////////////////////////////////////////////////////////Www.////////// /////
+"address_details" = "Podrobnosti adresy / orientační bod (volitelné)";
+
+////////////////////////////////////////////////////////////////////////////////// //////
+"price_reduction_home1" = "položka (y) klesla celkem";
+"price_reduction_home2" = "v košíku, podívejte se nyní!";
+"price_reduction_home3" = "Mám to";
+"price_reduction_dp1" = "Podívejte se a získejte";
+"price_reduction_dp2" = "Doprava zdarma";
+"price_reduction_dp3" = "Check Out";
+"price_reduction_cart1" = "ceny položky (položek) klesly,";
+"price_reduction_cart2" = "podívejte se na to!";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////Www.////////// /////////
+"phone_check" = "Vaše číslo mobilního telefonu by mělo být 9místné číslo, které začíná číslem 5";
+
+///// 库存 相关 的 翻译 /////
+"stock_dp_only" = "pouze";
+"stock_dp_stock" = "vlevo na skladě - brzy si objednejte";
+
+//////////// položka nekonečná stránka /////////////////
+"item_end_less_only" = "pouze";
+"item_end_less_stock" = "vlevo";
+
+//////////////// Filtr 中 价格 选择 //////////////////
+"filter_price" = "Cena";
+"filter_price_min" = "Min";
+"filter_price_max" = "Max";
+
+/////////// Filtr 全部 标题 翻译 //////////////
+"filter_brands" = "Značky";
+"filter_categories" = "Kategorie";
+"filter_colors" = "Barvy";
+"filter_countries" = "Země";
+"filter_interfaces" = "Rozhraní";
+"filter_materials" = "Materiály";
+"filter_minorcategories" = "MinorCategories";
+"filter_models" = "Modely";
+"filter_sextags" = "Pohlaví";
+"filter_sizes" = "Velikost";
+
+////////////////// filtr 中 底部 按钮 ////////////////
+"filter_reset" = "Reset";
+"filter_apply" = "Použít";
+
+////////////=================================================================
+"cod_not_detail" = "COD je k dispozici pouze v případě, že objednávka je mezi AED99-AED1799 a neobsahuje položky, které nejsou chráněny proti kopírování.";
+
+/////// cart-MMS 产品 不是 表示 ///////
+"cart_not_cod_message" = "Tyto položky nepodporují COD.";
+
+///////// Zpět na začátek ////////
+"affiliate_invite_window_first" = "Vydělávat peníze";
+"affiliate_invite_window_left" = "Gratulujeme";
+"affiliate_invite_window_between" = "Získat";
+"affiliate_invite_window_right" = "hotovost, pozvěte přátele, abyste získali více peněz.";
+"affiliate_invite_window_link" = "Váš odkaz na pozvánku";
+"affiliate_invite_window_copy" = "Kopírovat";
+"affiliate_invite_window_copy_prompt" = "Successfully Copy";
+"affiliate_invite_window_wallet" = "Viz moje peněženka";
+"affiliate_invite_window_invite" = "Pozvěte své přátele";
+"affiliate_invite_window_invite_prompt_fb" = "Facebook nebyl nalezen";
+"affiliate_invite_window_invite_prompt_ms" = "Messenge nebyl nalezen";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger nebyl nalezen";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp nebyl nalezen";
+
+///////// Zpět na začátek //////////////
+"affiliate_invite_window_not_first_left" = "WALLET:";
+"affiliate_invite_window_not_first_right" = "Úspěšně jste pozvali:";
+"affiliate_invite_window_not_first_last" = "lidé";
+
+////////// 被 邀请 人 登录 弹 窗 /////////
+"affiliate_invitee_pop_window_left" = "vás zve ke vstupu do CloudMall a dává vám tento exkluzivní kupon";
+"affiliate_invitee_pop_window_between" = "COUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Kupon končí";
+"affiliate_invitee_pop_window_log_fb" = "Přihlaste se na Facebook";
+"affiliate_invitee_pop_window_log_phone" = "Registrace s telefonem";
+
+/////////////// Zpět na úvod /////////////////
+"affiliate_noti_friend_accept_left" = "Váš přítel";
+"affiliate_noti_friend_accept_right" = "přijal vaši pozvánku.";
+"affiliate_noti_friend_log_right" = "právě přihlášený.";
+"affiliate_noti_friend_share_right" = "sdílel příspěvek.";
+"affiliate_noti_friend_share_item" = "sdíleli položku.";
+"affiliate_noti_friend_bought_right" = "právě koupil";
+"affiliate_noti_friend_bought_end" = "položka.";
+"affiliate_noti_withdraw_available_left" = "Máte";
+"affiliate_noti_withdraw_available_right" = "k dispozici ke stažení";
+"affiliate_noti_become_friend_left" = "Jste nyní";
+"affiliate_noti_become_friend_right" = "přítel.";
+"affiliate_noti_got_wallet_left" = "Právě jste obdrželi";
+"affiliate_noti_got_wallet_remind" = "Úspěšně následuje. Připomínáme, jakmile začne prodej blesku.";
+"affiliate_noti_got_wallet_sale" = "Prodej blesku začíná hned!";
+
+//////////// 钱包 /////////////
+"wallet_sider" = "Moje peněženka";
+"wallet_person_e_wallet" = "CloudMall E-Wallet";
+"wallet_person_cash" = "Hotovost";
+"wallet_person_pending" = "Čekající";
+"wallet_person_refunded" = "Vráceno";
+"wallet_person_withdraw" = "Odtáhnout";
+"wallet_person_messages" = "Zprávy";
+"wallet_person_invite" = "Pozvat";
+"sidebar_wallet" = "Moje peněženka";
+"wallet_withdraw_error_left" = "Odstranit chybu";
+"wallet_withdraw_error_behind" = "Něco se stalo s stažením?";
+"wallet_withdraw_error_right" = "Kontaktujte prosím zákaznický servis společnosti CloudMall.";
+"wallet_withdraw_error_end" = "Kontaktovat nyní";
+
+/////////////////////// pravidlo 弹 窗 ////////////////
+"rule_window" = "Víc víc";
+
+//////////// zrušení zásad 弹 窗 //////////
+"withdraw_policy_window_left" = "Zrušit zásady";
+"withdraw_policy_window_right" = "Minimální peněžní hotovost pro stažení elektronické peněženky";
+"retraw_policy_window_end" = "Pokračovat v pozváni";
+
+/////////////// DP // ////////////
+"wallet_dp_window_left" = "Hotovost zpět";
+"wallet_dp_window_right" = "Pozvat přátele, aby se dostali";
+
+/////// 支付 页面 钱包 /////////
+"submit_order_wallet" = "Peněženka";
+"submit_order_available" = "Dostupné";
+"submit_order_not_available" = "Není k dispozici";
+"order_detail_param_cash" = "Peněženka";
+
+/////////////////// zprávu 页面 //////////////
+"message_bought_item" = "Odměna";

@@ -1,0 +1,1414 @@
+
+"language_resources " = "en";
+
+////////////////////////////////// 全局_all ///////////////////////////////////
+
+"pull_to_refresh_title_all" = "Swipe down to refresh"; //购物车、首页、个人-订单、搜索结果
+"release_to_refresh_title_all" = "Release to refresh"; //购物车、首页、个人-订单、搜索结果
+"refreshing_title_all" = "Loading"; //购物车、首页、个人-订单、搜索结果
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_flash_sale_title" = "Flash Sale"; //首页-闪购标题
+"index_great_price_title" = "Best Price"; //首页-白菜价
+"index_mini_banner_title" = "Great Value"; //首页-迷你精选
+"index_great_collection_title" = "Best Sellers"; //首页-类目精选
+"index_daily_update_title" = "Recommended For You"; //首页-海淘动态
+
+"index_tabbar_daily_update_title" = "Daily Deals"; //首页-分屏每日精选-标题
+
+"index_choose_address_title" = "Select a shipping address"; //首页-选择收货地址
+"index_cannot_choose_address_toast" = "This region is currently unavailable"; //首页-选择新加坡/台湾时toast提示
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"hot_catogery_title_search" = "Catalog"; //搜索页面
+"hot_brand_title_search" = "Brands"; //搜索页面
+"hot_mall_title_search" = "Malls"; //搜索页面
+"all_brand_btn_searh" = "More Brands"; //搜索页面
+"all_mall_title_search" = "More Malls"; //搜索页面
+"best_sell_title_search" = "Popular Categories"; //搜索页面
+
+"all_people_title_search_result" = "All People"; //所有结果-筛选人群
+"all_brand_title_search_result" = "Brands"; //所有结果-筛选品牌
+"general_sort_title_search_result" = "Sort"; //所有结果-排序
+"price_high_sort_title_search_result" = "Price (High to Low)"; //所有结果-排序
+"price_low_sort_title_search_result" = "Price (Low to High)"; //所有结果-排序
+"discount_sort_title_search_result" = "Best Deals"; //所有结果-排序
+"sale_sort_title_search_result" = "Most Popular"; //所有结果-排序
+
+"mall_filter_title_search_result" = "Mall"; //所有结果-筛选
+"all_mall_filter_title_search_result" = "All Malls"; //所有结果-筛选
+"price_filter_title_search_result" = "Price"; //所有结果-筛选
+"clear_price_filter_title_search_result" = "Clear"; //所有结果-筛选
+"close_filter_title_search_result" = "Close"; //所有结果-筛选
+"reset_filter_title_search_result" = "Reset"; //所有结果-筛选
+"ok_filter_title_search_result" = "Confirm"; //所有结果-筛选
+
+"search_result_subscribe_btn" = "Subscribe"; //搜索结果-品牌-订阅按钮
+"search_result_have_subscribed_btn" = "Subscribed"; //搜索结果-品牌-已订阅按钮
+
+////////////////////////////////// 登录_signlogin ///////////////////////////////////
+
+"facebook_login_btn_signlogin" = "Continue with Facebook";
+"email_signup_btn_signlogin" = "Sign up with email";
+"login_btn_signlogin" = "Login with email";
+
+"email_title_signlogin" = "Email";
+"password_title_signlogin" = "Password";
+"forget_password_btn_signlogin" = "Forgot Password?";
+
+"next_btn_signlogin" = "Next";
+
+"comfire_password_btn_signlogin" = "Confirm Password";
+"finish_btn_signlogin" = "Finish";
+
+"phone_number_validation_title_signlogin" = "Verification code has been sent";
+"validation_code_title_signlogin" = "Enter verification code";
+
+"create_password_title_signlogin" = "Create Password"; //注册页面
+"new_username_btn_signlogin" = "User Name";
+
+////////////////////////////////// 我_profile ///////////////////////////////////
+
+"favorite_title_profile" = "Favorites";
+"advances_address_title_profile_setting" = "Address Book";
+
+"order_title_profile_order" = "My Orders";
+"un_paid_btn_profile_order" = "Unpaid";
+"processing_btn_profile_order" = "In Progress";
+"received_btn_profile_order" = "Completed";
+"all_order_btn_profile_order" = "Order History";
+
+"problem_consult_title_profile_setting" = "Customer Service Center";
+"title_consult_title_profile_setting" = "Please fill in the subject";
+"title_consult_description_profile_setting" = "Describe the issue";
+"placeholder_title_consult_description_profile_setting" = "Tell us the details about the issue";
+"order_number_consult_profile_setting" = "Order Number";
+"placeholder_order_number_consult_profile_setting" = "Order Number relating to your query";
+"title_email_consult_profile_setting" = "Email";
+"placeholder_email_consult_profile_setting" = "Please enter your email address";
+"title_name_consult_profile_setting" = "Name";
+"placeholder_title_name_consult_profile_setting" = "Please enter your Name";
+
+"feedback_title_profile_setting" = "Feedback";
+"rate_title_profile_setting" = "Rate Us";
+"about_me_title_profile_setting" = "About Us";
+"sign_out_title_profile_setting" = "Sign Out";
+
+"confirm_clear_cache_title_profile_about" = "Are you sure you want to clear the cache?";
+
+"hint_feedback_title_profile_feedback" = "Please input your feedback here";
+"hint_contact_title_profile_feedback" = "Email / Phone Number (Optional)";
+
+"my_profile_title_profile_info" = "My Profile";
+"modify_avatar_btn_profile_info" = "Upload Photo";
+"modify_name_btn_profile_info" = "Change Username";
+"reset_password_btn_profile_info" = "Reset";
+"reset_password_info_title_profile_info" = "A verification code will be sent to your email";
+"reset_password_title_profile_setting" = "Reset Password";
+
+"warn_sign_out_toast_profile_setting" = "Updates to your order will not be received after signing out.  Proceed?";
+
+"total_pay_title_cart" = "Total: ";
+"view_detail_btn_dp" = "Order Detail";
+"view_logistics_btn_profile_order" = "Track Order";
+"go_pay_btn_profile_order" = "Pay";
+"delete_order_btn_profile_order" = "Delete";
+"pay_tax_btn_profile" = "Pay Tax";
+
+"share_lucky_money_btn_cart" = "Share";
+
+"favors_album_title_profile_favors" = "Favorite";
+"camera_edit_btn_profile_address" = "Edit";
+"delete_album_tips_title_profile_favors" = "Confirm delete album?";
+"delete_album_btn_profile_favors" = "Delete album";
+"no_album_desc_title_profile_favors" = "No Description";
+"title_title_profile_favors" = "Title";
+"description_title_profile_favors" = "Description";
+"new_album_title_dp" = "Edit new album title";
+
+"address_manage_title_all" = "Manage Address Book";
+"add_address_btn_cart" = "Add a new address";
+"id_phone_title_profile_cash" = "Phone Number:";
+"detail_address_title_cart" = "Unit/Floor/Block/Building/Street";
+
+"change_region_title_profile_setting" = "Change region"; //个人-设置页面-切换地区
+"select_region_title_profile_setting" = "Ship To";
+"change_language_title_profile_setting" = "Language";
+"clear_cache_title_profile_setting" = "Clear cache"; //个人-设置页面缺失
+"setting_title_profile_setting" = "Settings"; //个人-设置页面头部
+"language_title_profile_setting" = "Language"; //个人-设置页面-语言切换
+
+"cancle_send_question_profile_setting" = "Cancel"; //个人-设置-问题咨询-左上角
+"ok_send_question_profile_setting" = "Submit"; //个人-设置-问题咨询-左上角
+
+"cancle_clear_cache_profile_setting" = "Cancel"; //个人-设置-清除缓存弹窗
+"ok_clear_cache_profile_setting" = "Clear cache"; //个人-设置-清除缓存弹窗
+
+"disclamier_btn_profile_setting" = "Terms of use"; //个人-设置-关于我们
+
+"ok_logout_profile_setting" = "Log Out"; //个人-设置-退出登录
+"cancle_logout_profile_setting" = "Cancel"; //个人-设置-退出登录
+
+"take_photo_change_avatar_btn_profile" = "Take Photo"; //头像修改-弹窗
+"open_photo__change_avatar_btn_profile" = "Select from Photo Library"; //头像修改-弹窗
+"cancle_change_avatar_btn_profile" = "Cancel"; //头像修改-弹窗 //专辑编辑-左上角取消
+
+"ok_change_name_btn_profile" = "Confirm"; //昵称修改-弹窗
+"cancle_change_name_btn_profile" = "Cancel"; //昵称修改-弹窗
+
+"order_number_title_profile_order" = "Order number"; //订单-订单详细
+"order_time_title_profile_order" = "Order date"; //订单-订单详细
+"today_sale_title_profile_order" = "Daily Deals"; //订单-物流详细
+"order_detail_title_profile_order" = "Order Details"; //订单-订单详细-标题
+"help_btn_profile_order" = "Need Help?"; //订单-物流详细-漏了的
+
+"cancle_btn_profile_favors" = "Cancel"; //收藏-专辑编辑
+"save_btn_profile_favors" = "Save"; //收藏-专辑编辑
+"confirm_delete_album_btn_profile_favors" = "Delete"; //收藏-专辑编辑-删除专辑弹窗
+"cancle_delete_album_btn_profile_favors" = "Cancel"; //收藏-专辑编辑-删除专辑弹窗
+
+"ok_btn_profile_address" = "Done"; //地址-新建地址/编辑地址-右上角
+"regioin_title_profile_address" = "Region/State"; //地址-新建地址/编辑地址-地区
+"delete_btn_profile_address" = "Delete"; //地址-左滑删除时
+
+"profile_address_receiver_title" = "Full Name:"; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "Zip/Postal Code:"; //地址管理-新加坡-邮编的默认显示文案
+
+"profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
+
+"profile_default_addresss_title" = "Room, Floor, Building, Street"; //地址-新建地址/编辑地址-地区
+
+"profile_no_orders_title" = "Millions of products are waiting for you"; //個人-訂單無訂單時顯示的內容
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_icon_all" = "Cart";
+"hint2_login_title_cart" = "Sign in to view your cart, favorites, and order history";
+"select_all_btn_cart" = "Select all";
+"save_price_title_cart" = "Offer applied ";
+"checkout_btn_cart" = "Checkout";
+"empty_title_cart" = "Your Shopping Cart is empty";
+"item_viewed_title_cart" = "Recently viewed items";
+"mall_item_discount_title_dp" = "Offer applied automatically";
+"drop_price_title_cart" = "On Sale";
+
+"agreements_content_cart1" = "By submitting this order, I accept Cloudmall's";
+"agreements_content_cart2" = "Privacy & Security/";
+"agreements_content_cart3" = "Terms of use/";
+"agreements_content_cart4" = "Return & Exchange Policies";
+"summit_checkout_btn_cart" = "Submit Order";
+"mall_shipping_fee_title_cart" = "Mall shipping fee";
+"tax_fee_title_cart" = "Tax";
+"supply_title_cart" = "Supplied by";
+"select_address_title_cart" = "Select address";
+
+"confirm_payment_btn_profile_order" = "Submit Payment";
+"asap_pay_title_cart" = "Deal ends soon";
+"asap_pay_detail_content_cart" = "Prices are subject to change at anytime, so place your order now to get the best deal!";
+"choose_payment_title_cart" = "Select Payment Method";
+"hint_choose_payment_title_cart" = "Please select payment method";
+"final_price_title_cart" = "Order total:";
+
+"logistic_message_title_index_message" = "Messages";
+
+"ok_btn_cart" = "Done"; //购物车列表-点击右上角后
+"edit_btn_cart" = "Edit"; //购物车列表-右上角编辑
+"delete_sold_out_btn_cart" = "Remove Sold Out Items"; //购物车列表-点击编辑后
+"delete_selected_btn_cart" = "Delete"; //购物车列表-点击编辑后
+
+"no_return_title_cart" = "Supplier does not support returns"; //购物车列表-商品下说明
+"limited_number_title_cart" = "Item quantity restriction"; //购物车列表-商品下说明
+"delete_btn_cart" = "Delete"; //购物车列表-左滑删除
+"not_qualified_title_cart" = "Offer does not apply"; //购物车列表-商城运费优惠
+"qualified_title_cart" = "Offer applied"; //购物车列表-商城运费优惠
+
+"choose_address_title_cart_checkout" = "Choose Shipping Address"; //提交订单-地址栏
+"close_btn_cart_checkout" = "Close"; //点击渠道后-左上角关闭
+
+"order_submit_title_cart_checkout" = "Processing，confirmation will be sent to you within 48 hours"; //订单完成-小鲸鱼下方的标题
+"order_submit_sub_title_cart_checkout" = "If your order cannot be completed, we will inform you via email and process a refund"; //订单完成-小鲸鱼下方的标题
+
+"cart_benefit_title" = "Discount applied"; //购物车-总价下的小字，缺了已优惠
+
+"cart_checkout_logistic_self_title" = "Select pick-up location"; //购物车-顺丰自提-弹窗
+
+"cart_checkout_order_description_title0" = "Total:"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title1" = "（Currency will be converted automatically）"; //购物车-提交订单-选择支付方式
+
+"cart_checkout_logistic_self_desc_title" = "Phone Number"; //购物车-顺丰自提-字体说明
+"cart_checkout_logistic_door_desc_title" = "HK$30 will be charged at delivery to non-business addresses"; //购物车-顺丰自提-字体说明
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"add_cart_btn_dp" = "Add to Cart";
+"favourite_icon_all" = "Favorite";
+"add_to_album_title_dp" = "Add to Album";
+
+"just_sold_title_dp" = "Just Sold";
+"subscribe_btn_search" = "Subscribe";
+"subscribed_btn_search" = "Subscribed";
+"translate_btn_dp" = "Translate";
+"translate_title_dp" = "Product description";
+
+"open_facebook_share_btn_dp" = "'Cloudmall' would like to open 'Facebook'"; //商品详细-点击分享弹窗
+"cancle_open_facebook_share_btn_dp" = "Cancel"; //商品详细-点击分享弹窗
+"ok_open_facebook_share_btn_dp" = "Open"; //商品详细-点击分享弹窗
+
+"service_description_title_dp" = "Details"; //商品详细-点击包税、超值等
+"great_deal_title_dp" = "Great Value"; //商品详细-超值
+"great_sale_title_dp" = "Special Offer"; //商品详细-优惠
+
+"brand_title_dp" = "Brand"; //商品详细页下
+"item_description_title_dp" = "Product description"; //商品详细下-商品概述
+"more_item_title_dp" = "Other Products You May Like"; //商品详细-最底部商品推荐
+"supplier_btn_dp" = "Seller"; //商品详细-tabbar上
+
+"new_album_btn_dp" = "New Album"; //商品详细-点击收藏-新建
+
+"have_select_desc_title_dp" = "Selected"; //商品详细-点击加入购物车
+"warn_addcart_title_dp" = "Please note that above information (color, size, etc.) are all provided by our suppliers and are for reference only.";
+"quantity_addcart_title_dp" = "Quantity"; //商品详细-点击加入购物车
+"ok_addcart_btn_dp" = "OK"; //商品详细-加入购物车
+
+"dp_about_mall_sale_title" = "Offer Details"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title1_title" = "Discount is provided by supplier"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content1_title" = "Discount provided by supplier will be applied automatically. CloudMall is not responsible for changes to this offer"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title2_title" = "Discount will be applied automatically"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content2_title" = "	Discount will be applied automatically, no coupons necessary"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title3_title" = "Special offer expired"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content3_title" = "Discount time is limited and offer has expired"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title4_title" = "Offer successfully applied"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content4_title" = "Coupon code has been applied"; //商品详细-关于商城优惠活动
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_main_realtime_discout" = "Discount"; //首页-热门-实时折扣
+"index_main_time_limited_discout" = "Flash Sale"; //首页-热门-限时闪购
+"index_main_hot_mall" = "Hot Sales"; //首页-热门-热门市场
+"index_main_hot_mall_more" = "More"; //首页-热门-热门市场-更多商铺
+"index_main_hot_mall_view" = "More"; //首页-热门-热门市场-进入商铺
+
+"index_main_lightlux" = "Trending"; //首页-热门-类目精选-轻奢
+"index_main_bigbrand" = "Big Brands"; //首页-热门-类目精选-大牌
+"index_main_casual" = "Casual"; //首页-热门-类目精选-休闲生活
+"index_main_beauty" = "Beauty"; //首页-热门-类目精选-美妆护肤
+"index_main_sportwear" = "Sportswear"; //首页-热门-类目精选-户外运动
+"index_main_men" = "Men"; //首页-热门-类目精选-睿智男士
+
+"index_sub_dailyupdate" = "Daily Update"; //首页-分屏-每日精选
+"index_sub_youmaylike" = "You May Also Like"; //首页-分屏-每日精选
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"dp_mall_high_grade_mall" = "Best Seller"; //商品-商城-优质商家
+"dp_mall_all_product" = "Products"; //商品-商城-全部商品
+"dp_mall_total_sale" = "Items Sold"; //商品-商城-总销量
+"dp_mall_runs_years" = "Years"; //商品-商城-优质商家
+
+"dp_flash_sale" = "Sale Ends In"; //商品-限时闪购-倒计时
+"dp_favorite_new_abulm" = "Add"; //商品-收藏-新建专辑
+"dp_favorite_popup_cancel" = "Cancel"; //商品-收藏-新建专辑
+"dp_favorite_popup_confirm" = "Confirm"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "Item was added to your album"; //商品-收藏-新建专辑
+"dp_favorite_popup_unfav_success" = "Remove from the album successfully"; //商品-收藏-新建专辑
+"dp_soldout" = "Sold Out"; //商品-售光了-找相似
+"dp_description" = "About the Item"; //商品-收藏-新建专辑
+
+"dp_add_cart_success_toast" = "Added to cart"; //商品-成功加入购物车-toast
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"search_result_temp_title" = "Search Results"; //搜索-搜索结果-主标题
+
+"search_history_result" = "History"; //搜索-历史搜索
+"search_history_result_cancel" = "Cancel"; //搜索-历史搜索-取消
+"search_hot_result" = "Trending"; //搜索-搜索结果-热门搜索
+"search_all_brand" = "All Brands"; //搜索-所有品牌
+"search_brand_list" = "Brand List"; //搜索-品牌列表
+"search_result_filter_clear" = "Clear"; //搜索-品牌列表
+
+"search_history_result_clear_popup_title" = "Clear Search History"; //搜索-清空历史记录-标题
+"search_history_result_clear_popup_content" = "Are you sure you want to clear your Search History?"; //搜索-清空历史记录-内容
+"search_history_result_clear_popup_cancle" = "Cancel"; //搜索-清空历史记录-取消
+"search_history_result_clear_popup_confirm" = "Confirm"; //搜索-清空历史记录-确定
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_checkout_credit_card" = "Credit/Debit Card"; //购物车-确认支付-信用卡标题
+"cart_checkout_total_bill" = "Total "; //购物车-确认支付-确认标题前
+
+"cart_checkout_credit_card_title" = "Credit/Debit Card"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_change_credit_card" = "Change Card"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
+"cart_checkout_new_credit_card" = "Add New Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_credit_card_toast" = "Please add new card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_credit_card_cancel" = "Cancel"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "Pay"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_confirm" = "Confirm"; //购物车-确认支付-选择信用卡支付-增加新加-cvv-确定
+
+"cart_checkout_card_holdername_title" = "Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "Card No."; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "Expiry Date"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "Enter CVV"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "Your payment for this purchase is processed securely by a third party payment processor. CloudMall does not store your credit card information."; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "Confirm"; //购物车-确认支付-选择信用卡支付-完成按钮
+
+"cart_checkout_card_holdername_toast" = "Cardholder name is invalid. Please only use alphanumeric characters [A-z]"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "Card number entered is invalid. Please doublecheck your card number"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "Card type is not supported. Please try using another card"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "Card expiry date is invalid. Please doublecheck your card expiry date"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "CVV is invalid. Please doublecheck the number you entered"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+
+"cart_edit_done" = "Confirm"; //购物车-编辑-完成
+"cart_edit_delete_no_goods" = "Delete Sold Out Items"; //购物车-编辑-完成
+"cart_edit_delete_item" = "Delete"; //购物车-编辑-完成
+"cart_checkout_all_item" = "X item(s)"; //购物车-结算-共X件商品
+"cart_checkout_sum_price" = "Total:"; //购物车-编辑-完成
+
+"cart_checkout_cancel_payment_popup_title" = "Order Unpaid"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "Please pay within 24 hours"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_confirm" = "Confirm"; //购物车-订单-取消支付-弹窗
+
+"cart_checkout_card_date_jan" = "01-JAN"; //购物车-确认支付-填写信用卡日期-一月
+"cart_checkout_card_date_feb" = "02-FEB"; //购物车-确认支付-填写信用卡日期-二月
+"cart_checkout_card_date_mar" = "03-MAR"; //购物车-确认支付-填写信用卡日期-三月
+"cart_checkout_card_date_apr" = "04-APR"; //购物车-确认支付-填写信用卡日期-四月
+"cart_checkout_card_date_may" = "05-MAY"; //购物车-确认支付-填写信用卡日期-五月
+"cart_checkout_card_date_jun" = "06-JAN"; //购物车-确认支付-填写信用卡日期-六月
+"cart_checkout_card_date_jul" = "07-JUL"; //购物车-确认支付-填写信用卡日期-七月
+"cart_checkout_card_date_aug" = "08-AUG"; //购物车-确认支付-填写信用卡日期-八月
+"cart_checkout_card_date_sep" = "09-SEP"; //购物车-确认支付-填写信用卡日期-九月
+"cart_checkout_card_date_oct" = "10-OCT"; //购物车-确认支付-填写信用卡日期-十月
+"cart_checkout_card_date_nov" = "11-NOV"; //购物车-确认支付-填写信用卡日期-十一月
+"cart_checkout_card_date_dec" = "12-DEC"; //购物车-确认支付-填写信用卡日期-十二月
+
+"cart_not_login_btn" = "Login"; //购物车-未登录-登录按钮
+"cart_checkout_card_cancel" = "Cancel"; //购物车-选择支付-取消
+"cart_checkout_card_pay" = "Purchase "; //购物车-选择支付-付款
+"cart_checkout_card_popup_title" = "Error"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_content" = "There was an error with your payment. Please verify that the card details you entered were correct or try paying with a different card."; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_cancel" = "Later"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_tryagain" = "Try Again"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_pay_total" = "Purchase"; //购物车-选择支付-取消
+"cart_checkout_bill_total" = "Bill Total "; //购物车-选择支付-付款
+"cart_checkout_pay_success_title" = "Success"; //购物车-选择支付-支付成功
+
+////////////////////////////////// 个人-Proilfe ///////////////////////////////////
+
+"profile_setting_customer_service_cancel" = "Cancel"; //个人-客服-取消
+"profile_setting_customer_service_confirm" = "Confirm"; //个人-客服-提交
+"profile_setting_clearcache_clearing" = "Clearing Cache..."; //个人-清除缓存-取消
+"profile_setting_clearcache_cancel" = "Cancel"; //个人-清除缓存-取消
+"profile_setting_clearcache_confirm" = "Confirm"; //个人-清除缓存-清除
+"profile_setting_feedback_cancel" = "Cancel"; //个人-反馈-取消
+"profile_setting_feedback_confirm" = "Send"; //个人-反馈-发送
+"profile_setting_signout_cancel" = "Cancel"; //个人-退出登录-取消
+"profile_setting_signout_title" = "Tips"; //个人-退出登录-取消
+
+"profile_change_photo_cancel" = "Cancel"; //个人-清除缓存-取消
+
+"profile_favorite_edit_cancel" = "Cancel"; //个人-编辑专辑-取消
+"profile_favorite_edit_save" = "Save"; //个人-编辑专辑-保存
+"profile_favorite_edit_title" = "Edit Album"; //个人-编辑专辑-标题-专辑编辑
+
+"profile_address_edit_confirm" = "Confirm"; //个人-地址编辑-完成
+
+"profile_setting_termsofuse" = "Terms of Use"; //个人-设置-协议条款与条件
+"profile_setting_rateapp" = "Rate CloudMall"; //个人-设置-给个评价
+
+"profile_change_name_cancel" = "Cancel"; //个人-更改名字-取消
+"profile_address_hongkong" = "Hong Kong"; //香港
+"profile_address_singapore" = "Singapore"; //新加坡
+"profile_address_taiwan" = "Taiwan"; //台湾
+"profile_address_vietnam" = "Vietnam"; //越南
+"profile_address_indonesia" = "Indonesia"; //印度尼西亚
+"profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
+"profile_order_logistic_title" = "Order Tracking"; //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "Select Region"; //个人-订单-物流查询-标题
+"profile_address_empty_toast" = "Please fullfill the form"; //个人-地址-空提醒
+
+//////////////////////////////android 新增//////////////////////////////////////////
+
+"loading_title_profile"="Loading&#8230;";
+"more"="More";
+"no_entries_in_cart_detail"="Go and discover more items!";
+"press_again_exit_toast_all"="Click again and exit";
+"write_need"="Please enter essential infomation";
+
+"adyen_expired_year_toast_1"="Credit card expiry date:";
+"adyen_expired_year_toast_2"="Credit card expiry date has 4 digits";
+"cart_year_expire_toast"="Format of the expiry date is wrong";
+"cart_year_expire_write_toast"="Please fill the card expiry date";
+"new_sort_title_search_result"="New to Old";
+"no_delivery_supported"="Delivery is not supported";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_board_highlight" = "Recommended Items"; //首页-二级页面-board标题
+"index_bannerlist_highlight" = "Recommended List"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "Recommended List"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "Recommended List"; //首页-二级页面-board标题
+
+//////////////////////////////// 搜索_search ////////////////////////////////////
+
+"search_input_defualt" = "Worldwide Free Shipping"; //首页-二级页面-board标题
+
+/////////////////////////////// 个人-profile /////////////////////////////////////
+
+"profile_address_input_default" = "Fill in"; //个人-地址-输入框
+"profile_address_select_default" = "Select"; //个人-地址-下拉框
+"profile_address_province" = "Province/State:"; //个人-地址-省州
+"profile_address_city" = "City/Town:"; //个人-地址-城市
+"profile_address_district" = "District:"; //个人-地址-下拉框
+"profile_address_detail" = "Apartment, Building...(Optional)"; //个人-地址-详细地址
+
+"profile_address_us" = "United States";
+"profile_address_uk" = "United Kingdom";
+"profile_address_ca" = "Canada";
+"profile_address_de" = "Deutschland";
+"profile_address_au" = "Australia";
+"profile_address_nz" = "New Zealand";
+"profile_address_fr" = "France";
+"profile_address_it" = "Italy";
+"profile_address_es" = "España";
+"profile_address_ru" = "Россия";
+"profile_address_mx" = "Mexico";
+"profile_address_nl" = "Netherlands";
+"profile_address_no" = "Norway";
+"profile_address_dk" = "Denmark";
+"profile_address_se" = "Sweden";
+"profile_address_ch" = "Switzerland";
+"profile_address_pl" = "Poland";
+"profile_address_be" = "Belgium";
+"profile_address_ie" = "Ireland";
+"profile_address_fi" = "Finland";
+"profile_address_pt" = "Portugal";
+"profile_address_ph" = "Philippines";
+"profile_address_my" = "Malaysia";
+"profile_address_jp" = "Japan";
+"profile_address_kr" = "Korea";
+"profile_address_ua" = "Ukraine";
+"profile_address_in" = "India";
+"profile_address_ae" = "United Arab Emirates";
+"profile_address_sa" = "Saudi Arabia";
+"profile_address_qa" = "Qatar";
+"profile_address_kw" = "Kuwait";
+"profile_address_tr" = "Turkey";
+"profile_address_il" = "Israel";
+"profile_address_th" = "Thailand";
+"profile_address_at" = "Austria";
+"profile_address_cz" = "Czech";
+"profile_address_za" = "South Africa";
+
+"profile_order_package_number" = "Package number"; //个人-物流详细
+
+"profile_setting_feedback_null_toast" = "Please enter all the information"; //个人-物流详细
+"profile_setting_feedback_null_mail_toast" = "Please enter email address correctly"; //个人-物流详细
+"address_hint_postcode_not_null"="Please enter email address";
+"choose_logistic"="Please select the shipment method";
+"confirm_delete_order_title_profile_order"="Are you sure to delete the order?";
+"confirm_valid_hint"="Passwords are not consistent";
+"pay_lack_param"="Necessary data is missing";
+"please_select_address"="Please select the address";
+"success_hide_order_profile_order"="Deleted successfully";
+"network_connect_error"="Network error";
+"network_error"="Network connection timeout";
+
+////////////////////////////// 商品详细-detail ////////////////////////////////
+
+"dp_select_null_toast" = "Please choose "; //个人-地址-详细地址
+
+////////////////////////////// 购物车-cart ////////////////////////////////
+
+"cart_soldout_toast" = "Some items sold out"; //个人-地址-详细地址
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//ver
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+////////////////////////////首页-index /////////////////////////////////
+
+"index_got_coupon_toast" = "Congratulation! You have got coupon"; //搜索-筛选-来源
+"index_wrong_region_toast" = "The coupons is not available in current region"; //搜索-筛选-来源
+"index_condition_not_meet_toast" = "You cannot take the coupon"; //搜索-筛选-来源
+"index_number_limit_toast" = "You have got coupon more than once"; //搜索-筛选-来源
+"index_timeout_toast" = "The coupon is out of time"; //搜索-筛选-来源
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_filter_source" = "Sellers"; //搜索-筛选-来源
+"search_filter_brand" = "Brands"; //搜索-筛选-品牌
+"search_filter_category" = "Category"; //搜索-筛选-类目
+"search_filter_crowd" = "Consumer"; //搜索-筛选-人群
+"search_filter_more" = "More"; //搜索-筛选-全部
+"search_filter_reset" = "Reset"; //搜索-筛选-全部
+"search_filter_apply" = "Apply"; //搜索-筛选-全部
+"search_sort_popular" = "Popular"; //搜索-筛选-全部
+"search_sort_topsale" = "Top Sellers"; //搜索-筛选-全部
+"search_sort_price" = "Price"; //搜索-筛选-全部
+
+"search_list_supply_by" = "Supplied by"; //搜索-筛选-全部
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_coupon_title" = "Coupons";
+"profile_coupon_only_country" = "Only in";
+"profile_coupon_condition_over" = "Buy ";
+"profile_coupon_condition_get" = "and get an";
+"profile_coupon_valid_period" = "Valid period";
+"profile_coupon_specific" = "Specific mall or brand ";
+"profile_coupon_null" = "No coupons right now";
+"profile_coupon_available" = "Available";
+"profile_coupon_unavailable" = "Unavailable";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_coupon_available" = "Available";//支付是提示有没可用
+"cart_coupon_unavailable" = "Unavailable";//支付时提示有没可用
+
+//////////////////////////// 商品详细页-DP /////////////////////////////////
+
+"dp_shipment_title" = "Ships from";//支付是提示有没可用
+"dp_shipment_to_title" = "to";//支付时提示有没可用
+"dp_receive_title" = "Delivered in";//支付时提示有没可用
+"dp_receive_days_title" = "days";//支付时提示有没可用
+"dp_shipment_notsupport_title" = "Delivery not supported";//支付是提示有没可用
+"dp_shipment_notsupport_description" = "Item cannot be delivered to current region";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_comment_main_title" = "Comment";//支付是提示有没可用
+"index_comment_sub_title" = "Like us and comment";//支付是提示有没可用
+"index_bad_feedback_btn" = "Feedback";//支付是提示有没可用
+"index_good_feedback_btn" = "Like us！";//支付是提示有没可用
+"index_timeout_title" = "Timeout";//支付是提示有没可用
+"index_pending_title" = " Not started ";//支付是提示有没可用
+"index_timeout2_title" = " Promotion Timeout";//支付是提示有没可用
+"index_pending2_title" = " Promotion Not started ";//支付是提示有没可用
+
+"index_region_null" = "Please select region and language";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"dp_total_sale_title" = "Total sold";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_minutes_ago" = " minutes ago";//支付是提示有没可用
+"index_hours_ago" = " hours ago";//支付是提示有没可用
+"index_days_ago" = " days ago";//支付是提示有没可用
+"index_weeks_ago" = " weeks ago";//支付是提示有没可用
+"index_months_ago" = " month ago";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_current_filter" = "Filter";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_no_result" = "Sorry, we can not find the results";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_ai_search" = "AI Search";//支付是提示有没可用
+"search_ai_found" = "similar items";//支付是提示有没可用
+"search_ai_explore" = "Similar items";//支付是提示有没可用
+"search_ai_not_found" = "No similar items";//支付是提示有没可用
+"search_ai_description" = "Now you can find similar items with AI search";//支付是提示有没可用
+"search_ai_description_confirm" = "Got it";//支付是提示有没可用
+
+"search_ai_finding" = "AI search is now progressing";//支付是提示有没可用
+"search_ai_find_nothing" = "Sorry, no similar items";//支付是提示有没可用
+"search_ai_similarity" = "Similarity:";//支付是提示有没可用
+
+"search_sort_discount" = "Discount";//支付是提示有没可用
+
+//////////////////////////// 详细-DP /////////////////////////////////
+
+"dp_ai_found" = "similar items";//支付是提示有没可用
+"dp_ai_explore" = "Explore more similar items";//支付是提示有没可用
+"dp_ai_find_nothing" = "No similar items";//支付是提示有没可用
+"dp_ai_find_nothing_toast" = "Sorry, no similar items";//支付是提示有没可用
+
+//////////////////////////// 个人-Profile /////////////////////////////////
+
+"profile_favorite_ablum_nothing" = "Nothing in album";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_tab_all" = "All";//支付是提示有没可用
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_purchase_add_card" = "Use New Credit/Debit Card";//支付是提示有没可用
+"cart_purchase_choose_card" = "Choose From My Card List";//支付是提示有没可用
+"cart_purchase_delete_card_title" = "Delete Credit Card";//支付是提示有没可用
+"cart_purchase_delete_card_content" = "Are you sure you want to delete this card?";//支付是提示有没可用
+"cart_purchase_delete_card" = "Delete";//支付是提示有没可用
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_cards_tips" = "Swipe to delete credit/debit card";//支付是提示有没可用
+"profile_cards_null" = "There are no credit/debit cards linked with your account";//支付是提示有没可用
+
+//////////////////////////// 详细页-DP /////////////////////////////////
+
+"dp_message_title" = "Notice";
+
+"dp_follow_btn" = "Follow";
+"dp_following_btn" = "Following";
+"dp_brand_title" = "Brand";
+"dp_brand_shai_title" = "Brand Showing";
+"dp_soldby_title" = "Supplied by";
+"dp_mall_followers" = "Followers";
+"dp_mall_items" = "Items";
+"dp_mall_rate" = "Rate";
+"dp_mall_sold" = "Sold";
+"dp_mall_location" = "Region";
+"dp_mall_type" = "Type";
+"dp_mall_type_general" = "General Supplier";
+"dp_mall_type_brand" = "Brand Supplier";
+
+"dp_desc_title" = "Detail";
+
+"dp_you_may_like" = "You May Like";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_incomplete" = "The address is incomplete";
+
+//////////////////////////// 首页-index /////////////////////////////////
+
+"index_topic_all" = "All Items";
+"index_topic_title" = "Featured Topics";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_alert1_title" = "By joining you agree to our";
+"login_alert2_title" = " Terms";
+"login_alert3_title" = " &";
+"login_alert4_title" = " Privacy Policy.";
+"login_alert5_title" = " Plus, get order updates, sale alerts, and more in your inbox.";
+
+"login_email_validation" = "We have sent you an email about reseting password. Please check your email and reset your password";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 全局-all /////////////////////////////////
+
+"all_no_more_items" = "- no more items -";
+
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_clearhistory_title" = "Are you sure to clear search history";
+"search_clearhistory_cancel_title" = "Cancel";
+"search_clearhistory_sure_title" = "Yes, I'm sure";
+
+//////////////////////////// 详细页-dp /////////////////////////////////
+
+"dp_mall_title" = "AI Price Compare";
+"dp_sizeguide_title" = "Size Guide";
+"dp_mall_nofulfilment_title" = "Sorry, We do not support the fulfillment right now. You may search it on its website.";
+"dp_size_description" = "We recommend that you choose the right size according to the size chart provided.  Please note that product information (color, sizing, etc.) is provided by our suppliers and is for reference only.";
+"dp_mall_location_taobao" = "Hongkong";
+
+"dp_outorder_title" = "Out of Order";
+"dp_processingtime_title" = "Processing Time";
+"dp_processingtime_subtitle" = "Item will be shipped out within 3-5 business days.";
+"dp_addcart_fail_toast" = "Add to Cart failed";
+
+"profile_album_need_title" = "Please enter title";
+
+//////////////////////////// 購物車-cart /////////////////////////////////
+
+"cart_shipment_title" = "Shipment: ";
+"cart_shipment_days_title" = " business days";
+"cart_remove_items" = "Removing";
+"cart_remove_items_success" = "Success";
+"cart_remove_items_fail" = "Please try again";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_no_content" = "Please fulfill the form";
+"profile_help_title" = "Help";
+"profile_submitsuccess_toast" = "Submit successfully";
+"profile_address_submitsuccess_toast" = "Added successfully";
+"profile_bill_fail_toast" = "Bill loading fail, please try again later";
+"profile_bill_confirm" = "Confrim";
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_wrong_password" = "Password is inconsistent";
+"login_short_password" = "Password must be more than 6 character";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_success_toast" = "Success";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_use_coupon" = "Use Coupons";
+"checkout_sure_popup_title" = "Are you sure you want to cancel this payment?";
+"checkout_sure_popup_yes" = "Confirm";
+"checkout_sure_popup_no" = "Cancel";
+"coupon_tip_buy" = "Buy";
+"coupon_tip_more_save" = "more, save";
+"coupon_tip_max" = "Place order and save";
+"coupon_tip_buy_lower" = "buy";
+"coupon_tip_nil" = "Apply Coupon in next step.";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_discount_notice_title" = "Discount";
+"dp_favorite_add_toast" = "Added to your favorite";
+"dp_favorite_remove_toast" = "Removed from your favorite";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_switch_address&language_confirm" = "DONE";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_shipping_recommend" = "HOT";
+
+//////////////////////////// 商品详细-dp /////////////////////////////////
+
+"dp_desctiption_more" = "More";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_less" = "Less";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_order_confirmation_button" = "Confirm Package Recieved";
+"profile_order_confirmation_popup_title" = "Confirm Package Recieved";
+"profile_order_confirmation_popup_content" = "If you have recieved the package, please press “Confirm”";
+"profile_order_confirmation_popup_cancel" = "Cancel";
+"profile_order_confirmation_popup_confirm" = "Confirm";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_order_unpaid" = "Unpaid";
+"sidebar_order_processing" = "Processing";
+"sidebar_order_all" = "All Orders";
+"sidebar_message" = "Messages";
+"sidebar_category" = "All Categories";
+"sidebar_favorite" = "Favorites";
+"sidebar_creditcard" = "Credit Cards";
+"sidebar_address" = "Address Book";
+"sidebar_setting" = "Settings";
+"sidebar_faq" = "FAQ";
+"sidebar_coupon" = "Coupons";
+"sidebar_signin" = "Click to Sign in";
+"sidebar_setting_login" = "Login";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_sort_popular" = "Popular";
+"search_sort_hotsale" = "Top Sellers";
+"search_sort_discount_descend" = "Discount High to Low";
+"search_sort_discount_ascend" = "Discount Low to High";
+"search_sort_price_descend" = "Price High to Low";
+"search_sort_price_ascend" = "Price Low to High";
+"search_fitler" = "Filter";
+
+"search_top_search" = "Top Search";
+"search_category_title" = "Category";
+"search_brand_title" = "Brand";
+"search_trending_title" = "Trending";
+
+"search_filter_cancel" = "Cancel"; 
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_more_items" = "More Items";
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"search_mallpage_soldby" = "Seller";
+"search_brandpage_title" = "Brand";
+"search_all_items_title" = "items";
+"search_watching_title" = "views";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_popup_title" = "What do you think of CloudMall?";
+"cart_popup_nice" = "Pretty good!";
+"cart_popup_soso" = "Could be better";
+"cart_popup_cancel" = "Cancel";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_guide_region" = "You may change the shipping region";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_toast_greeting" = "Good News!";
+"cart_toast_pricedrop" = "Price Drop on";
+"cart_toast_item" = "Item(s)!";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_aiprice_intitle" = "CloudMall Retailer";
+"dp_aiprice_inshop" = "CloudMall";
+"dp_aiprice_viewmore" = "View More";
+"dp_aiprice_outshop" = "Compare With";
+"dp_aiprice_outtitle" = "Other Retailer";
+"dp_aiprice_inshipping" = "Free shipping";
+"dp_aiprice_outshipping" = "Includes";
+"dp_aiprice_shipping" = "shipping";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_mark_pricedrop" = "Price Drop";
+"cart_seller_from" = "From";
+"cart_total_shipping" = "Shipping not included";
+"cart_total_total" = "Total";
+"cart_total_pay" = "Checkout";
+"cart_soldout_popup" = "Some selected items are sold out, please deselect and try again";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_banner_more" = "VIEW ALL";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "Sold by";
+"search_mall_about" = "About";
+"search_mall_More" = "More";
+"search_mall_less" = "Less";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+"profile_coupon_use" = "Use Now";
+"profile_coupon_details" = "Coupon Details";
+"profile_coupon_expired" = "Expired";
+"profile_coupon_viewdetail" = "View Details";
+"profile_coupon_timefrom" = "Valid From";
+"profile_coupon_timeto" = "To";
+"order_coupon_notchoose" = "Do not use coupon";
+"profile_coupon_unused" = "Unused";
+"profile_coupon_expired" = "Unavailable";
+"profile_coupon_nocoupon" = "No Coupons Available";
+
+"add_coupon_code_title" = "Coupon Code";
+"add_coupon_code_input" = "Enter coupon code";
+"add_coupon_code_apply" = "Apply";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"order_status_unpaid" = "Unpaid";
+"order_status_pending" = "Pending";
+"order_status_shipping" = "Shipping";
+"order_status_all" = "All";
+"order_detail_policy" = "After Sales Policy";
+"order_policy_help" = "Need help?";
+"order_policy_contact" = " Contact us.";
+"order_confirm_delivery" = "Confirm Delivery";
+"order_confirm_logistics" = "Logistics";
+"order_status_finished" = "Finished";
+"order_status_refunded" = "Refunded";
+"order_logistics_co" = "Shipping Co. ";
+"order_logistics_no" = "\nTracking No. ";
+"order_logistics_day" = " day";
+"order_logistics_days" = " days";
+"package_status_Unpaid" = "Unpaid";
+"package_status_Processing" = "Processing";
+"package_status_ReadyToShip" = "Ready to ship";
+"package_status_CanceledAfterPaid" = "Canceled";
+"package_status_InTransit" = "In Transit";
+"package_status_Delivered" = "Delivered";
+"package_status_Refunded" = "Refunded";
+"package_status_CanceledBeforePaid" = "Expired";
+"order_item_no" = " item";
+"order_item_nos" = " items";
+"order_refunded_buy" = "Buy Again";
+"refunded_list_bottombar_sum" = "Total ";
+"refunded_list_bottombar_no" = " item";
+"refunded_list_bottombar_nos" = " items";
+"pending_canceled_notice" = "Your money will be returned in 48 hours";
+"order_detail_delete" = "Delete";
+"sidebar_order" = "All Orders";
+"order_viewdetail" = "View Details";
+"order_detail_time" = "Order time";
+"order_intransit_package" = "Package ";
+"order_noorder_title" = "No Orders";
+"order_noorder_info" = "Go and add goods to your shopping cart!";
+"order_noorder_button" = "Go shopping";
+"order_detail_param_price" = "Price";
+"order_detail_param_shipping" = "Shipping";
+"order_detail_param_total" = "Total";
+"order_detail_param_discount" = "Discount";
+"order_detail_param_refund" = "Refund";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"guide_cart_title" = "Shopping Cart";
+"guide_cart_para" = "Check the shopping cart here.";
+"guide_cart_button" = "Got it";
+"guide_dp_title" = "Add to Cart";
+"guide_dp_para" = "Put the goods into the shopping cart here.";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "CONGRATULATIONS";
+"coupon_loggedin_content_title" = "You Got";
+"coupon_loggedin_content_description_1" = "App Exclusive Coupon";
+"coupon_loggedin_content_description_2" = "New User Coupon";
+"coupon_loggedin_button" = "See My Coupons";
+"coupon_notloggedin_coupon" = "Coupon";
+"coupon_notloggedin_title_1" = "Send you\n";
+"coupon_notloggedin_title_2" = "the New User-Only\n";
+"coupon_notloggedin_title_3" = "coupons";
+"coupon_notloggedin_content_description_1" = "Sign up to get ";
+"coupon_notloggedin_content_description_2" = "coupons！";
+"coupon_notloggedin_button" = "Get it!";
+"coupon_cant_get" = "You have registered before, cannot get the coupons.";
+"coupon_cant_get_enjoy" = "Enjoy your shopping";
+"coupon_cant_get_button" = "Go shopping";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"global_toast" = "Oops, you have lost internet connection.";
+"cart_wrong_address_toast" = "Sorry, this address cannot be choosed.";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"orderpage_title_1" = "Fully Refunded";
+"orderpage_para_1" = "If you do not receive your packages.";
+"orderpage_title_2" = "Return and Refund";
+"orderpage_para_2" = "If item does not fit description.";
+"orderpage_title_3" = "Secure Payment with Escrow Protection";
+"orderpage_title_4" = "Easier, Faster Dispute Resolution";
+"orderpage_title_5" = "100% Guaranteed Refunds.";
+
+//////////////////////////// 商品详情-DP /////////////////////////////////
+
+"coupon_bigtitle" = "NEW USERS ONLY";
+"coupon_para_title" = "COUPON";
+"coupon_para_button" = "Get it!";
+"ai_price" = "AI PRICE COMPARISON";
+"ai_price_button" = "Take A Look";
+"dp_share_para" = "Share this goods to your friends";
+"dp_share_title" = "SHARE TO FRIENDS";
+"dp_item_description" = "Description";
+"dp_item_notice" = "Notice";
+"dp_item_notice_time" = "Processing Time";
+"dp_item_notice_size" = "About Size Guide";
+"dp_item_description_more" = "More";
+"dp_item_description_less" = "Less";
+
+//////////////////////////// 购物车-Cart /////////////////////////////////
+
+"free_shipping_noenough_0" = "Buy ";
+"free_shipping_noenough_1" = " more to enjoy FREE SHIPPING!";
+"free_shipping_enough" = "Eligible for FREE SHIPPING!";
+
+//////////////////////////// 登录-login /////////////////////////////////
+
+"Login_login" = "Log in";
+"login_facebook" = "Log in with Facebook";
+"login_phone" = "Log in with Phone";
+"login_google" = "Log in with Google";
+"login_email" = "Log in with Email";
+"signup_signin" = "Sign up";
+"signup_facebook" = "Sign up with Facebook";
+"signup_phone" = "Sign up with Phone";
+"signup_google" = "Sign up with Google";
+"signup_email" = "Sign up with Email";
+"signup_coupon" = " for New Users";
+"signup_policydetail" = "By joining you agree to our";
+"signup_policydetail_1" = "Terms";
+"signup_policydetail_2" = "&";
+"signup_policydetail_3" = "Privacy Policy";
+
+//////////////////////////// 空白页-nullpage /////////////////////////////////
+
+"no_coupon" = "No Coupons Available";
+"no_order" = "No Order";
+"no_order_detail" = "You haven't made any orders";
+"no_network" = "Oops!";
+"no_network_retry" = "Check if your phone is connected to the internet.";
+"no_search" = "Oops!";
+"no_search_detail" = "No Search Results.";
+"no_goods_cart" = "Empty Cart";
+"no_goods_cart_detail" = "I feel so empty when you don't shop.";
+"no_goods_cart_shop" = "Shop Now";
+
+//////////////////////////// 地址-Address /////////////////////////////////
+
+"phone_wrong_toast" = "Phone number is in wrong format.";
+"india_address_postcode_title" = "Pincode:";
+"india_street1_detail" = "House No, Building, Street, Locality";
+"india_street2_detail" = "Landmark (optional)";
+"india_city_title" = "City/District: ";
+"india_state_title" = "Region/State: ";
+"india_mobile" = "Mobile";
+"india_mobile_phone_number" = "Mobile Phone Number";
+"india_country" = "County";
+"india_town" = "Locality/Town";
+"india_street_address" = "Street Address";
+"india_address" = "Address";
+"india_address_details" = "Address Details";
+"india_detail_address_input" = "Street,Area,House No.,C/O.";
+"india_addition_address" = "Apt,Suite,Floor,Bldg,etc.(Optional)";
+"zip_wrong_toast" = "Please enter 6-digit pincode.";
+"zip_out_range" = "Sorry, we cannot deliver to this pincode.";
+"location_failed" = "Getting Location Failed.";
+"sa_address_province_title" = "State/Prov./Region: ";
+"sa_address_city_title" = "City: ";
+"sa_address_district_title" = "District (Optional):";
+"sa_address_street1_title" = "Street";
+"sa_address_street2_title" = "Address Details (Optional)";
+
+//////////////////////////// 支付-Pay /////////////////////////////////
+
+"cash_on_delivery_0" = "Additional Cost";
+"cash_on_delivery_1" = "You can pay in cash when your order is on delivery.";
+"cash_on delivery_2" = "You can use COD only if all your previous COD orders have been signed successfully.";
+"phone_verify_title" = "Order Confirmation.";
+"phone_verify_detail_0" = "Please verify your phone number.";
+"phone_verify_detail_1" = "Tap 'Send Code' to request verification code.";
+"phone_verify_input" = "Your Phone";
+"phone_verify_button" = "Verify";
+"phone_code_detail" = "Please enter 4-digit code.";
+"phone_code_input" = "4-digit code";
+"phone_code_resend" = "Resend";
+"phone_verify_send" = "Send Code";
+"shipping_free" = "Free";
+"phone_verify_sending" = "Sending";
+"phone_verify_wrong" = "Wrong code. Try again.";
+"code_send_failed" = "Failed to send the code, please check your phone number and try again.";
+"cod_not" = "Not Available";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = " Reviews";
+"dp_no_reviews" = "No Reviews";
+"dp_review" = " Review";
+"dp_topban_welcome" = "Welcome ";
+"dp_topban_order" = "The latest order,";
+"dp_topban_ordertime" = " sec ago.";
+"dp_topban_view" = " people viewing now!";
+"dp_more_reviews" = "More Reviews";
+
+//////////////////////////// 首页-闪购 /////////////////////////////////
+"flash_sale_end_in" = "End in";
+"flash_sale_not_started" = "Not started";
+"flash_sale_over" = "Over";
+
+///////////////////////// DP-加购解锁功能 //////////////////////////////
+"limited_time_offer_info" = "Instant offer: Add to cart right now to unlock a lower price!";
+"limited_time_offer_expired" = "Expired";
+"limited_time_offer_now_only" = "Now Only ";
+"limited_time_offer_text_first" = "You unlocked";
+"limited_time_offer_text_second" = "off this product.";
+"limited_time_offer_text_third" = "This price expires in 1 hour so checkout soon!";
+"limited_time_offer_continue" = "Continue";
+
+//////////////////////// coupon-优惠券 //////////////////////////////
+"coupon_available_info" = "Order";
+"coupon_available_click_info" = "Click this to select a coupon";
+"coupon_code_invalid" = "Coupon code is invalid";
+
+//////////////////////// index-首页 //////////////////////////////
+"index_middle-card" = "YOUR CART>";//首页—中间-购物车
+
+//////////////////////// cart-购物车 //////////////////////////////
+"cart_tip_buy" = "Buy";
+
+//////////////////////// 地址优化 //////////////////////////////
+"address_landmark" = "Nearest Landmark";
+"ae_address_phone_number" = "Alternate Phone Number";
+"address_location_type" = "Address Type";
+"address_location_type_home" = "Home";
+"address_location_type_business" = "Business";
+"address_optional_prompt" = "Optional";
+
+//////////////////////// insta //////////////////////////////
+"instar_home_navigation" = "INSTA";
+"instar_trending_title" = "Insta";
+"instar_trending_shopping" = "SHOPPING>";
+"instar_trending_translation" = "SHOW TRANSLATION";
+"instar_trending_original" = "SHOW ORIGINAL";
+"instar_blogger_likes" = "Likes";
+"instar_blogger_follower" = "Followers";
+"instar_blogger_following" = "Following";
+"instar_blogger_not_follow_button" = "+Follow";
+"instar_detail_page" = "Photo";
+"instar_review_title" = "Reviews";
+"instar_related_posts" = "Related Posts";
+"instar_following_page_people" = "People";
+"instar_following_page_hashtags" = "Hashtags";
+"instar_trending_view_more" = "View More";
+"instar_unfollow_title" = "Unfollow";
+"instar_unfollow_info" = "Confirm to unfollow";
+"instar_unfollow_cancel" = "Cancel";
+"instar_unfollow_unfollow" = "Unfollow";
+"instar_collapse" = "Collapse";
+"insrar_object_recognized" = "Object Recognized";
+"instar_posts" = "Posts";
+"instar_kol_not_post" = "hasn't posted anything yet~";
+"instar_own_not_post" = "You hasn't posted anything yet~";
+"instar_following" = "Following";
+"instar_sliding_into" = "Sliding into INSTA";
+"instar_release_into" = "Release into INSTA";
+"instar_bottom" ="You reach the bottom.";
+
+//////////////////////// 购物车 //////////////////////////////
+"fs_full_amount" = "Your order is eligible for FREE SHIPPING!";
+"fs_no_select" = "Free Shipping on order over ";
+"delete_no_select" = "Please select goods";
+"we_accept" = "We Accept";
+"fs_no_full_amount_0" = "Buy";
+"fs_no_full_amount_1" = "more to enjoy FREE SHIPPING!";
+
+//////////////////////// DP //////////////////////////////
+"DP_insta" = "INSTA SIMILARITY";
+"DP_info" = "Description";
+"DP_coupon" = "New User Coupon";
+"DP_selected" = "Select Color, Size";
+"DP_time" = "Estimated arrival time";
+"DP_product_similarity" = "PRODUCT SIMILARITY";
+"DP_to" = "Ship to";
+"DP_you_may_like" = "YOU MAY LIKE";
+"DP_search_price" = "searching latest price";
+
+//////////////////////// 首页 //////////////////////////////
+"home_shopping" = "SHOPPING";
+"home_fashion" = "FASHION";
+"fashion_new_arrival" = "New Arrival";
+"fashion_trending" = "Trending";
+"home_all" = "ALL";
+
+//////////////////////// 搜索结果页 //////////////////////////////
+"search_results_top" = "Top";
+"search_results_new" = "New";
+"search_results_price" = "Price";
+"search_results_filter" = "Filter";
+"search_results_follow" = "+Follow";
+"search_results_following" = "Following";
+
+//////////////////////// 购物车 //////////////////////////////
+"cart_invalid_items" = "Invalid Items";
+"cart_clear_items" = "Clear Invalid Items";
+"cart_message" = "Confirm empty invalid item(s)?";
+"cart_cancel" = "Cancel";
+"cart_delete" = "Delete";
+"cart_1_hour_only" = "1 Hour Only";
+
+//////////////////////// 闪购 //////////////////////////////
+"flash_sale_on_sale_now" = "On Sale Now";
+"flash_sale_coming_soon" = "Coming Soon";
+"flash_sale_sold" = "Sold";
+"flash_sale_shop_now" = "Shop Now";
+"flash_sale_almost_sold_out" = "Almost Sold Out";
+"flash_sale_sold_out" = "Sold Out";
+"flash_sale_starts_in" = "Starts in";
+"flash_sale_end_in" = "End in";
+"flash_sale_remind" = "We will reminder you once it starts.You can check it in your Reminder List.";
+"flash_sale_cancel_remind" = "Cancel Reminder";
+"flash_sale_reminder_list" = "You have no viewed items yet. The earlier you set reminders, the earlier you get good items.";
+"flash_sale_fiery_buying" = "Fiery Buying";
+"flash_sale_coming_remind_me" = "Remind Me";
+"flash_sale_coming_following" = "Following";
+"flash_sale_reminder_list_title" = "Reminder List";
+"flash_sale_reminder_canceled" = "Reminder Canceled";
+"flash_sale_reminder_list_on_going" = "On Going";
+"flash_sale_tomorrow" = "Tomorrow";
+
+//////////////////////// 领券提醒 //////////////////////////////
+"coupon_successful" = "You got the coupon(s)!";
+"coupon_already_received" = "You already got the coupon(s)!";
+"coupon_error" = "Somthing went wrong with the network, please try again";
+
+//////////////////////// DP比价 //////////////////////////////
+"comparison_price_sold_by" = "Sold by";
+"comparison_price_cloudmall" = "on CloudMall";
+
+//////////////////////// 地址 //////////////////////////////
+"address_details" = "Address Details / Landmark (Optional)";
+
+//////////////////////// 降价提醒 //////////////////////////////
+"price_reduction_home1" = "item(s) dropped a total of";
+"price_reduction_home2" = "in your cart,check out now!";
+"price_reduction_home3" = "Got it";
+"price_reduction_dp1" = "Check out now and get";
+"price_reduction_dp2" = "Free Shipping";
+"price_reduction_dp3" = "Check Out";
+"price_reduction_cart1" = "item(s) prices have dropped,";
+"price_reduction_cart2" = "check it out!";
+
+//////////////////////// AE手机号校验 //////////////////////////////
+"phone_check" = "Your Mobile Phone Number should be a 9 digit number which start with 5";
+
+///// 库存相关的翻译 /////
+"stock_dp_only" = "only";
+"stock_dp_stock" = "left in stock - order soon";
+
+//////////////////// item endless页面 ///////////////
+"item_end_less_only" = "only";
+"item_end_less_stock" = "left";
+
+////////////////Filter中价格选择////////////////
+"filter_price" = "Price";
+"filter_price_min" = "Min";
+"filter_price_max" = "Max";
+
+///////////Filter全部标题翻译//////////////
+"filter_brands" = "Brands";
+"filter_categories" = "Categories";
+"filter_colors" = "Colors";
+"filter_countries" = "Countries";
+"filter_interfaces" = "Interface";
+"filter_materials" = "Materials";
+"filter_minorcategories" = "MinorCategories";
+"filter_models" = "Models";
+"filter_sextags" = "Gender";
+"filter_sizes" = "Size";
+
+//////////////////////filter中底部按钮/////////////////////
+"filter_reset" = "Reset";
+"filter_apply" = "Apply";
+
+///////////////支付-MMS商品COD不可付款提示修改/////////
+"cod_not_detail" = "COD is available only when the order is between AED99-AED1799 and doesn't contain non-COD items.";
+
+///////cart-MMS商品COD不可付款提示///////
+"cart_not_cod_message" = "These items do not support COD.";
+
+/////////返利中的首次邀请弹窗////////
+"affiliate_invite_window_first" = "Earning Money";
+"affiliate_invite_window_left" = "CONGRATULATIONS";
+"affiliate_invite_window_between" = "You get";
+"affiliate_invite_window_right" = "cash, invite friends to earn more cash.";
+"affiliate_invite_window_link" = "Your invitation link";
+"affiliate_invite_window_copy" = "Copy";
+"affiliate_invite_window_copy_prompt" = "Copy Succefully";
+"affiliate_invite_window_wallet" = "See my wallet";
+"affiliate_invite_window_invite" = "Invite your friends";
+"affiliate_invite_window_invite_prompt_fb" = "Facebook not found";
+"affiliate_invite_window_invite_prompt_ms" = "Messenge not found";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger not found";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp not found";
+
+/////////返利中的非首次打开弹窗//////////////
+"affiliate_invite_window_not_first_left" = "WALLET:";
+"affiliate_invite_window_not_first_right" = "Successfully invited:";
+"affiliate_invite_window_not_first_last" = "people";
+
+//////////被邀请人登录弹窗/////////
+"affiliate_invitee_pop_window_left" = "invites you to join CloudMall and gives you this exclusive coupon";
+"affiliate_invitee_pop_window_between" = "COUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Coupon Ends In";
+"affiliate_invitee_pop_window_log_fb" = "Sign up with Facebook";
+"affiliate_invitee_pop_window_log_phone" = "Sign up with Phone";
+
+///////////////返利通知消息/////////////////
+"affiliate_noti_friend_accept_left" = "Your friend";
+"affiliate_noti_friend_accept_right" = "accepted your invitation.";
+"affiliate_noti_friend_log_right" = "just logged in.";
+"affiliate_noti_friend_share_right" = "shared a post.";
+"affiliate_noti_friend_share_item" = "shared an item.";
+"affiliate_noti_friend_bought_right" = "just bought";
+"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_withdraw_available_left" = "You have";
+"affiliate_noti_withdraw_available_right" = "available to withdraw.";
+"affiliate_noti_become_friend_left" = "You are now";
+"affiliate_noti_become_friend_right" = "'s friend.";
+"affiliate_noti_got_wallet_left" = "You just received";
+"affiliate_noti_got_wallet_remind" = "Successfully followed. We will remind you once the Flash Sale starts.";
+"affiliate_noti_got_wallet_sale" = "Flash Sale starting now!";
+
+////////////钱包/////////////
+"wallet_sider" = "My Wallet";
+"wallet_person_e_wallet" = "CloudMall E-Wallet";
+"wallet_person_cash" = "Cash";
+"wallet_person_pending" = "Pending";
+"wallet_person_refunded" = "Refunded";
+"wallet_person_withdraw" = "Withdraw";
+"wallet_person_messages" = "Messages";
+"wallet_person_invite" = "Invite";
+"sidebar_wallet" = "My Wallet";
+"wallet_withdraw_error_left" = "Withdraw Error";
+"wallet_withdraw_error_behind" = "Something wrong with the withdrawal?";
+"wallet_withdraw_error_right" = "Please contact CloudMall customer service.";
+"wallet_withdraw_error_end" = "Contact Now";
+
+//////////////////////rule弹窗//////////////////
+"rule_window" = "Know More";
+
+////////////withdraw policy弹窗//////////
+"withdraw_policy_window_left" = "Withdraw Policy";
+"withdraw_policy_window_right" = "Minimum E-Wallet Cash for Withdraw";
+"withdraw_policy_window_end" = "Continue to invite";
+
+/////////////////////DP页面钱包弹窗/////////////////
+"wallet_dp_window_left" = "Cash Back";
+"wallet_dp_window_right" = "Invite friends to get";
+
+///////支付页面钱包/////////
+"submit_order_wallet" = "Wallet";
+"submit_order_available" = "Available";
+"submit_order_not_available" = "Not availale";
+"order_detail_param_cash" = "Wallet";
+
+/////////////////message页面//////////////
+"message_bought_item" = "Reward";

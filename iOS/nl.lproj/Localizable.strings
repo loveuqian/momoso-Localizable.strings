@@ -1,0 +1,1414 @@
+
+"language_resources" = "荷兰语";
+
+////////////////////////////// 全局 _all ///////////// //////////////////////
+
+"pull_to_refresh_title_all" = "Veeg naar beneden om te vernieuwen"; // 购物 车, 首页, 个人 - 订单, 搜索 结果
+"release_to_refresh_title_all" = "Release om te vernieuwen"; // 购物 车, 首页, 个人 - 订单, 搜索 结果
+"refreshing_title_all" = "Bezig met laden"; // 购物 车, 首页, 个人 - 订单, 搜索 结果
+
+////////////////////////////// 首页 _index ///////////// //////////////////////
+
+"index_flash_sale_title" = "Flash-verkoop"; // 首页 - 闪 购 标题
+"index_great_price_title" = "Beste prijs"; // 首页 - 白菜 价
+"index_mini_banner_title" = "Great Value"; // 首页 - 迷你 精选
+"index_great_collection_title" = "Bestverkopers"; // 首页 - 类目 精选
+"index_daily_update_title" = "Aanbevolen voor u"; // 首页 - 海 淘 动态
+
+"index_tabbar_daily_update_title" = "Dagelijkse aanbiedingen"; // 首页 - 分 屏 每日 精选 - 标题
+
+"index_choose_address_title" = "Selecteer een verzendadres"; // 首页 - 选择 收货 地址
+"index_cannot_choose_address_toast" = "Deze regio is momenteel niet beschikbaar"; // 首页 - 选择 新加坡 / 台湾 时 toast 提示
+
+////////////////////////////// 搜索 _Search ///////////// //////////////////////
+
+"hot_catogery_title_search" = "Catalogus"; // 搜索 页面
+"hot_brand_title_search" = "Merken"; // 搜索 页面
+"hot_mall_title_search" = "Winkelcentra"; // 搜索 页面
+"all_brand_btn_searh" = "Meer merken"; // 搜索 页面
+"all_mall_title_search" = "Meer winkelcentra"; // 搜索 页面
+"best_sell_title_search" = "Populaire categorieën"; // 搜索 页面
+
+"all_people_title_search_result" = "Alle mensen"; // 所有 结果 - 筛选 人群
+"all_brand_title_search_result" = "Merken"; // 所有 结果 - 筛选 品牌
+"general_sort_title_search_result" = "Sorteren"; // 所有 结果 - 排序
+"price_high_sort_title_search_result" = "Prijs (van hoog naar laag)"; // 所有 结果 - 排序
+"price_low_sort_title_search_result" = "Prijs (van laag naar hoog)"; // 所有 结果 - 排序
+"discount_sort_title_search_result" = "Beste deals"; // 所有 结果 - 排序
+"sale_sort_title_search_result" = "Meest populair"; // 所有 结果 - 排序
+
+"mall_filter_title_search_result" = "Mall"; // 所有 结果 - 筛选
+"all_mall_filter_title_search_result" = "Alle winkelcentra"; // 所有 结果 - 筛选
+"price_filter_title_search_result" = "Prijs"; // 所有 结果 - 筛选
+"clear_price_filter_title_search_result" = "Wissen"; // 所有 结果 - 筛选
+"close_filter_title_search_result" = "Sluiten"; // 所有 结果 - 筛选
+"reset_filter_title_search_result" = "Reset"; // 所有 结果 - 筛选
+"ok_filter_title_search_result" = "Bevestigen"; // 所有 结果 - 筛选
+
+"search_result_subscribe_btn" = "Abonneren"; // 搜索 结果 - 品牌 - 订阅 按钮
+"search_result_have_subscribed_btn" = "Subscribed"; // 搜索 结果 - 品牌 - 已 订阅 按钮
+
+////////////////////////////// 登录 _signlogin ///////////// //////////////////////
+
+"facebook_login_btn_signlogin" = "Doorgaan met Facebook";
+"email_signup_btn_signlogin" = "Meld je aan met e-mail";
+"login_btn_signlogin" = "Inloggen met e-mail";
+
+"email_title_signlogin" = "E-mail";
+"password_title_signlogin" = "Wachtwoord";
+"forgot_password_btn_signlogin" = "Wachtwoord vergeten?";
+
+"next_btn_signlogin" = "Volgende";
+
+"comfire_password_btn_signlogin" = "Wachtwoord bevestigen";
+"finish_btn_signlogin" = "Voltooien";
+
+"phone_number_validation_title_signlogin" = "Verificatiecode is verzonden";
+"validation_code_title_signlogin" = "Voer verificatiecode in";
+
+"create_password_title_signlogin" = "Maak een wachtwoord"; // 注册 页面
+"new_username_btn_signlogin" = "Gebruikersnaam";
+
+//////////////////////////// 我 _profile ///////////// //////////////////////
+
+"favorite_title_profile" = "Favorieten";
+"advances_address_title_profile_setting" = "Adresboek";
+
+"order_title_profile_order" = "Mijn bestellingen";
+"un_paid_btn_profile_order" = "Niet betaald";
+"processing_btn_profile_order" = "Bezig";
+"received_btn_profile_order" = "Voltooid";
+"all_order_btn_profile_order" = "Bestelgeschiedenis";
+
+"problem_consult_title_profile_setting" = "Klantenservicecentrum";
+"title_consult_title_profile_setting" = "Vul het onderwerp in";
+"title_consult_description_profile_setting" = "Beschrijf het probleem";
+"placeholder_title_consult_description_profile_setting" = "Vertel ons de details over het probleem";
+"order_number_consult_profile_setting" = "Ordernummer";
+"placeholder_order_number_consult_profile_setting" = "Ordernummer met betrekking tot uw query";
+"title_email_consult_profile_setting" = "Email";
+"placeholder_email_consult_profile_setting" = "Voer uw e-mailadres in";
+"title_name_consult_profile_setting" = "Naam";
+"placeholder_title_name_consult_profile_setting" = "Voer uw naam in";
+
+"feedback_title_profile_setting" = "Feedback";
+"bootstitle_profile_setting" = "Beoordeel ons";
+"about_me_title_profile_setting" = "Over ons";
+"sign_out_title_profile_setting" = "Afmelden";
+
+"confirm_clear_cache_title_profile_about" = "Weet u zeker dat u de cache wilt wissen?";
+
+"hint_feedback_title_profile_feedback" = "Voer hier uw feedback in";
+"hint_contact_title_profile_feedback" = "E-mail / telefoonnummer (optioneel)";
+
+"my_profile_title_profile_info" = "Mijn profiel";
+"modify_avatar_btn_profile_info" = "Upload foto";
+"modify_name_btn_profile_info" = "Gebruikersnaam wijzigen";
+"reset_password_btn_profile_info" = "Reset";
+"reset_password_info_title_profile_info" = "Er wordt een verificatiecode naar uw e-mailadres verzonden";
+"reset_password_title_profile_setting" = "Wachtwoord opnieuw instellen";
+
+"warn_sign_out_toast_profile_setting" = "Updates voor uw bestelling worden niet ontvangen na uitloggen.d? ";
+
+"total_pay_title_cart" = "Totaal:";
+"view_detail_btn_dp" = "Orderdetails";
+"view_logistics_btn_profile_order" = "Volgorde order";
+"go_pay_btn_profile_order" = "Betaal";
+"delete_order_btn_profile_order" = "Verwijderen";
+"pay_tax_btn_profile" = "Betaalbelasting";
+
+"share_lucky_money_btn_cart" = "Delen";
+
+"favors_album_title_profile_favors" = "Favoriet";
+"camera_edit_btn_profile_address" = "Bewerken";
+"delete_album_tips_title_profile_favors" = "Bevestig album verwijderen?";
+"delete_album_btn_profile_favors" = "Album verwijderen";
+"no_album_desc_title_profile_favors" = "Geen beschrijving";
+"title_title_profile_favors" = "Titel";
+"description_title_profile_favors" = "Beschrijving";
+"new_album_title_dp" = "Bewerk nieuwe albumtitel";
+
+"address_manage_title_all" = "Beheer Adresboek";
+"add_address_btn_cart" = "Voeg een nieuw adres toe";
+"id_phone_title_profile_cash" = "Telefoonnummer:";
+"detail_address_title_cart" = "Eenheid / verdieping / blok / gebouw / straat";
+
+"change_region_title_profile_setting" = "Wijzig regio"; // 个人 - 设置 页面 - 切换 地区
+"select_region_title_profile_setting" = "Verzenden naar";
+"change_language_title_profile_setting" = "Taal";
+"clear_cache_title_profile_setting" = "Cache wissen"; // 个人 - 设置 页面 缺失
+"setting_title_profile_setting" = "Instellingen"; // 个人 - 设置 页面 头部
+"language_title_profile_setting" = "Taal"; // 个人 - 设置 页面 - 语言 切换
+
+"cancle_send_question_profile_setting" = "Annuleren"; // 个人 - 设置 - 问题 咨询 - 左上角
+"ok_send_question_profile_setting" = "Verzenden"; // 个人 - 设置 - 问题 咨询 - 左上角
+
+"cancle_clear_cache_profile_setting" = "Annuleren"; // 个人 - 设置 - 清除 缓存 弹 窗
+"ok_clear_cache_profile_setting" = "Cache wissen"; // 个人 - 设置 - 清除 缓存 弹 窗
+
+"disclamier_btn_profile_setting" = "Gebruiksvoorwaarden"; // 个人 - 设置 - 关于 我们
+
+"ok_logout_profile_setting" = "Afmelden"; // 个人 - 设置 - 退出 登录
+"cancle_logout_profile_setting" = "Annuleren"; // 个人 - 设置 - 退出 登录
+
+"take_photo_change_avatar_btn_profile" = "Maak een foto"; // 头像 修改 - 弹 窗
+"open_photo__change_avatar_btn_profile" = "Maak een keuze uit de fotobibliotheek"; // 头像 修改 - 弹 窗
+"cancle_change_avatar_btn_profile" = "Annuleren"; // 头像 修改 - 弹 窗 // 专辑 编辑 - 左上角 取消
+
+"ok_change_name_btn_profile" = "Bevestigen"; // 昵称 修改 - 弹 窗
+"cancle_change_name_btn_profile" = "Annuleren"; // 昵称 修改 - 弹 窗
+
+"order_number_title_profile_order" = "Ordernummer"; // 订单 - 订单 详细
+"order_time_title_profile_order" = "Besteldatum"; // 订单 - 订单 详细
+"today_sale_title_profile_order" = "Dagelijkse aanbiedingen"; // 订单 - 物流 详细
+"order_detail_title_profile_order" = "Besteldetails"; // 订单 - 订单 详细 - 标题
+"help_btn_profile_order" = "Hulp nodig?"; // 订单 - 物流 详细 - 漏 了 的
+
+"cancle_btn_profile_favors" = "Annuleren"; // 收藏 - 专辑 编辑
+"save_btn_profile_favors" = "Opslaan"; // 收藏 - 专辑 编辑
+"confirm_delete_album_btn_profile_favors" = "Verwijderen"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
+"cancle_delete_album_btn_profile_favors" = "Annuleren"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
+
+"ok_btn_profile_address" = "Klaar"; // 地址 - 新建 地址 / 编辑 地址 - 右上角
+"regioin_title_profile_address" = "Regio / Staat"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"delete_btn_profile_address" = "Verwijderen"; // 地址 - 左 滑 删除 时
+
+"profile_address_receiver_title" = "Volledige naam:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
+"profile_address_postcode_title" = "Postcode / Postcode:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+
+"profile_favorite_no_album_title" = "andere"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+
+"profile_default_addresss_title" = "Kamer, verdieping, gebouw, straat"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+
+"profile_no_orders_title" = "Miljoenen producten wachten op u"; // 個人 - 訂單 無 訂單 時 顯示 的 內容
+
+////////////////////////////// 购物 车 _cart //////////// ///////////////////////
+
+"cart_icon_all" = "Winkelwagen";
+"hint2_login_title_cart" = "Log in om uw winkelwagen, favorieten en bestelgeschiedenis te bekijken";
+"select_all_btn_cart" = "Selecteer alles";
+"save_price_title_cart" = "Aangeboden aanbieding";
+"checkout_btn_cart" = "Afrekenen";
+"empty_title_cart" = "Uw winkelwagen is leeg";
+"item_viewed_title_cart" = "Recent bekeken items";
+"mall_item_discount_title_dp" = "Aanbieding automatisch toegepast";
+"drop_price_title_cart" = "In de uitverkoop";
+
+"agreed_content_cart1" = "Door deze bestelling in te dienen, accepteer ik Cloudmall's";
+"agreed_content_cart2" = "Privacy & Beveiliging /";
+"agreed_content_cart3" = "Gebruiksvoorwaarden /";
+"agrees_content_cart4" = "Terugkeer- en ruilbeleid";
+"summit_checkout_btn_cart" = "Submit Order";
+"mall_shipping_fee_title_cart" = "verzendingskosten mall";
+"tax_fee_title_cart" = "Belasting";
+"supply_title_cart" = "Geleverd door";
+"select_address_title_cart" = "Selecteer adres";
+
+"confirm_payment_btn_profile_order" = "Betaling verzenden";
+"asap_pay_title_cart" = "Deal eindigt snel";
+"asap_pay_detail_content_cart" = "Prijzen kunnen op elk moment worden gewijzigd, dus plaats uw bestelling nu om de beste deal te krijgen!";
+"choose_payment_title_cart" = "Selecteer betaalmethode";
+"hint_choose_payment_title_cart" = "Selecteer een betalingsmethode";
+"final_price_title_cart" = "Ordertotaal:";
+
+"logistic_message_title_index_message" = "Berichten";
+
+"ok_btn_cart" = "Klaar"; // 购物 车 列表 - 点击 右上角 后
+"edit_btn_cart" = "Bewerken"; // 购物 车 列表 - 右上角 编辑
+"delete_sold_out_btn_cart" = "Verwijder uitverkochte items"; // 购物 车 列表 - 点击 编辑 后
+"delete_selected_btn_cart" = "Verwijderen"; // 购物 车 列表 - 点击 编辑 后
+
+"no_return_title_cart" = "Leverancier ondersteunt geen retouren"; // 购物 车 列表 - 商品 下 说明
+"limited_number_title_cart" = "Beperking van artikelhoeveelheid"; // 购物 车 列表 - 商品 下 说明
+"delete_btn_cart" = "Verwijderen"; // 购物 车 列表 - 左 滑 删除
+"not_qualified_title_cart" = "Aanbieding is niet van toepassing";// 购物 车 列表 - 商城 运费 优惠
+"qualified_title_cart" = "Aangeboden aanbieding"; // 购物 车 列表 - 商城 运费 优惠
+
+"choose_address_title_cart_checkout" = "Kies verzendadres"; // 提交 订单 - 地址 栏
+"close_btn_cart_checkout" = "Sluiten"; // 点击 渠道 后 - 左上角 关闭
+
+"order_submit_title_cart_checkout" = "Verwerking, bevestiging zal binnen 48 uur naar u worden verzonden"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_sub_title_cart_checkout" = "Als uw bestelling niet kan worden voltooid, zullen wij u via e-mail informeren en een terugbetaling verwerken"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+
+"cart_benefit_title" = "Toegepaste korting"; // 购物 车 - 总价 下 的 小字, 缺 了 已 优惠
+
+"cart_checkout_logistic_self_title" = "Selecteer afhaallocatie"; // 购物 车 - 顺丰 自 提 - 弹 窗
+
+"cart_checkout_order_description_title0" = "Totaal:"; // 购物 车 - 提交 订单 - 选择 支付 方式
+"cart_checkout_order_description_title1" = "(valuta wordt automatisch geconverteerd)"; // 购物 车 - 提交 订单 - 选择 支付 方式
+
+"cart_checkout_logistic_self_desc_title" = "Telefoonnummer"; // 购物 车 - 顺丰 自 提 - 字体 说明
+"cart_checkout_logistic_door_desc_title" = "HK $ 30 wordt in rekening gebracht bij aflevering aan niet-zakelijke adressen"; // 购物 车 - 顺丰 自 提 - 字体 说明
+
+////////////////////////////// 商品 详细 _detail //////////// ///////////////////////
+
+"add_cart_btn_dp" = "Toevoegen aan winkelwagen";
+"favourite_icon_all" = "Favoriet";
+"add_to_album_title_dp" = "Toevoegen aan album";
+
+"just_sold_title_dp" = "Net verkocht";
+"subscribe_btn_search" = "Abonneren";
+"subscribed_btn_search" = "Abonnement";
+"translate_btn_dp" = "Vertalen";
+"translate_title_dp" = "Productbeschrijving";
+
+"open_facebook_share_btn_dp" = "'Cloudmall' wil 'Facebook' openen"; // 商品 详细 - 点击 分享 弹 窗
+"cancle_open_facebook_share_btn_dp" = "Annuleren"; // 商品 详细 - 点击 分享 弹 窗
+"ok_open_facebook_share_btn_dp" = "Openen"; // 商品 详细 - 点击 分享 弹 窗
+
+"service_description_title_dp" = "Details"; // 商品 详细 - 点击 包 税, 超值 等
+"great_deal_title_dp" = "Goede waarde"; // 商品 详细 - 超值
+"great_sale_title_dp" = "Speciale aanbieding"; // 商品 详细 - 优惠
+
+"brand_title_dp" = "Merk"; // 商品 详细 页 下
+"item_description_title_dp" = "Productbeschrijving"; // 商品 详细 下 - 商品 概述
+"more_item_title_dp" = "Andere producten die u misschien leuk vindt"; // 商品 详细 - 最底部 商品 推荐
+"supplier_btn_dp" = "Verkoper"; // 商品 详细 -tabbar 上
+
+"new_album_btn_dp" = "Nieuw album"; // 商品 详细 - 点击 收藏 - 新建
+
+"have_select_desc_title_dp" = "Geselecteerd"; // 商品 详细 - 点击 加入 购物 车
+"warn_addcart_title_dp" = "Houd er rekening mee dat bovenstaande informatie (kleur, grootte, enz.) alle door onze leveranciers wordt verstrekt en alleen ter referentie is.";
+"quantity_addcart_title_dp" = "Aantal"; // 商品 详细 - 点击 加入 购物 车
+"ok_addcart_btn_dp" = "OK"; // 商品 详细 - 加入 购物 车
+
+"dp_about_mall_sale_title" = "Details aanbieding"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title1_title" = "Korting wordt verleend door leverancier"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content1_title" = "Korting door leverancier wordt automatisch toegepast. CloudMall is niet verantwoordelijk voor wijzigingen in deze aanbieding"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title2_title" = "Korting wordt automatisch toegepast"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content2_title" = "Korting wordt automatisch toegepast, geen coupons nodig"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title3_title" = "Speciale aanbieding vervallen"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content3_title" = "Spaartijd is beperkt en aanbieding is verlopen"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title4_title" = "Aanbieding succesvol toegepast"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content4_title" = "Couponcode is toegepast"; // 商品 详细 - 关于 商城 优惠 活动
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2 // versie 0.2
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////////// 首页 _index ///////////// //////////////////////
+
+"index_main_realtime_discout" = "Korting"; // 首页 - 热门 - 实时 折扣
+"index_main_time_limited_discout" = "Flash-verkoop"; // 首页 - 热门 - 限时 闪 购
+"index_main_hot_mall" = "Hot Sales"; // 首页 - 热门 - 热门 市场
+"index_main_hot_mall_more" = "Meer"; // 首页 - 热门 - 热门 市场 - 更多 商铺
+"index_main_hot_mall_view" = "Meer"; // 首页 - 热门 - 热门 市场 - 进入 商铺
+
+"index_main_lightlux" = "Trending"; // 首页 - 热门 - 类目 精选 - 轻 奢
+"index_main_bigbrand" = "Grote merken"; // 首页 - 热门 - 类目 精选 - 大牌
+"index_main_casual" = "Casual"; // 首页 - 热门 - 类目 精选 - 休闲 生活
+"index_main_beauty" = "Schoonheid"; // 首页 - 热门 - 类目 精选 - 美 妆 护肤
+"index_main_sportwear" = "Sportkleding"; // 首页 - 热门 - 类目 精选 - 户外 运动
+"index_main_men" = "Mannen"; // 首页 - 热门 - 类目 精选 - 睿智 男士
+
+"index_sub_dailyupdate" = "Dagelijkse update"; // 首页 - 分 屏 - 每日 精选
+"index_sub_youmaylike" = "Misschien vind je dit ook leuk"; // 首页 - 分 屏 - 每日 精选
+
+////////////////////////////// 商品 详细 _detail //////////// ///////////////////////
+
+"dp_mall_high_grade_mall" = "Bestseller"; // 商品 - 商城 - 优质 商家
+"dp_mall_all_product" = "Producten"; // 商品 - 商城 - 全部 商品
+"dp_mall_total_sale" = "Items verkocht"; // 商品 - 商城 - 总 销量
+"dp_mall_runs_years" = "Jaren"; // 商品 - 商城 - 优质 商家
+
+"dp_flash_sale" = "Sale eindigt binnen"; // 商品 - 限时 闪 购 - 倒计时
+"dp_favorite_new_abulm" = "Toevoegen"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_cancel" = "Annuleren"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_confirm" = "Bevestigen"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_toast_success" = "Item is toegevoegd aan uw album"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_unfav_success" = "Verwijderen uit het album met succes"; // 商品 - 收藏 - 新建 专辑
+"dp_soldout" = "Uitverkocht"; // 商品 - 售 光 了 - 找 相似
+"dp_description" = "Over het artikel"; // 商品 - 收藏 - 新建 专辑
+
+"dp_add_cart_success_toast" = "Toegevoegd aan winkelwagen"; // 商品 - 成功 加入 购物 车 -toast
+
+////////////////////////////// 搜索 _Search ///////////// //////////////////////
+
+"search_result_temp_title" = "Zoekresultaten"; // 搜索 - 搜索 结果 - 主 标题
+
+"search_history_result" = "Geschiedenis"; // 搜索 - 历史 搜索
+"search_history_result_cancel" = "Annuleren"; // 搜索 - 历史 搜索 - 取消
+"search_hot_result" = "Trending"; // 搜索 - 搜索 结果 - 热门 搜索
+"search_all_brand" = "Alle merken"; // 搜索 - 所有 品牌
+"search_brand_list" = "Merklijst"; // 搜索 - 品牌 列表
+"search_result_filter_clear" = "Wissen"; // 搜索 - 品牌 列表
+
+"search_history_result_clear_popup_title" = "Zoekgeschiedenis wissen"; // 搜索 - 清空 历史 记录 - 标题
+"search_history_result_clear_popup_content" = "Weet u zeker dat u uw zoekgeschiedenis wilt wissen?"; // 搜索 - 清空 历史 记录 - 内容
+"search_history_result_clear_popup_cancle" = "Annuleren"; // 搜索 - 清空 历史 记录 - 取消
+"search_history_result_clear_popup_confirm" = "Bevestig"; // 搜索 - 清空 历史 记录 - 确定
+
+////////////////////////////// 购物 车 _cart //////////// ///////////////////////
+
+"cart_checkout_credit_card" = "Credit / Debit Card"; // 购物 车 - 确认 支付 - 信用卡 标题
+"cart_checkout_total_bill" = "Total"; // 购物 车 - 确认 支付 - 确认 标题 前
+
+"cart_checkout_credit_card_title" = "Credit / Debit Card"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_change_credit_card" = "Wijzig kaart"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 换 一张 卡
+"cart_checkout_new_credit_card" = "Nieuwe kaart toevoegen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 新建 信用卡
+"cart_checkout_credit_card_toast" = "Voeg eerst een nieuwe kaart toe"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 未 绑定 信用卡
+"cart_checkout_credit_card_cancel" = "Annuleren"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 取消
+"cart_checkout_credit_card_pay" = "Betaal"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 付款
+"cart_checkout_credit_card_confirm" = "Bevestigen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 增加 新 加 -cvv- 确定
+
+"cart_checkout_card_holdername_title" = "Naam"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 持卡人 姓名
+"cart_checkout_card_holdername_default" = "Kaarthoudernaam"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_card_number_title" = "Kaartnummer"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_card_number_default" = "Voer kaartnummer in"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_valid_date_title" = "Vervaldatum"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 有效期
+"cart_checkout_valid_date_default" = "MM / YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
+"cart_checkout_safe_code_title" = "CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_safe_code_default" = "Voer CVV in"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_about_safety" = "Uw betaling voor deze aankoop wordt veilig verwerkt door een externe betalingsverwerker CloudMall slaat uw creditcardgegevens niet op."; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 承诺
+"cart_checkout_comfirm" = "Bevestigen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 完成 按钮
+
+"cart_checkout_card_holdername_toast" = "Naam kaarthouder is ongeldig Gebruik alleen alfanumerieke tekens [A-z]"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 姓名 不 为 英文 时
+"cart_checkout_card_number_toast" = "Het ingevoerde kaartnummer is ongeldig Controleer nogmaals uw kaartnummer"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 填写 规则 / 长度 不对
+"cart_checkout_card_number_toast2" = "Kaarttype wordt niet ondersteund. Probeer een andere kaart te gebruiken"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+"cart_checkout_valid_date_toast" = "De vervaldatum van de kaart is ongeldig. Controleer de vervaldatum van uw kaart nogmaals"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+"cart_checkout_safe_code_toast" = "CVV is ongeldig Controleer nogmaals het nummer dat u hebt ingevoerd"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+
+"cart_edit_done" = "Bevestigen"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_no_goods" = "Verwijder uitverkochte items"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_item" = "Verwijderen"; // 购物 车 - 编辑 - 完成
+"cart_checkout_all_item" = "X item (s)"; // 购物 车 - 结算 - 共 X 件 商品
+"cart_checkout_sum_price" = "Totaal:"; // 购物 车 - 编辑 - 完成
+
+"cart_checkout_cancel_payment_popup_title" = "Onbetaalde bestelling"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_content" = "Betaal binnen 24 uur"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_confirm" = "Bevestig"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+
+"cart_checkout_card_date_jan" = "01-JAN"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 一月
+"cart_checkout_card_date_feb" = "02-FEB"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 二月
+"cart_checkout_card_date_mar" = "03-MAR"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 三月
+"cart_checkout_card_date_apr" = "04-APR"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 四月
+"cart_checkout_card_date_may" = "05-MEI"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 五月
+"cart_checkout_card_date_jun" = "06-JAN"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 六月
+"cart_checkout_card_date_jul" = "07-JUL"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 七月
+"cart_checkout_card_date_aug" = "08-AUG"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 八月
+"cart_checkout_card_date_sep" = "09-SEP"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 九月
+"cart_checkout_card_date_oct" = "10-OCT"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十月
+"cart_checkout_card_date_nov" = "11-NOV"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十一月
+"cart_checkout_card_date_dec" = "12-DEC"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十二月
+
+"cart_not_login_btn" = "Inloggen"; // 购物 车 - 未登录 - 登录 按钮
+"cart_checkout_card_cancel" = "Annuleren"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_card_pay" = "Aankoop"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_card_popup_title" = "Fout"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_content" = "Er is een fout opgetreden bij uw betaling. Controleer of de kaartgegevens die u hebt ingevoerd correct waren of probeer te betalen met een andere kaart."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_cancel" = "Later"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_tryagain "=" Probeer opnieuw "; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_pay_total" = "Aankoop"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_bill_total" = "Factuur totaal"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_pay_success_title" = "Succes"; // 购物 车 - 选择 支付 - 支付 成功
+
+////////////////////////////// 个人 -Proilfe ///////////// //////////////////////
+
+"profile_setting_customer_service_cancel" = "Annuleren"; // 个人 - 客服 - 取消
+"profile_setting_customer_service_confirm" = "Bevestig"; // 个人 - 客服 - 提交
+"profile_setting_clearcache_clearing" = "Cache opheffen ..."; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_cancel" = "Annuleren"; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_confirm" = "Bevestig"; // 个人 - 清除 缓存 - 清除
+"profile_setting_feedback_cancel" = "Annuleren"; // 个人 - 反馈 - 取消
+"profile_setting_feedback_confirm" = "Verzenden"; // 个人 - 反馈 - 发送
+"profile_setting_signout_cancel" = "Annuleren"; // 个人 - 退出 登录 - 取消
+"profile_setting_signout_title" = "Tips"; // 个人 - 退出 登录 - 取消
+
+"profile_change_photo_cancel" = "Annuleren"; // 个人 - 清除 缓存 - 取消
+
+"profile_favorite_edit_cancel" = "Annuleren"; // 个人 - 编辑 专辑 - 取消
+"profile_favorite_edit_save" = "Opslaan"; // 个人 - 编辑 专辑 - 保存
+"profile_favorite_edit_title" = "Album bewerken"; // 个人 - 编辑 专辑 - 标题 - 专辑 编辑
+
+"profile_address_edit_confirm" = "Bevestig"; // 个人 - 地址 编辑 - 完成
+
+"profile_setting_termsofuse" = "Gebruiksvoorwaarden"; // 个人 - 设置 - 协议 条款 与 条件
+"profile_setting_rateapp" = "Rate CloudMall"; // 个人 - 设置 - 给 个 评价
+
+"profile_change_name_cancel" = "Annuleren"; // 个人 - 更改 名字 - 取消
+"profile_address_hongkong" = "Hong Kong"; // 香港
+"profile_address_singapore" = "Singapore"; // 新加坡
+"profile_address_taiwan" = "Taiwan"; // 台湾
+"profile_address_vietnam" = "Vietnam"; // 越南
+"profile_address_indonesia" = "Indonesië"; // 印度尼西亚
+"profile_setting_clearcache_success" = "Cache is succesvol gewist"; // 个人 - 清除 缓存 - 清除
+"profile_order_logistic_title" = "Volgorde van bestellingen"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_order_logistic_package" = "Pakket"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_address_region_title" = "Selecteer regio"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_address_empty_toast" = "Gelieve het formulier in te vullen"; // 个人 - 地址 - 空 提醒
+
+// voor het gebruik van Android 新增 ///////////////// /////////////////////////
+
+"Loading_title_profile" = "Laden ...";
+"Meer" = "More";
+"no_entries_in_cart_detail" = "Ga en ontdek meer items!";
+"press_again_exit_toast_all" = "Klik opnieuw en sluit af";
+"write_need" = "Voer essentiële informatie in";
+
+"adyen_expired_year_toast_1" = "Verloopdatum creditcard:";
+"adyen_expired_year_toast_2" = "De vervaldatum van de creditcard is 4 cijfers";
+"cart_year_expire_toast" = "Formaat van de vervaldatum is verkeerd";
+"cart_year_expire_write_toast" = "Vul de verloopdatum van de kaart in";
+"new_sort_title_search_result" = "Nieuw naar oud";
+"no_delivery_supported" = "Levering wordt niet ondersteund";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 0.2.5 // versie 0.2.5 // versie 0.2.5 // versie 0.2.5 // versie 0.2.5 // versie 0.2.5 // versie 0.2.5 // versie 0.2.5
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////////// 首页 _index ///////////// //////////////////////
+
+"index_board_highlight" = "Aanbevolen items"; // 首页 - 二级 页面 -boord 标题
+"index_bannerlist_highlight" = "Aanbevolen lijst"; // 首页 - 二级 页面 -boord 标题
+"index_pagingbanner_highlight" = "Aanbevolen lijst"; // 首页 - 二级 页面 -boord 标题
+"index_hotshop_highlight" = "Aanbevolen lijst"; // 首页 - 二级 页面 -boord 标题
+
+//////////////////////////// 搜索 _Search /////////////// /////////////////////
+
+"search_input_defualt" = "Wereldwijd gratis verzending"; // 首页 - 二级 页面 -boord 标题
+
+/////////////////////////// 个人 -profile //////////////// /////////////////////
+
+"profile_address_input_default" = "Vul in"; // 个人 - 地址 - 输入 框
+"profile_address_select_default" = "Selecteer"; // 个人 - 地址 - 下拉 框
+"profile_address_province" = "Provincie / Staat:"; // 个人 - 地址 - 省 州
+"profile_address_city" = "Stad / Gemeente:"; // 个人 - 地址 - 城市
+"profile_address_district" = "District:"; // 个人 - 地址 - 下拉 框
+"profile_address_detail" = "Appartement, gebouw ... (optioneel)"; // 个人 - 地址 - 详细 地址
+
+"profile_address_us" = "Verenigde Staten";
+"profile_address_uk" = "Verenigd Koninkrijk";
+"profile_address_ca" = "Canada";
+"profile_address_de" = "Deutschland";
+"profile_address_au" = "Australië";
+"profile_address_nz" = "Nieuw-Zeeland";
+"profile_address_fr" = "Frankrijk";
+"profile_address_it" = "Italië";
+"profile_address_es" = "España";
+"profile_address_ru" = "Россия";
+"profile_address_mx" = "Mexico";
+"profile_address_nl" = "Nederland";
+"profile_address_no" = "Noorwegen";
+"profile_address_dk" = "Denemarken";
+"profile_address_se" = "Zweden";
+"profile_address_ch" = "Zwitserland";
+"profile_address_pl" = "Polen";
+"profile_address_be" = "België";
+"profile_address_ie" = "Ierland";
+"profile_address_fi" = "Finland";
+"profile_address_pt" = "Portugal";
+"profile_address_ph" = "Filippijnen";
+"profile_address_my" = "Maleisië";
+"profile_address_jp" = "Japan";
+"profile_address_kr" = "Korea";
+"profile_address_ua" = "Oekraïne";
+"profile_address_in" = "India";
+"profile_address_ae" = "Verenigde Arabische Emiraten";
+"profile_address_sa" = "Saoedi-Arabië";
+"profile_address_qa" = "Qatar";
+"profile_address_kw" = "Koeweit";
+"profile_address_tr "=" Turkije ";
+"profile_address_il" = "Israël";
+"profile_address_th" = "Thailand";
+"profile_address_at" = "Oostenrijk";
+"profile_address_cz" = "Tsjechisch";
+"profile_address_za" = "Zuid-Afrika";
+
+"profile_order_package_number" = "Pakketnummer"; // 个人 - 物流 详细
+
+"profile_setting_feedback_null_toast" = "Voer alle informatie in"; // 个人 - 物流 详细
+"profile_setting_feedback_null_mail_toast" = "Voer het e-mailadres correct in"; // 个人 - 物流 详细
+"address_hint_postcode_not_null" = "Voer e-mailadres in";
+"choose_logistic" = "Selecteer de verzendmethode";
+"confirm_delete_order_title_profile_order" = "Weet u zeker dat u de bestelling wilt verwijderen?";
+"confirm_valid_hint" = "Wachtwoorden zijn niet consistent";
+"pay_lack_param" = "Noodzakelijke gegevens ontbreken";
+"please_select_address" = "Selecteer het adres";
+"success_hide_order_profile_order" = "Met succes verwijderd";
+"network_connect_error" = "Netwerkfout";
+"network_error" = "Time-out netwerkverbinding";
+
+//////////////////////////// 商品 详细 -detail //////////////// ////////////////
+
+"dp_select_null_toast" = "Kies alstublieft"; // 个人 - 地址 - 详细 地址
+
+//////////////////////////// 购物 车 -cart //////////////// ////////////////
+
+"cart_soldout_toast" = "Sommige items uitverkocht"; // 个人 - 地址 - 详细 地址
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 0.3.0 // versie 0.3.0 // versie 0.3.0 // versie 0.3.0 // versie 0.3.0 // versie 0.3.0 // versie 0.3.0 // versie 0.3.0 // ver
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 首页 -index /////////////////// //////////////
+
+"index_got_coupon_toast" = "Gefeliciteerd! U hebt een kortingsbon"; // 搜索 - 筛选 - 来源
+"index_wrong_region_toast" = "De kortingsbonnen zijn niet beschikbaar in de huidige regio"; // 搜索 - 筛选 - 来源
+"index_condition_not_meet_toast" = "U kunt de kortingsbon niet nemen"; // 搜索 - 筛选 - 来源
+"index_number_limit_toast" = "U hebt meer dan eens een coupon"; // 搜索 - 筛选 - 来源
+"index_timeout_toast" = "De kortingsbon is niet beschikbaar"; // 搜索 - 筛选 - 来源
+
+////////////////////////// 搜索 -Zoeken /////////////////// //////////////
+
+"search_filter_source" = "Verkopers"; // 搜索 - 筛选 - 来源
+"search_filter_brand" = "Merken"; // 搜索 - 筛选 - 品牌
+"search_filter_category" = "Categorie"; // 搜索 - 筛选 - 类目
+"search_filter_crowd" = "Consument"; // 搜索 - 筛选 - 人群
+"search_filter_more" = "Meer"; // 搜索 - 筛选 - 全部
+"search_filter_reset" = "Reset"; // 搜索 - 筛选 - 全部
+"search_filter_apply" = "Toepassen"; // 搜索 - 筛选 - 全部
+"search_sort_popular" = "Populair"; // 搜索 - 筛选 - 全部
+"search_sort_topsale" = "Topverkopers"; // 搜索 - 筛选 - 全部
+"search_sort_price" = "Prijs"; // 搜索 - 筛选 - 全部
+
+"search_list_supply_by" = "Geleverd door"; // 搜索 - 筛选 - 全部
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_coupon_title" = "Coupons";
+"profile_coupon_only_country" = "Alleen in";
+"profile_coupon_condition_over" = "Kopen";
+"profile_coupon_condition_get" = "en krijg een";
+"profile_coupon_valid_period" = "Geldige periode";
+"profile_coupon_specific" = "Specifiek winkelcentrum of merk";
+"profile_coupon_null" = "Geen kortingsbonnen nu";
+"profile_coupon_available" = "Beschikbaar";
+"profile_coupon_unavailable" = "Niet beschikbaar";
+
+////////////////////////// 购物 车 -cart ////////////////// ///////////////
+
+"cart_coupon_available" = "Beschikbaar"; // 支付 是 提示 有 没 可用
+"cart_coupon_unavailable" = "Niet beschikbaar"; // 支付 时 提示 有 没 可用
+
+////////////////////////// 商品 详细 页 -DP ///////////////// ////////////////
+
+"dp_shipment_title" = "Schepen van"; // 支付 是 提示 有 没 可用
+"dp_shipment_to_title" = "naar"; // 支付 时 提示 有 没 可用
+"dp_receive_title" = "Geleverd in"; // 支付 时 提示 有 没 可用
+"dp_receive_days_title" = "days"; // 支付 时 提示 有 没 可用
+"dp_shipment_notsupport_title" = "Levering niet ondersteund"; // 支付 是 提示 有 没 可用
+"dp_shipment_notsupport_description" = "Item kan niet worden afgeleverd in de huidige regio"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"index_comment_main_title" = "Reactie"; // 支付 是 提示 有 没 可用
+"index_comment_sub_title" = "Vind ons leuk en reageer"; // 支付 是 提示 有 没 可用
+"index_bad_feedback_btn" = "Feedback"; // 支付 是 提示 有 没 可用
+"index_good_feedback_btn" = "Vind ons leuk!"; // 支付 是 提示 有 没 可用
+"index_timeout_title" = "Time-out"; // 支付 是 提示 有 没 可用
+"index_pending_title" = "Niet gestart"; // 支付 是 提示 有 没 可用
+"index_timeout2_title" = "Time-out promotie"; // 支付 是 提示 有 没 可用
+"index_pending2_title" = "Promotie niet gestart"; // 支付 是 提示 有 没 可用
+
+"index_region_null" = "Selecteer regio en taal"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 商品 详细 -Detailpagina ///////////////// ////////////////
+
+"dp_total_sale_title" = "Totaal verkocht"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0 // versie 1.1.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"index_minutes_ago" = "minuten geleden"; // 支付 是 提示 有 没 可用
+"index_hours_ago" = "hours ago"; // 支付 是 提示 有 没 可用
+"index_days_ago" = "dagen geleden"; // 支付 是 提示 有 没 可用
+"index_weeks_ago" = "weken geleden"; // 支付 是 提示 有 没 可用
+"index_months_ago" = "maand geleden"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 商品 详细 -Detailpagina ///////////////// ////////////////
+
+"search_current_filter" = "Filter"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.2.0 // versie 1.2.0 // versie 1.2.0 // versie 1.2.0 // versie 1.2.0 // versie 1.2.0 // versie 1.2.0 // versie 1.2.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 商品 详细 -Detailpagina ///////////////// ////////////////
+
+"search_no_result" = "Sorry, we kunnen de resultaten niet vinden"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.3.0 // versie 1.3.0 // versie 1.3.0 // versie 1.3.0 // versie 1.3.0 // versie 1.3.0 // versie 1.3.0 // versie 1.3.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 搜索 -archive /////////////////// //////////////
+
+"search_ai_search" = "AI Search"; // 支付 是 提示 有 没 可用
+"search_ai_found" = "vergelijkbare items"; // 支付 是 提示 有 没 可用
+"search_ai_explore" = "Vergelijkbare items"; // 支付 是 提示 有 没 可用
+"search_ai_not_found" = "Geen vergelijkbare items"; // 支付 是 提示 有 没 可用
+"search_ai_description" = "Nu kunt u vergelijkbare items vinden met AI-zoeken"; // 支付 是 提示 有 没 可用
+"search_ai_description_confirm" = "Got it"; // 支付 是 提示 有 没 可用
+
+"search_ai_finding" = "AI-zoekactie is nu bezig"; // 支付 是 提示 有 没 可用
+"search_ai_find_nothing" = "Sorry, geen vergelijkbare items"; // 支付 是 提示 有 没 可用
+"search_ai_similarity" = "Overeenkomsten:"; // 支付 是 提示 有 没 可用
+
+"search_sort_discount" = "Korting"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 详细 -DP /////////////////// //////////////
+
+"dp_ai_found" = "vergelijkbare items"; // 支付 是 提示 有 没 可用
+"dp_ai_explore" = "Meer vergelijkbare items verkennen"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing" = "Geen vergelijkbare items"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing_toast" = "Sorry, geen vergelijkbare items"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 个人 -Profile /////////////////// //////////////
+
+"profile_favorite_ablum_nothing" = "Niets in album"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"index_tab_all" = "Alle"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.4.0 // versie 1.4.0 // versie 1.4.0 // versie 1.4.0 // versie 1.4.0 // versie 1.4.0 // versie 1.4.0 // versie 1.4.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 购物 车 -cart ////////////////// ///////////////
+
+"cart_purchase_add_card" = "Gebruik nieuwe creditcard / betaalpas"; // 支付 是 提示 有 没 可用
+"cart_purchase_choose_card" = "Kies uit mijn kaartlijst"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_title" = "Verwijder creditcard"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_content" = "Weet u zeker dat u deze kaart wilt verwijderen?"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card" = "Verwijderen"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_cards_tips" = "Veeg om de creditcard / betaalkaart te verwijderen"; // 支付 是 提示 有 没 可用
+"profile_cards_null" = "Er zijn geen creditcards / betaalpassen gekoppeld aan uw account"; // 支付 是 提示 有 没 可用
+
+////////////////////////// 详细 页 -DP ////////////////// ///////////////
+
+"dp_message_title" = "Kennisgeving";
+
+"dp_follow_btn" = "Volgen";
+"dp_following_btn" = "Volgen";
+"dp_brand_title" = "Merk";
+"dp_brand_shai_title" = "Merk weergegeven";
+"dp_soldby_title" = "Geleverd door";
+"dp_mall_followers" = "Volgers";
+"dp_mall_items" = "Items";
+"dp_mall_rate" = "Rate";
+"dp_mall_sold" = "Verkocht";
+"dp_mall_location" = "Regio";
+"dp_mall_type" = "Type";
+"dp_mall_type_general" = "Algemene leverancier";
+"dp_mall_type_brand" = "Merkleverancier";
+
+"dp_desc_title" = "Detail";
+
+"dp_you_may_like" = "You May like";
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_address_incomplete" = "Het adres is onvolledig";
+
+////////////////////////// 首页 -index /////////////////// //////////////
+
+"index_topic_all" = "Alle items";
+"index_topic_title" = "Onderwerpen uitgelicht";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.4.5 // versie 1.4.5 // versie 1.4.5 // versie 1.4.5 // versie 1.4.5 // versie 1.4.5 // versie 1.4.5 // versie 1.4.5
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 登陆 -login // voor wat betreft, of
+
+"login_alert1_title" = "Door lid te worden, ga je akkoord met onze";
+"login_alert2_title" = "Voorwaarden";
+"login_alert3_title" = "&";
+"login_alert4_title" = "Privacybeleid.";
+"login_alert5_title" = "Plus, ontvang orderupdates, verkoopwaarschuwingen en meer in uw inbox.";
+
+"login_email_validation" = "We hebben u een e-mail gestuurd over het opnieuw instellen van uw wachtwoord. Controleer uw e-mailadres en stel uw wachtwoord opnieuw in";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.50 // versie 1.50 // versie 1.50 // versie 1.50 // versie 1.50 // versie 1.50 // versie 1.50 // versie 1.50 // versie 1.50
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 全局 -all /////////////////// //////////////
+
+"all_no_more_items" = "- geen items meer -";
+
+////////////////////////// 搜索 -archive /////////////////// //////////////
+
+"search_clearhistory_title" = "Weet u zeker dat u de zoekgeschiedenis wilt wissen";
+"search_clearhistory_cancel_title" = "Annuleren";
+"search_clearhistory_sure_title" = "Ja, ik weet het zeker";
+
+////////////////////////// 详细 页 -dp ////////////////// ///////////////
+
+"dp_mall_title" = "AI Prijsvergelijking";
+"dp_sizeguide_title" = "Matentabel";
+"dp_mall_nofulfilment_title" = "Sorry, we ondersteunen de uitvoering momenteel niet, u kunt deze op zijn website zoeken.";
+"dp_size_description" = "We raden u aan de juiste maat te kiezen volgens het meegeleverde maattabel. Let op: productinformatie (kleur, maat, etc.) wordt geleverd door onze leveranciers en dient alleen ter referentie.";
+"dp_mall_location_taobao" = "Hongkong";
+
+"dp_outorder_title" = "Niet in de juiste volgorde";
+"dp_processingtime_title" = "Verwerkingstijd";
+"dp_processingtime_subtitle" = "Het artikel wordt binnen 3-5 werkdagen verzonden.";
+"dp_addcart_fail_toast" = "Toevoegen aan winkelwagen mislukt";
+
+"profile_album_need_title" = "Voer titel in";
+
+////////////////////////// 購物 車 -cart ////////////////// ///////////////
+
+"cart_shipment_title" = "Verzending:";
+"cart_shipment_days_title" = "werkdagen";
+"cart_remove_items" = "Verwijderen";
+"cart_remove_items_success" = "Succes";
+"cart_remove_items_fail" = "Probeer opnieuw";
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_no_content" = "Gelieve het formulier in te vullen";
+"profile_help_title" = "Help";
+"profile_submitsuccess_toast" = "Verstuur succesvol";
+"profile_address_submitsuccess_toast" = "Toegevoegd succesvol";
+"profile_bill_fail_toast" = "Het laden van de factuur mislukt, probeer het later opnieuw";
+"profile_bill_confirm" = "Confrim";
+
+////////////////////////// 登陆 -login /////////////////// //////////////
+
+"login_wrong_password" = "Wachtwoord is inconsistent";
+"login_short_password" = "Wachtwoord moet meer dan 6 tekens bevatten";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// version 1.6 // version 1.6 // version 1.6 // version 1.6 // version 1.6 // version 1.6 // version 1.6 // version 1.6 // version 1.6 // version 1.6
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_address_success_toast" = "Succes";
+
+////////////////////////// 购物 车 -cart ////////////////// ///////////////
+
+"cart_use_coupon" = "Gebruik kortingsbonnen";
+"checkout_sure_popup_title" = "Weet u zeker dat u deze betaling wilt annuleren?";
+"checkout_sure_popup_yes" = "Bevestigen";
+"checkout_sure_popup_no" = "Annuleren";
+"coupon_tip_buy" = "Kopen";
+"coupon_tip_more_save" = "meer, opslaan";
+"coupon_tip_max" = "Bestelling plaatsen en opslaan";
+"coupon_tip_buy_lower" = "kopen";
+"coupon_tip_nil" = "Coupon toepassen in de volgende stap.";
+
+////////////////////////// 商品 详细 -DP ////////////////// ///////////////
+
+"dp_discount_notice_title" = "Korting";
+"dp_favorite_add_toast" = "Toegevoegd aan uw favoriet";
+"dp_favorite_remove_toast" = "Verwijderd uit uw favoriet";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65 // versie 1.65
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_switch_address&language_confirm" = "DONE";
+
+////////////////////////// 购物 车 -cart ////////////////// ///////////////
+
+"cart_shipping_recommend" = "HOT";
+
+////////////////////////// 商品 详细 -dp ////////////////// ///////////////
+
+"dp_desctiption_more" = "Meer";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68 // versie 1.68
+/////////////////////////////////////////////////////// ////////////////////////////////////////////////// ///////////////////
+
+////////////////////////// 商品 详细 -DP ////////////////// ///////////////
+
+"dp_less" = "Minder";
+
+////////////////////////// 个人 -profile /////////////////// //////////////
+
+"profile_order_confirmation_button" = "Bevestig pakket ontvangen";
+"profile_order_confirmation_popup_title" = "Bevestig pakket ontvangen";
+"profile_order_confirmation_popup_content" = "Als u het pakket hebt ontvangen, druk dan op' Bevestigen '";
+"profile_order_confirmation_popup_cancel" = "Annuleren";
+"profile_order_confirmation_popup_confirm" = "Bevestig";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00 // versie 2.00
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 个人 侧 栏 -Sidebar ///////////////// ////////////////
+
+"sidebar_order_unpaid" = "Niet betaald";
+"sidebar_order_processing" = "Verwerking";
+"sidebar_order_all" = "Alle bestellingen";
+"sidebar_message" = "Berichten";
+"sidebar_category" = "Alle categorieën";
+"sidebar_favorite" = "Favorieten";
+"sidebar_creditcard" = "Creditcards";
+"sidebar_address" = "Adresboek";
+"sidebar_setting" = "Instellingen";
+"sidebar_faq" = "Veelgestelde vragen";
+"sidebar_coupon" = "Coupons";
+"sidebar_signin" = "Klik om in te loggen";
+"sidebar_setting_login" = "Inloggen";
+
+////////////////////////// 搜索 -Zoeken /////////////////// //////////////
+
+"search_sort_popular" = "Populair";
+"search_sort_hotsale" = "Topverkopers";
+"search_sort_discount_descend" = "Korting van hoog naar laag";
+"search_sort_discount_ascend" = "Korting van laag naar hoog";
+"search_sort_price_descend" = "Prijs hoog naar laag";
+"search_sort_price_ascend" = "Prijs laag naar hoog";
+"search_fitler" = "Filter";
+
+"search_top_search" = "Top Search";
+"search_category_title" = "Categorie";
+"search_brand_title" = "Merk";
+"search_trending_title" = "Trending";
+
+"search_filter_cancel" = "Annuleren";
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"index_more_items" = "Meer items";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versie 2.01 // versie 2.01 // versie 2.01 // versie 2.01 // versie 2.01 // versie 2.01 // versie 2.01 // versie 2.01 // versie 2.01
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////// 个人 侧 栏 -Sidebar ///////////////// ////////////////
+
+"search_mallpage_soldby" = "Verkoper";
+"search_brandpage_title" = "Merk";
+"search_all_items_title" = "items";
+"search_watching_title" = "views";
+
+////////////////////////////// 购物 车 _cart //////////// ///////////////////////
+
+"cart_popup_title" = "Wat vindt u van CloudMall?";
+"cart_popup_nice" = "Best goed!";
+"cart_popup_soso" = "Beter kan zijn";
+"cart_popup_cancel" = "Annuleren";
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"index_guide_region" = "U kunt de verzendregio wijzigen";
+
+////////////////////////////// 购物 车 _cart //////////// ///////////////////////
+"cart_toast_greeting" = "Goed nieuws!";
+"cart_toast_pricedrop" = "Prijsdaling aan";
+"cart_toast_item" = "Item (s)!";
+
+////////////////////////// 商品 详细 -DP ////////////////// ///////////////
+
+"dp_aiprice_intitle" = "CloudMall Retailer";
+"dp_aiprice_inshop" = "CloudMall";
+"dp_aiprice_viewmore" = "Meer weergeven";
+"dp_aiprice_outshop" = "Vergelijken met";
+"dp_aiprice_outtitle" = "Andere Retailer";
+"dp_aiprice_inshipping" = "Gratis verzending";
+"dp_aiprice_outshipping" = "Omvat";
+"dp_aiprice_shipping" = "verzending";
+
+////////////////////////////// 购物 车 _cart //////////// ///////////////////////
+"cart_mark_pricedrop" = "Prijsdaling";
+"cart_seller_from" = "Van";
+"cart_total_shipping" = "Verzenden niet inbegrepen";
+"cart_total_total" = "Totaal";
+"cart_total_pay" = "Afrekenen";
+"cart_soldout_popup" = "Sommige geselecteerde items zijn uitverkocht, schakel de selectie uit en probeer het opnieuw";
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"index_banner_more" = "ALLES BEKIJKEN";
+
+////////////////////////// 搜索 -Zoeken /////////////////// //////////////
+"search_mall_soldby" = "Aangeboden door";
+"search_mall_about" = "Over";
+"search_mall_More" = "Meer";
+"search_mall_less" = "Minder";
+
+////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
+"profile_coupon_use" = "Nu gebruiken";
+"profile_coupon_details" = "Coupondetails";
+"profile_coupon_expired" = "Verlopen";
+"profile_coupon_viewdetail" = "Details bekijken";
+"profile_coupon_timefrom" = "Geldig vanaf";
+"profile_coupon_timeto" = "Aan";
+"order_coupon_notchoose" = "Geen coupon gebruiken";
+"profile_coupon_unused" = "Niet gebruikt";
+"profile_coupon_expired" = "Niet beschikbaar";
+"profile_coupon_nocoupon" = "Geen coupons beschikbaar";
+
+"add_coupon_code_title" = "Couponcode";
+"add_coupon_code_input "=" Voer couponcode in ";
+"add_coupon_code_apply" = "Toepassen";
+
+////////////////////////// 订单 -Order /////////////////// //////////////
+
+"order_status_unpaid" = "Niet betaald";
+"order_status_pending" = "In behandeling";
+"order_status_shipping" = "Verzenden";
+"order_status_all" = "Alles";
+"order_detail_policy" = "Na verkoopbeleid";
+"order_policy_help" = "Hulp nodig?";
+"order_policy_contact" = "Neem contact met ons op.";
+"order_confirm_delivery" = "Bevestig levering";
+"order_confirm_logistics" = "Logistiek";
+"order_status_finished" = "Klaar";
+"order_status_refunded" = "Gerestitueerd";
+"order_logistics_co" = "Shipping Co.";
+"order_logistics_no" = "\ nTracking No.";
+"order_logistics_day" = "dag";
+"order_logistics_days" = "dagen";
+"package_status_Unpaid" = "Niet betaald";
+"package_status_Processing" = "Verwerking";
+"package_status_ReadyToShip" = "Klaar om te verzenden";
+"package_status_CanceledAfterPaid" = "Geannuleerd";
+"package_status_InTransit" = "In transit";
+"package_status_Delivered" = "Bezorgd";
+"package_status_Refunded" = "Gerestitueerd";
+"package_status_CanceledBeforePaid" = "Verlopen";
+"order_item_no" = "item";
+"order_item_nos" = "items";
+"order_refunded_buy" = "Opnieuw kopen";
+"refunded_list_bottombar_sum" = "Totaal";
+"refunded_list_bottombar_no" = "item";
+"refunded_list_bottombar_nos" = "items";
+"pending_canceled_notice" = "Uw geld wordt binnen 48 uur geretourneerd";
+"order_detail_delete" = "Verwijderen";
+"sidebar_order" = "Alle bestellingen";
+"order_viewdetail" = "Details bekijken";
+"order_detail_time" = "Besteltijd";
+"order_intransit_package" = "Pakket";
+"order_noorder_title" = "Geen bestellingen";
+"order_noorder_info" = "Ga en voeg goederen toe aan uw winkelwagen!";
+"order_noorder_button" = "Ga winkelen";
+"order_detail_param_price" = "Prijs";
+"order_detail_param_shipping" = "Verzenden";
+"order_detail_param_total" = "Totaal";
+"order_detail_param_discount" = "Korting";
+"order_detail_param_refund" = "Restitutie";
+
+////////////////////////// 首页 -Index /////////////////// //////////////
+
+"guide_cart_title" = "Winkelwagen";
+"guide_cart_para" = "Controleer het winkelwagentje hier.";
+"guide_cart_button" = "Got it";
+"guide_dp_title" = "Toevoegen aan winkelwagen";
+"guide_dp_para" = "Plaats hier de goederen in de winkelwagen.";
+
+////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
+
+"coupon_loggedin_title" = "GEFELICITEERD";
+"coupon_loggedin_content_title" = "U hebt";
+"coupon_loggedin_content_description_1" = "Exclusieve kortingsbon voor app";
+"coupon_loggedin_content_description_2" = "Nieuwe gebruikerscoupon";
+"coupon_loggedin_button" = "Mijn coupons bekijken";
+"coupon_notloggedin_coupon" = "Coupon";
+"coupon_notloggedin_title_1" = "Send you \ n";
+"coupon_notloggedin_title_2" = "de nieuwe gebruiker alleen \ n";
+"coupon_notloggedin_title_3" = "kortingsbonnen";
+"coupon_notloggedin_content_description_1" = "Meld je aan om te krijgen";
+"coupon_notloggedin_content_description_2" = "kortingsbonnen!";
+"coupon_notloggedin_button" = "Download het!";
+"coupon_cant_get" = "U hebt zich eerder geregistreerd en kunt de kortingsbonnen niet krijgen.";
+"coupon_cant_get_enjoy" = "Veel winkelplezier";
+"coupon_cant_get_button" = "Ga winkelen";
+
+////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
+
+"global_toast" = "Oeps, u bent de internetverbinding kwijtgeraakt.";
+"cart_wrong_address_toast" = "Sorry, dit adres kan niet worden gekozen.";
+
+////////////////////////// 订单 -Order /////////////////// //////////////
+
+"orderpage_title_1" = "Volledig terugbetaald";
+"orderpage_para_1" = "Als u uw pakketten niet ontvangt.";
+"orderpage_title_2" = "Retour en restitutie";
+"orderpage_para_2" = "Als artikel niet geschikt is voor beschrijving.";
+"orderpage_title_3" = "Veilige betaling met Escrow-bescherming";
+"orderpage_title_4" = "Gemakkelijkere, snellere geschillenbeslechting";
+"orderpage_title_5" = "100% gegarandeerde restituties.";
+
+////////////////////////// 商品 详情 -DP ////////////////// ///////////////
+
+"coupon_bigtitle" = "ALLEEN VOOR NIEUWE GEBRUIKERS";
+"coupon_para_title" = "COUPON";
+"coupon_para_button" = "Download het!";
+"ai_price" = "AI PRIJSVERGELIJKING";
+"ai_price_button" = "Take A Look";
+"dp_share_para" = "Deel deze goederen met je vrienden";
+"dp_share_title" = "DELEN VOOR VRIENDEN";
+"dp_item_description" = "Beschrijving";
+"dp_item_notice" = "Kennisgeving";
+"dp_item_notice_time" = "Verwerkingstijd";
+"dp_item_notice_size" = "Over Maatgids";
+"dp_item_description_more" = "Meer";
+"dp_item_description_less" = "Minder";
+
+////////////////////////// 购物 车 -Cart ////////////////// ///////////////
+
+"free_shipping_noenough_0" = "Kopen";
+"free_shipping_noenough_1" = "meer om te genieten van GRATIS VERZENDING!";
+"free_shipping_enough" = "Komt in aanmerking voor GRATIS VERZENDING!";
+
+////////////////////////// 登录 -login /////////////////// //////////////
+
+"Login_login" = "Inloggen";
+"login_facebook" = "Log in met Facebook";
+"login_phone" = "Aanmelden met telefoon";
+"login_google" = "Log in met Google";
+"login_email" = "Log in met e-mail";
+"signup_signin" = "Aanmelden";
+"signup_facebook" = "Meld u aan met Facebook";
+"signup_phone" = "Aanmelden bij telefoon";
+"signup_google" = "Aanmelden bij Google";
+"signup_email" = "Aanmelden met e-mail";
+"signup_coupon" = "voor nieuwe gebruikers";
+"signup_policydetail" = "Door lid te wordeng ga je akkoord met onze ";
+"signup_policydetail_1" = "Voorwaarden";
+"signup_policydetail_2" = "&";
+"signup_policydetail_3" = "Privacybeleid";
+
+//////////////////////////// 空白 页 -nullpage ////////////////// ///////////////
+
+"no_coupon" = "Geen beschikbare coupons";
+"no_order" = "Geen bestelling";
+"no_order_detail" = "U hebt geen bestellingen geplaatst";
+"no_network" = "Oeps!";
+"no_network_retry" = "Controleer of uw telefoon is verbonden met internet.";
+"no_search" = "Oeps!";
+"no_search_detail" = "Geen zoekresultaten.";
+"no_goods_cart" = "Lege winkelwagen";
+"no_goods_cart_detail" = "Ik voel me zo leeg als je niet winkelt.";
+"no_goods_cart_shop" = "Nu winkelen";
+
+////////////////////////// 地址 -Adres /////////////////// //////////////
+
+"phone_wrong_toast" = "Telefoonnummer is in verkeerd formaat.";
+"india_address_postcode_title" = "Pincode:";
+"india_street1_detail" = "Huisnummer, Gebouw, Straat, Plaats";
+"india_street2_detail" = "Oriëntatiepunt (optioneel)";
+"india_city_title" = "Stad / district:";
+"india_state_title" = "Regio / Staat:";
+"india_mobile" = "Mobiel";
+"india_mobile_phone_number" = "Mobiel nummer";
+"india_country" = "Provincie";
+"india_town" = "Plaats / Plaats";
+"india_street_address" = "Straatadres";
+"india_address" = "Adres";
+"india_address_details" = "Adresgegevens";
+"india_detail_address_input" = "Straat, gebied, huisnummer, C / O.";
+"india_addition_address" = "Apt, Suite, Floor, Bldg, etc. (Optioneel)";
+"zip_wrong_toast" = "Voer een pincode van 6 cijfers in.";
+"zip_out_range" = "Sorry, we kunnen niet aan deze pincode leveren.";
+"location_failed" = "Locatie ophalen mislukt.";
+"sa_address_province_title" = "Staat / provincie / regio:";
+"sa_address_city_title" = "Stad:";
+"sa_address_district_title" = "District (Optioneel):";
+"sa_address_street1_title" = "Straat";
+"sa_address_street2_title" = "Adresgegevens (optioneel)";
+
+////////////////////////// 支付 -Pay /////////////////// //////////////
+
+"cash_on_delivery_0" = "Extra kosten";
+"cash_on_delivery_1" = "U kunt contant betalen wanneer uw bestelling wordt geleverd.";
+"cash_on delivery_2" = "U kunt alleen COD gebruiken als al uw vorige COD-orders met succes zijn ondertekend.";
+"phone_verify_title" = "Orderbevestiging.";
+"phone_verify_detail_0" = "Verifieer uw telefoonnummer.";
+"phone_verify_detail_1" = "Tik op 'Code verzenden' om een ​​verificatiecode aan te vragen.";
+"phone_verify_input" = "Uw telefoon";
+"phone_verify_button" = "Verifiëren";
+"phone_code_detail" = "Voer een 4-cijferige code in.";
+"phone_code_input" = "4-cijferige code";
+"phone_code_resend" = "Opnieuw verzenden";
+"phone_verify_send" = "Verzend code";
+"shipping_free" = "Gratis";
+"phone_verify_sending" = "Verzenden";
+"phone_verify_wrong" = "Verkeerde code. Probeer het opnieuw.";
+"code_send_failed" = "Kon de code niet verzenden, controleer uw telefoonnummer en probeer het opnieuw.";
+"cod_not" = "Niet beschikbaar";
+
+////////////////////////// DP- 评论 /////////////////// //////////////
+
+"dp_reviews" = "Recensies";
+"dp_no_reviews" = "Geen recensies";
+"dp_review" = "Beoordeling";
+"dp_topban_welcome" = "Welkom";
+"dp_topban_order" = "De laatste bestelling";
+"dp_topban_ordertime" = "sec geleden.";
+"dp_topban_view" = "mensen die nu kijken!";
+"dp_more_reviews" = "Meer beoordelingen";
+
+////////////////////////// 首页 - 闪 购 ////////////////// ///////////////
+"flash_sale_end_in" = "Einde in";
+"flash_sale_not_started" = "Niet gestart";
+"flash_sale_over" = "Over";
+
+/////////////////////// DP- 加 购 解锁 功能 /////////////////// ///////////
+"limited_time_offer_info" = "Directe aanbieding: voeg nu aan winkelwagen toe om een ​​lagere prijs te ontgrendelen!";
+"limited_time_offer_expired" = "Verlopen";
+"limited_time_offer_now_only" = "Nu alleen";
+"limited_time_offer_text_first" = "U ontgrendeld";
+"limited_time_offer_text_second" = "van dit product.";
+"limited_time_offer_text_third" = "Deze prijs verloopt over één uur, dus afrekenen snel!";
+"limited_time_offer_continue" = "Doorgaan";
+
+//////////////////////// kortingsbon- 优惠 券 ////////////////////// ////////
+"coupon_available_info" = "Bestelling";
+"coupon_available_click_info" = "Klik hierop om een ​​kortingsbon te selecteren";
+"coupon_code_invalid" = "Couponcode is ongeldig";
+
+//////////////////////// index- 首页 /////////////////////// ///////
+"index_middle-card" = "YOUR CART>"; // 首页 - 中间 - 购物 车
+
+//////////////////////// cart- 购物 车 ////////////////////// ////////
+"cart_tip_buy" = "Kopen";
+
+//////////////////////// 地址 优化 //////////////////////// //////
+"address_landmark" = "Dichtstbijzijnde mijlpaal";
+"ae_address_phone_number" = "Alternatief telefoonnummer";
+"address_location_type" = "Adrestype";
+"address_location_type_home" = "Home";
+"address_location_type_business" = "Business";
+"address_optional_prompt" = "Optioneel";
+
+//////////////////////// insta ///////////////////////// insta /////
+"instar_home_navigation" = "INSTA";
+"instar_trending_title" = "Insta";
+"instar_trending_shopping" = "WINKELEN>";
+"instar_trending_translation" = "TOON TRANSLATION";
+"instar_trending_original" = "TOON OORSPRONKELIJK";
+"instar_blogger_likes" = "Houdt van";
+"instar_blogger_follower" = "Volgers";
+"instar_blogger_following" = "Volgen";
+"instar_blogger_not_follow_button" = "+ Volgen";
+"instar_detail_page" = "Foto";
+"instar_review_title" = "Recensies";
+"instar_related_posts "=" Gerelateerde berichten ";
+"instar_following_page_people" = "Mensen";
+"instar_following_page_hashtags" = "Hashtags";
+"instar_trending_view_more" = "Bekijk meer";
+"instar_unfollow_title" = "Niet meer volgen";
+"instar_unfollow_info" = "Bevestig om niet meer te volgen";
+"instar_unfollow_cancel" = "Annuleren";
+"instar_unfollow_unfollow" = "Niet meer volgen";
+"instar_collapse" = "Collapse";
+"insrar_object_recognized" = "Objectherkenning";
+"instar_posts" = "Posts";
+"instar_kol_not_post" = "heeft nog niets gepost ~";
+"instar_own_not_post" = "U heeft nog niets gepost ~";
+"instar_following" = "Volgen";
+"instar_sliding_into" = "Glijden naar INSTA";
+"instar_release_into" = "Laat dit in INSTA";
+"instar_bottom" = "U bereikt de bodem.";
+
+//////////////////////// 购物 车 //////////////////////// //////
+"fs_full_amount" = "Uw bestelling komt in aanmerking voor GRATIS VERZENDING!";
+"fs_no_select" = "Gratis verzending bij bestelling over";
+"delete_no_select" = "Selecteer goederen";
+"we_accept" = "Wij accepteren";
+"fs_no_full_amount_0" = "Kopen";
+"fs_no_full_amount_1" = "meer om te genieten van GRATIS VERZENDING!";
+
+///Of/facturen/?////////////////////////////////////////////////////////////////// /////
+"DP_insta" = "INSTA VERGELIJKBAARHEID";
+"DP_info" = "Beschrijving";
+"DP_coupon" = "Nieuwe gebruikerscoupon";
+"DP_selected" = "Selecteer kleur, grootte";
+"DP_time" = "Geschatte aankomsttijd";
+"DP_product_similarity" = "PRODUCTGELIJKHEID";
+"DP_to" = "Verzenden naar";
+"DP_you_may_like" = "YOU LYE LIKE";
+"DP_search_price" = "zoeken naar de meest recente prijs";
+
+//////////////////////// 首页 ///////////////////////// /////
+"home_shopping" = "WINKELEN";
+"home_fashion" = "FASHION";
+"fashion_new_arrival" = "Nieuwe aankomst";
+"fashion_trending" = "Trending";
+"home_all" = "ALL";
+
+//////////////////////// 搜索 结果 页 /////////////////////// ///////
+"search_results_top" = "Top";
+"search_results_new" = "Nieuw";
+"search_results_price" = "Prijs";
+"search_results_filter" = "Filter";
+"search_results_follow" = "+ Follow";
+"search_results_following" = "Following";
+
+//////////////////////// 购物 车 //////////////////////// //////
+"cart_invalid_items" = "Ongeldige items";
+"cart_clear_items" = "Wis ongeldige items";
+"cart_message" = "Bevestig lege ongeldige item (s)?";
+"cart_cancel" = "Annuleren";
+"cart_delete" = "Verwijderen";
+"cart_1_hour_only" = "1 uur alleen";
+
+//////////////////////// 闪 购 //////////////////////// //////
+"flash_sale_on_sale_now" = "Nu in de uitverkoop";
+"flash_sale_coming_soon" = "Binnenkort beschikbaar";
+"flash_sale_sold" = "Verkocht";
+"flash_sale_shop_now" = "Nu winkelen";
+"flash_sale_almost_sold_out" = "Bijna uitverkocht";
+"flash_sale_sold_out" = "Uitverkocht";
+"flash_sale_starts_in" = "Start in";
+"flash_sale_end_in" = "Einde in";
+"flash_sale_remind" = "We zullen u eraan herinneren wanneer het is gestart. U kunt het in uw Herinnerijst bekijken.";
+"flash_sale_cancel_remind" = "Herinnering annuleren";
+"flash_sale_reminder_list" = "Je hebt nog geen bekeken items. Hoe eerder je herinneringen instelt, hoe eerder je goede items krijgt.";
+"flash_sale_fiery_buying" = "Fiery kopen";
+"flash_sale_coming_remind_me" = "Herinner me";
+"flash_sale_coming_following" = "Following";
+"flash_sale_reminder_list_title" = "Reminderlijst";
+"flash_sale_reminder_canceled" = "Herinnering geannuleerd";
+"flash_sale_reminder_list_on_going" = "On Going";
+"flash_sale_tomorrow" = "Morgen";
+
+//////////////////////// 领 券 提醒 /////////////////////// ///////
+"coupon_successful" = "U hebt de kortingsbon (nen)!";
+"coupon_already_received" = "U hebt de coupon (s) al ontvangen!";
+"coupon_error" = "Er is iets misgegaan met het netwerk, probeer het opnieuw";
+
+////////////////////// DP 比价 //////////////////////// //////
+"comparison_price_sold_by" = "Aangeboden door";
+"comparison_price_cloudmall" = "op CloudMall";
+
+//////////////////////// 地址 ///////////////////////// /////
+"address_details" = "Adresgegevens / Landmark (optioneel)";
+
+//////////////////////// 降价 提醒 //////////////////////// //////
+"price_reduction_home1" = "item (s) dropten in totaal";
+"price_reduction_home2" = "in uw winkelwagentje, bekijk nu!";
+"price_reduction_home3" = "Heb het";
+"price_reduction_dp1" = "Nu uitchecken en ophalen";
+"price_reduction_dp2" = "Gratis verzending";
+"price_reduction_dp3" = "Uitchecken";
+"price_reduction_cart1" = "item (s) prijzen zijn gedaald,";
+"price_reduction_cart2" = "bekijk het!";
+
+//////////////////////// AE 手机 号 校验 ///////////////////// /////////
+"phone_check" = "Uw mobiele telefoonnummer moet een 9 cijferig nummer zijn dat begint met 5";
+
+///// 库存 相关 的 翻译 /////
+"stock_dp_only" = "alleen";
+"stock_dp_stock" = "op voorraad - binnenkort bestellen";
+
+//////////////////// item endless 页面 ///////////////
+"item_end_less_only" = "alleen";
+"item_end_less_stock" = "left";
+
+//////////////// Filter 中 价格 选择 ////////////////
+"filter_price" = "Prijs";
+"filter_price_min" = "Min";
+"filter_price_max" = "Max";
+
+/////////// Filter 全部 标题 翻译 //////////////
+"filter_brands" = "Merken";
+"filter_categories" = "Categorieën";
+"filter_colors" = "Kleuren";
+"filter_countries" = "Landen";
+"filter_interfaces" = "Interface";
+"filter_materials" = "Materialen";
+"filter_minorcategories" = "MinorCategories";
+"filter_models" = "Modellen";
+"filter_sextags" = "Geslacht";
+"filter_sizes" = "Grootte";
+
+////////////////////// filter 中 底部 按钮 /////////////////////
+"filter_reset" = "Reset";
+"filter_apply" = "Toepassen";
+
+/////////////// 支付 -MMS 商品 COD 不可 付款 提示 修改 /////////
+"cod_not_detail" = "COD is alleen beschikbaar als de bestelling tussen AED99-AED1799 is en geen items zonder COD bevat.";
+
+/////// cart-MMS 商品 COD 不可 付款 提示 ///////
+"cart_not_cod_message" = "Deze items ondersteunen geen COD.";
+
+///////// 返利 中 的 首次 邀请 弹 窗 ////////
+"affiliate_invite_window_first" = "Geld verdienen";
+"affiliate_invite_window_left" = "GEFELICITEERD";
+"affiliate_invite_window_between" = "U krijgt";
+"affiliate_invite_window_right" = "contant, vrienden uitnodigen om meer geld te verdienen.";
+"affiliate_invite_window_link" = "Uw uitnodigingslink";
+"affiliate_invite_window_copy" = "Kopiëren";
+"affiliate_invite_window_copy_prompt" = "Copy Succefully";
+"affiliate_invite_window_wallet" = "Bekijk mijn portemonnee";
+"affiliate_invite_window_invite" = "Nodig je vrienden uit";
+"affiliate_invite_window_invite_prompt_fb" = "Facebook niet gevonden";
+"affiliate_invite_window_invite_prompt_ms" = "Messenge niet gevonden";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger niet gevonden";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp niet gevonden";
+
+///////// 返利 中 的 非 首次 打开 弹 窗 //////////////
+"affiliate_invite_window_not_first_left" = "WALLET:";
+"affiliate_invite_window_not_first_right" = "Met succes uitgenodigd:";
+"affiliate_invite_window_not_first_last" = "people";
+
+////////// 被 邀请 人 登录 弹 窗 /////////
+"affiliate_invitee_pop_window_left" = "nodigt u uit om lid te worden van CloudMall en geeft u deze exclusieve kortingsbon";
+"affiliate_invitee_pop_window_between" = "COUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Coupon eindigt binnen";
+"affiliate_invitee_pop_window_log_fb" = "Meld je aan met Facebook";
+"affiliate_invitee_pop_window_log_phone" = "Aanmelden bij telefoon";
+
+/////////////// 返利 通知 消息 /////////////////
+"affiliate_noti_friend_accept_left" = "Je vriend";
+"affiliate_noti_friend_accept_right" = "accepteerde uw uitnodiging.";
+"affiliate_noti_friend_log_right" = "net ingelogd.";
+"affiliate_noti_friend_share_right" = "heeft een bericht gedeeld.";
+"affiliate_noti_friend_share_item" = "heeft een item gedeeld.";
+"affiliate_noti_friend_bought_right" = "net gekocht";
+"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_withdraw_available_left" = "U hebt";
+"affiliate_noti_withdraw_available_right" = "beschikbaar om op te nemen.";
+"affiliate_noti_become_friend_left" = "U bent nu";
+"affiliate_noti_become_friend_right" = "'s friend.";
+"affiliate_noti_got_wallet_left" = "U heeft zojuist ontvangen";
+"affiliate_noti_got_wallet_remind" = "Succesvol gevolgd, we zullen u eraan herinneren zodra de Flash-verkoop start.";
+"affiliate_noti_got_wallet_sale" = "Flash-verkoop begint nu!";
+
+//////////// 钱包 /////////////
+"wallet_sider" = "Mijn Wallet";
+"wallet_person_e_wallet" = "CloudMall E-Wallet";
+"wallet_person_cash" = "Cash";
+"wallet_person_pending" = "In behandeling";
+"wallet_person_refunded" = "Terugbetaald";
+"wallet_person_withdraw" = "Opnemen";
+"wallet_person_messages" = "Berichten";
+"wallet_person_invite" = "Uitnodigen";
+"sidebar_wallet" = "Mijn Wallet";
+"wallet_withdraw_error_left" = "Fout intrekken";
+"wallet_withdraw_error_behind" = "Is er iets mis met de opname?";
+"wallet_withdraw_error_right" = "Neem contact op met de CloudMall-klantenservice.";
+"wallet_withdraw_error_end" = "Nu contact opnemen";
+
+////////////////////// regel 弹 窗 //////////////////
+"rule_window" = "Meer weten";
+
+//////////// polis intrekken 弹 窗 //////////
+"withdraw_policy_window_left" = "Intrekkingsbeleid";
+"withdraw_policy_window_right" = "Minimale E-Wallet Cash voor intrekking";
+"withdraw_policy_window_end" = "Doorgaan met uitnodigen";
+
+///////////////////// DP 页面 钱包 弹 窗 /////////////////
+"wallet_dp_window_left" = "Geld terug";
+"wallet_dp_window_right" = "Nodig vrienden uit om te krijgen";
+
+/////// 支付 页面 钱包 /////////
+"submit_order_wallet" = "Wallet";
+"submit_order_available" = "Beschikbaar";
+"submit_order_not_available" = "Niet beschikbaar";
+"order_detail_param_cash" = "Wallet";
+
+///////////////// bericht 页面 //////////////
+"message_bought_item" = "Beloning";

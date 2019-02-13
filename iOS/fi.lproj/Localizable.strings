@@ -1,0 +1,1414 @@
+
+"language_resources" = "芬兰语";
+
+////////////////////////////////// all _all ///////////// //////////////////////
+
+"pull_to_refresh_title_all" = "Pyyhkäise alas päivittääksesi"; // 购物 车, 首页, 个人 - 订单, 搜索 结果
+"release_to_refresh_title_all" = "Vapauta päivittääksesi"; // 购物 车, 首页, 个人 - 订单, 搜索 结果
+"refreshing_title_all" = "Loading"; // 购物 车, 首页, 个人 - 订单, 搜索 结果
+
+////////////////////////////////// ind _indeksi ///////////// //////////////////////
+
+"index_flash_sale_title" = "Flash-myynti"; // 首页 - 闪 购 标题
+"index_great_price_title" = "Paras hinta"; // 首页 - 白菜 价
+"index_mini_banner_title" = "Suuri arvo"; // 首页 - 迷你 精选
+"index_great_collection_title" = "Best Sellers"; // 首页 - 类目 精选
+"index_daily_update_title" = "Suositellaan sinulle"; // 首页 - 海 淘 动态
+
+"index_tabbar_daily_update_title" = "Daily Deals"; // 首页 - 分 屏 每日 精选 - 标题
+
+"index_choose_address_title" = "Valitse toimitusosoite"; // 首页 - 选择 收货 地址
+"index_cannot_choose_address_toast" = "Tämä alue ei ole tällä hetkellä käytettävissä"; // 首页 - 选择 新加坡 / 台湾 时 paahtoleipää 提示
+
+////////////////////////////////// earch _search ///////////// //////////////////////
+
+"hot_catogery_title_search" = "Luettelo"; // 搜索 页面
+"hot_brand_title_search" = "Tuotemerkit"; // 搜索 页面
+"hot_mall_title_search" = "Mallit"; // 搜索 页面
+"all_brand_btn_searh" = "Lisää tuotemerkkejä"; // 搜索 页面
+"all_mall_title_search" = "Lisää kauppakeskuksia"; // 搜索 页面
+"best_sell_title_search" = "Suosittuja luokkia"; // 搜索 页面
+
+"all_people_title_search_result" = "Kaikki ihmiset"; // 所有 结果 - 筛选 人群
+"all_brand_title_search_result" = "Tuotemerkit"; // 所有 结果 - 筛选 品牌
+"general_sort_title_search_result" = "Lajittele"; // 所有 结果 - 排序
+"price_high_sort_title_search_result" = "Hinta (korkea matalaan)"; // 所有 结果 - 排序
+"price_low_sort_title_search_result" = "Hinta (matalasta korkeuteen)"; // 所有 结果 - 排序
+"discount_sort_title_search_result" = "Parhaat tarjoukset"; // 所有 结果 - 排序
+"sale_sort_title_search_result" = "Suosituin"; // 所有 结果 - 排序
+
+"mall_filter_title_search_result" = "Mall"; // 所有 结果 - 筛选
+"all_mall_filter_title_search_result" = "Kaikki keskukset"; // 所有 结果 - 筛选
+"price_filter_title_search_result" = "Hinta"; // 所有 结果 - 筛选
+"clear_price_filter_title_search_result" = "Tyhjennä"; // 所有 结果 - 筛选
+"close_filter_title_search_result" = "Sulje"; // 所有 结果 - 筛选
+"reset_filter_title_search_result" = "Palauta"; // 所有 结果 - 筛选
+"ok_filter_title_search_result" = "Vahvista"; // 所有 结果 - 筛选
+
+"search_result_subscribe_btn" = "Tilaa"; // 搜索 结果 - 品牌 - 订阅 按钮
+"search_result_have_subscribe_btn" = "Tilattu"; // 搜索 结果 - 品牌 - 已 订阅 按钮
+
+/////////////////////////////////// ign _signlogin ///////////// //////////////////////
+
+"facebook_login_btn_signlogin" = "Jatka Facebookin kanssa";
+"email_signup_btn_signlogin" = "Rekisteröidy sähköpostitse";
+"login_btn_signlogin" = "Kirjaudu sisään sähköpostilla";
+
+"email_title_signlogin" = "Sähköposti";
+"password_title_signlogin" = "Salasana";
+"dream_password_btn_signlogin" = "Unohditko salasanasi?";
+
+"next_btn_signlogin" = "Seuraava";
+
+"comfire_password_btn_signlogin" = "Vahvista salasana";
+"finish_btn_signlogin" = "Valmis";
+
+"phone_number_validation_title_signlogin" = "Vahvistuskoodi on lähetetty";
+"validation_code_title_signlogin" = "Anna vahvistuskoodi";
+
+"create_password_title_signlogin" = "Luo salasana"; // 注册 页面
+"new_username_btn_signlogin" = "Käyttäjänimi";
+
+////////////////////////////////// 我 _profiili ///////////// //////////////////////
+
+"favorite_title_profile" = "Suosikit";
+"advances_address_title_profile_setting" = "Osoitekirja";
+
+"order_title_profile_order" = "Omat tilaukset";
+"un_paid_btn_profile_order" = "Maksuton";
+"processing_btn_profile_order" = "In Progress";
+"receives_btn_profile_order" = "Valmiit";
+"all_order_btn_profile_order" = "Tilaushistoria";
+
+"problem_consult_title_profile_setting" = "Asiakaspalvelu";
+"title_consult_title_profile_setting" = "Täytä aihe";
+"title_consult_description_profile_setting" = "Kuvaile ongelmaa";
+"placeholder_title_consult_description_profile_setting" = "Kerro meille ongelman tiedot";
+"order_number_consult_profile_setting" = "Tilausnumero";
+"placeholder_order_number_consult_profile_setting" = "Kyselyyn liittyvä tilausnumero";
+"title_email_consult_profile_setting" = "Sähköposti";
+"placeholder_email_consult_profile_setting" = "Anna sähköpostiosoitteesi";
+"title_name_consult_profile_setting" = "Nimi";
+"placeholder_title_name_consult_profile_setting" = "Anna nimi";
+
+"feedback_title_profile_setting" = "Palaute";
+"rate_title_profile_setting" = "Arvioi meitä";
+"about_me_title_profile_setting" = "Tietoja meistä";
+"sign_out_title_profile_setting" = "Kirjaudu ulos";
+
+"confirm_clear_cache_title_profile_about" = "Haluatko varmasti tyhjentää välimuistin?";
+
+"hint_feedback_title_profile_feedback" = "Anna palautteesi täällä";
+"hint_contact_title_profile_feedback" = "Sähköposti / puhelinnumero (valinnainen)";
+
+"my_profile_title_profile_info" = "Oma profiili";
+"change_avatar_btn_profile_info" = "Lähetä kuva";
+"change_name_btn_profile_info" = "Vaihda käyttäjätunnus";
+"reset_password_btn_profile_info" = "Palauta";
+"reset_password_info_title_profile_info" = "Vahvistuskoodi lähetetään sähköpostiisi";
+"reset_password_title_profile_setting" = "Nollaa salasana";
+
+"warn_sign_out_toast_profile_setting" = "Tilauksesi päivityksiä ei vastaanoteta kirjautumisen jälkeen. Proceed? ";
+
+"total_pay_title_cart" = "Yhteensä:";
+"view_detail_btn_dp" = "Tilaustiedot";
+"view_logistics_btn_profile_order" = "Seuraa järjestystä";
+"go_pay_btn_profile_order" = "Pay";
+"delete_order_btn_profile_order" = "Poista";
+"pay_tax_btn_profile" = "Pay Tax";
+
+"share_lucky_money_btn_cart" = "Jaa";
+
+"favors_album_title_profile_favors" = "Suosikki";
+"camera_edit_btn_profile_address" = "Muokkaa";
+"delete_album_tips_title_profile_favors" = "Vahvista poistettava albumi?";
+"delete_album_btn_profile_favors" = "Poista albumi";
+"no_album_desc_title_profile_favors" = "Ei kuvausta";
+"title_title_profile_favors" = "Otsikko";
+"description_title_profile_favors" = "Kuvaus";
+"new_album_title_dp" = "Muokkaa uutta albumin nimeä";
+
+"address_manage_title_all" = "Hallitse osoitekirjaa";
+"add_address_btn_cart" = "Lisää uusi osoite";
+"id_phone_title_profile_cash" = "Puhelinnumero:";
+"detail_address_title_cart" = "Yksikkö / lattia / lohko / rakennus / katu";
+
+"change_region_title_profile_setting" = "Vaihda alue"; // 个人 - 设置 页面 - 切换 地区
+"select_region_title_profile_setting" = "Lähetys";
+"change_language_title_profile_setting" = "Kieli";
+"clear_cache_title_profile_setting" = "Tyhjennä välimuisti"; // 个人 - 设置 页面 缺失
+"setting_title_profile_setting" = "Asetukset"; // 个人 - 设置 页面 头部
+"language_title_profile_setting" = "Kieli"; // 个人 - 设置 页面 - 语言 切换
+
+"cancle_send_question_profile_setting" = "Peruuta"; // 个人 - 设置 - 问题 咨询 - 左上角
+"ok_send_question_profile_setting" = "Lähetä"; // 个人 - 设置 - 问题 咨询 - 左上角
+
+"cancle_clear_cache_profile_setting" = "Peruuta"; // 个人 - 设置 - 清除 缓存 弹 窗
+"ok_clear_cache_profile_setting" = "Tyhjennä välimuisti"; // 个人 - 设置 - 清除 缓存 弹 窗
+
+"disclamier_btn_profile_setting" = "Käyttöehdot"; // 个人 - 设置 - 关于 我们
+
+"ok_logout_profile_setting" = "Kirjaudu ulos"; // 个人 - 设置 - 退出 登录
+"cancle_logout_profile_setting" = "Peruuta"; // 个人 - 设置 - 退出 登录
+
+"take_photo_change_avatar_btn_profile" = "Ota valokuva"; // 头像 修改 - 弹 窗
+"open_photo__change_avatar_btn_profile" = "Valitse valokuvakirjastosta"; // 头像 修改 - 弹 窗
+"cancle_change_avatar_btn_profile" = "Peruuta"; // 头像 修改 - 弹 窗 // 专辑 编辑 - 左上角 取消
+
+"ok_change_name_btn_profile" = "Vahvista"; // 昵称 修改 - 弹 窗
+"cancle_change_name_btn_profile" = "Peruuta"; // 昵称 修改 - 弹 窗
+
+"order_number_title_profile_order" = "Tilausnumero"; // 订单 - 订单 详细
+"order_time_title_profile_order" = "Tilauspäivä"; // 订单 - 订单 详细
+"today_sale_title_profile_order" = "Daily Deals"; // 订单 - 物流 详细
+"order_detail_title_profile_order" = "Tilaustiedot"; // 订单 - 订单 详细 - 标题
+"help_btn_profile_order" = "Tarvitsetko apua?"; // 订单 - 物流 详细 - 漏 了 的
+
+"cancle_btn_profile_favors" = "Peruuta"; // 收藏 - 专辑 编辑
+"save_btn_profile_favors" = "Tallenna"; // 收藏 - 专辑 编辑
+"confirm_delete_album_btn_profile_favors" = "Poista"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
+"cancle_delete_album_btn_profile_favors" = "Peruuta"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
+
+"ok_btn_profile_address" = "Valmis"; // 地址 - 新建 地址 / 编辑 地址 - 右上角
+"regioin_title_profile_address" = "Alue / valtio"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"delete_btn_profile_address" = "Poista"; // 地址 - 左 滑 删除 时
+
+"profile_address_receiver_title" = "Koko nimi:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
+"profile_address_postcode_title" = "Postinumero:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+
+"profile_favorite_no_album_title" = "muu"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+
+"profile_default_addresss_title" = "Huone, lattia, rakennus, katu"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+
+"profile_no_orders_title" = "Miljoonat tuotteet odottavat sinua"; // 個人 - 訂單 無 訂單 時 顯示 的 內容
+
+////////////////////////////////// art _cart //////////// ///////////////////////
+
+"cart_icon_all" = "Ostoskori";
+"hint2_login_title_cart" = "Kirjaudu sisään nähdäksesi ostoskorin, suosikit ja tilaushistorian";
+"select_all_btn_cart" = "Valitse kaikki";
+"save_price_title_cart" = "Tarjous on käytössä";
+"checkout_btn_cart" = "Checkout";
+"empty_title_cart" = "Ostoskorisi on tyhjä";
+"item_viewed_title_cart" = "Viimeksi katsotut kohteet";
+"mall_item_discount_title_dp" = "Tarjous on käytössä automaattisesti";
+"drop_price_title_cart" = "Myynnissä";
+
+"agreement_content_cart1" = "Lähettämällä tämän tilauksen hyväksyn Cloudmall'sin";
+"agreement_content_cart2" = "Tietosuoja ja turvallisuus /";
+"agreement_content_cart3" = "Käyttöehdot /";
+"agreement_content_cart4" = "Palautus- ja vaihtopolitiikat";
+"summit_checkout_btn_cart" = "Lähetä tilaus";
+"mall_shipping_fee_title_cart" = "Mallin lähetysmaksu";
+"tax_fee_title_cart" = "Tax";
+"supply_title_cart" = "Toimitetaan";
+"select_address_title_cart" = "Valitse osoite";
+
+"confirm_payment_btn_profile_order" = "Lähetä maksu";
+"asap_pay_title_cart" = "Deal päättyy pian";
+"asap_pay_detail_content_cart" = "Hinnat voivat muuttua milloin tahansa, joten saat tilauksesi nyt saadaksesi parhaan tarjouksen!";
+"select_payment_title_cart" = "Valitse maksutapa";
+"hint_choose_payment_title_cart" = "Valitse maksutapa";
+"final_price_title_cart" = "Tilaus yhteensä:";
+
+"logistic_message_title_index_message" = "Viestit";
+
+"ok_btn_cart" = "Valmis"; // 购物 车 列表 - 点击 右上角 后
+"edit_btn_cart" = "Muokkaa"; // 购物 车 列表 - 右上角 编辑
+"delete_sold_out_btn_cart" = "Poista myytyjä tuotteita"; // 购物 车 列表 - 点击 编辑 后
+"delete_selected_btn_cart" = "Poista"; // 购物 车 列表 - 点击 编辑 后
+
+"no_return_title_cart" = "Toimittaja ei tue palautuksia"; // 购物 车 列表 - 商品 下 说明
+"limited_number_title_cart" = "Tuotemäärän rajoitus"; // 购物 车 列表 - 商品 下 说明
+"delete_btn_cart" = "Poista"; // 购物 车 列表 - 左 滑 删除
+"not_qualified_title_cart" = "Tarjousta ei sovelleta";// 购物 车 列表 - 商城 运费 优惠
+"certification_title_cart" = "Tarjous on sovellettu"; // 购物 车 列表 - 商城 运费 优惠
+
+"select_address_title_cart_checkout" = "Valitse toimitusosoite"; // 提交 订单 - 地址 栏
+"close_btn_cart_checkout" = "Sulje"; // 点击 渠道 后 - 左上角 关闭
+
+"order_submit_title_cart_checkout" = "Käsittely ， vahvistus lähetetään sinulle 48 tunnin kuluessa"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_sub_title_cart_checkout" = "Jos tilaustasi ei voi suorittaa, ilmoitamme sinulle sähköpostitse ja käsittelemme palautusta"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+
+"cart_benefit_title" = "Sovellettu alennus"; // 购物 车 - 总价 下 的 小字, 缺 了 已 优惠
+
+"cart_checkout_logistic_self_title" = "Valitse noutopiste"; // 购物 车 - 顺丰 自 提 - 弹 窗
+
+"cart_checkout_order_description_title0" = "Yhteensä:"; // 购物 车 - 提交 订单 - 选择 支付 方式
+"cart_checkout_order_description_title1" = "（Valuutta muunnetaan automaattisesti）"; // 购物 车 - 提交 订单 - 选择 支付 方式
+
+"cart_checkout_logistic_self_desc_title" = "Puhelinnumero"; // 购物 车 - 顺丰 自 提 - 字体 说明
+"cart_checkout_logistic_door_desc_title" = "HK 30 dollaria veloitetaan toimitettaessa muihin kuin yrityksen osoitteisiin"; // 购物 车 - 顺丰 自 提 - 字体 说明
+
+////////////////////////////////// ail _detail //////////// ///////////////////////
+
+"add_cart_btn_dp" = "Lisää ostoskoriin";
+"favourite_icon_all" = "Suosikki";
+"add_to_album_title_dp" = "Lisää albumiin";
+
+"just_sold_title_dp" = "Just Sold";
+"subscribe_btn_search" = "Tilaa";
+"tilattu_btn_search" = "Tilattu";
+"translate_btn_dp" = "Käännä";
+"translate_title_dp" = "Tuotekuvaus";
+
+"open_facebook_share_btn_dp" = "'Cloudmall' haluaisi avata 'Facebook'"; // 商品 详细 - 点击 分享 弹 窗
+"cancle_open_facebook_share_btn_dp" = "Peruuta"; // 商品 详细 - 点击 分享 弹 窗
+"ok_open_facebook_share_btn_dp" = "Avaa"; // 商品 详细 - 点击 分享 弹 窗
+
+"service_description_title_dp" = "Tiedot"; // 商品 详细 - 点击 包 税, 超值 等
+"great_deal_title_dp" = "Suuri arvo"; // 商品 详细 - 超值
+"great_sale_title_dp" = "Erikoistarjous"; // 商品 详细 - 优惠
+
+"brand_title_dp" = "Brand"; // 商品 详细 页 下
+"item_description_title_dp" = "Tuotekuvaus"; // 商品 详细 下 - 商品 概述
+"more_item_title_dp" = "Muut tuotteet, joita pidät"; // 商品 详细 - 最底部 商品 推荐
+"supplier_btn_dp" = "Myyjä"; // 商品 详细 -tabbar 上
+
+"new_album_btn_dp" = "Uusi albumi"; // 商品 详细 - 点击 收藏 - 新建
+
+"have_select_desc_title_dp" = "Valittu"; // 商品 详细 - 点击 加入 购物 车
+"warn_addcart_title_dp" = "Huomaa, että edellä mainitut tiedot (väri, koko jne.) ovat toimittajamme ja ne ovat vain viitteellisiä.";
+"quant_addcart_title_dp" = "Määrä"; // 商品 详细 - 点击 加入 购物 车
+"ok_addcart_btn_dp" = "OK"; // 商品 详细 - 加入 购物 车
+
+"dp_about_mall_sale_title" = "Tarjouksen tiedot"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title1_title" = "Toimittajan tarjoama alennus"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content1_title" = "Toimittajan tarjoamaa alennusta sovelletaan automaattisesti. CloudMall ei vastaa tämän tarjouksen muutoksista"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title2_title" = "Alennus sovelletaan automaattisesti"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content2_title" = "Alennusta sovelletaan automaattisesti, kuponkeja ei tarvita"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title3_title" = "Erikoistarjous vanhentunut"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content3_title" = "Alennusaika on rajoitettu ja tarjous on vanhentunut"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title4_title" = "Tarjous onnistui"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content4_title" = "Kuponkikoodia on sovellettu"; // 商品 详细 - 关于 商城 优惠 活动
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2 // versio 0.2
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////////////// ind _indeksi ///////////// //////////////////////
+
+"index_main_realtime_discout" = "Alennus"; // 首页 - 热门 - 实时 折扣
+"index_main_time_limited_discout" = "Flash-myynti"; // 首页 - 热门 - 限时 闪 购
+"index_main_hot_mall" = "Hot Sales"; // 首页 - 热门 - 热门 市场
+"index_main_hot_mall_more" = "Lisää"; // 首页 - 热门 - 热门 市场 - 更多 商铺
+"index_main_hot_mall_view" = "Lisää"; // 首页 - 热门 - 热门 市场 - 进入 商铺
+
+"index_main_lightlux" = "Trendit"; // 首页 - 热门 - 类目 精选 - 轻 奢
+"index_main_bigbrand" = "Big Brands"; // 首页 - 热门 - 类目 精选 - 大牌
+"index_main_casual" = "Casual"; // 首页 - 热门 - 类目 精选 - 休闲 生活
+"index_main_beauty" = "Kauneus"; // 首页 - 热门 - 类目 精选 - 美 妆 护肤
+"index_main_sportwear" = "Urheiluvaatteet"; // 首页 - 热门 - 类目 精选 - 户外 运动
+"index_main_men" = "Miehet"; // 首页 - 热门 - 类目 精选 - 睿智 男士
+
+"index_sub_dailyupdate" = "Päivittäinen päivitys"; // 首页 - 分 屏 - 每日 精选
+"index_sub_youmaylike" = "Saatat myös pitää"; // 首页 - 分 屏 - 每日 精选
+
+////////////////////////////////// ail _detail //////////// ///////////////////////
+
+"dp_mall_high_grade_mall" = "Paras myyjä"; // 商品 - 商城 - 优质 商家
+"dp_mall_all_product" = "Tuotteet"; // 商品 - 商城 - 全部 商品
+"dp_mall_total_sale" = "Tuotteet myyty"; // 商品 - 商城 - 总 销量
+"dp_mall_runs_years" = "Vuodet"; // 商品 - 商城 - 优质 商家
+
+"dp_flash_sale" = "Myynti päättyy"; // 商品 - 限时 闪 购 - 倒计时
+"dp_favorite_new_abulm" = "Lisää"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_cancel" = "Peruuta"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_confirm" = "Vahvista"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_toast_success" = "Tuote lisättiin albumiisi"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_unfav_success" = "Poista albumista onnistuneesti"; // 商品 - 收藏 - 新建 专辑
+"dp_soldout" = "Loppuunmyyty"; // 商品 - 售 光 了 - 找 相似
+"dp_description" = "Tietoja tuotteesta"; // 商品 - 收藏 - 新建 专辑
+
+"dp_add_cart_success_toast" = "Lisätty ostoskoriin"; // 商品 - 成功 加入 购物 车 -toast
+
+////////////////////////////////// earch _search ///////////// //////////////////////
+
+"search_result_temp_title" = "Hakutulokset"; // 搜索 - 搜索 结果 - 主 标题
+
+"search_history_result" = "Historia"; // 搜索 - 历史 搜索
+"search_history_result_cancel" = "Peruuta"; // 搜索 - 历史 搜索 - 取消
+"search_hot_result" = "Trendit"; // 搜索 - 搜索 结果 - 热门 搜索
+"search_all_brand" = "Kaikki tuotemerkit"; // 搜索 - 所有 品牌
+"search_brand_list" = "tuotemerkki"; // 搜索 - 品牌 列表
+"search_result_filter_clear" = "Tyhjennä"; // 搜索 - 品牌 列表
+
+"search_history_result_clear_popup_title" = "Tyhjennä hakuhistoria"; // 搜索 - 清空 历史 记录 - 标题
+"search_history_result_clear_popup_content" = "Haluatko varmasti poistaa hakuhistoriasi?"; // 搜索 - 清空 历史 记录 - 内容
+"search_history_result_clear_popup_cancle" = "Peruuta"; // 搜索 - 清空 历史 记录 - 取消
+"search_history_result_clear_popup_confirm" = "Vahvista"; // 搜索 - 清空 历史 记录 - 确定
+
+////////////////////////////////// art _cart //////////// ///////////////////////
+
+"cart_checkout_credit_card" = "Luottokortti"; // 购物 车 - 确认 支付 - 信用卡 标题
+"cart_checkout_total_bill" = "Yhteensä"; // 购物 车 - 确认 支付 - 确认 标题 前
+
+"cart_checkout_credit_card_title" = "Luottokortti"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_change_credit_card" = "Vaihda kortti"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 换 一张 卡
+"cart_checkout_new_credit_card" = "Lisää uusi kortti"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 新建 信用卡
+"cart_checkout_credit_card_toast" = "Lisää uusi kortti ensin"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 未 绑定 信用卡
+"cart_checkout_credit_card_cancel" = "Peruuta"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 取消
+"cart_checkout_credit_card_pay" = "Pay"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 付款
+"cart_checkout_credit_card_confirm" = "Vahvista"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 增加 新 加 -cvv- 确定
+
+"cart_checkout_card_holdername_title" = "Nimi"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 持卡人 姓名
+"cart_checkout_card_holdername_default" = "Kortinhaltijan nimi"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_card_number_title" = "Kortin numero"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_card_number_default" = "Anna kortin numero"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_valid_date_title" = "päättymispäivä"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 有效期
+"cart_checkout_valid_date_default" = "MM / YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
+"cart_checkout_safe_code_title" = "CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_safe_code_default" = "Anna CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_about_safety" = "Kolmannen osapuolen maksuprosessori käsittelee tämän oston maksun turvallisesti. CloudMall ei tallenna luottokorttitietojasi."; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 承诺
+"cart_checkout_comfirm" = "Vahvista"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 完成 按钮
+
+"cart_checkout_card_holdername_toast" = "Kortinhaltijan nimi on virheellinen. Käytä vain aakkosnumeerisia merkkejä [A-z]"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 姓名 不 为 英文 时
+"cart_checkout_card_number_toast" = "Syötetty kortin numero on virheellinen. Tee kaksinkertainen tarkistus korttisi numero"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 填写 规则 / 长度 不对
+"cart_checkout_card_number_toast2" = "Korttityyppiä ei tueta. Yritä käyttää toista korttia"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+"cart_checkout_valid_date_toast" = "Kortin voimassaolon päättymispäivä on virheellinen. Varmista, että kortin voimassaoloaika on kaksinkertainen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+"cart_checkout_safe_code_toast" = "CVV on virheellinen. Tarkista kaksinkertainen syöttämäsi numero"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+
+"cart_edit_done" = "Vahvista"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_no_goods" = "Poista myytyjä kohteita"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_item" = "Poista"; // 购物 车 - 编辑 - 完成
+"cart_checkout_all_item" = "X-kohde (t)"; // 购物 车 - 结算 - 共 X 件 商品
+"cart_checkout_sum_price" = "Yhteensä:"; // 购物 车 - 编辑 - 完成
+
+"cart_checkout_cancel_payment_popup_title" = "Tilauksen maksamatta jättäminen"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_content" = "Maksakaa 24 tunnin sisällä"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_confirm" = "Vahvista"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+
+"cart_checkout_card_date_jan" = "01-JAN"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 一月
+"cart_checkout_card_date_feb" = "02-FEB"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 二月
+"cart_checkout_card_date_mar" = "03-MAR"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 三月
+"cart_checkout_card_date_apr" = "04-APR"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 四月
+"cart_checkout_card_date_may" = "05-MAA"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 五月
+"cart_checkout_card_date_jun" = "06-JAN"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 六月
+"cart_checkout_card_date_jul" = "07-JUL"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 七月
+"cart_checkout_card_date_aug" = "08-AUG"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 八月
+"cart_checkout_card_date_sep" = "09-SEP"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 九月
+"cart_checkout_card_date_oct" = "10-OCT"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十月
+"cart_checkout_card_date_nov" = "11-NOV"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十一月
+"cart_checkout_card_date_dec" = "12-DEC"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十二月
+
+"cart_not_login_btn" = "Kirjaudu"; // 购物 车 - 未登录 - 登录 按钮
+"cart_checkout_card_cancel" = "Peruuta"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_card_pay" = "Osto"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_card_popup_title" = "Virhe"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_content" = "Maksussa oli virhe. Tarkista, että antamasi kortin tiedot olivat oikein tai yritä maksaa toisella kortilla."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_cancel" = "Myöhemmin"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_tryagain "=" Yritä uudelleen "; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_pay_total" = "Osto"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_bill_total" = "Bill Total"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_pay_success_title" = "Menestys"; // 购物 车 - 选择 支付 - 支付 成功
+
+////////////////////////////////// 个人 -Proilfe ///////////// //////////////////////
+
+"profile_setting_customer_service_cancel" = "Peruuta"; // 个人 - 客服 - 取消
+"profile_setting_customer_service_confirm" = "Vahvista"; // 个人 - 客服 - 提交
+"profile_setting_clearcache_clearing" = "Välimuistin tyhjentäminen ..."; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_cancel" = "Peruuta"; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_confirm" = "Vahvista"; // 个人 - 清除 缓存 - 清除
+"profile_setting_feedback_cancel" = "Peruuta"; // 个人 - 反馈 - 取消
+"profile_setting_feedback_confirm" = "Lähetä"; // 个人 - 反馈 - 发送
+"profile_setting_signout_cancel" = "Peruuta"; // 个人 - 退出 登录 - 取消
+"profile_setting_signout_title" = "Vihjeitä"; // 个人 - 退出 登录 - 取消
+
+"profile_change_photo_cancel" = "Peruuta"; // 个人 - 清除 缓存 - 取消
+
+"profile_favorite_edit_cancel" = "Peruuta"; // 个人 - 编辑 专辑 - 取消
+"profile_favorite_edit_save" = "Tallenna"; // 个人 - 编辑 专辑 - 保存
+"profile_favorite_edit_title" = "Muokkaa albumia"; // 个人 - 编辑 专辑 - 标题 - 专辑 编辑
+
+"profile_address_edit_confirm" = "Vahvista"; // 个人 - 地址 编辑 - 完成
+
+"profile_setting_termsofuse" = "Käyttöehdot"; // 个人 - 设置 - 协议 条款 与 条件
+"profile_setting_rateapp" = "Arvioi CloudMall"; // 个人 - 设置 - 给 个 评价
+
+"profile_change_name_cancel" = "Peruuta"; // 个人 - 更改 名字 - 取消
+"profile_address_hongkong" = "Hong Kong"; // 香港
+"profile_address_singapore" = "Singapore"; // 新加坡
+"profile_address_taiwan" = "Taiwan"; // 台湾
+"profile_address_vietnam" = "Vietnam"; // 越南
+"profile_address_indonesia" = "Indonesia"; // 印度尼西亚
+"profile_setting_clearcache_success" = "Välimuisti poistettiin onnistuneesti"; // 个人 - 清除 缓存 - 清除
+"profile_order_logistic_title" = "Tilausseuranta"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_order_logistic_package" = "Paketti"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_address_region_title" = "Valitse alue"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_address_empty_toast" = "Täytä lomake"; // 个人 - 地址 - 空 提醒
+
+///////////////////////////// / Android / // ///////////////// /////////////////////////
+
+"Loading_title_profile" = "Ladataan ...";
+"Enemmän" = "Lisää";
+"no_entries_in_cart_detail" = "Mene ja löydä lisää kohteita!";
+"press_again_exit_toast_all" = "Napsauta uudelleen ja poistu";
+"write_need" = "Anna olennainen tieto";
+
+"adyen_expired_year_toast_1" = "Luottokortin voimassaolopäivä:";
+"adyen_expired_year_toast_2" = "Luottokortin voimassaolopäivä on 4 numeroa";
+"cart_year_expire_toast" = "Vanhentumispäivän muoto on väärä";
+"cart_year_expire_write_toast" = "Täytä kortin voimassaolopäivä";
+"new_sort_title_search_result" = "Uusi vanhaan";
+"no_delivery_supported" = "Toimitus ei ole tuettu";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 0.2.5 // versio 0.2.5 // versio 0.2.5 // versio 0.2.5 // versio 0.2.5 // versio 0.2.5 // versio 0.2.5 // versio 0.2.5
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////////////// ind _indeksi ///////////// //////////////////////
+
+"index_board_highlight" = "Suositellut kohteet"; // 首页 - 二级 页面 -lautapeli 标题
+"index_bannerlist_highlight" = "Suositeltu luettelo"; // 首页 - 二级 页面 -lautapeli 标题
+"index_pagingbanner_highlight" = "Suositeltu luettelo"; // 首页 - 二级 页面 -lautapeli 标题
+"index_hotshop_highlight" = "Suositeltu luettelo"; // 首页 - 二级 页面 -lautapeli 标题
+
+/////////////////////////////// 搜索 _search /////////////// /////////////////////
+
+"search_input_defualt" = "Maailmanlaajuinen ilmainen toimitus"; // 首页 - 二级 页面 -lautapeli 标题
+
+///////////////////////////////// ile -profiili //////////////// /////////////////////
+
+"profile_address_input_default" = "Täytä"; // 个人 - 地址 - 输入 框
+"profile_address_select_default" = "Valitse"; // 个人 - 地址 - 下拉 框
+"profile_address_province" = "Province / State:"; // 个人 - 地址 - 省 州
+"profile_address_city" = "Kaupunki / kaupunki:"; // 个人 - 地址 - 城市
+"profile_address_district" = "Piiri:"; // 个人 - 地址 - 下拉 框
+"profile_address_detail" = "Huoneisto, rakennus ... (valinnainen)"; // 个人 - 地址 - 详细 地址
+
+"profile_address_us" = "Yhdysvallat";
+"profile_address_uk" = "Yhdistynyt kuningaskunta";
+"profile_address_ca" = "Kanada";
+"profile_address_de" = "Deutschland";
+"profile_address_au" = "Australia";
+"profile_address_nz" = "Uusi-Seelanti";
+"profile_address_fr" = "Ranska";
+"profile_address_it" = "Italia";
+"profile_address_es" = "España";
+"profile_address_ru" = "Россия";
+"profile_address_mx" = "Meksiko";
+"profile_address_nl" = "Alankomaat";
+"profile_address_no" = "Norja";
+"profile_address_dk" = "Tanska";
+"profile_address_se" = "Ruotsi";
+"profile_address_ch" = "Sveitsi";
+"profile_address_pl" = "Puola";
+"profile_address_be" = "Belgia";
+"profile_address_ie" = "Irlanti";
+"profile_address_fi" = "Suomi";
+"profile_address_pt" = "Portugali";
+"profile_address_ph" = "Filippiinit";
+"profile_address_my" = "Malesia";
+"profile_address_jp" = "Japani";
+"profile_address_kr" = "Korea";
+"profile_address_ua" = "Ukraina";
+"profile_address_in" = "Intia";
+"profile_address_ae" = "Yhdistyneet arabiemiirikunnat";
+"profile_address_sa" = "Saudi-Arabia";
+"profile_address_qa" = "Qatar";
+"profile_address_kw" = "Kuwait";
+"profile_address_tr "=" Turkki ";
+"profile_address_il" = "Israel";
+"profile_address_th" = "Thaimaa";
+"profile_address_at" = "Itävalta";
+"profile_address_cz" = "Tšekki";
+"profile_address_za" = "Etelä-Afrikka";
+
+"profile_order_package_number" = "Paketin numero"; // 个人 - 物流 详细
+
+"profile_setting_feedback_null_toast" = "Anna kaikki tiedot"; // 个人 - 物流 详细
+"profile_setting_feedback_null_mail_toast" = "Anna sähköpostiosoite oikein"; // 个人 - 物流 详细
+"address_hint_postcode_not_null" = "Anna sähköpostiosoite";
+"select_logistic" = "Valitse lähetystapa";
+"confirm_delete_order_title_profile_order" = "Haluatko varmasti poistaa tilauksen?";
+"confirm_valid_hint" = "Salasanat eivät ole yhdenmukaisia";
+"pay_lack_param" = "Tarvittavat tiedot puuttuvat";
+"please_select_address" = "Valitse osoite";
+"success_hide_order_profile_order" = "Poistettu onnistuneesti";
+"network_connect_error" = "Verkkovirhe";
+"network_error" = "Verkkoyhteyden aikakatkaisu";
+
+////////////////////////////// / ail -details //////////////// ////////////////
+
+"dp_select_null_toast" = "Valitse"; // 个人 - 地址 - 详细 地址
+
+////////////////////////////// 购物 车 -artikkeli //////////////// ////////////////
+
+"cart_soldout_toast" = "Jotkut kohteet on myyty loppuun"; // 个人 - 地址 - 详细 地址
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 0.3.0 // versio 0.3.0 // versio 0.3.0 // versio 0.3.0 // versio 0.3.0 // versio 0.3.0 // versio 0.3.0 // versio 0.3.0 // ver
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// ind -indeksi /////////////////// //////////////
+
+"index_got_coupon_toast" = "Onnittelut! Sinulla on kuponki"; // 搜索 - 筛选 - 来源
+"index_wrong_region_toast" = "Kupongit eivät ole käytettävissä nykyisellä alueella"; // 搜索 - 筛选 - 来源
+"index_condition_not_meet_toast" = "Et voi ottaa kuponkia"; // 搜索 - 筛选 - 来源
+"index_number_limit_toast" = "Sinulla on kuponki enemmän kuin kerran"; // 搜索 - 筛选 - 来源
+"index_timeout_toast" = "Kuponki on vanhentunut"; // 搜索 - 筛选 - 来源
+
+/////////////////////////// 搜索 -haku /////////////////// //////////////
+
+"search_filter_source" = "Myyjät"; // 搜索 - 筛选 - 来源
+"search_filter_brand" = "Tuotemerkit"; // 搜索 - 筛选 - 品牌
+"search_filter_category" = "Luokka"; // 搜索 - 筛选 - 类目
+"search_filter_crowd" = "Kuluttaja"; // 搜索 - 筛选 - 人群
+"search_filter_more" = "Lisää"; // 搜索 - 筛选 - 全部
+"search_filter_reset" = "Palauta"; // 搜索 - 筛选 - 全部
+"search_filter_apply" = "Käytä"; // 搜索 - 筛选 - 全部
+"search_sort_popular" = "Suosittu"; // 搜索 - 筛选 - 全部
+"search_sort_topsale" = "Suosituimmat myyjät"; // 搜索 - 筛选 - 全部
+"search_sort_price" = "Hinta"; // 搜索 - 筛选 - 全部
+
+"search_list_supply_by" = "Toimitetaan"; // 搜索 - 筛选 - 全部
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_coupon_title" = "Kupongit";
+"profile_coupon_only_country" = "Vain";
+"profile_coupon_condition_over" = "Osta";
+"profile_coupon_condition_get" = "ja saat";
+"profile_coupon_valid_period" = "Voimassa oleva aika";
+"profile_coupon_specific" = "Erityinen ostoskeskus tai tuotemerkki";
+"profile_coupon_null" = "Ei kuponkeja juuri nyt";
+"profile_coupon_available" = "Käytettävissä";
+"profile_coupon_unavailable" = "Ei käytettävissä";
+
+//////////////////////////// 购物 车 -artikkeli ////////////////// ///////////////
+
+"cart_coupon_available" = "Käytettävissä"; // 支付 是 提示 有 没 可用
+"cart_coupon_unavailable" = "Ei käytettävissä"; // 支付 时 提示 有 没 可用
+
+/////////////////////////// 商品 详细 页 -DP ///////////////// ////////////////
+
+"dp_shipment_title" = "Laivat"; // 支付 是 提示 有 没 可用
+"dp_shipment_to_title" = "on"; // 支付 时 提示 有 没 可用
+"dp_receive_title" = "Toimitettu"; // 支付 时 提示 有 没 可用
+"dp_receive_days_title" = "päivää"; // 支付 时 提示 有 没 可用
+"dp_shipment_notsupport_title" = "Toimitus ei tue"; // 支付 是 提示 有 没 可用
+"dp_shipment_notsupport_description" = "Tuotetta ei voi toimittaa nykyiselle alueelle"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"index_comment_main_title" = "Kommentti"; // 支付 是 提示 有 没 可用
+"index_comment_sub_title" = "Tykkää meistä ja kommentoi"; // 支付 是 提示 有 没 可用
+"index_bad_feedback_btn" = "Palaute"; // 支付 是 提示 有 没 可用
+"index_good_feedback_btn" = "Kuten me us"; // 支付 是 提示 有 没 可用
+"index_timeout_title" = "Aikakatkaisu"; // 支付 是 提示 有 没 可用
+"index_pending_title" = "Ei aloitettu"; // 支付 是 提示 有 没 可用
+"index_timeout2_title" = "Kampanjan aikakatkaisu"; // 支付 是 提示 有 没 可用
+"index_pending2_title" = "Ei edistystä"; // 支付 是 提示 有 没 可用
+
+"index_region_null" = "Valitse alue ja kieli"; // 支付 是 提示 有 没 可用
+
+//////////////////////////// 商品 详细 -Tietosivu ///////////////// ////////////////
+
+"dp_total_sale_title" = "Yhteensä myyty"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0 // versio 1.1.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"index_minutes_ago" = "minuuttia sitten"; // 支付 是 提示 有 没 可用
+"index_hours_ago" = "tuntia sitten"; // 支付 是 提示 有 没 可用
+"index_days_ago" = "päivää sitten"; // 支付 是 提示 有 没 可用
+"index_weeks_ago" = "viikkoa sitten"; // 支付 是 提示 有 没 可用
+"index_months_ago" = "kuukausi sitten"; // 支付 是 提示 有 没 可用
+
+//////////////////////////// 商品 详细 -Tietosivu ///////////////// ////////////////
+
+"search_current_filter" = "Suodatin"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.2.0 // versio 1.2.0 // versio 1.2.0 // versio 1.2.0 // versio 1.2.0 // versio 1.2.0 // versio 1.2.0 // versio 1.2.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 商品 详细 -Tietosivu ///////////////// ////////////////
+
+"search_no_result" = "Valitettavasti tuloksia ei löydy"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.3.0 // versio 1.3.0 // versio 1.3.0 // versio 1.3.0 // versio 1.3.0 // versio 1.3.0 // versio 1.3.0 // versio 1.3.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+////////////////////////////搜索haku /////////////////// //////////////
+
+"search_ai_search" = "AI-haku"; // 支付 是 提示 有 没 可用
+"search_ai_found" = "vastaavia kohteita"; // 支付 是 提示 有 没 可用
+"search_ai_explore" = "Samankaltaisia ​​kohteita"; // 支付 是 提示 有 没 可用
+"search_ai_not_found" = "Ei vastaavia kohteita"; // 支付 是 提示 有 没 可用
+"search_ai_description" = "Nyt voit löytää samanlaisia ​​kohteita AI-haulla"; // 支付 是 提示 有 没 可用
+"search_ai_description_confirm" = "Sain sen"; // 支付 是 提示 有 没 可用
+
+"search_ai_finding" = "AI-haku etenee nyt"; // 支付 是 提示 有 没 可用
+"search_ai_find_nothing" = "Valitettavasti vastaavia kohteita ei ole"; // 支付 是 提示 有 没 可用
+"search_ai_similarity" = "Samankaltaisuus:"; // 支付 是 提示 有 没 可用
+
+"search_sort_discount" = "Alennus"; // 支付 是 提示 有 没 可用
+
+/////////////////////////// 详细 -DP /////////////////// //////////////
+
+"dp_ai_found" = "vastaavia kohteita"; // 支付 是 提示 有 没 可用
+"dp_ai_explore" = "Tutustu enemmän samanlaisia ​​kohteita"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing" = "Ei vastaavia kohteita"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing_toast" = "Valitettavasti vastaavia kohteita ei ole"; // 支付 是 提示 有 没 可用
+
+//////////////////////////// 个人 -Profiili /////////////////// //////////////
+
+"profile_favorite_ablum_nothing" = "Mikään albumissa"; // 支付 是 提示 有 没 可用
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"index_tab_all" = "Kaikki"; // 支付 是 提示 有 没 可用
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.4.0 // versio 1.4.0 // versio 1.4.0 // versio 1.4.0 // versio 1.4.0 // versio 1.4.0 // versio 1.4.0 // versio 1.4.0
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 购物 车 -artikkeli ////////////////// ///////////////
+
+"cart_purchase_add_card" = "Käytä uutta luotto- / maksukorttia"; // 支付 是 提示 有 没 可用
+"cart_purchase_choose_card" = "Valitse korttiluettelosta"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_title" = "Poista luottokortti"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_content" = "Haluatko varmasti poistaa tämän kortin?"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card" = "Poista"; // 支付 是 提示 有 没 可用
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_cards_tips" = "Pyyhkäise poistamalla luotto- / maksukortti"; // 支付 是 提示 有 没 可用
+"profile_cards_null" = "Tililläsi ei ole luotto- tai maksukortteja"; // 支付 是 提示 有 没 可用
+
+//////////////////////////// 详细 页 -DP ////////////////// ///////////////
+
+"dp_message_title" = "Ilmoitus";
+
+"dp_follow_btn" = "Seuraa";
+"dp_following_btn" = "Seuraava";
+"dp_brand_title" = "Brand";
+"dp_brand_shai_title" = "Tuotemerkki";
+"dp_soldby_title" = "Toimitetaan";
+"dp_mall_followers" = "Seuraajat";
+"dp_mall_items" = "Tuotteet";
+"dp_mall_rate" = "Rate";
+"dp_mall_sold" = "Myyty";
+"dp_mall_location" = "Alue";
+"dp_mall_type" = "Tyyppi";
+"dp_mall_type_general" = "Yleinen toimittaja";
+"dp_mall_type_brand" = "tuotemerkin toimittaja";
+
+"dp_desc_title" = "Detail";
+
+"dp_you_may_like" = "Saatat pitää";
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_address_incomplete" = "Osoite on epätäydellinen";
+
+//////////////////////////// ind -indeksi /////////////////// //////////////
+
+"index_topic_all" = "Kaikki kohteet";
+"index_topic_title" = "Suositellut aiheet";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.4.5 // versio 1.4.5 // versio 1.4.5 // versio 1.4.5 // versio 1.4.5 // versio 1.4.5 // versio 1.4.5 // versio 1.4.5
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+///////////////////////////登陆login /////////////////////////////////क//
+
+"login_alert1_title" = "Liittymällä hyväksyt";
+"login_alert2_title" = "Ehdot";
+"login_alert3_title" = "&";
+"login_alert4_title" = "Tietosuojakäytäntö.";
+"login_alert5_title" = "Plus, saat tilauspäivitykset, myyntihälytykset ja paljon muuta postilaatikossasi.";
+
+"login_email_validation" = "Olemme lähettäneet sinulle sähköpostia salasanan palauttamisesta. Tarkista sähköpostisi ja palauta salasanasi";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.50 // versio 1.50 // versio 1.50 // versio 1.50 // versio 1.50 // versio 1.50 // versio 1.50 // versio 1.50 // versio 1.50
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// all -all /////////////////// //////////////
+
+"all_no_more_items" = "- ei enää kohteita -";
+
+////////////////////////////搜索haku /////////////////// //////////////
+
+"search_clearhistory_title" = "Haluatko varmasti poistaa hakuhistoriaa";
+"search_clearhistory_cancel_title" = "Peruuta";
+"search_clearhistory_sure_title" = "Kyllä, olen varma";
+
+//////////////////////////// 详细 页 -dp ////////////////// ///////////////
+
+"dp_mall_title" = "AI-hintavertailu";
+"dp_sizeguide_title" = "Koko opas";
+"dp_mall_nofulfilment_title" = "Anteeksi, emme tue täyttämistä juuri nyt. Voit hakea sitä verkkosivuillaan.";
+"dp_size_description" = "Suosittelemme, että valitset oikean koon toimitetun kokotaulukon mukaan. Huomaa, että toimittajamme antavat tuotetiedot (väri, mitoitus jne.) vain viitteelliseksi.";
+"dp_mall_location_taobao" = "Hongkong";
+
+"dp_outorder_title" = "Poissa käytöstä";
+"dp_processingtime_title" = "Käsittelyaika";
+"dp_processingtime_subtitle" = "Tuote lähetetään 3-5 työpäivän kuluessa.";
+"dp_addcart_fail_toast" = "Lisää ostoskoriin epäonnistui";
+
+"profile_album_need_title" = "Anna otsikko";
+
+//////////////////////////// 購物 車 -artikkeli ////////////////// ///////////////
+
+"cart_shipment_title" = "Lähetys:";
+"cart_shipment_days_title" = "työpäivät";
+"cart_remove_items" = "Poistaminen";
+"cart_remove_items_success" = "Menestys";
+"cart_remove_items_fail" = "Yritä uudelleen";
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_no_content" = "Täytä lomake";
+"profile_help_title" = "Ohje";
+"profile_submitsuccess_toast" = "Lähetä onnistuneesti";
+"profile_address_submitsuccess_toast" = "Lisätty onnistuneesti";
+"profile_bill_fail_toast" = "Laskutus epäonnistuu, yritä myöhemmin uudelleen";
+"profile_bill_confirm" = "Confrim";
+
+//////////////////////////// 登陆 -login /////////////////// //////////////
+
+"login_wrong_password" = "Salasana on epäjohdonmukainen";
+"login_short_password" = "Salasanan on oltava yli 6 merkkiä";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6 // versio 1.6
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_address_success_toast" = "Menestys";
+
+//////////////////////////// 购物 车 -artikkeli ////////////////// ///////////////
+
+"cart_use_coupon" = "Käytä kuponkeja";
+"checkout_sure_popup_title" = "Haluatko varmasti peruuttaa tämän maksun?";
+"checkout_sure_popup_yes" = "Vahvista";
+"checkout_sure_popup_no" = "Peruuta";
+"coupon_tip_buy" = "Osta";
+"coupon_tip_more_save" = "lisää, tallenna";
+"coupon_tip_max" = "Aseta järjestys ja tallenna";
+"coupon_tip_buy_lower" = "osta";
+"coupon_tip_nil" = "Käytä kuponkia seuraavassa vaiheessa.";
+
+//////////////////////////// 商品 详细 -DP ////////////////// ///////////////
+
+"dp_discount_notice_title" = "Alennus";
+"dp_favorite_add_toast" = "Lisätty suosikkisi";
+"dp_favorite_remove_toast" = "Poistettu suosikkistasi";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65 // versio 1.65
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_switch_address&language_confirm" = "DONE";
+
+//////////////////////////// 购物 车 -artikkeli ////////////////// ///////////////
+
+"cart_shipping_recommend" = "HOT";
+
+//////////////////////////// 商品 详细 -dp ////////////////// ///////////////
+
+"dp_desctiption_more" = "Lisää";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68 // versio 1.68
+/////////////////////////////////////////////////////// ////////////////////////////////////////////////// ///////////////////
+
+//////////////////////////// 商品 详细 -DP ////////////////// ///////////////
+
+"dp_less" = "Vähemmän";
+
+//////////////////////////// 个人 -profiili /////////////////// //////////////
+
+"profile_order_confirmation_button" = "Vahvista vastaanotettu paketti";
+"profile_order_confirmation_popup_title" = "Vahvista vastaanotettu paketti";
+"profile_order_confirmation_popup_content" = "Jos olet saanut paketin, paina' Vahvista '";
+"profile_order_confirmation_popup_cancel" = "Peruuta";
+"profile_order_confirmation_popup_confirm" = "Vahvista";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00 // versio 2.00
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 个人 侧 栏 -Sivupalkki ///////////////// ////////////////
+
+"sidebar_order_unpaid" = "Maksamaton";
+"sidebar_order_processing" = "Käsittely";
+"sidebar_order_all" = "Kaikki tilaukset";
+"sidebar_message" = "Viestit";
+"sidebar_category" = "Kaikki luokat";
+"sidebar_favorite" = "Suosikit";
+"sidebar_creditcard" = "luottokortit";
+"sidebar_address" = "Osoitekirja";
+"sidebar_setting" = "Asetukset";
+"sidebar_faq" = "FAQ";
+"sidebar_coupon" = "Kupongit";
+"sidebar_signin" = "Kirjaudu sisään";
+"sidebar_setting_login" = "Kirjaudu";
+
+/////////////////////////// 搜索 -haku /////////////////// //////////////
+
+"search_sort_popular" = "Suosittu";
+"search_sort_hotsale" = "Suosituimmat myyjät";
+"search_sort_discount_descend" = "Alennus korkealle alhaiseksi";
+"search_sort_discount_ascend" = "Alennus alhaisesta korkeuteen";
+"search_sort_price_descend" = "Hinta korkealle matalaan";
+"search_sort_price_ascend" = "Hinta alhaisesta korkeuteen";
+"search_fitler" = "Suodatin";
+
+"search_top_search" = "Top Search";
+"search_category_title" = "Luokka";
+"search_brand_title" = "Brand";
+"search_trending_title" = "Trendit";
+
+"search_filter_cancel" = "Peruuta";
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"index_more_items" = "Lisää kohteita";
+
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+// versio 2.01 // versio 2.01 // versio 2.01 // versio 2.01 // versio 2.01 // versio 2.01 // versio 2.01 // versio 2.01 // versio 2.01
+////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
+
+//////////////////////////// 个人 侧 栏 -Sivupalkki ///////////////// ////////////////
+
+"search_mallpage_soldby" = "Myyjä";
+"search_brandpage_title" = "Brand";
+"search_all_items_title" = "kohteet";
+"search_watching_title" = "näkymät";
+
+////////////////////////////////// art _cart //////////// ///////////////////////
+
+"cart_popup_title" = "Mitä mieltä olet CloudMallista?";
+"cart_popup_nice" = "Melko hyvä!";
+"cart_popup_soso" = "Voisi olla parempi";
+"cart_popup_cancel" = "Peruuta";
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"index_guide_region" = "Voit muuttaa lähetysaluetta";
+
+////////////////////////////////// art _cart //////////// ///////////////////////
+"cart_toast_greeting" = "Hyvä uutinen!";
+"cart_toast_pricedrop" = "Hintahäviö";
+"cart_toast_item" = "Tuote (t)!";
+
+//////////////////////////// 商品 详细 -DP ////////////////// ///////////////
+
+"dp_aiprice_intitle" = "CloudMall-jälleenmyyjä";
+"dp_aiprice_inshop" = "CloudMall";
+"dp_aiprice_viewmore" = "Näytä lisää";
+"dp_aiprice_outshop" = "Vertaa";
+"dp_aiprice_outtitle" = "Muu jälleenmyyjä";
+"dp_aiprice_inshipping" = "Ilmainen toimitus";
+"dp_aiprice_outshipping" = "Sisältää";
+"dp_aiprice_shipping" = "lähetys";
+
+////////////////////////////////// art _cart //////////// ///////////////////////
+"cart_mark_pricedrop" = "Hintahinta";
+"cart_seller_from" = "From";
+"cart_total_shipping" = "Toimitus ei sisälly";
+"cart_total_total" = "Yhteensä";
+"cart_total_pay" = "Checkout";
+"cart_soldout_popup" = "Jotkut valitut kohteet ovat loppuunmyytyjä, poista valinta ja yritä uudelleen";
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"index_banner_more" = "VIEW ALL";
+
+/////////////////////////// 搜索 -haku /////////////////// //////////////
+"search_mall_soldby" = "Myymät";
+"search_mall_about" = "Tietoja";
+"search_mall_More" = "Lisää";
+"search_mall_less" = "Vähemmän";
+
+//////////////////////////// 优惠 券 -Koukku ////////////////// ///////////////
+"profile_coupon_use" = "Käytä nyt";
+"profile_coupon_details" = "Kupongin tiedot";
+"profile_coupon_expired" = "Vanhentunut";
+"profile_coupon_viewdetail" = "Näytä tiedot";
+"profile_coupon_timefrom" = "Valid From";
+"profile_coupon_timeto" = "Vastaanottaja";
+"order_coupon_notchoose" = "Älä käytä kuponkia";
+"profile_coupon_unused" = "Käyttämätön";
+"profile_coupon_expired" = "Ei käytettävissä";
+"profile_coupon_nocoupon" = "Ei kuponkeja saatavilla";
+
+"add_coupon_code_title" = "kuponkikoodi";
+"add_coupon_code_input "=" Syötä kuponkikoodi ";
+"add_coupon_code_apply" = "Käytä";
+
+//////////////////////////// der -Tilaaja /////////////////// //////////////
+
+"order_status_unpaid" = "Maksamaton";
+"order_status_pending" = "Odottaa";
+"order_status_shipping" = "Shipping";
+"order_status_all" = "Kaikki";
+"order_detail_policy" = "Myynnin jälkeinen politiikka";
+"order_policy_help" = "Tarvitsetko apua?";
+"order_policy_contact" = "Ota yhteyttä.";
+"order_confirm_delivery" = "Vahvista toimitus";
+"order_confirm_logistics" = "Logistiikka";
+"order_status_finished" = "Valmis";
+"order_status_refunded" = "Palautettu";
+"order_logistics_co" = "Shipping Co.";
+"order_logistics_no" = "nTracking No.";
+"order_logistics_day" = "päivä";
+"order_logistics_days" = "päivää";
+"package_status_Unpaid" = "Maksamaton";
+"package_status_Processing" = "Käsittely";
+"package_status_ReadyToShip" = "Valmis lähetettäväksi";
+"package_status_CanceledAfterPaid" = "Peruutettu";
+"package_status_InTransit" = "Transitissa";
+"package_status_Delivered" = "Toimitettu";
+"package_status_Refunded" = "Palautettu";
+"package_status_CanceledBeforePaid" = "Vanhentunut";
+"order_item_no" = "item";
+"order_item_nos" = "kohteet";
+"order_refunded_buy" = "Osta uudelleen";
+"returned_list_bottombar_sum" = "Yhteensä";
+"palautettu_list_bottombar_no" = "kohde";
+"palautettu_list_bottombar_nos" = "kohteet";
+"waiting_canceled_notice" = "Rahasi palautetaan 48 tunnin kuluessa";
+"order_detail_delete" = "Poista";
+"sidebar_order" = "Kaikki tilaukset";
+"order_viewdetail" = "Näytä tiedot";
+"order_detail_time" = "Tilausaika";
+"order_intransit_package" = "Paketti";
+"order_noorder_title" = "Ei tilauksia";
+"order_noorder_info" = "Siirry ja lisää tavaroita ostoskoriisi!";
+"order_noorder_button" = "Ostokset";
+"order_detail_param_price" = "Hinta";
+"order_detail_param_shipping" = "Shipping";
+"order_detail_param_total" = "Yhteensä";
+"order_detail_param_discount" = "Alennus";
+"order_detail_param_refund" = "Palautus";
+
+//////////////////////////// 首页 -Indeksi /////////////////// //////////////
+
+"guide_cart_title" = "Ostoskori";
+"guide_cart_para" = "Tarkista ostoskori täältä.";
+"guide_cart_button" = "Sain sen";
+"guide_dp_title" = "Lisää ostoskoriin";
+"guide_dp_para" = "Laita tavarat tähän ostoskoriin.";
+
+//////////////////////////// 优惠 券 -Koukku ////////////////// ///////////////
+
+"coupon_loggedin_title" = "ONNITTELUT";
+"coupon_loggedin_content_title" = "Sinä olet";
+"coupon_loggedin_content_description_1" = "App Exclusive Coupon";
+"coupon_loggedin_content_description_2" = "Uusi käyttäjäkuponki";
+"coupon_loggedin_button" = "Katso minun kupongit";
+"coupon_notloggedin_coupon" = "Kuponki";
+"coupon_notloggedin_title_1" = "Lähetä sinulle";
+"coupon_notloggedin_title_2" = "Uusi käyttäjä vain";
+"coupon_notloggedin_title_3" = "kuponkeja";
+"coupon_notloggedin_content_description_1" = "Kirjaudu sisään saadaksesi";
+"coupon_notloggedin_content_description_2" = "kuponkeja！";
+"coupon_notloggedin_button" = "Hanki se!";
+"coupon_cant_get" = "Olet rekisteröitynyt aiemmin, et voi saada kuponkeja.";
+"coupon_cant_get_enjoy" = "Nauti ostoksistasi";
+"coupon_cant_get_button" = "Ostokset";
+
+//////////////////////////// 优惠 券 -Koukku ////////////////// ///////////////
+
+"global_toast" = "Hups, olet menettänyt Internet-yhteyden.";
+"cart_wrong_address_toast" = "Valitettavasti tätä osoitetta ei voi valita.";
+
+//////////////////////////// der -Tilaaja /////////////////// //////////////
+
+"orderpage_title_1" = "Täysin palautettu";
+"orderpage_para_1" = "Jos et saa paketteja.";
+"orderpage_title_2" = "Paluu ja palautus";
+"orderpage_para_2" = "Jos kohde ei sovi kuvaukseen.";
+"orderpage_title_3" = "Turvallinen maksu Escrow-suojauksella";
+"orderpage_title_4" = "Helpompi, nopeampi riidanratkaisu";
+"orderpage_title_5" = "100% taattu palautus.";
+
+//////////////////////////// 商品 详情 -DP ////////////////// ///////////////
+
+"coupon_bigtitle" = "vain uudet käyttäjät";
+"coupon_para_title" = "COUPON";
+"coupon_para_button" = "Hanki se!";
+"ai_price" = "AI-HINNAN VERTAILU";
+"ai_price_button" = "Take a Look";
+"dp_share_para" = "Jaa tämä tuote ystävillesi";
+"dp_share_title" = "OTA YSTÄVÄT";
+"dp_item_description" = "Kuvaus";
+"dp_item_notice" = "Ilmoitus";
+"dp_item_notice_time" = "Käsittelyaika";
+"dp_item_notice_size" = "Tietoja kokooppaasta";
+"dp_item_description_more" = "Lisää";
+"dp_item_description_less" = "Vähemmän";
+
+//////////////////////////// 购物 车 -Kartta ////////////////// ///////////////
+
+"free_shipping_noenough_0" = "Osta";
+"free_shipping_noenough_1" = "enemmän nauttia ILMAISTA TOIMITUKSISTA!";
+"free_shipping_enough" = "Soveltuu maksuttomaan lähetykseen!";
+
+//////////////////////////// 登录 -login /////////////////// //////////////
+
+"Login_login" = "Kirjaudu sisään";
+"login_facebook" = "Kirjaudu Facebookiin";
+"login_phone" = "Kirjaudu sisään puhelimella";
+"login_google" = "Kirjaudu Googleen";
+"login_email" = "Kirjaudu sisään sähköpostilla";
+"signup_signin" = "Rekisteröidy";
+"signup_facebook" = "Rekisteröidy Facebookiin";
+"signup_phone" = "Rekisteröidy puhelimeen";
+"signup_google" = "Rekisteröidy Googleen";
+"signup_email" = "Rekisteröidy sähköpostilla";
+"signup_coupon" = "uusille käyttäjille";
+"signup_policydetail" = "Liittymälläg suostut meidän ";
+"signup_policydetail_1" = "Ehdot";
+"signup_policydetail_2" = "&";
+"signup_policydetail_3" = "Tietosuojakäytäntö";
+
+//////////////////////////// 空白 页 -nullpage ////////////////// ///////////////
+
+"no_coupon" = "Ei kuponkeja saatavilla";
+"no_order" = "No Order";
+"no_order_detail" = "Et ole tehnyt mitään tilauksia";
+"no_network" = "Hups!";
+"no_network_retry" = "Tarkista, onko puhelin kytketty Internetiin.";
+"no_search" = "Hups!";
+"no_search_detail" = "Ei hakutuloksia.";
+"no_goods_cart" = "Tyhjä ostoskori";
+"no_goods_cart_detail" = "Tuntuu niin tyhjältä, kun et osta.";
+"no_goods_cart_shop" = "Osta nyt";
+
+//////////////////////////// ress -Address /////////////////// //////////////
+
+"phone_wrong_toast" = "Puhelinnumero on väärässä muodossa.";
+"india_address_postcode_title" = "Pincode:";
+"india_street1_detail" = "Talo, rakennus, katu, sijainti";
+"india_street2_detail" = "Maamerkki (valinnainen)";
+"india_city_title" = "Kaupunki / piiri:";
+"india_state_title" = "Alue / valtio:";
+"india_mobile" = "Mobile";
+"india_mobile_phone_number" = "Matkapuhelinnumero";
+"india_country" = "County";
+"india_town" = "Sijainti / kaupunki";
+"india_street_address" = "Katuosoite";
+"india_address" = "Osoite";
+"india_address_details" = "Osoitetiedot";
+"india_detail_address_input" = "Street, Area, House No., C / O.";
+"india_addition_address" = "Apt, sviitti, lattia, Bldg jne. (valinnainen)";
+"zip_wrong_toast" = "Syötä 6-numeroinen pincode.";
+"zip_out_range" = "Valitettavasti emme voi toimittaa tätä koodia.";
+"location_failed" = "Sijainnin epäonnistuminen.";
+"sa_address_province_title" = "Valtio / Prov / Alue:";
+"sa_address_city_title" = "Kaupunki:";
+"sa_address_district_title" = "Piiri (valinnainen):";
+"sa_address_street1_title" = "Street";
+"sa_address_street2_title" = "Osoitetiedot (valinnainen)";
+
+/////////////////////////// 支付 -Pay /////////////////// //////////////
+
+"cash_on_delivery_0" = "Lisäkustannukset";
+"cash_on_delivery_1" = "Voit maksaa käteisellä, kun tilauksesi on toimitettu.";
+"cash_on delivery_2" = "Voit käyttää COD: tä vain, jos kaikki aiemmat COD-tilauksesi on allekirjoitettu onnistuneesti.";
+"phone_verify_title" = "Tilausvahvistus.";
+"phone_verify_detail_0" = "Vahvista puhelinnumerosi.";
+"phone_verify_detail_1" = "Napauta Lähetä koodi', jos haluat pyytää vahvistuskoodia.' ";
+"phone_verify_input" = "Puhelin";
+"phone_verify_button" = "Vahvista";
+"phone_code_detail" = "Anna 4-numeroinen koodi.";
+"phone_code_input" = "4-numeroinen koodi";
+"phone_code_resend" = "Lähetä uudelleen";
+"phone_verify_send" = "Lähetä koodi";
+"shipping_free" = "Free";
+"phone_verify_sending" = "Lähettäminen";
+"phone_verify_wrong" = "Väärä koodi. Yritä uudelleen.";
+"code_send_failed" = "Koodin lähettäminen epäonnistui, tarkista puhelinnumerosi ja yritä uudelleen.";
+"cod_not" = "Ei käytettävissä";
+
+//////////////////////////// DP- // /////////////////// //////////////
+
+"dp_reviews" = "Arvostelut";
+"dp_no_reviews" = "Ei arvosteluja";
+"dp_review" = "Review";
+"dp_topban_welcome" = "Tervetuloa";
+"dp_topban_order" = "Viimeisin järjestys";
+"dp_topban_ordertime" = "sekuntia sitten.";
+"dp_topban_view" = "ihmiset katsovat nyt!";
+"dp_more_reviews" = "Lisää arvosteluja";
+
+//////////////////////////// 首页 - 闪 购 ////////////////// ///////////////
+"flash_sale_end_in" = "Lopeta";
+"flash_sale_not_started" = "Ei käynnistetty";
+"flash_sale_over" = "Over";
+
+///////////////////////// DP- 加 // 解锁 // /////////////////// ///////////
+"limited_time_offer_info" = "Välitön tarjous: Lisää koriin juuri nyt, kun haluat avata halvemman hinnan!";
+"limited_time_offer_expired" = "Vanhentunut";
+"limited_time_offer_now_only" = "Vain nyt";
+"limited_time_offer_text_first" = "Avattu";
+"limited_time_offer_text_second" = "pois tästä tuotteesta.";
+"limited_time_offer_text_third" = "Tämä hinta päättyy 1 tunnin kuluessa niin, että varaus tapahtuu pian!";
+"limited_time_offer_continue" = "Jatka";
+
+//////////////////////// kuponki- 优惠 券 ////////////////////// ////////
+"coupon_available_info" = "Tilaa";
+"coupon_available_click_info" = "Napsauta tätä valitaksesi kuponki";
+"coupon_code_invalid" = "Kuponkikoodi on virheellinen";
+
+//////////////////////// index- 首页 ///////////////////// ///////
+"index_middle-card" = "SIVU>"; // 首页 - 中间 - 购物 车
+
+//////////////////////// cart- 购物 车 ////////////////////// ////////
+"cart_tip_buy" = "Osta";
+
+//////////////////////// 地址 优化 //////////////////////// //////
+"address_landmark" = "Lähin maamerkki";
+"ae_address_phone_number" = "Vaihtoehtoinen puhelinnumero";
+"address_location_type" = "Osoitetyyppi";
+"address_location_type_home" = "Koti";
+"address_location_type_business" = "Liiketoiminta";
+"address_optional_prompt" = "Valinnainen";
+
+//////////////////////// insta ///////////////////////// /////
+"instar_home_navigation" = "INSTA";
+"instar_trending_title" = "Insta";
+"instar_trending_shopping" = "SHOPPING>";
+"instar_trending_translation" = "SHOW TRANSLATION";
+"instar_trending_original" = "SHOW ORIGINAL";
+"instar_blogger_likes" = "Likes";
+"instar_blogger_follower" = "Seuraajat";
+"instar_blogger_following" = "Seuraava";
+"instar_blogger_not_follow_button" = "+ Seuraa";
+"instar_detail_page" = "Valokuva";
+"instar_review_title" = "Arvostelut";
+"instar_related_posts "=" Liittyvät viestit ";
+"instar_following_page_people" = "Ihmiset";
+"instar_following_page_hashtags" = "Hashtags";
+"instar_trending_view_more" = "Näytä lisää";
+"instar_unfollow_title" = "Lopeta";
+"instar_unfollow_info" = "Vahvista tyhjäksi";
+"instar_unfollow_cancel" = "Peruuta";
+"instar_unfollow_unfollow" = "Lopeta";
+"instar_collapse" = "Kutista";
+"insrar_object_recognized" = "objekti tunnistettu";
+"instar_posts" = "Posts";
+"instar_kol_not_post" = "ei ole vielä lähettänyt mitään ~";
+"instar_own_not_post" = "Et ole vielä lähettänyt mitään ~";
+"instar_following" = "Seuraava";
+"instar_sliding_into" = "Liukuminen INSTA: han";
+"instar_release_into" = "Julkaisu INSTA: han";
+"instar_bottom" = "Pääset pohjaan.";
+
+//////////////////////// 购物 车 //////////////////////// //////
+"fs_full_amount" = "Tilauksesi on oikeutettu maksuttomaan lähetykseen!";
+"fs_no_select" = "Ilmainen toimitus tilauksesta";
+"delete_no_select" = "Valitse tavarat";
+"we_accept" = "Hyväksymme";
+"fs_no_full_amount_0" = "Osta";
+"fs_no_full_amount_1" = "enemmän nauttia ILMAISTA TOIMITUKSISTA!";
+
+//////////////////////// DP ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// /////
+"DP_insta" = "INSTA SIMILARITY";
+"DP_info" = "Kuvaus";
+"DP_coupon" = "Uusi käyttäjäkuponki";
+"DP_selected" = "Valitse väri, koko";
+"DP_time" = "Arvioitu saapumisaika";
+"DP_product_similarity" = "TUOTTEEN YKSINKERTAISUUS";
+"DP_to" = "Lähetä";
+"DP_you_may_like" = "SINÄ VOITTAA";
+"DP_search_price" = "uusimman hinnan haku";
+
+/////////////////////// 首页 /////////////////////////// /////
+"home_shopping" = "SHOPPING";
+"home_fashion" = "FASHION";
+"fashion_new_arrival" = "Uusi saapuminen";
+"fashion_trending" = "Trendit";
+"home_all" = "ALL";
+
+/////////////////////// 搜索 结果 页 /////////////////////// ///////
+"search_results_top" = "Top";
+"search_results_new" = "Uusi";
+"search_results_price" = "Hinta";
+"search_results_filter" = "Suodatin";
+"search_results_follow" = "+ Seuraa";
+"search_results_following" = "Seuraava";
+
+//////////////////////// 购物 车 //////////////////////// //////
+"cart_invalid_items" = "Virheelliset kohteet";
+"cart_clear_items" = "Poista virheelliset kohteet";
+"cart_message" = "Vahvista tyhjät kelpaamattomat kohteet?";
+"cart_cancel" = "Peruuta";
+"cart_delete" = "Poista";
+"cart_1_hour_only" = "vain 1 tunti";
+
+//////////////////////// 闪 购 //////////////////////// //////
+"flash_sale_on_sale_now" = "Myynnissä nyt";
+"flash_sale_coming_soon" = "Tulossa pian";
+"flash_sale_sold" = "Myyty";
+"flash_sale_shop_now" = "Osta nyt";
+"flash_sale_almost_sold_out" = "Lähes loppuunmyyty";
+"flash_sale_sold_out" = "Loppuunmyyty";
+"flash_sale_starts_in" = "Aloittaa";
+"flash_sale_end_in" = "Lopeta";
+"flash_sale_remind" = "Muistutamme, kun se käynnistyy. Voit tarkistaa sen muistutuslistallasi.";
+"flash_sale_cancel_remind" = "Peruuta muistutus";
+"flash_sale_reminder_list" = "Sinulla ei ole vielä katsottuja kohteita. Mitä aikaisemmin olet asettanut muistutuksia, sitä aikaisemmin saat hyviä kohteita.";
+"flash_sale_fiery_buying" = "Fiery Buying";
+"flash_sale_coming_remind_me" = "Muistuta minua";
+"flash_sale_coming_following" = "Seuraava";
+"flash_sale_reminder_list_title" = "Muistutuslista";
+"flash_sale_reminder_canceled" = "Muistutus peruutettu";
+"flash_sale_reminder_list_on_going" = "Käynnissä";
+"flash_sale_tomorrow" = "Huomenna";
+
+/////////////////////// 领 券 提醒 /////////////////////// ///////
+"coupon_successful" = "Sinulla on kuponki (t)!";
+"coupon_already_received" = "Sinulla on jo kuponki (t)!";
+"coupon_error" = "Somthing meni pieleen verkon kanssa, yritä uudelleen";
+
+//////////////////////// DP 比价 ////////////////////// //////
+"Compare_price_sold_by" = "Myymät";
+"Compare_price_cloudmall" = "CloudMallissa";
+
+/////////////////////// 地址 /////////////////////////// /////
+"address_details" = "Osoitetiedot / maamerkki (valinnainen)";
+
+//////////////////////// 降价 提醒 //////////////////////// //////
+"price_reduction_home1" = "kohde (t) pudotti yhteensä";
+"price_reduction_home2" = "ostoskorissasi, tutustu nyt!";
+"price_reduction_home3" = "Sain sen";
+"price_reduction_dp1" = "Tutustu nyt ja saat";
+"price_reduction_dp2" = "Ilmainen toimitus";
+"price_reduction_dp3" = "Check out";
+"price_reduction_cart1" = "kohteiden hinnat ovat laskeneet";
+"price_reduction_cart2" = "tarkista se!";
+
+////////////////////////EE 手机 号 校验 ///////////////////// /////////
+"phone_check" = "Matkapuhelinnumerosi pitäisi olla 9-numeroinen numero, joka alkaa 5: llä";
+
+///// 库存 相关 的 翻译 /////
+"stock_dp_only" = "vain";
+"stock_dp_stock" = "jätetty varastossa - tilaus pian";
+
+//////////////////// item loputon 页面 ///////////////
+"item_end_less_only" = "vain";
+"item_end_less_stock" = "vasen";
+
+//////////////// Suodattimen 中 价格 选择 ////////////////
+"filter_price" = "Hinta";
+"filter_price_min" = "Min";
+"filter_price_max" = "Max";
+
+/////////// Suodattimen 全部 标题 翻译 //////////////
+"filter_brands" = "Tuotemerkit";
+"filter_categories" = "Luokat";
+"filter_colors" = "Värit";
+"filter_countries" = "Maat";
+"filter_interfaces" = "Liitäntä";
+"filter_materials" = "Materiaalit";
+"filter_minorcategories" = "MinorKategoriat";
+"filter_models" = "Mallit";
+"filter_sextags" = "Sukupuoli";
+"filter_sizes" = "Koko";
+
+////////////////////// suodatin 中 底部 按钮 /////////////////////
+"filter_reset" = "Palauta";
+"filter_apply" = "Käytä";
+
+/////////////// 支付 -MMS 商品 COD 不可 付款 提示 修改 /////////
+"cod_not_detail" = "COD on käytettävissä vain, kun tilaus on AED99-AED1799: n välillä eikä sisällä ei-COD-kohteita.";
+
+/////// Cart-MMS 商品 COD 不可 付款 提示 ///////
+"cart_not_cod_message" = "Nämä kohteet eivät tue COD: tä.";
+
+///////// 返利 中 的 首次 邀请 弹 窗 ////////
+"affiliate_invite_window_first" = "Ansaitse rahaa";
+"affiliate_invite_window_left" = "ONNITTELUT";
+"affiliate_invite_window_between" = "Saat";
+"affiliate_invite_window_right" = "käteinen, kutsu ystäviä ansaita enemmän rahaa.";
+"affiliate_invite_window_link" = "Kutsun linkki";
+"affiliate_invite_window_copy" = "Kopioi";
+"affiliate_invite_window_copy_prompt" = "Kopioi onnistuneesti";
+"affiliate_invite_window_wallet" = "Katso lompakkoani";
+"affiliate_invite_window_invite" = "Kutsu ystäväsi";
+"affiliate_invite_window_invite_prompt_fb" = "Facebook ei löytynyt";
+"affiliate_invite_window_invite_prompt_ms" = "Messenge ei löydy";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger ei löydy";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp ei löydy";
+
+///////// 返利 中 的 非 首次 打开 弹 窗 //////////////
+"affiliate_invite_window_not_first_left" = "WALLET:";
+"affiliate_invite_window_not_first_right" = "Onnistuneesti kutsuttu:";
+"affiliate_invite_window_not_first_last" = "ihmiset";
+
+////////// 被 邀请 人 登录 弹 窗 /////////
+"affiliate_invitee_pop_window_left" = "kutsuu sinut liittymään CloudMalliin ja antaa sinulle tämän yksinomaisen kupongin";
+"affiliate_invitee_pop_window_between" = "COUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Kupongin päättyminen";
+"affiliate_invitee_pop_window_log_fb" = "Rekisteröidy Facebookiin";
+"affiliate_invitee_pop_window_log_phone" = "Rekisteröidy puhelimeen";
+
+/////////////// 返利 通知 消息 /////////////////
+"affiliate_noti_friend_accept_left" = "Ystäväsi";
+"affiliate_noti_friend_accept_right" = "hyväksyi kutsusi.";
+"affiliate_noti_friend_log_right" = "kirjautunut sisään.";
+"affiliate_noti_friend_share_right" = "jako viestin.";
+"affiliate_noti_friend_share_item" = "jako kohteen.";
+"affiliate_noti_friend_bought_right" = "juuri ostanut";
+"affiliate_noti_friend_bought_end" = "kohde.";
+"affiliate_noti_withdraw_available_left" = "Sinulla on";
+"affiliate_noti_withdraw_available_right" = "poistettavissa.";
+"affiliate_noti_become_friend_left" = "Olet nyt";
+"affiliate_noti_become_friend_right" = "ystävä.";
+"affiliate_noti_got_wallet_left" = "Olet juuri saanut";
+"affiliate_noti_got_wallet_remind" = "Seurattu onnistuneesti. Muistutamme sinulle, kun Flash-myynti alkaa.";
+"affiliate_noti_got_wallet_sale" = "Flash-myynti alkaa nyt!";
+
+//////////// 钱包 /////////////
+"wallet_sider" = "Oma lompakko";
+"wallet_person_e_wallet" = "CloudMall E-Wallet";
+"wallet_person_cash" = "Käteinen";
+"wallet_person_pending" = "Odottaa";
+"wallet_person_refunded" = "Palautettu";
+"wallet_person_withdraw" = "Poista";
+"wallet_person_messages" = "Viestit";
+"wallet_person_invite" = "Kutsu";
+"sidebar_wallet" = "Oma lompakko";
+"wallet_withdraw_error_left" = "Peruutusvirhe";
+"wallet_withdraw_error_behind" = "Palautuksen yhteydessä on jotain vikaa?";
+"wallet_withdraw_error_right" = "Ota yhteyttä CloudMallin asiakaspalveluun.";
+"wallet_withdraw_error_end" = "Ota yhteyttä nyt";
+
+////////////////////// sääntö 弹 窗 //////////////////
+"rule_window" = "Know More";
+
+//////////// peruuttaa käytännön 弹 //////////
+"remove_policy_window_left" = "Peruuta käytäntö";
+"remove_policy_window_right" = "Minimi E-lompakon käteisvaraus";
+"remove_policy_window_end" = "Jatka kutsua";
+
+///////////////////// DP 页面 钱包 弹 窗 /////////////////
+"wallet_dp_window_left" = "Cash Back";
+"wallet_dp_window_right" = "Kutsu ystäviä saamaan";
+
+/////// 支付 页面 钱包 /////////
+"Submit_order_wallet" = "Lompakko";
+"Submit_order_available" = "Käytettävissä";
+"Submit_order_not_available" = "Ei availale";
+"order_detail_param_cash" = "Lompakko";
+
+///////////////// viesti 页面 //////////////
+"message_bought_item" = "Palkinto";

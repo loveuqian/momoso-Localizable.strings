@@ -1,0 +1,1069 @@
+
+"language_resources " = "ar";
+
+////////////////////////////////// 全局_all ///////////////////////////////////
+
+"pull_to_refresh_title_all" = "اسحب لأسفل للتحديث"; //购物车、首页、个人-订单、搜索结果
+"release_to_refresh_title_all" = "الافراج عن تحديث"; //购物车、首页、个人-订单、搜索结果
+"refreshing_title_all" = "جار التحميل"; //购物车、首页、个人-订单、搜索结果
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_flash_sale_title" = "بيع مفاجئ"; //首页-闪购标题
+"index_great_price_title" = "افضل سعر"; //首页-白菜价
+"index_mini_banner_title" = "قيمة عظيمة"; //首页-迷你精选
+"index_great_collection_title" = "أفضل البائعين"; //首页-类目精选
+"index_daily_update_title" = "موصى به لك"; //首页-海淘动态
+
+"index_tabbar_daily_update_title" = "الصفقات اليومية"; //首页-分屏每日精选-标题
+
+"index_choose_address_title" = "اختر عنوان الشحن"; //首页-选择收货地址
+"index_cannot_choose_address_toast" = "هذه المنطقة غير متوفرة حاليا"; //首页-选择新加坡/台湾时toast提示
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"hot_catogery_title_search" = "فهرس"; //搜索页面
+"hot_brand_title_search" = "العلامات التجارية"; //搜索页面
+"hot_mall_title_search" = "مراكز"; //搜索页面
+"all_brand_btn_searh" = "المزيد من العلامات التجارية"; //搜索页面
+"all_mall_title_search" = "المزيد من مراكز التسوق"; //搜索页面
+"best_sell_title_search" = "فئات شعبية"; //搜索页面
+
+"all_people_title_search_result" = "كل الناس"; //所有结果-筛选人群
+"all_brand_title_search_result" = "الماركات"; //所有结果-筛选品牌
+"general_sort_title_search_result" = "فرز"; //所有结果-排序
+"price_high_sort_title_search_result" = "السعر الاعلى الى الادنى)"; //所有结果-排序
+"price_low_sort_title_search_result" = "السعر من الارخص للاعلى)"; //所有结果-排序
+"discount_sort_title_search_result" = "افضل العروض"; //所有结果-排序
+"sale_sort_title_search_result" = "الأكثر شعبية"; //所有结果-排序
+
+"mall_filter_title_search_result" = "مجمع تجاري"; //所有结果-筛选
+"all_mall_filter_title_search_result" = "جميع المولات"; //所有结果-筛选
+"price_filter_title_search_result" = "السعر"; //所有结果-筛选
+"clear_price_filter_title_search_result" = "واضح"; //所有结果-筛选
+"close_filter_title_search_result" = "قريب"; //所有结果-筛选
+"reset_filter_title_search_result" = "إعادة تعيين"; //所有结果-筛选
+"ok_filter_title_search_result" = "تؤكد"; //所有结果-筛选
+
+"search_result_subscribe_btn" = "الاشتراك"; //搜索结果-品牌-订阅按钮
+"search_result_have_subscribed_btn" = "المشترك"; //搜索结果-品牌-已订阅按钮
+
+////////////////////////////////// 登录_signlogin ///////////////////////////////////
+
+"facebook_login_btn_signlogin" = "Facebook  تواصل مع ";
+"email_signup_btn_signlogin" = "سجل عن طريق البريد الإلكتروني";
+"login_btn_signlogin" = "تسجيل الدخول مع البريد الإلكتروني";
+
+"email_title_signlogin" = "البريد الإلكتروني";
+"password_title_signlogin" = "كلمه السر";
+"forget_password_btn_signlogin" = "هل نسيت كلمة المرور؟";
+
+"next_btn_signlogin" = "التالى";
+
+"comfire_password_btn_signlogin" = "تأكيد كلمة المرور";
+"finish_btn_signlogin" = "إنهاء";
+
+"phone_number_validation_title_signlogin" = "تم إرسال رمز التحقق";
+"validation_code_title_signlogin" = "أدخل رمز التحقق";
+
+"create_password_title_signlogin" = "انشاء كلمة السر"; //注册页面
+"new_username_btn_signlogin" = "اسم المستخدم";
+
+////////////////////////////////// 我_profile ///////////////////////////////////
+
+"favorite_title_profile" = "المفضلة";
+"advances_address_title_profile_setting" = "دليل العناوين";
+
+"order_title_profile_order" = "طلباتي";
+"un_paid_btn_profile_order" = "غير مدفوع";
+"processing_btn_profile_order" = "في تَقَدم";
+"received_btn_profile_order" = "منجز";
+"all_order_btn_profile_order" = "تاريخ الطلب";
+
+"problem_consult_title_profile_setting" = "مركز خدمة العملاء";
+"title_consult_title_profile_setting" = "يرجى ملء الموضوع";
+"title_consult_description_profile_setting" = "صف القضية";
+"placeholder_title_consult_description_profile_setting" = "أخبرنا بالتفاصيل حول المشكلة";
+"order_number_consult_profile_setting" = "رقم الأمر";
+"placeholder_order_number_consult_profile_setting" = "رقم الطلب المتعلق باستعلامك";
+"title_email_consult_profile_setting" = "البريد الإلكتروني";
+"placeholder_email_consult_profile_setting" = "الرجاء إدخال عنوان البريد الإلكتروني الخاص بك";
+"title_name_consult_profile_setting" = "اسم";
+"placeholder_title_name_consult_profile_setting" = "من فضلك أدخل إسمك";
+
+"feedback_title_profile_setting" = "ردود الفعل";
+"rate_title_profile_setting" = "قيمنا";
+"about_me_title_profile_setting" = "معلومات عنا";
+"sign_out_title_profile_setting" = "خروج";
+
+"confirm_clear_cache_title_profile_about" = "هل أنت متأكد من أنك تريد مسح ذاكرة التخزين المؤقت؟";
+
+"hint_feedback_title_profile_feedback" = "يرجى إدخال ملاحظاتك هنا";
+"hint_contact_title_profile_feedback" = "البريد الإلكتروني / رقم الهاتف (اختياري)";
+
+"my_profile_title_profile_info" = "ملفي";
+"modify_avatar_btn_profile_info" = "حمل الصورة";
+"modify_name_btn_profile_info" = "غير اسم المستخدم";
+"reset_password_btn_profile_info" = "إعادة تعيين";
+"reset_password_info_title_profile_info" = "سيتم إرسال رمز التحقق إلى بريدك الإلكتروني";
+"reset_password_title_profile_setting" = "إعادة ضبط كلمة المرور";
+
+"warn_sign_out_toast_profile_setting" = "لن يتم استلام تحديثات لطلبك بعد تسجيل الخروج. تقدم؟";
+
+"total_pay_title_cart" = "مجموع: ";
+"view_detail_btn_dp" = "تفاصيل الأمر";
+"view_logistics_btn_profile_order" = "ترتيب المسار";
+"go_pay_btn_profile_order" = "دفع";
+"delete_order_btn_profile_order" = "حذف";
+"pay_tax_btn_profile" = "دفع الضرائب";
+
+"share_lucky_money_btn_cart" = "شارك";
+
+"favors_album_title_profile_favors" = "مفضل";
+"camera_edit_btn_profile_address" = "تصحيح";
+"delete_album_tips_title_profile_favors" = "تأكيد حذف الألبوم؟";
+"delete_album_btn_profile_favors" = "حذف الألبوم";
+"no_album_desc_title_profile_favors" = "بدون وصف";
+"title_title_profile_favors" = "عنوان";
+"description_title_profile_favors" = "وصف";
+"new_album_title_dp" = "تحرير عنوان ألبوم جديد";
+
+"address_manage_title_all" = "إدارة دفتر العناوين";
+"add_address_btn_cart" = "أضف عنوانا جديدا";
+"id_phone_title_profile_cash" = "رقم الهاتف:";
+"detail_address_title_cart" = "وحدة / الطابق / بلوك / بناء / شارع";
+
+"change_region_title_profile_setting" = "تغيير المنطقة"; //个人-设置页面-切换地区
+"select_region_title_profile_setting" = "سافر على متن سفينة لِـ";
+"change_language_title_profile_setting" = "لغة";
+"clear_cache_title_profile_setting" = "مسح ذاكرة التخزين المؤقت"; //个人-设置页面缺失
+"setting_title_profile_setting" = "إعدادات"; //个人-设置页面头部
+"language_title_profile_setting" = "لغة"; //个人-设置页面-语言切换
+
+"cancle_send_question_profile_setting" = "إلغاء"; //个人-设置-问题咨询-左上角
+"ok_send_question_profile_setting" = "خضع"; //个人-设置-问题咨询-左上角
+
+"cancle_clear_cache_profile_setting" = "إلغاء"; //个人-设置-清除缓存弹窗
+"ok_clear_cache_profile_setting" = "مسح ذاكرة التخزين المؤقت"; //个人-设置-清除缓存弹窗
+
+"disclamier_btn_profile_setting" = "تعليمات الاستخدام"; //个人-设置-关于我们
+
+"ok_logout_profile_setting" = "الخروج"; //个人-设置-退出登录
+"cancle_logout_profile_setting" = "إلغاء"; //个人-设置-退出登录
+
+"take_photo_change_avatar_btn_profile" = "تصوير"; //头像修改-弹窗
+"open_photo__change_avatar_btn_profile" = "اختر من مكتبة الصور"; //头像修改-弹窗
+"cancle_change_avatar_btn_profile" = "إلغاء"; //头像修改-弹窗 //专辑编辑-左上角取消
+
+"ok_change_name_btn_profile" = "تؤكد"; //昵称修改-弹窗
+"cancle_change_name_btn_profile" = "إلغاء"; //昵称修改-弹窗
+
+"order_number_title_profile_order" = "رقم الأمر"; //订单-订单详细
+"order_time_title_profile_order" = "تاريخ الطلب"; //订单-订单详细
+"today_sale_title_profile_order" = "الصفقات اليومية"; //订单-物流详细
+"order_detail_title_profile_order" = "تفاصيل الطلب"; //订单-订单详细-标题
+"help_btn_profile_order" = "تحتاج مساعدة؟"; //订单-物流详细-漏了的
+
+"cancle_btn_profile_favors" = "إلغاء"; //收藏-专辑编辑
+"save_btn_profile_favors" = "حفظ"; //收藏-专辑编辑
+"confirm_delete_album_btn_profile_favors" = "حذف"; //收藏-专辑编辑-删除专辑弹窗
+"cancle_delete_album_btn_profile_favors" = "إلغاء"; //收藏-专辑编辑-删除专辑弹窗
+
+"ok_btn_profile_address" = "فعله"; //地址-新建地址/编辑地址-右上角
+"regioin_title_profile_address" = "المنطقة / الدولة"; //地址-新建地址/编辑地址-地区
+"delete_btn_profile_address" = "حذف"; //地址-左滑删除时
+
+"profile_address_receiver_title" = "الاسم الكامل:"; //地址管理-收件人栏的默认显示文案
+"profile_address_postcode_title" = "الرمز البريدي / الرمز البريدي:"; //地址管理-新加坡-邮编的默认显示文案
+
+"profile_favorite_no_album_title" = "آخر"; //地址-新建地址/编辑地址-地区
+
+"profile_default_addresss_title" = "غرفة ، الطابق ، مبنى ، شارع"; //地址-新建地址/编辑地址-地区
+
+"profile_no_orders_title" = "الملايين من المنتجات في انتظارك"; //個人-訂單無訂單時顯示的內容
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_icon_all" = "عربة";
+"hint2_login_title_cart" = "سجّل الدخول لمشاهدة سلة التسوق والمفضلة وسجل الطلبات";
+"select_all_btn_cart" = "اختر الكل";
+"save_price_title_cart" = "العرض ساري ";
+"checkout_btn_cart" = "الدفع";
+"empty_title_cart" = "سلة التسوق الخاصة بك فارغة";
+"item_viewed_title_cart" = "عناصر شوهدت مؤخرا";
+"mall_item_discount_title_dp" = "يتم تطبيق العرض تلقائيًا";
+"drop_price_title_cart" = "للبيع";
+
+"agreements_content_cart1" = ".Cloudmallمن خلال تقديم هذا الطلب،أوافق على";
+"agreements_content_cart2" = "الخصوصية و أمن/";
+"agreements_content_cart3" = "تعليمات الاستخدام/";
+"agreements_content_cart4" = "العودة وسياسات الصرف";
+"summit_checkout_btn_cart" = "أكد الطلب";
+"mall_shipping_fee_title_cart" = "رسوم الشحن مول";
+"tax_fee_title_cart" = "ضريبة";
+"supply_title_cart" = "المقدمة من قبل";
+"select_address_title_cart" = "اختر العنوان";
+
+"confirm_payment_btn_profile_order" = "إرسال الدفع";
+"asap_pay_title_cart" = "الصفقة تنتهي قريبا";
+"asap_pay_detail_content_cart" = "الأسعار قابلة للتغيير في أي وقت ، لذلك ضع طلبك الآن للحصول على أفضل صفقة!";
+"choose_payment_title_cart" = "اختر طريقة الدفع";
+"hint_choose_payment_title_cart" = "يرجى اختيار طريقة الدفع";
+"final_price_title_cart" = "اطلب المجموع:";
+
+"logistic_message_title_index_message" = "رسائل";
+
+"ok_btn_cart" = "القيام به"; //购物车列表-点击右上角后
+"edit_btn_cart" = "تحرير"; //购物车列表-右上角编辑
+"delete_sold_out_btn_cart" = "إزالة البنود المباعة"; //购物车列表-点击编辑后
+"delete_selected_btn_cart" = "حذف"; //购物车列表-点击编辑后
+
+"no_return_title_cart" = "المورد لا يدعم العودة"; //购物车列表-商品下说明
+"limited_number_title_cart" = "تقييد كمية البند"; //购物车列表-商品下说明
+"delete_btn_cart" = "حذف"; //购物车列表-左滑删除
+"not_qualified_title_cart" = "العرض لا ينطبق"; //购物车列表-商城运费优惠
+"qualified_title_cart" = "العرض ساري"; //购物车列表-商城运费优惠
+
+"choose_address_title_cart_checkout" = "اختر عنوان الشحن"; //提交订单-地址栏
+"close_btn_cart_checkout" = "قريب"; //点击渠道后-左上角关闭
+
+"order_submit_title_cart_checkout" = "المعالجة ، سيتم إرسال تأكيد لك خلال 48 ساعة"; //订单完成-小鲸鱼下方的标题
+"order_submit_sub_title_cart_checkout" = "إذا تعذر إكمال طلبك ، فسنبلغك عبر البريد الإلكتروني وسنعمل على رد الأموال"; //订单完成-小鲸鱼下方的标题
+
+"cart_benefit_title" = "الخصم مطبق"; //购物车-总价下的小字，缺了已优惠
+
+"cart_checkout_logistic_self_title" = "حدد موقع الالتقاط"; //购物车-顺丰自提-弹窗
+
+"cart_checkout_order_description_title0" = "المجموع:"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title1" = "(سيتم تحويل العملة تلقائيا)"; //购物车-提交订单-选择支付方式
+
+"cart_checkout_logistic_self_desc_title" = "رقم الهاتف"; //购物车-顺丰自提-字体说明
+"cart_checkout_logistic_door_desc_title" = "سيتم تحصيل 30 دولار هونج كونج عند التسليم إلى العناوين غير التجارية"; //购物车-顺丰自提-字体说明
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"add_cart_btn_dp" = "أضف إلى السلة";
+"favourite_icon_all" = "مفضل";
+"add_to_album_title_dp" = "أضف إلى الألبوم";
+
+"just_sold_title_dp" = "فقط بيعت";
+"subscribe_btn_search" = "الاشتراك";
+"subscribed_btn_search" = "المشترك";
+"translate_btn_dp" = "ترجمه";
+"translate_title_dp" = "وصف المنتج";
+
+"open_facebook_share_btn_dp" = "'Cloudmall' ترغب في فتح' الفيسبوك'"; //商品详细-点击分享弹窗
+"cancle_open_facebook_share_btn_dp" = "إلغاء"; //商品详细-点击分享弹窗
+"ok_open_facebook_share_btn_dp" = "افتح"; //商品详细-点击分享弹窗
+
+"service_description_title_dp" = "تفاصيل"; //商品详细-点击包税、超值等
+"great_deal_title_dp" = "قيمة عظيمة"; //商品详细-超值
+"great_sale_title_dp" = "عرض خاص"; //商品详细-优惠
+
+"brand_title_dp" = "علامة تجارية"; //商品详细页下
+"item_description_title_dp" = "وصف المنتج"; //商品详细下-商品概述
+"more_item_title_dp" = "غيرها من المنتجات التي قد ترغب"; //商品详细-最底部商品推荐
+"supplier_btn_dp" = "تاجر"; //商品详细-tabbar上
+
+"new_album_btn_dp" = "البوم جديد"; //商品详细-点击收藏-新建
+
+"have_select_desc_title_dp" = "المحدد"; //商品详细-点击加入购物车
+"warn_addcart_title_dp" = "يرجى ملاحظة أن جميع المعلومات الواردة أعلاه (اللون ، الحجم ، إلخ) يتم توفيرها من قبل موردينا وهي للإشارة فقط.";
+"quantity_addcart_title_dp" = "كمية"; //商品详细-点击加入购物车
+"ok_addcart_btn_dp" = "حسنا"; //商品详细-加入购物车
+
+"dp_about_mall_sale_title" = "تفاصيل العرض"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title1_title" = "يتم توفير الخصم من قبل المورد"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content1_title" = "الخصم الذي يقدمه المورد سيتم تطبيقه تلقائيا.CloudMall غير مسؤولة عن التغييرات في هذا العرض"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title2_title" = "سيتم تطبيق الخصم تلقائيا"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content2_title" = "سيتم تطبيق الخصم تلقائيًا ، دون الحاجة إلى قسائم"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title3_title" = "عرض خاص منتهي الصلاحية"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content3_title" = "وقت الخصم محدود وقد انتهت صلاحية العرض"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title4_title" = "تم تطبيق العرض بنجاح"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_content4_title" = "تم تطبيق رمز القسيمة"; //商品详细-关于商城优惠活动
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_main_realtime_discout" = "خصم"; //首页-热门-实时折扣
+"index_main_time_limited_discout" = "بيع مفاجئ"; //首页-热门-限时闪购
+"index_main_hot_mall" = "مبيعات ساخنة"; //首页-热门-热门市场
+"index_main_hot_mall_more" = "أكثر من"; //首页-热门-热门市场-更多商铺
+"index_main_hot_mall_view" = "أدخل المتجر"; //首页-热门-热门市场-进入商铺
+
+"index_main_lightlux" = "تتجه"; //首页-热门-类目精选-轻奢
+"index_main_bigbrand" = "ماركات كبيرة"; //首页-热门-类目精选-大牌
+"index_main_casual" = "عرضي"; //首页-热门-类目精选-休闲生活
+"index_main_beauty" = "الجمال"; //首页-热门-类目精选-美妆护肤
+"index_main_sportwear" = "ملابس رياضية"; //首页-热门-类目精选-户外运动
+"index_main_men" = "الرجال"; //首页-热门-类目精选-睿智男士
+
+"index_sub_dailyupdate" = "التحديث اليومي"; //首页-分屏-每日精选
+"index_sub_youmaylike" = "قد يعجبك أيضا"; //首页-分屏-每日精选
+
+////////////////////////////////// 商品详细_detail ///////////////////////////////////
+
+"dp_mall_high_grade_mall" = "أفضل بائع"; //商品-商城-优质商家
+"dp_mall_all_product" = "المنتجات"; //商品-商城-全部商品
+"dp_mall_total_sale" = "البنود المباعة"; //商品-商城-总销量
+"dp_mall_runs_years" = "سنوات"; //商品-商城-优质商家
+
+"dp_flash_sale" = "البيع ينتهي في"; //商品-限时闪购-倒计时
+"dp_favorite_new_abulm" = "إضافة"; //商品-收藏-新建专辑
+"dp_favorite_popup_cancel" = "إلغاء"; //商品-收藏-新建专辑
+"dp_favorite_popup_confirm" = "أكد"; //商品-收藏-新建专辑
+"dp_favorite_toast_success" = "تمت إضافة العنصر إلى ألبومك"; //商品-收藏-新建专辑
+"dp_favorite_popup_unfav_success" = "أزل من الألبوم بنجاح"; //商品-收藏-新建专辑
+"dp_soldout" = "بيعت"; //商品-售光了-找相似
+"dp_description" = "حول هذا البند"; //商品-收藏-新建专辑
+
+"dp_add_cart_success_toast" = "وأضاف إلى السلة"; //商品-成功加入购物车-toast
+
+////////////////////////////////// 搜索_search ///////////////////////////////////
+
+"search_result_temp_title" = "نتائج البحث"; //搜索-搜索结果-主标题
+
+"search_history_result" = "تاريخ"; //搜索-历史搜索
+"search_history_result_cancel" = "إلغاء"; //搜索-历史搜索-取消
+"search_hot_result" = "تتجه"; //搜索-搜索结果-热门搜索
+"search_all_brand" = "جميع العلامات التجارية"; //搜索-所有品牌
+"search_brand_list" = "قائمة العلامات التجارية"; //搜索-品牌列表
+"search_result_filter_clear" = "واضح"; //搜索-品牌列表
+
+"search_history_result_clear_popup_title" = "مسح محفوظات البحث"; //搜索-清空历史记录-标题
+"search_history_result_clear_popup_content" = "هل أنت متأكد من أنك تريد مسح سجل البحث الخاص بك؟"; //搜索-清空历史记录-内容
+"search_history_result_clear_popup_cancle" = "إلغاء"; //搜索-清空历史记录-取消
+"search_history_result_clear_popup_confirm" = "تؤكد"; //搜索-清空历史记录-确定
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_checkout_credit_card" = "بطاقة الائتمان / الخصم"; //购物车-确认支付-信用卡标题
+"cart_checkout_total_bill" = "مجموع "; //购物车-确认支付-确认标题前
+
+"cart_checkout_credit_card_title" = "بطاقة الائتمان / الخصم"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_change_credit_card" = "تغيير البطاقة"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
+"cart_checkout_new_credit_card" = "أضف بطاقة جديدة"; //购物车-确认支付-选择信用卡支付-新建信用卡
+"cart_checkout_credit_card_toast" = "الرجاء إضافة بطاقة جديدة أولاً"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
+"cart_checkout_credit_card_cancel" = "إلغاء"; //购物车-确认支付-选择信用卡支付-取消
+"cart_checkout_credit_card_pay" = "الدفع"; //购物车-确认支付-选择信用卡支付-付款
+"cart_checkout_credit_card_confirm" = "تؤكد"; //购物车-确认支付-选择信用卡支付-增加新加-cvv-确定
+
+"cart_checkout_card_holdername_title" = "اسم"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
+"cart_checkout_card_holdername_default" = "اسم حامل البطاقة"; //购物车-确认支付-选择信用卡支付-弹窗标题
+"cart_checkout_card_number_title" = "رقم البطاقة"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_card_number_default" = "أدخل رقم البطاقة"; //购物车-确认支付-选择信用卡支付-卡号
+"cart_checkout_valid_date_title" = "تاريخ انتهاء الصلاحية"; //购物车-确认支付-选择信用卡支付-有效期
+"cart_checkout_valid_date_default" = "الشهري / السنوي"; //购物车-确认支付-选择信用卡支付-月月/年年
+"cart_checkout_safe_code_title" = "رمز الحماية"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_safe_code_default" = "املأ رمز الحماية خلف البطاقة"; //购物车-确认支付-选择信用卡支付-安全码
+"cart_checkout_about_safety" = "تتم معالجة دفعتك لعملية الشراء هذه بأمان بواسطة معالج دفع من جهة خارجية. CloudMall لا تخزن معلومات بطاقتك الائتمانية."; //购物车-确认支付-选择信用卡支付-安全承诺
+"cart_checkout_comfirm" = "تؤكد"; //购物车-确认支付-选择信用卡支付-完成按钮
+
+"cart_checkout_card_holdername_toast" = "اسم حامل البطاقة غير صالح. يرجى استخدام الأحرف الأبجدية الرقمية فقط [A-z]"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
+"cart_checkout_card_number_toast" = "رقم البطاقة الذي تم إدخاله غير صالح. يرجى مضاعفة التحقق من رقم بطاقتك"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
+"cart_checkout_card_number_toast2" = "نوع البطاقة غير مدعوم. يرجى محاولة استخدام بطاقة أخرى"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_valid_date_toast" = "تاريخ انتهاء صلاحية البطاقة غير صالح. يرجى مضاعفة التحقق من تاريخ انتهاء صلاحية بطاقتك"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_safe_code_toast" = "يرجى إدخال رمز الحماية الصحيح"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+
+"cart_edit_done" = "تؤكد"; //购物车-编辑-完成
+"cart_edit_delete_no_goods" = "حذف مباعة البنود"; //购物车-编辑-完成
+"cart_edit_delete_item" = "حذف"; //购物车-编辑-完成
+"cart_checkout_all_item" = "عنصر (عناصر)"; //购物车-结算-共X件商品
+"cart_checkout_sum_price" = "المجموع:"; //购物车-编辑-完成
+
+"cart_checkout_cancel_payment_popup_title" = "النظام غير مدفوع"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_content" = "يرجى الدفع في غضون 24 ساعة"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_confirm" = "تؤكد"; //购物车-订单-取消支付-弹窗
+
+"cart_checkout_card_date_jan" = "01- يناير"; //购物车-确认支付-填写信用卡日期-一月
+"cart_checkout_card_date_feb" = "02- فبراير"; //购物车-确认支付-填写信用卡日期-二月
+"cart_checkout_card_date_mar" = "مارس 03-"; //购物车-确认支付-填写信用卡日期-三月
+"cart_checkout_card_date_apr" = "04- أبريل"; //购物车-确认支付-填写信用卡日期-四月
+"cart_checkout_card_date_may" = "05- مايو"; //购物车-确认支付-填写信用卡日期-五月
+"cart_checkout_card_date_jun" = "06- يونيو"; //购物车-确认支付-填写信用卡日期-六月
+"cart_checkout_card_date_jul" = "07- يوليو"; //购物车-确认支付-填写信用卡日期-七月
+"cart_checkout_card_date_aug" = "08- أغسطس"; //购物车-确认支付-填写信用卡日期-八月
+"cart_checkout_card_date_sep" = "09- سبتمبر"; //购物车-确认支付-填写信用卡日期-九月
+"cart_checkout_card_date_oct" = "10- أكتوبر"; //购物车-确认支付-填写信用卡日期-十月
+"cart_checkout_card_date_nov" = "11- نوفمبر"; //购物车-确认支付-填写信用卡日期-十一月
+"cart_checkout_card_date_dec" = "12 ديسمبر - "; //购物车-确认支付-填写信用卡日期-十二月
+
+"cart_not_login_btn" = "دخول"; //购物车-未登录-登录按钮
+"cart_checkout_card_cancel" = "إلغاء"; //购物车-选择支付-取消
+"cart_checkout_card_pay" = "شراء "; //购物车-选择支付-付款
+"cart_checkout_card_popup_title" = "خطأ"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_content" = "حدث خطأ في دفعك ، يُرجى التحقق من صحة تفاصيل البطاقة التي أدخلتها أو محاولة الدفع باستخدام بطاقة مختلفة."; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_cancel" = "فيما بعد"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_card_popup_tryagain" = "حاول مرة أخرى"; //购物车-选择支付-支付出问题-标题
+"cart_checkout_pay_total" = "شراء"; //购物车-选择支付-取消
+"cart_checkout_bill_total" = "مشروع قانون المجموع "; //购物车-选择支付-付款
+"cart_checkout_pay_success_title" = "نجاح"; //购物车-选择支付-支付成功
+
+////////////////////////////////// 个人-Proilfe ///////////////////////////////////
+
+"profile_setting_customer_service_cancel" = "إلغاء"; //个人-客服-取消
+"profile_setting_customer_service_confirm" = "تؤكد"; //个人-客服-提交
+"profile_setting_clearcache_clearing" = "مسح ذاكرة التخزين المؤقت ..."; //个人-清除缓存-取消
+"profile_setting_clearcache_cancel" = "إلغاء"; //个人-清除缓存-取消
+"profile_setting_clearcache_confirm" = "أكد"; //个人-清除缓存-清除
+"profile_setting_feedback_cancel" = "إلغاء"; //个人-反馈-取消
+"profile_setting_feedback_confirm" = "إرسال"; //个人-反馈-发送
+"profile_setting_signout_cancel" = "إلغاء"; //个人-退出登录-取消
+"profile_setting_signout_title" = "نصائح"; //个人-退出登录-取消
+
+"profile_change_photo_cancel" = "إلغاء"; //个人-清除缓存-取消
+
+"profile_favorite_edit_cancel" = "غلغاء"; //个人-编辑专辑-取消
+"profile_favorite_edit_save" = "حفظ"; //个人-编辑专辑-保存
+"profile_favorite_edit_title" = "تحرير الألبوم"; //个人-编辑专辑-标题-专辑编辑
+
+"profile_address_edit_confirm" = "أكد"; //个人-地址编辑-完成
+
+"profile_setting_termsofuse" = "شروط الاستخدام"; //个人-设置-协议条款与条件
+"profile_setting_rateapp" = ".Cloudmallمعدل "; //个人-设置-给个评价
+
+"profile_change_name_cancel" = "إلغاء"; //个人-更改名字-取消
+"profile_address_hongkong" = "هونغ كونغ"; //香港
+"profile_address_singapore" = "سنغافورة"; //新加坡
+"profile_address_taiwan" = "تايوان"; //台湾
+"profile_address_vietnam" = "فيتنام"; //越南
+"profile_address_indonesia" = "أندونيسيا"; //印度尼西亚
+"profile_setting_clearcache_success" = "تم مسح ذاكرة التخزين المؤقت بنجاح"; //个人-清除缓存-清除
+"profile_order_logistic_title" = "تتبع الطلب"; //个人-订单-物流查询-标题
+"profile_order_logistic_package" = "صفقة"; //个人-订单-物流查询-标题
+"profile_address_region_title" = "اختر المنطقة"; //个人-订单-物流查询-标题
+"profile_address_empty_toast" = "يرجى ملء النموذج"; //个人-地址-空提醒
+
+//////////////////////////////android 新增//////////////////////////////////////////
+
+"loading_title_profile"="تحميل ...";
+"more"="أكثر";
+"no_entries_in_cart_detail"="اذهب واكتشاف المزيد من العناصر!";
+"press_again_exit_toast_all"="انقر مرة أخرى والخروج";
+"write_need"="يرجى إدخال المعلومات الأساسية";
+
+"adyen_expired_year_toast_1"="تاريخ انتهاء صلاحية بطاقة الائتمان:";
+"adyen_expired_year_toast_2"="تاريخ انتهاء صلاحية بطاقة الائتمان 4 أرقام";
+"cart_year_expire_toast"="تنسيق تاريخ انتهاء الصلاحية غير صحيح";
+"cart_year_expire_write_toast"="يرجى ملء تاريخ انتهاء صلاحية البطاقة";
+"new_sort_title_search_result"="جديد إلى قديم";
+"no_delivery_supported"="التسليم غير معتمد";
+
+////////////////////////////////// 首页_index ///////////////////////////////////
+
+"index_board_highlight" = "العناصر الموصى بها"; //首页-二级页面-board标题
+"index_bannerlist_highlight" = "قائمة الموصى بها"; //首页-二级页面-board标题
+"index_pagingbanner_highlight" = "قائمة الموصى بها"; //首页-二级页面-board标题
+"index_hotshop_highlight" = "قائمة الموصى بها"; //首页-二级页面-board标题
+
+//////////////////////////////// 搜索_search ////////////////////////////////////
+
+"search_input_defualt" = "شحن مجاني في جميع أنحاء العالم"; //首页-二级页面-board标题
+
+/////////////////////////////// 个人-profile /////////////////////////////////////
+
+"profile_address_input_default" = "املأ"; //个人-地址-输入框
+"profile_address_select_default" = "اختر"; //个人-地址-下拉框
+"profile_address_province" = "مقاطعة / الدولة:"; //个人-地址-省州
+"profile_address_city" = "المدينة / البلدة:"; //个人-地址-城市
+"profile_address_district" = "الحي:"; //个人-地址-下拉框
+"profile_address_detail" = "شقة ، مبنى ... (اختياري)"; //个人-地址-详细地址
+
+"profile_address_us" = "الولايات المتحدة";
+"profile_address_uk" = "المملكة المتحدة";
+"profile_address_ca" = "كندا";
+"profile_address_de" = "دويتشلاند";
+"profile_address_au" = "أستراليا";
+"profile_address_nz" = "نيوزيلندا";
+"profile_address_fr" = "فرنسا";
+"profile_address_it" = "إيطاليا";
+"profile_address_es" = "إسبانيا";
+"profile_address_ru" = "الاتحاد الروسي";
+"profile_address_mx" = "مكسيكو سيتي";
+"profile_address_nl" = "هولندا";
+"profile_address_no" = "النرويج";
+"profile_address_dk" = "الدنمارك";
+"profile_address_se" = "السويد";
+"profile_address_ch" = "سويسرا";
+"profile_address_pl" = "بولندا";
+"profile_address_be" = "بلجيكا";
+"profile_address_ie" = "أيرلندا";
+"profile_address_fi" = "فنلندا";
+"profile_address_pt" = "البرتغال";
+"profile_address_ph" = "الفلبين";
+"profile_address_my" = "ماليزيا";
+"profile_address_jp" = "اليابان";
+"profile_address_kr" = "كوريا";
+"profile_address_ua" = "أوكرانيا";
+"profile_address_in" = "الهند";
+"profile_address_ae" = "الإمارات العربية المتحدة";
+"profile_address_sa" = "المملكة العربية السعودية";
+"profile_address_qa" = "قطر";
+"profile_address_kw" = "الكويت";
+"profile_address_tr" = "تركيا";
+"profile_address_il" = "إسرائيل";
+"profile_address_th" = "تايلاند";
+"profile_address_at" = "النمسا";
+"profile_address_cz" = "تشيكي";
+"profile_address_za" = "جنوب افريقيا";
+
+"profile_order_package_number" = "رقم الحزمة"; //个人-物流详细
+
+"profile_setting_feedback_null_toast" = "يرجى إدخال جميع المعلومات"; //个人-物流详细
+"profile_setting_feedback_null_mail_toast" = "يرجى إدخال عنوان البريد الإلكتروني بشكل صحيح"; //个人-物流详细
+"address_hint_postcode_not_null"="يرجى إدخال عنوان البريد الإلكتروني";
+"choose_logistic"="يرجى تحديد طريقة الشحن";
+"confirm_delete_order_title_profile_order"="هل أنت متأكد من حذف الطلب؟";
+"confirm_valid_hint"="كلمات المرور غير متسقة";
+"pay_lack_param"="البيانات الضرورية مفقودة";
+"please_select_address"="يرجى تحديد العنوان";
+"success_hide_order_profile_order"="تم الحذف بنجاح";
+"network_connect_error"="خطأ في الشبكة";
+"network_error"="مهلة اتصال الشبكة";
+
+////////////////////////////// 商品详细-detail ////////////////////////////////
+
+"dp_select_null_toast" = "من فضلك اختر "; //个人-地址-详细地址
+
+////////////////////////////// 购物车-cart ////////////////////////////////
+
+"cart_soldout_toast" = "بعض البنود بيعت"; //个人-地址-详细地址
+
+////////////////////////////首页-index /////////////////////////////////
+
+"index_got_coupon_toast" = "تهنئة! لديك قسيمة"; //搜索-筛选-来源
+"index_wrong_region_toast" = "القسائم غير متوفرة في المنطقة الحالية"; //搜索-筛选-来源
+"index_condition_not_meet_toast" = "لا يمكنك أخذ القسيمة"; //搜索-筛选-来源
+"index_number_limit_toast" = "لديك قسيمة أكثر من مرة"; //搜索-筛选-来源
+"index_timeout_toast" = "الكوبون خارج الوقت"; //搜索-筛选-来源
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_filter_source" = "الباعة"; //搜索-筛选-来源
+"search_filter_brand" = "العلامات التجارية"; //搜索-筛选-品牌
+"search_filter_category" = "الأقسام"; //搜索-筛选-类目
+"search_filter_crowd" = "مستهلك"; //搜索-筛选-人群
+"search_filter_more" = "أكثر"; //搜索-筛选-全部
+"search_filter_reset" = "إعادة تعيين"; //搜索-筛选-全部
+"search_filter_apply" = "تطبق"; //搜索-筛选-全部
+"search_sort_popular" = "Popular"; //搜索-筛选-全部
+"search_sort_topsale" = "كبار البائعين"; //搜索-筛选-全部
+"search_sort_price" = "السعر"; //搜索-筛选-全部
+
+"search_list_supply_by" = "المقدمة من قبل"; //搜索-筛选-全部
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_coupon_title" = "كوبونات";
+"profile_coupon_only_country" = "فقط في";
+"profile_coupon_condition_over" = "شراء ";
+"profile_coupon_condition_get" = "واحصل على";
+"profile_coupon_valid_period" = "فترة صالحة";
+"profile_coupon_specific" = "مركز تجاري محدد أو علامة تجارية ";
+"profile_coupon_null" = "لا قسائم في الوقت الحالي";
+"profile_coupon_available" = "متاح";
+"profile_coupon_unavailable" = "غير متاح";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_coupon_available" = "متاح";//支付是提示有没可用
+"cart_coupon_unavailable" = "غير متاح";//支付时提示有没可用
+
+//////////////////////////// 商品详细页-DP /////////////////////////////////
+
+"dp_shipment_title" = "سفن من";//支付是提示有没可用
+"dp_shipment_to_title" = "ال";//支付时提示有没可用
+"dp_receive_title" = "سلمت في";//支付时提示有没可用
+"dp_receive_days_title" = "أيام";//支付时提示有没可用
+"dp_shipment_notsupport_title" = "التسليم غير مدعوم";//支付是提示有没可用
+"dp_shipment_notsupport_description" = "لا يمكن تسليم العنصر إلى المنطقة الحالية";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_comment_main_title" = "تعليق";//支付是提示有没可用
+"index_comment_sub_title" = "مثلنا والتعليق";//支付是提示有没可用
+"index_bad_feedback_btn" = "ردود الفعل";//支付是提示有没可用
+"index_good_feedback_btn" = "مثلنا!";//支付是提示有没可用
+"index_timeout_title" = "مهلة";//支付是提示有没可用
+"index_pending_title" = " لم تبدأ ";//支付是提示有没可用
+"index_timeout2_title" = "مهلة الترويج";//支付是提示有没可用
+"index_pending2_title" = "الترويج لم يبدأ";//支付是提示有没可用
+
+"index_region_null" = "يرجى تحديد المنطقة واللغة";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"dp_total_sale_title" = "الإجمالي المباع";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_minutes_ago" = " منذ دقيقة";//支付是提示有没可用
+"index_hours_ago" = " منذ ساعات";//支付是提示有没可用
+"index_days_ago" = " قبل ايام";//支付是提示有没可用
+"index_weeks_ago" = " منذ اسابيع";//支付是提示有没可用
+"index_months_ago" = " منذ شهر";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_current_filter" = "فلتر";//支付是提示有没可用
+
+//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+
+"search_no_result" = "عذرا ، لا يمكننا العثور على النتائج";//支付是提示有没可用
+
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_ai_search" = "البحث منظمة العفو الدولية";//支付是提示有没可用
+"search_ai_found" = "عناصر مماثلة";//支付是提示有没可用
+"search_ai_explore" = "عناصر مماثلة";//支付是提示有没可用
+"search_ai_not_found" = "لا توجد عناصر مماثلة";//支付是提示有没可用
+"search_ai_description" = "الآن يمكنك العثور على نفس العناصر مع بحث منظمة العفو الدولية";//支付是提示有没可用
+"search_ai_description_confirm" = "فهمت";//支付是提示有没可用
+
+"search_ai_finding" = "البحث منظمة العفو الدولية يتقدم الآن";//支付是提示有没可用
+"search_ai_find_nothing" = "عذرا ، لا توجد عناصر مماثلة";//支付是提示有没可用
+"search_ai_similarity" = "تشابه:";//支付是提示有没可用
+
+"search_sort_discount" = "خصم";//支付是提示有没可用
+
+//////////////////////////// 详细-DP /////////////////////////////////
+
+"dp_ai_found" = "عناصر مماثلة";//支付是提示有没可用
+"dp_ai_explore" = "استكشاف المزيد من العناصر المتشابهة";//支付是提示有没可用
+"dp_ai_find_nothing" = "لا توجد عناصر مماثلة";//支付是提示有没可用
+"dp_ai_find_nothing_toast" = "عذرا ، لا توجد عناصر مماثلة";//支付是提示有没可用
+
+//////////////////////////// 个人-Profile /////////////////////////////////
+
+"profile_favorite_ablum_nothing" = "لا شيء في الألبوم";//支付是提示有没可用
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_tab_all" = "كل";//支付是提示有没可用
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_purchase_add_card" = "استخدم بطاقة ائتمان / خصم جديدة";//支付是提示有没可用
+"cart_purchase_choose_card" = "اختر من قائمة بطاقتي";//支付是提示有没可用
+"cart_purchase_delete_card_title" = "حذف بطاقة الائتمان";//支付是提示有没可用
+"cart_purchase_delete_card_content" = "هل أنت متأكد من أنك تريد حذف هذه البطاقة؟";//支付是提示"cart_purchase_delete_card" = "حذف";//支付是提示有没可用
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_cards_tips" = "انتقد لحذف بطاقة الائتمان / الخصم";//支付是提示有没可用
+"profile_cards_null" = "لا توجد بطاقات ائتمان / خصم مرتبطة بحسابك";//支付是提示有没可用
+
+//////////////////////////// 详细页-DP /////////////////////////////////
+
+"dp_message_title" = "إشعار";
+
+"dp_follow_btn" = "تابع";
+"dp_following_btn" = "ما يلي";
+"dp_brand_title" = "علامة تجارية";
+"dp_brand_shai_title" = "عرض العلامة التجارية";
+"dp_soldby_title" = "المقدمة من قبل";
+"dp_mall_followers" = "المتابعون";
+"dp_mall_items" = "البنود";
+"dp_mall_rate" = "معدل";
+"dp_mall_sold" = "تباع";
+"dp_mall_location" = "منطقة";
+"dp_mall_type" = "نوع";
+"dp_mall_type_general" = "مورد عام";
+"dp_mall_type_brand" = "المورد العلامة التجارية";
+
+"dp_desc_title" = "التفاصيل";
+
+"dp_you_may_like" = "قد يعجبك";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_incomplete" = "العنوان غير كامل";
+
+//////////////////////////// 首页-index /////////////////////////////////
+
+"index_topic_all" = "كل العناصر";
+"index_topic_title" = "موضوعات مميزة";
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_alert1_title" = "من خلال الانضمام لك توافق على موقعنا";
+"login_alert2_title" = " شروط";
+"login_alert3_title" = "و";
+"login_alert4_title" = "سياسة الخصوصية.";
+"login_alert5_title" = " بالإضافة إلى ذلك ، احصل على تحديثات الطلبات وتنبيهات المبيعات والمزيد في بريدك الوارد.";
+
+"login_email_validation" = "لقد أرسلنا لك رسالة بريد إلكتروني حول إعادة تعيين كلمة المرور. يرجى التحقق من بريدك الإلكتروني وإعادة تعيين كلمة المرور الخاصة بك";
+
+//////////////////////////// 全局-all /////////////////////////////////
+
+"all_no_more_items" = "- لا مزيد من العناصر -";
+
+//////////////////////////// 搜索-search /////////////////////////////////
+
+"search_clearhistory_title" = "هل أنت متأكد من مسح محفوظات البحث";
+"search_clearhistory_cancel_title" = "إلغاء";
+"search_clearhistory_sure_title" = "نعم أنا متأكد";
+
+//////////////////////////// 详细页-dp /////////////////////////////////
+
+"dp_mall_title" = "منظمة العفو الدولية السعر قارن";
+"dp_sizeguide_title" = "دليل الحجم";
+"dp_mall_nofulfilment_title" = "عذرا ، نحن لا ندعم التمرين الآن. يمكنك البحث على موقعه على الانترنت.";
+"dp_size_description" = "ننصحك بالحجم المناسب وفقًا للرسم البياني المقاس. يرجى ملاحظة أن يتم توفير معلومات المنتج (اللون ، التحجيم ، وما إلى ذلك) من قبل موردينا ، وهذا هو المرجع الوحيد.";
+"dp_mall_location_taobao" = "هونغ كونغ";
+
+"dp_outorder_title" = "خارج الترتيب";
+"dp_processingtime_title" = "وقت المعالجة";
+"dp_processingtime_subtitle" = "البند سوف يتم شحنها في غضون 3-5 أيام عمل.";
+"dp_addcart_fail_toast" = "اضافة الى السلة الفاشلة";
+
+"profile_album_need_title" = "يرجى إدخال العنوان";
+
+//////////////////////////// 購物車-cart /////////////////////////////////
+
+"cart_shipment_title" = "شحنة: ";
+"cart_shipment_days_title" = "أيام العمل";
+"cart_remove_items" = "إزالة";
+"cart_remove_items_success" = "نجاح";
+"cart_remove_items_fail" = "يرجى المحاولة مرة أخرى";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_no_content" = "يرجى استيفاء النموذج";
+"profile_help_title" = "مساعدة";
+"profile_submitsuccess_toast" = "يقدم بنجاح";
+"profile_address_submitsuccess_toast" = "وأضاف بنجاح";
+"profile_bill_fail_toast" = "فشل تحميل الفواتير ، يرجى المحاولة مرة أخرى في وقت لاحق";
+"profile_bill_confirm" = "أكد";
+
+//////////////////////////// 登陆-login /////////////////////////////////
+
+"login_wrong_password" = "كلمة المرور غير متناسقة";
+"login_short_password" = "كلمة المرور يجب أن تكون أكثر من 6 أحرف";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_address_success_toast" = "نجاح";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_use_coupon" = "استخدام القسائم";
+"checkout_sure_popup_title" = "هل أنت متأكد من أنك تريد إلغاء هذه الدفعة؟";
+"checkout_sure_popup_yes" = "أكد";
+"checkout_sure_popup_no" = "إلغاء";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_discount_notice_title" = "خصم";
+"dp_favorite_add_toast" = "أضيفت إلى المفضلة لديك";
+"dp_favorite_remove_toast" = "إزالتها من المفضلة لديك";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_switch_address&language_confirm" = "القيام به";
+
+//////////////////////////// 购物车-cart /////////////////////////////////
+
+"cart_shipping_recommend" = "حار";
+
+//////////////////////////// 商品详细-dp /////////////////////////////////
+
+"dp_desctiption_more" = "أكثر";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_less" = "أقل";
+
+//////////////////////////// 个人-profile /////////////////////////////////
+
+"profile_order_confirmation_button" = "تأكيد الحزمة المستلمة";
+"profile_order_confirmation_popup_title" = "تأكيد الحزمة المستلمة";
+"profile_order_confirmation_popup_content" = "'إذا كنت قد تلقيت الحزمة ، يرجى الضغط على 'تأكيد";
+"profile_order_confirmation_popup_cancel" = "إلغاء";
+"profile_order_confirmation_popup_confirm" = "أكد";
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"sidebar_order_unpaid" = "غير مدفوع";
+"sidebar_order_processing" = "تحويل";
+"sidebar_order_all" = "كل الطلبات";
+"sidebar_message" = "رسائل";
+"sidebar_category" = "كل الفئات";
+"sidebar_favorite" = "المفضلة";
+"sidebar_creditcard" = "بطاقات الائتمان";
+"sidebar_address" = "دفتر العناوين";
+"sidebar_setting" = "إعدادات";
+"sidebar_faq" = "التعليمات";
+"sidebar_coupon" = "كوبونات";
+"sidebar_signin" = "انقر لتسجيل الدخول";
+"sidebar_setting_login" = "دخول";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+
+"search_sort_popular" = "شعبي";
+"search_sort_hotsale" = "كبار البائعين";
+"search_sort_discount_descend" = "الخصم من الاعلى الى الادنى";
+"search_sort_discount_ascend" = "خصم منخفض إلى مرتفع";
+"search_sort_price_descend" = "السعر من الاعلى الى الادنى";
+"search_sort_price_ascend" = "سعر منخفض إلى مرتفع";
+"search_fitler" = "فلتر";
+
+"search_top_search" = "أعلى البحث";
+"search_category_title" = "قسم";
+"search_brand_title" = "ماركة";
+"search_trending_title" = "تتجه";
+
+"search_filter_cancel" = "إلغاء";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_more_items" = "المزيد من العناصر";
+
+//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+
+"search_mallpage_soldby" = "المبيع";
+"search_brandpage_title" = "الماركة";
+"search_all_items_title" = "البنود";
+"search_watching_title" = "عدد المشاهدات";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+
+"cart_popup_title" = " ؟Couldmall ما رايك في ";
+"cart_popup_nice" = "جيد جدا!";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_guide_region" = "يمكنك تغيير منطقة الشحن";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_toast_greeting" = "أخبار جيدة!";
+"cart_toast_pricedrop" = "انخفاض السعر في";
+"cart_toast_item" = "البند (ق)!";
+
+//////////////////////////// 商品详细-DP /////////////////////////////////
+
+"dp_aiprice_intitle" = " التجزئةCouldmall";
+"dp_aiprice_inshop" = "CloudMall";
+"dp_aiprice_viewmore" = "عرض المزيد";
+"dp_aiprice_outshop" = "مقارنة مع";
+"dp_aiprice_outtitle" = "متاجر التجزئة الأخرى";
+"dp_aiprice_inshipping" = "الشحن المجاني";
+"dp_aiprice_outshipping" = "يشمل";
+"dp_aiprice_shipping" = "الشحن";
+
+////////////////////////////////// 购物车_cart ///////////////////////////////////
+"cart_mark_pricedrop" = "انخفاض الأسعار";
+"cart_seller_from" = "من";
+"cart_total_shipping" = "الشحن غير المدرجة";
+"cart_total_total" = "مجموع";
+"cart_total_pay" = "الخروج";
+"cart_soldout_popup" = "تم بيع بعض العناصر المحددة ، يرجى إلغاء التحديد والمحاولة مرة أخرى";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"index_banner_more" = "عرض الكل";
+
+//////////////////////////// 搜索-Search /////////////////////////////////
+"search_mall_soldby" = "تباع من قبل";
+"search_mall_about" = "حول";
+"search_mall_More" = "أكثر";
+"search_mall_less" = "اقل";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+"profile_coupon_use" = "استخدم الآن";
+"profile_coupon_details" = "تفاصيل القسيمة";
+"profile_coupon_expired" = "انتهت";
+"profile_coupon_viewdetail" = "عرض التفاصيل";
+"profile_coupon_timefrom" = "صالح من";
+"profile_coupon_timeto" = "ال";
+"order_coupon_notchoose" = "لا تستخدم القسيمة";
+"profile_coupon_unused" = "غير مستخدمة";
+"profile_coupon_expired" = "انتهت";
+"profile_coupon_nocoupon" = "لا كوبونات المتاحة";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"order_status_unpaid" = "غير مدفوع";
+"order_status_pending" = "ريثما";
+"order_status_shipping" = "الشحن";
+"order_status_all" = "كل";
+"order_detail_policy" = "بعد سياسة المبيعات";
+"order_policy_help" = "بحاجة الى مساعدة؟";
+"order_policy_contact" = "اتصل بنا";
+"order_confirm_delivery" = "تأكيد التسليم";
+"order_confirm_logistics" = "الخدمات اللوجستية";
+"order_status_finished" = "انتهى";
+"order_status_refunded" = "ردها";
+"order_logistics_co" = "شركة الشحن ";
+"order_logistics_no" = "رقم التتبع ";
+"order_logistics_day" = "يوم";
+"order_logistics_days" = " أيام";
+"package_status_Unpaid" = "غير مدفوع";
+"package_status_Processing" = "تحويل";
+"package_status_ReadyToShip" = "على استعداد للسفينة";
+"package_status_CanceledAfterPaid" = "ألغيت";
+"package_status_InTransit" = "في العبور";
+"package_status_Delivered" = "تسليم";
+"package_status_Refunded" = "ردها";
+"package_status_CanceledBeforePaid" = "انتهت";
+"order_item_no" = " بند";
+"order_item_nos" = " البنود";
+"order_refunded_buy" = "اشتري مرة أخرى";
+"refunded_list_bottombar_sum" = "مجموع ";
+"refunded_list_bottombar_no" = "بند";
+"refunded_list_bottombar_nos" = " البنود";
+"pending_canceled_notice" = "سوف يعود أموالك خلال 48 ساعة";
+"order_detail_delete" = "حذف";
+"sidebar_order" = "كل الطلبات";
+"order_viewdetail" = "عرض التفاصيل";
+"order_detail_time" = "وقت الطلب";
+"order_intransit_package" = "صفقة ";
+"order_noorder_title" = "ليس الطلبات";
+"order_noorder_info" = "اذهب وإضافة السلع إلى عربة التسوق الخاصة بك!";
+"order_noorder_button" = "اذهب للتسوق";
+"order_detail_param_price" = "سعر";
+"order_detail_param_shipping" = "الشحن";
+"order_detail_param_total" = "مجموع";
+"order_detail_param_discount" = "خصم";
+"order_detail_param_refund" = "رد";
+
+//////////////////////////// 首页-Index /////////////////////////////////
+
+"guide_cart_title" = "عربة التسوق";
+"guide_cart_para" = "تحقق من عربة التسوق هنا";
+"guide_cart_button" = "فهمت";
+"guide_dp_title" = "أضف إلى السلة";
+"guide_dp_para" = "ضع البضائع في سلة التسوق هنا.";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"coupon_loggedin_title" = "تهانينا";
+"coupon_loggedin_content_title" = "أنت حصلت";
+"coupon_loggedin_content_description_1" = "قسيمة حصرية للتطبيق";
+"coupon_loggedin_content_description_2" = "كوبون مستخدم جديد";
+"coupon_loggedin_button" = "انظر بلدي القسائم";
+"coupon_notloggedin_coupon" = "كوبون";
+"coupon_notloggedin_title_1" = "أرسل لك";
+"coupon_notloggedin_title_2" = "مستخدم جديد فقط \ ن";
+"coupon_notloggedin_title_3" = "كوبونات";
+"coupon_notloggedin_content_description_1" = "سجل للحصول على";
+"coupon_notloggedin_content_description_2" = "كوبونات";
+"coupon_notloggedin_button" = "احصل عليه!";
+"coupon_cant_get" = "لقد قمت بالتسجيل من قبل ، لا يمكن الحصول على القسائم.";
+"coupon_cant_get_enjoy" = "استمتع بالتسوق";
+"coupon_cant_get_button" = "اذهب للتسوق";
+
+//////////////////////////// 优惠券-Coupon /////////////////////////////////
+
+"global_toast" = "عفوًا ، لقد فقدت الاتصال بالإنترنت.";
+"cart_wrong_address_toast" = "عذرًا ، لا يمكن اختيار هذا العنوان.";
+
+//////////////////////////// 订单-Order /////////////////////////////////
+
+"orderpage_title_1" = "كامل المبلغ المسترد";
+"orderpage_para_1" = "إذا كنت لا تتلقى باقاتك.";
+"orderpage_title_2" = "العودة واسترداد";
+"orderpage_para_2" = "إذا كان العنصر لا يصلح الوصف.";
+"orderpage_title_3" = "الدفع الآمن مع حماية الضمان";
+"orderpage_title_4" = "أسهل وأسرع حل النزاعات";
+"orderpage_title_5" = "100 ٪ المبالغ المستردة مضمونة.";
+
+//////////////////////////// 商品详情-DP /////////////////////////////////
+
+"coupon_bigtitle" = "مستخدمون جدد فقط";
+"coupon_para_title" = "القسيمة";
+"coupon_para_button" = "احصل عليه!";
+"ai_price" = "مقارنة سعر البرو";
+"ai_price_button" = "إلق نظرة";
+"dp_share_para" = "شارك هذه السلع مع أصدقائك";
+"dp_share_title" = "مشاركتها مع الأصدقاء";
+"dp_item_description" = "وصف";
+"dp_item_notice" = "تنويه";
+"dp_item_notice_time" = "وقت المعالجة";
+"dp_item_notice_size" = "حول حجم الدليل";
+"dp_item_description_more" = "أكثر";
+"dp_item_description_less" = "أقل";
+
+//////////////////////////// 购物车-Cart /////////////////////////////////
+
+"free_shipping_noenough_0" = "شراء ";
+"free_shipping_noenough_1" = " أكثر للتمتع الشحن المجاني!";
+"free_shipping_enough" = "مؤهل للشحن المجاني!";
+
+//////////////////////////// 登录-login /////////////////////////////////
+
+"Login_login" = "تسجيل الدخول";
+"login_facebook" = "تسجيل الدخول باستخدام الفيسبوك";
+"login_phone" = "تسجيل الدخول مع الهاتف";
+"login_google" = "تسجيل الدخول مع جوجل";
+"login_email" = "تسجيل الدخول باستخدام البريد الإلكتروني";
+"signup_signin" = "سجل";
+"signup_facebook" = "اشترك عبر حساب فايسبوك";
+"signup_phone" = "اشترك مع الهاتف";
+"signup_google" = "اشترك مع جوجل";
+"signup_email" = "سجل عن طريق البريد الإلكتروني";
+"signup_coupon" = " للمستخدمين الجدد";
+"signup_policydetail" = "من خلال الانضمام لك توافق على موقعنا";
+"signup_policydetail_1" = "شروط";
+"signup_policydetail_2" = "و";
+"signup_policydetail_3" = "سياسة الخصوصية";
+
+//////////////////////////// 空白页-nullpage /////////////////////////////////
+
+"no_coupon" = "لا كوبونات المتاحة";
+"no_order" = "لا طلب";
+"no_order_detail" = "أنت لم تقدم أي طلبات";
+"no_network" = "وجه الفتاة!";
+"no_network_retry" = "تحقق مما إذا كان هاتفك متصلاً بالإنترنت.";
+"no_search" = "وجه الفتاة!";
+"no_search_detail" = "لا نتائج للبحث.";
+"no_goods_cart" = "عربة فارغة";
+"no_goods_cart_detail" = "أشعر بالفرار عندما لا تتسوق.";
+"no_goods_cart_shop" = "تسوق الآن";
+
+//////////////////////////// 地址-Address /////////////////////////////////
+
+"phone_wrong_toast" = "رقم الهاتف في تنسيق خاطئ.";
+"india_address_postcode_title" = "الرقم السري";
+"india_street1_detail" = "منزل لا ، بناء ، شارع ، محلية";
+"india_street2_detail" = "معلم (اختياري)";
+"india_city_title" = "مقاطعه المدينه: ";
+"india_state_title" = "المنطقة / الدولة: ";
+"zip_wrong_toast" = "الرجاء إدخال رقم سري مؤلف من 6 أرقام.";
+"zip_out_range" = "عذرًا ، لا يمكننا تسليم هذا الرمز السري.";
+"location_failed" = "الحصول على الموقع فشل.";
+"sa_address_province_title" = ". الدولة / سفر الأمثال / المنطقة: ";
+"sa_address_city_title" = "مدينة: ";
+"sa_address_district_title" = "الحي (اختياري):";
+"sa_address_street1_title" = "شارع";
+"sa_address_street2_title" = "تفاصيل العنوان (اختياري)";
+
+//////////////////////////// 支付-Pay /////////////////////////////////
+
+"cash_on_delivery_0" = "تكلفة إضافية";
+"cash_on_delivery_1" = "يمكنك الدفع نقدًا عند استلام طلبك.";
+"cash_on delivery_2" = " السابقة بنجاحCOD فقط إذا تم تجسيل جميع الطلبات CODيمكنك استخدام ";
+"phone_verify_title" = "تأكيد الطلب.";
+"phone_verify_detail_0" = "يرجى التحقق من رقم هاتفك.";
+"phone_verify_detail_1" = "انقر فوق 'إرسال رمز' لطلب رمز التحقق.";
+"phone_verify_input" = "هاتفك";
+"phone_verify_button" = "التحقق";
+"phone_code_detail" = "يرجى إدخال 4 أرقام.";
+"phone_code_input" = "رمز مكون من 4 أرقام";
+"phone_code_resend" = "إعادة إرسال";
+"phone_verify_send" = "إرسال الكود";
+"shipping_free" = "حر";
+"phone_verify_sending" = "إرسال";
+"phone_verify_wrong" = "رمز خاطئ. حاول ثانية.";
+"code_send_failed" = "أخفق إرسال الرمز ، يرجى التحقق من رقم هاتفك والمحاولة مرة أخرى.";
+"cod_not" = "غير متاح";
+"cod_not_detail" = " لأن مبلغ الطلب أقل من الحد أو يتجاوزهCOD عذرا، لايمكنك استخدام طريقة الدفع";
+
+//////////////////////////// DP-评论 /////////////////////////////////
+
+"dp_reviews" = "التعليقات";
+"dp_no_reviews" = "لا استعراضات";
+"dp_review" = " مراجعة";
+"dp_topban_welcome" = "ترحيب ";
+"dp_topban_order" = "أحدث طلب,";
+"dp_topban_ordertime" = "قبل ثانية";
+"dp_topban_view" = " الناس يشاهدون الآن!";
