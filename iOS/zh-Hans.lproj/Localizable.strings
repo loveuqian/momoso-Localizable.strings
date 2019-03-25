@@ -317,7 +317,7 @@
 "dp_favorite_popup_confirm" = "确定"; //商品-收藏-新建专辑
 "dp_favorite_toast_success" = "已成功添加到"; //商品-收藏-新建专辑
 "dp_favorite_popup_unfav_success" = "取消收藏成功"; //商品-收藏-新建专辑
-"dp_soldout" = "售光了，找相似"; //商品-售光了-找相似
+"dp_soldout" = "售光了"; //商品-售光了-找相似
 "dp_description" = "商品概述"; //商品-收藏-新建专辑
 
 "dp_add_cart_success_toast" = "成功加入购物车"; //商品-成功加入购物车-toast
