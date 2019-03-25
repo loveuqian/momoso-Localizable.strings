@@ -1,5 +1,5 @@
 
-"language_resources" = "en";
+"language_resources" = "法语";
 
 //////////////////////////////////// // all _all /////////////// //////////////////////////
 
@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "a partagé un message.";
 "affiliate_noti_friend_share_item" = "a partagé un élément.";
 "affiliate_noti_friend_bought_right" = "viens d'acheter";
-"affiliate_noti_friend_bought_end" = "élément.";
+"affiliate_noti_friend_bought_end" = "article (s) .Vous obtenez un";
+"affiliate_noti_friend_bought_end_new" = "remboursement!";
 "affiliate_noti_withdraw_available_left" = "Vous avez";
 "affiliate_noti_withdraw_available_right" = "disponible pour retirer.";
 "affiliate_noti_become_friend_left" = "Vous êtes maintenant";
 "affiliate_noti_become_friend_right" = "l'ami.";
 "affiliate_noti_got_wallet_left" = "Vous venez de recevoir";
+"affiliate_noti_got_wallet_left_first_login" = "Bienvenue dans CloudMall! 10% de réduction sur votre premier achat!";
 "affiliate_noti_got_wallet_remind" = "Nous avons suivi ce message. Nous vous le rappellerons une fois que la vente flash aura commencé.";
 "affiliate_noti_got_wallet_sale" = "Vente flash à partir de maintenant!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// message 页面 ////////////////
 "message_bought_item" = "récompense";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Règles d'utilisation du portefeuille";
+"submit_order_wallet_rule_first" = "Vous ne pouvez utiliser que le solde du portefeuille“ Disponible ”.";
+"submit_order_wallet_rule_third" = "Invitez plus d'amis à passer des commandes pour obtenir plus d'argent de portefeuille gratuit!";
+"submit_order_wallet_rule_thread" = "Le solde du portefeuille ne peut pas être utilisé pour couvrir les frais d'expédition.";
+"submit_order_wallet_rule_fourth" = "En raison de restrictions locales, le solde du portefeuille ne peut pas être utilisé pour couvrir la totalité du montant de l'achat. Si le solde disponible de votre portefeuille dépasse le montant total de votre achat, ce n'est qu'une partie du solde disponible sera utilisée.";
+"submit_order_wallet_rule_button" = "Je l'ai eu";

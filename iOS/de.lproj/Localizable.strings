@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "hat einen Beitrag geteilt.";
 "affiliate_noti_friend_share_item" = "hat ein Element freigegeben.";
 "affiliate_noti_friend_bought_right" = "gerade gekauft";
-"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_friend_bought_end" = "Artikel. Sie erhalten eine";
+"affiliate_noti_friend_bought_end_new" = "Abzug!";
 "affiliate_noti_withdraw_available_left" = "Sie haben";
 "affiliate_noti_withdraw_available_right" = "zum Abheben verfügbar.";
 "affiliate_noti_become_friend_left" = "Sie sind jetzt";
 "affiliate_noti_become_friend_right" = "s Freund.";
 "affiliate_noti_got_wallet_left" = "Sie haben gerade erhalten";
+"affiliate_noti_got_wallet_left_first_login" = "Willkommen bei CloudMall! 10% Rabatt auf Ihren ersten Einkauf!";
 "affiliate_noti_got_wallet_remind" = "Erfolgreich gefolgt. Wir werden Sie daran erinnern, sobald der Flash Sale startet.";
 "affiliate_noti_got_wallet_sale" = "Flash Sale startet jetzt!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// message // //////////////
 "message_bought_item" = "Belohnung";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Regeln für die Verwendung von Brieftaschen";
+"submit_order_wallet_rule_first" = "Es kann nur ein verfügbares Guthabenkonto verwendet werden.";
+"submit_order_wallet_rule_third" = "Laden Sie mehr Freunde ein, um Bestellungen zu platzieren, um mehr Geld für Gratisgeld zu erhalten!";
+"submit_order_wallet_rule_thread" = "Der Kontostand kann nicht zur Deckung der Versandkosten verwendet werden.";
+"submit_order_wallet_rule_fourth" = "Aufgrund lokaler Beschränkungen kann der Kontostand nicht zur Deckung des gesamten Kaufbetrags verwendet werden. Wenn der verfügbare Kontostand Ihres Portfolios Ihren gesamten Kaufbetrag übersteigt, wird nur ein Teil des verfügbaren Kontostands verwendet.";
+"submit_order_wallet_rule_button" = "Ich habs";

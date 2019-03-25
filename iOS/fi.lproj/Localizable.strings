@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "jako viestin.";
 "affiliate_noti_friend_share_item" = "jako kohteen.";
 "affiliate_noti_friend_bought_right" = "juuri ostanut";
-"affiliate_noti_friend_bought_end" = "kohde.";
+"affiliate_noti_friend_bought_end" = "tuote (t)";
+"affiliate_noti_friend_bought_end_new" = "alennus!";
 "affiliate_noti_withdraw_available_left" = "Sinulla on";
 "affiliate_noti_withdraw_available_right" = "poistettavissa.";
 "affiliate_noti_become_friend_left" = "Olet nyt";
 "affiliate_noti_become_friend_right" = "ystävä.";
 "affiliate_noti_got_wallet_left" = "Olet juuri saanut";
+"affiliate_noti_got_wallet_left_first_login" = "Tervetuloa CloudMalliin! 10% OFF ensimmäisestä ostoksestasi!";
 "affiliate_noti_got_wallet_remind" = "Seurattu onnistuneesti. Muistutamme sinulle, kun Flash-myynti alkaa.";
 "affiliate_noti_got_wallet_sale" = "Flash-myynti alkaa nyt!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// viesti 页面 //////////////
 "message_bought_item" = "Palkinto";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"Submit_order_wallet_rule_title" = "Lompakon käyttösäännöt";
+"Submit_order_wallet_rule_first" = "Vain“ Käytettävissä olevaa ”lompakon saldoa voidaan käyttää.";
+"Submit_order_wallet_rule_third" = "Kutsu lisää ystäviä tekemään tilauksia saadaksesi lisää maksutta lompakon käteistä!";
+"Submit_order_wallet_rule_thread" = "Lompakon saldoa ei voi käyttää kuljetuskustannusten kattamiseen.";
+"Submit_order_wallet_rule_fourth" = "Paikallisten rajoitusten takia lompakon saldoa ei voi käyttää kattamaan koko ostomäärää. Jos lompakon käytettävissä oleva saldo ylittää oston kokonaismäärän, käytetään vain osaa käytettävissä olevasta saldosta.";
+"Submit_order_wallet_rule_button" = "Sain sen";

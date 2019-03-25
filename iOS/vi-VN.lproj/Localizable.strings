@@ -1,5 +1,5 @@
 
-"language_resources " = "vd";
+"language_resources " = "越南语";
 
 ////////////////////////////////// 全局_all ///////////////////////////////////
 
@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "đã chia sẻ một bài viết.";
 "affiliate_noti_friend_share_item" = "chia sẻ một mục.";
 "affiliate_noti_friend_bought_right" = "mới mua";
-"affiliate_noti_friend_bought_end" = "mục.";
+"affiliate_noti_friend_bought_end" = "mục (s). Bạn đang nhận được một";
+"link_noti_friend_b think_end_new" = "giảm giá!";
 "affiliate_noti_withdraw_available_left" = "Bạn có";
 "affiliate_noti_withdraw_available_right" = "có sẵn để rút tiền.";
 "affiliate_noti_become_friend_left" = "Bạn đã trở thành";
 "affiliate_noti_become_friend_right" = "bạn của tôi";
 "affiliate_noti_got_wallet_left" = "Bạn vừa có";
+"link_noti_got_wallet_left_first_login" = "Chào mừng bạn đến với CloudMall! GIẢM GIÁ 10% cho lần mua hàng đầu tiên của bạn!";
 "affiliate_noti_got_wallet_remind" = "Thành công theo sau. Chúng tôi sẽ nhắc nhở bạn khi bắt đầu flash sale.";
 "affiliate_noti_got_wallet_sale" = "Các mục đã chọn hiện có trên Flash Sale!";
 
@@ -1412,3 +1414,11 @@
 
 /////////////////message页面//////////////
 "message_bought_item" = "Phần thưởng";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Quy tắc sử dụng ví";
+"submit_order_wallet_rule_first" = "Chỉ có thể sử dụng số dư ví tiền có sẵn.";
+"submit_order_wallet_rule_third" = "Mời thêm bạn bè đặt hàng để nhận thêm tiền mặt miễn phí!";
+"submit_order_wallet_rule_thread" = "Không thể sử dụng số dư ví để trang trải chi phí vận chuyển.";
+"submit_order_wallet_rule_fourth" = "Do các hạn chế cục bộ, số dư ví không thể được sử dụng để trang trải toàn bộ số tiền mua. Nếu số dư khả dụng trong ví của bạn vượt quá tổng số tiền mua của bạn, thì chỉ một phần của số dư khả dụng sẽ được sử dụng.";
+"submit_order_wallet_rule_button" = "Đã nhận";

@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "แบ่งปันโพสต์";
 "affiliate_noti_friend_share_item" = "แบ่งปันรายการ";
 "affiliate_noti_friend_bought_right" = "เพิ่งซื้อ";
-"affiliate_noti_friend_bought_end" = "รายการ";
+"affiliate_noti_friend_bought_end" = "รายการคุณกำลังได้รับ";
+"affiliate_noti_friend_bought_end_new" = "คืนเงิน!";
 "affiliate_noti_withdraw_available_left" = "คุณมี";
 "affiliate_noti_withdraw_available_right" = "พร้อมที่จะถอน";
 "affiliate_noti_become_friend_left" = "ตอนนี้คุณอยู่";
 "affiliate_noti_become_friend_right" = "ของเพื่อน";
 "affiliate_noti_got_wallet_left" = "คุณเพิ่งได้รับ";
+"affiliate_noti_got_wallet_left_first_login" = "ยินดีต้อนรับสู่ CloudMall! 10% จากการซื้อครั้งแรกของคุณ!";
 "affiliate_noti_got_wallet_remind" = "สำเร็จแล้วเราจะเตือนคุณเมื่อการขายแฟลชเริ่มขึ้น";
 "affiliate_noti_got_wallet_sale" = "การลดราคาแฟลชเริ่มต้นตอนนี้!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// ข้อความ页面 //////////////
 "message_bought_item" = "รางวัล";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "กฎการใช้งาน Wallet";
+"submit_order_wallet_rule_first" = "สามารถใช้งานได้เฉพาะยอดเงินคงเหลือในกระเป๋า“ พร้อมใช้งาน”";
+"submit_order_wallet_rule_third" = "เชิญเพื่อนเพิ่มเพื่อรับคำสั่งซื้อเพื่อรับเงินสดกระเป๋าเงินฟรีมากขึ้น!";
+"submit_order_wallet_rule_thread" = "ไม่สามารถใช้ยอดเงินคงเหลือใน Wallet เพื่อครอบคลุมค่าขนส่งได้";
+"submit_order_wallet_rule_fourth" = "เนื่องจากข้อ จำกัด ในท้องถิ่นไม่สามารถใช้ยอดคงเหลือกระเป๋าเงินในการครอบคลุมจำนวนการซื้อทั้งหมดได้หากยอดคงเหลือที่มีอยู่ในกระเป๋าเงินของคุณเกินจำนวนการซื้อทั้งหมดจะใช้เพียงส่วนหนึ่งของยอดเงินคงเหลือ
+"submit_order_wallet_rule_button" = "ได้มา";

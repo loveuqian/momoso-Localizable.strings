@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "delade ett inlägg.";
 "affiliate_noti_friend_share_item" = "delade ett objekt.";
 "affiliate_noti_friend_bought_right" = "just purchased";
-"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_friend_bought_end" = "objekt (er). Du får en";
+"affiliate_noti_friend_bought_end_new" = "rabatt!";
 "affiliate_noti_withdraw_available_left" = "Du har";
 "affiliate_noti_withdraw_available_right" = "tillgänglig för att dra tillbaka.";
 "affiliate_noti_become_friend_left" = "Du är nu";
 "affiliate_noti_become_friend_right" = "s vän.";
 "affiliate_noti_got_wallet_left" = "Du har precis fått";
+"affiliate_noti_got_wallet_left_first_login" = "Välkommen till CloudMall! 10% AV ditt första köp!";
 "affiliate_noti_got_wallet_remind" = "Successfully followed. Vi kommer påminna dig när Flash-försäljningen börjar.";
 "affiliate_noti_got_wallet_sale" = "Flash-försäljning börjar nu!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// meddelande 页面 //////////////
 "message_bought_item" = "Belöning";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Användningsregler för plånbok";
+"submit_order_wallet_rule_first" = "Endast“ Tillgänglig ”plånboksbalans kan användas.";
+"submit_order_wallet_rule_third" = "Bjud in fler vänner att placera order för att få mer gratis plånbokskassa!";
+"submit_order_wallet_rule_thread" = "Plånbokssaldo kan inte användas för att täcka fraktkostnader.";
+"submit_order_wallet_rule_fourth" = "På grund av lokala restriktioner kan inte plånbokens balans användas för att täcka hela inköpsbeloppet. Om det tillgängliga saldot i din plånbok överstiger ditt totala köpbelopp, kommer endast en del av tillgängliga saldo att användas.";
+"submit_order_wallet_rule_button" = "Fick det";

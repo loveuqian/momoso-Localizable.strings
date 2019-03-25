@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "剛剛分享了一個帖子";
 "affiliate_noti_friend_share_item" = "剛剛分享了一個商品.";
 "affiliate_noti_friend_bought_right" = "剛剛成功購買了";
-"affiliate_noti_friend_bought_end" = "件商品.";
+"affiliate_noti_friend_bought_end" = "件商品.您獲得了";
+"affiliate_noti_friend_bought_end_new" = "返利!";
 "affiliate_noti_withdraw_available_left" = "您錢包有";
 "affiliate_noti_withdraw_available_right" = "成功解凍.";
 "affiliate_noti_become_friend_left" = "您已成功成為";
 "affiliate_noti_become_friend_right" = "的好友.";
 "affiliate_noti_got_wallet_left" = "您的錢包賬戶成功收入";
+"affiliate_noti_got_wallet_left_first_login" = "歡迎使用CloudMall！首次購買可獲得10％折扣！";
 "affiliate_noti_got_wallet_remind" = "您已成功收藏该商品，我们将在闪购开场前通知您.";
 "affiliate_noti_got_wallet_sale" = "您心儀的閃購商品即將開搶啦~";
 
@@ -1412,3 +1414,11 @@
 
 /////////////////message页面//////////////
 "message_bought_item" = "返利";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "電子錢包使用規則";
+"submit_order_wallet_rule_first" = "只能使用“可用”錢包餘額.";
+"submit_order_wallet_rule_third" = "邀請更多朋友下訂單，以獲得更多免費錢包現金！";
+"submit_order_wallet_rule_thread" = "電子錢包餘額不能用於支付運費.";
+"submit_order_wallet_rule_fourth" = "由於當地限制，錢包餘額不能用於支付整個購買金額。 如果錢包中的可用餘額超過總購買金額，則只會使用可用餘額的一部分.";
+"submit_order_wallet_rule_button" = "知道了";

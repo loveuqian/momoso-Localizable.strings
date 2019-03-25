@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "compartilhou uma postagem.";
 "affiliate_noti_friend_share_item" = "compartilhou um item.";
 "affiliate_noti_friend_bought_right" = "acabou de comprar";
-"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_friend_bought_end" = "item (s). Você está recebendo";
+"affiliate_noti_friend_bought_end_new" = "desconto!";
 "affiliate_noti_withdraw_available_left" = "Você tem";
 "affiliate_noti_withdraw_available_right" = "disponível para retirada.";
 "affiliate_noti_become_friend_left" = "Você está agora";
 "affiliate_noti_become_friend_right" = "amigo de.";
 "affiliate_noti_got_wallet_left" = "Você acabou de receber";
+"affiliate_noti_got_wallet_left_first_login" = "Bem-vindo ao CloudMall! 10% de desconto na sua primeira compra!";
 "affiliate_noti_got_wallet_remind" = "Seguido com sucesso. Lembraremos você assim que a Promoção Flash começar.";
 "affiliate_noti_got_wallet_sale" = "Venda de Flash iniciando agora!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// message 页面 //////////////
 "message_bought_item" = "Recompensa";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Regras de uso da carteira";
+"submit_order_wallet_rule_first" = "Apenas o saldo da carteira“ Disponível ”pode ser usado.";
+"submit_order_wallet_rule_third" = "Convide mais amigos para fazer pedidos para obter mais dinheiro da carteira!";
+"submit_order_wallet_rule_thread" = "O saldo da carteira não pode ser usado para cobrir os custos de envio.";
+"submit_order_wallet_rule_fourth" = "Devido a restrições locais, o saldo da carteira não pode ser usado para cobrir o valor total da compra. Se o saldo Disponível na sua carteira exceder o valor total da compra, apenas uma parte do saldo Disponível será utilizada.";
+"submit_order_wallet_rule_button" = "Entendi";

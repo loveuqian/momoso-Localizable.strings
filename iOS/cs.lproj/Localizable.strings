@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "sdílel příspěvek.";
 "affiliate_noti_friend_share_item" = "sdíleli položku.";
 "affiliate_noti_friend_bought_right" = "právě koupil";
-"affiliate_noti_friend_bought_end" = "položka.";
+"affiliate_noti_friend_bought_end" = "položky. Dostáváte";
+"affiliate_noti_friend_bought_end_new" = "sleva!";
 "affiliate_noti_withdraw_available_left" = "Máte";
 "affiliate_noti_withdraw_available_right" = "k dispozici ke stažení";
 "affiliate_noti_become_friend_left" = "Jste nyní";
 "affiliate_noti_become_friend_right" = "přítel.";
 "affiliate_noti_got_wallet_left" = "Právě jste obdrželi";
+"affiliate_noti_got_wallet_left_first_login" = "Vítejte v CloudMall! 10% OFF váš první nákup!";
 "affiliate_noti_got_wallet_remind" = "Úspěšně následuje. Připomínáme, jakmile začne prodej blesku.";
 "affiliate_noti_got_wallet_sale" = "Prodej blesku začíná hned!";
 
@@ -1412,3 +1414,11 @@
 
 /////////////////// zprávu 页面 //////////////
 "message_bought_item" = "Odměna";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Pravidla používání peněženky";
+"submit_order_wallet_rule_first" = "Lze použít pouze “Dostupnou” peněženku.";
+"submit_order_wallet_rule_third" = "Pozvěte více přátel, aby zadali objednávky, abyste získali více peněženky zdarma!";
+"submit_order_wallet_rule_thread" = "Zůstatek peněženky nelze použít k pokrytí nákladů na přepravu.";
+"submit_order_wallet_rule_fourth" = "Vzhledem k místním omezením nelze zůstatku peněženky použít k pokrytí celé částky nákupu. Pokud zůstatek ve vaší peněžence přesáhne celkovou částku nákupu, použije se pouze část zůstatku, který je k dispozici.";
+"submit_order_wallet_rule_button" = "Mám to";

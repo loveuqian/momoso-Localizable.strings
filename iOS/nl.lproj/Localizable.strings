@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "heeft een bericht gedeeld.";
 "affiliate_noti_friend_share_item" = "heeft een item gedeeld.";
 "affiliate_noti_friend_bought_right" = "net gekocht";
-"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_friend_bought_end" = "item (s). U krijgt een";
+"affiliate_noti_friend_bought_end_new" = "korting!";
 "affiliate_noti_withdraw_available_left" = "U hebt";
 "affiliate_noti_withdraw_available_right" = "beschikbaar om op te nemen.";
 "affiliate_noti_become_friend_left" = "U bent nu";
 "affiliate_noti_become_friend_right" = "'s friend.";
 "affiliate_noti_got_wallet_left" = "U heeft zojuist ontvangen";
+"affiliate_noti_got_wallet_left_first_login" = "Welkom bij CloudMall! 10% KORTING op uw eerste aankoop!";
 "affiliate_noti_got_wallet_remind" = "Succesvol gevolgd, we zullen u eraan herinneren zodra de Flash-verkoop start.";
 "affiliate_noti_got_wallet_sale" = "Flash-verkoop begint nu!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// bericht 页面 //////////////
 "message_bought_item" = "Beloning";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Regels voor gebruik van de Wallet";
+"submit_order_wallet_rule_first" = "Alleen de portefeuillewaarde“ Beschikbaar ”kan worden gebruikt.";
+"submit_order_wallet_rule_third" = "Nodig meer vrienden uit om bestellingen te plaatsen om meer gratis geld in de portemonnee te krijgen!";
+"submit_order_wallet_rule_thread" = "Wallet-saldo kan niet worden gebruikt om verzendkosten te dekken.";
+"submit_order_wallet_rule_fourth" = "Vanwege lokale beperkingen kan het walletsaldo niet worden gebruikt om het volledige aankoopbedrag te dekken.Als het beschikbare saldo in uw portemonnee uw totale aankoopbedrag overschrijdt, wordt slechts een deel van het beschikbare saldo gebruikt.";
+"submit_order_wallet_rule_button" = "Begrepen";

@@ -1,5 +1,5 @@
 
-"language_resources " = "id";
+"language_resources " = "印尼语";
 
 ////////////////////////////////// 全局_all ///////////////////////////////////
 
@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "berbagi pos.";
 "affiliate_noti_friend_share_item" = "berbagi item.";
 "affiliate_noti_friend_bought_right" = "baru saja membeli";
-"affiliate_noti_friend_bought_end" = "barang.";
+"affiliate_noti_friend_bought_end" = "item. Anda mendapat a";
+"affiliate_noti_friend_bought_end_new" = "potongan harga!";
 "affiliate_noti_withdraw_available_left" = "Kamu punya";
 "affiliate_noti_withdraw_available_right" = "tersedia untuk menarik.";
 "affiliate_noti_become_friend_left" = "Kamu telah menjadi";
 "affiliate_noti_become_friend_right" = "teman.";
 "affiliate_noti_got_wallet_left" = "Anda baru saja mendapatkannya";
+"affiliate_noti_got_wallet_left_first_login" = "Selamat datang di CloudMall! Diskon 10% pembelian pertama Anda!";
 "affiliate_noti_got_wallet_remind" = "Berhasil diikuti. Kami akan mengingatkan Anda setelah penjualan flash dimulai.";
 "affiliate_noti_got_wallet_sale" = "Item yang dipilih ada di Flash Sale sekarang!";
 
@@ -1412,3 +1414,11 @@
 
 /////////////////message页面//////////////
 "message_bought_item" = "Penghargaan";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Aturan Penggunaan Dompet";
+"submit_order_wallet_rule_first" = "Hanya" Saldo dompet “Tersedia” yang dapat digunakan. ";
+"submit_order_wallet_rule_third" = "Undang lebih banyak teman untuk memesan agar mendapat lebih banyak uang tunai dompet gratis!";
+"submit_order_wallet_rule_thread" = "Saldo dompet tidak dapat digunakan untuk menutupi biaya pengiriman.";
+"submit_order_wallet_rule_fourth" = "Karena batasan lokal, saldo dompet tidak dapat digunakan untuk menutupi seluruh jumlah pembelian. Jika saldo yang tersedia di dompet Anda melebihi jumlah total pembelian Anda, maka hanya sebagian dari saldo yang Tersedia yang akan digunakan.";
+"submit_order_wallet_rule_button" = "Mengerti";

@@ -1,5 +1,5 @@
 
-"language_resources" = "en";
+"language_resources" = "西班牙语";
 
 ////////////////////////////////// all _all ///////////// ////////////////////////
 
@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "compartió una publicación.";
 "affiliate_noti_friend_share_item" = "ha compartido un elemento.";
 "affiliate_noti_friend_bought_right" = "recién comprado";
-"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_friend_bought_end" = "artículo (s). Usted está recibiendo una";
+"affiliate_noti_friend_bought_end_new" = "¡reembolso!";
 "affiliate_noti_withdraw_available_left" = "Tienes";
 "affiliate_noti_withdraw_available_right" = "disponible para retirar.";
 "affiliate_noti_become_friend_left" = "Ahora estás";
 "affiliate_noti_become_friend_right" = "'s friend.";
 "affiliate_noti_got_wallet_left" = "Acaba de recibir";
+"affiliate_noti_got_wallet_left_first_login" = "Bienvenido a CloudMall! 10% de descuento en tu primera compra!";
 "affiliate_noti_got_wallet_remind" = "Se ha seguido con éxito. Le recordaremos una vez que comience la Venta Flash.";
 "affiliate_noti_got_wallet_sale" = "¡Venta Flash a partir de ahora!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// mensaje 页面 //////////////
 "message_bought_item" = "Recompensa";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Reglas de uso de la cartera";
+"submit_order_wallet_rule_first" = "Solo se puede usar el saldo de billetera “Disponible ”.";
+"submit_order_wallet_rule_third" = "¡Invite a más amigos a realizar pedidos para obtener más efectivo gratis en la billetera!";
+"submit_order_wallet_rule_thread" = "El saldo de la cartera no se puede usar para cubrir los costos de envío.";
+"submit_order_wallet_rule_fourth" = "Debido a restricciones locales, el saldo de la cartera no se puede usar para cubrir el monto total de la compra. Si el saldo disponible en su billetera excede el monto total de su compra, solo se utilizará una parte del saldo disponible."
+"submit_order_wallet_rule_button" = "Lo tengo";

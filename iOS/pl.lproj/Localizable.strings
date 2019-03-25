@@ -1,1414 +1,1424 @@
 
-"language_resources " = "en";
+"language_resources" = "波兰文";
 
-////////////////////////////////// 全局_all ///////////////////////////////////
+////////////////////////////////// allall ///////////// ///////////./
 
-"pull_to_refresh_title_all" = "Swipe down to refresh"; //购物车、首页、个人-订单、搜索结果
-"release_to_refresh_title_all" = "Release to refresh"; //购物车、首页、个人-订单、搜索结果
-"refreshing_title_all" = "Loading"; //购物车、首页、个人-订单、搜索结果
+"pull_to_refresh_title_all" = "Przesuń w dół, aby odświeżyć"; // 购物 车 、 首页 、 个人 - 订单 、 搜索 结果
+"release_to_refresh_title_all" = "Release to refresh"; // 购物 车 、 首页 、 个人 - 订单 、 搜索 结果
+"refreshing_title_all" = "Ładowanie"; // 购物 车 、 首页 、 个人 - 订单 、 搜索 结果
 
-////////////////////////////////// 首页_index ///////////////////////////////////
+////////////////////////////////// 首页 _index /////////////// ///////////./
 
-"index_flash_sale_title" = "Flash Sale"; //首页-闪购标题
-"index_great_price_title" = "Best Price"; //首页-白菜价
-"index_mini_banner_title" = "Great Value"; //首页-迷你精选
-"index_great_collection_title" = "Best Sellers"; //首页-类目精选
-"index_daily_update_title" = "Recommended For You"; //首页-海淘动态
+"index_flash_sale_title" = "Flash Sale"; // 首页 - 闪 购 标题
+"index_great_price_title" = "Najlepsza cena"; // 首页 - 白菜 价
+"index_mini_banner_title" = "Wielka wartość"; // 首页 - 迷你 精选
+"index_great_collection_title" = "Bestsellery"; // 首页 - 类目 精选
+"index_daily_update_title" = "Zalecane dla Ciebie"; // 首页 - 海 淘 动态
 
-"index_tabbar_daily_update_title" = "Daily Deals"; //首页-分屏每日精选-标题
+"index_tabbar_daily_update_title" = "Codzienne oferty"; // 首页 - 分 屏 每日 精选 - 标题
 
-"index_choose_address_title" = "Select a shipping address"; //首页-选择收货地址
-"index_cannot_choose_address_toast" = "This region is currently unavailable"; //首页-选择新加坡/台湾时toast提示
+"index_choose_address_title" = "Wybierz adres wysyłki"; // 首页 - 选择 收货 地址
+"index_cannot_choose_address_toast" = "Ten region jest obecnie niedostępny"; // 首页 - 选择 新加坡 / 台湾 时 toast 提示
 
-////////////////////////////////// 搜索_search ///////////////////////////////////
+////////////////////////////////// 搜索 _search ///////////////// ///////////./
 
-"hot_catogery_title_search" = "Catalog"; //搜索页面
-"hot_brand_title_search" = "Brands"; //搜索页面
-"hot_mall_title_search" = "Malls"; //搜索页面
-"all_brand_btn_searh" = "More Brands"; //搜索页面
-"all_mall_title_search" = "More Malls"; //搜索页面
-"best_sell_title_search" = "Popular Categories"; //搜索页面
+"hot_catogery_title_search" = "Katalog"; // 搜索 页面
+"hot_brand_title_search" = "Marki"; // 搜索 页面
+"hot_mall_title_search" = "Centra handlowe"; // 搜索 页面
+"all_brand_btn_searh" = "Więcej marek"; // 搜索 页面
+"all_mall_title_search" = "Więcej centrów"; // 搜索 页面
+"best_sell_title_search" = "Popularne kategorie"; // 搜索 页面
 
-"all_people_title_search_result" = "All People"; //所有结果-筛选人群
-"all_brand_title_search_result" = "Brands"; //所有结果-筛选品牌
-"general_sort_title_search_result" = "Sort"; //所有结果-排序
-"price_high_sort_title_search_result" = "Price (High to Low)"; //所有结果-排序
-"price_low_sort_title_search_result" = "Price (Low to High)"; //所有结果-排序
-"discount_sort_title_search_result" = "Best Deals"; //所有结果-排序
-"sale_sort_title_search_result" = "Most Popular"; //所有结果-排序
+"all_people_title_search_result" = "Wszyscy ludzie"; // 所有 结果 - 筛选 人群
+"all_brand_title_search_result" = "Marki"; // 所有 结果 - 筛选 品牌
+"general_sort_title_search_result" = "Sortuj"; // 所有 结果 - 排序
+"price_high_sort_title_search_result" = "Cena (od wysokiej do niskiej)"; // 所有 结果 - 排序
+"price_low_sort_title_search_result" = "Cena (od niskiej do wysokiej)"; // 所有 结果 - 排序
+"discount_sort_title_search_result" = "Najlepsze oferty"; // 所有 结果 - 排序
+"sale_sort_title_search_result" = "Najpopularniejsze"; // 所有 结果 - 排序
 
-"mall_filter_title_search_result" = "Mall"; //所有结果-筛选
-"all_mall_filter_title_search_result" = "All Malls"; //所有结果-筛选
-"price_filter_title_search_result" = "Price"; //所有结果-筛选
-"clear_price_filter_title_search_result" = "Clear"; //所有结果-筛选
-"close_filter_title_search_result" = "Close"; //所有结果-筛选
-"reset_filter_title_search_result" = "Reset"; //所有结果-筛选
-"ok_filter_title_search_result" = "Confirm"; //所有结果-筛选
+"mall_filter_title_search_result" = "Mall"; // 所有 结果 - 筛选
+"all_mall_filter_title_search_result" = "Wszystkie centra handlowe"; // 所有 结果 - 筛选
+"price_filter_title_search_result" = "Cena"; // 所有 结果 - 筛选
+"clear_price_filter_title_search_result" = "Wyczyść"; // 所有 结果 - 筛选
+"close_filter_title_search_result" = "Zamknij"; // 所有 结果 - 筛选
+"reset_filter_title_search_result" = "Reset"; // 所有 结果 - 筛选
+"ok_filter_title_search_result" = "Potwierdź"; // 所有 结果 - 筛选
 
-"search_result_subscribe_btn" = "Subscribe"; //搜索结果-品牌-订阅按钮
-"search_result_have_subscribed_btn" = "Subscribed"; //搜索结果-品牌-已订阅按钮
+"search_result_subscribe_btn" = "Subskrybuj"; // 搜索 结果 - 品牌 - 订阅 按钮
+"search_result_have_subscribed_btn" = "Subskrybowany"; // 搜索 结果 - 品牌 - 已 订阅 按钮
 
-////////////////////////////////// 登录_signlogin ///////////////////////////////////
+////////////////////////////////// ign _signlogin ///////////// ///////////./
 
-"facebook_login_btn_signlogin" = "Continue with Facebook";
-"email_signup_btn_signlogin" = "Sign up with email";
-"login_btn_signlogin" = "Login with email";
+"facebook_login_btn_signlogin" = "Kontynuuj z Facebookiem";
+"email_signup_btn_signlogin" = "Zarejestruj się przez e-mail";
+"login_btn_signlogin" = "Zaloguj się za pomocą e-maila";
 
 "email_title_signlogin" = "Email";
-"password_title_signlogin" = "Password";
-"forget_password_btn_signlogin" = "Forgot Password?";
+"password_title_signlogin" = "Hasło";
+"forget_password_btn_signlogin" = "Zapomniałeś hasła?";
 
 "next_btn_signlogin" = "Next";
 
-"comfire_password_btn_signlogin" = "Confirm Password";
-"finish_btn_signlogin" = "Finish";
+"comfire_password_btn_signlogin" = "Potwierdź hasło";
+"finish_btn_signlogin" = "Zakończ";
 
-"phone_number_validation_title_signlogin" = "Verification code has been sent";
-"validation_code_title_signlogin" = "Enter verification code";
+"phone_number_validation_title_signlogin" = "Kod weryfikacyjny został wysłany";
+"validation_code_title_signlogin" = "Wprowadź kod weryfikacyjny";
 
-"create_password_title_signlogin" = "Create Password"; //注册页面
+"create_password_title_signlogin" = "Utwórz hasło"; // 注册 页面
 "new_username_btn_signlogin" = "User Name";
 
-////////////////////////////////// 我_profile ///////////////////////////////////
+////////////////////////////////// 我 _profile ///////////// ///////////./
 
-"favorite_title_profile" = "Favorites";
-"advances_address_title_profile_setting" = "Address Book";
+"favorite_title_profile" = "Ulubione";
+"advances_address_title_profile_setting" = "Książka adresowa";
 
-"order_title_profile_order" = "My Orders";
+"order_title_profile_order" = "Moje zamówienia";
 "un_paid_btn_profile_order" = "Unpaid";
-"processing_btn_profile_order" = "In Progress";
+"processing_btn_profile_order" = "W toku";
 "received_btn_profile_order" = "Completed";
-"all_order_btn_profile_order" = "Order History";
+"all_order_btn_profile_order" = "Historia zamówień";
 
-"problem_consult_title_profile_setting" = "Customer Service Center";
-"title_consult_title_profile_setting" = "Please fill in the subject";
-"title_consult_description_profile_setting" = "Describe the issue";
-"placeholder_title_consult_description_profile_setting" = "Tell us the details about the issue";
-"order_number_consult_profile_setting" = "Order Number";
-"placeholder_order_number_consult_profile_setting" = "Order Number relating to your query";
+"problem_consult_title_profile_setting" = "Centrum obsługi klienta";
+"title_consult_title_profile_setting" = "Proszę wypełnić temat";
+"title_consult_description_profile_setting" = "Opisz problem";
+"placeholder_title_consult_description_profile_setting" = "Podaj nam szczegóły dotyczące problemu";
+"order_number_consult_profile_setting" = "Numer zamówienia";
+"placeholder_order_number_consult_profile_setting" = "Numer zamówienia związany z zapytaniem";
 "title_email_consult_profile_setting" = "Email";
-"placeholder_email_consult_profile_setting" = "Please enter your email address";
+"placeholder_email_consult_profile_setting" = "Podaj swój adres e-mail";
 "title_name_consult_profile_setting" = "Name";
-"placeholder_title_name_consult_profile_setting" = "Please enter your Name";
+"placeholder_title_name_consult_profile_setting" = "Proszę podać swoje imię";
 
 "feedback_title_profile_setting" = "Feedback";
-"rate_title_profile_setting" = "Rate Us";
-"about_me_title_profile_setting" = "About Us";
-"sign_out_title_profile_setting" = "Sign Out";
+"rate_title_profile_setting" = "Oceń nas";
+"about_me_title_profile_setting" = "O nas";
+"sign_out_title_profile_setting" = "Wyloguj się";
 
-"confirm_clear_cache_title_profile_about" = "Are you sure you want to clear the cache?";
+"confirm_clear_cache_title_profile_about" = "Czy na pewno chcesz wyczyścić pamięć podręczną?";
 
-"hint_feedback_title_profile_feedback" = "Please input your feedback here";
-"hint_contact_title_profile_feedback" = "Email / Phone Number (Optional)";
+"hint_feedback_title_profile_feedback" = "Wprowadź tutaj swoją opinię";
+"hint_contact_title_profile_feedback" = "E-mail / numer telefonu (opcjonalnie)";
 
-"my_profile_title_profile_info" = "My Profile";
-"modify_avatar_btn_profile_info" = "Upload Photo";
-"modify_name_btn_profile_info" = "Change Username";
+"my_profile_title_profile_info" = "Mój profil";
+"modify_avatar_btn_profile_info" = "Prześlij zdjęcie";
+"modify_name_btn_profile_info" = "Zmień nazwę użytkownika";
 "reset_password_btn_profile_info" = "Reset";
-"reset_password_info_title_profile_info" = "A verification code will be sent to your email";
-"reset_password_title_profile_setting" = "Reset Password";
+"reset_password_info_title_profile_info" = "Kod weryfikacyjny zostanie wysłany na Twój e-mail";
+"reset_password_title_profile_setting" = "Zresetuj hasło";
 
-"warn_sign_out_toast_profile_setting" = "Updates to your order will not be received after signing out.  Proceed?";
+"warn_sign_out_toast_profile_setting" = "Aktualizacje twojego zamówienia nie zostaną odebrane po wylogowaniu. Proceere?";
 
-"total_pay_title_cart" = "Total: ";
-"view_detail_btn_dp" = "Order Detail";
-"view_logistics_btn_profile_order" = "Track Order";
-"go_pay_btn_profile_order" = "Pay";
-"delete_order_btn_profile_order" = "Delete";
-"pay_tax_btn_profile" = "Pay Tax";
+"total_pay_title_cart" = "Razem:";
+"view_detail_btn_dp" = "Szczegóły zamówienia";
+"view_logistics_btn_profile_order" = "Śledź zamówienie";
+"go_pay_btn_profile_order" = "Zapłać";
+"delete_order_btn_profile_order" = "Usuń";
+"pay_tax_btn_profile" = "Zapłać podatek";
 
-"share_lucky_money_btn_cart" = "Share";
+"share_lucky_money_btn_cart" = "Udostępnij";
 
-"favors_album_title_profile_favors" = "Favorite";
-"camera_edit_btn_profile_address" = "Edit";
-"delete_album_tips_title_profile_favors" = "Confirm delete album?";
-"delete_album_btn_profile_favors" = "Delete album";
-"no_album_desc_title_profile_favors" = "No Description";
+"favours_album_title_profile_favors" = "Ulubiony";
+"camera_edit_btn_profile_address" = "Edytuj";
+"delete_album_tips_title_profile_favors" = "Potwierdź usunięcie albumu?";
+"delete_album_btn_profile_favors" = "Usuń album";
+"no_album_desc_title_profile_favors" = "Brak opisu";
 "title_title_profile_favors" = "Title";
-"description_title_profile_favors" = "Description";
-"new_album_title_dp" = "Edit new album title";
+"description_title_profile_favors" = "Opis";
+"new_album_title_dp" = "Edytuj nowy tytuł albumu";
 
-"address_manage_title_all" = "Manage Address Book";
-"add_address_btn_cart" = "Add a new address";
-"id_phone_title_profile_cash" = "Phone Number:";
-"detail_address_title_cart" = "Unit/Floor/Block/Building/Street";
+"address_manage_title_all" = "Zarządzaj książką adresową";
+"add_address_btn_cart" = "Dodaj nowy adres";
+"id_phone_title_profile_cash" = "Numer telefonu:";
+"detail_address_title_cart" = "Jednostka / piętro / blok / budynek / ulica";
 
-"change_region_title_profile_setting" = "Change region"; //个人-设置页面-切换地区
+"change_region_title_profile_setting" = "Zmień region"; // 个人 - 设置 页面 - 切换 地区
 "select_region_title_profile_setting" = "Ship To";
-"change_language_title_profile_setting" = "Language";
-"clear_cache_title_profile_setting" = "Clear cache"; //个人-设置页面缺失
-"setting_title_profile_setting" = "Settings"; //个人-设置页面头部
-"language_title_profile_setting" = "Language"; //个人-设置页面-语言切换
+"change_language_title_profile_setting" = "Język";
+"clear_cache_title_profile_setting" = "Wyczyść pamięć podręczną"; // 个人 - 设置 页面 缺失
+"setting_title_profile_setting" = "Ustawienia"; // 个人 - 设置 页面 头部
+"language_title_profile_setting" = "Język"; // 个人 - 设置 页面 - 语言 切换
 
-"cancle_send_question_profile_setting" = "Cancel"; //个人-设置-问题咨询-左上角
-"ok_send_question_profile_setting" = "Submit"; //个人-设置-问题咨询-左上角
+"cancle_send_question_profile_setting" = "Anuluj"; // 个人 - 设置 - 问题 咨询 - 左上角
+"ok_send_question_profile_setting" = "Prześlij"; // 个人 - 设置 - 问题 咨询 - 左上角
 
-"cancle_clear_cache_profile_setting" = "Cancel"; //个人-设置-清除缓存弹窗
-"ok_clear_cache_profile_setting" = "Clear cache"; //个人-设置-清除缓存弹窗
+"cancle_clear_cache_profile_setting" = "Anuluj"; // 个人 - 设置 - 清除 缓存 弹 窗
+"ok_clear_cache_profile_setting" = "Wyczyść pamięć podręczną"; // 个人 - 设置 - 清除 缓存 弹 窗
 
-"disclamier_btn_profile_setting" = "Terms of use"; //个人-设置-关于我们
+"disclamier_btn_profile_setting" = "Warunki użytkowania"; // 个人 - 设置 - 关于 我们
 
-"ok_logout_profile_setting" = "Log Out"; //个人-设置-退出登录
-"cancle_logout_profile_setting" = "Cancel"; //个人-设置-退出登录
+"ok_logout_profile_setting" = "Wyloguj się"; // 个人 - 设置 - 退出 登录
+"cancle_logout_profile_setting" = "Anuluj"; // 个人 - 设置 - 退出 登录
 
-"take_photo_change_avatar_btn_profile" = "Take Photo"; //头像修改-弹窗
-"open_photo__change_avatar_btn_profile" = "Select from Photo Library"; //头像修改-弹窗
-"cancle_change_avatar_btn_profile" = "Cancel"; //头像修改-弹窗 //专辑编辑-左上角取消
+"take_photo_change_avatar_btn_profile" = "Take Photo"; // 头像 修改 - 弹 窗
+"open_photo__change_avatar_btn_profile" = "Wybierz z biblioteki zdjęć"; // 头像 修改 - 弹 窗
+"cancle_change_avatar_btn_profile" = "Anuluj"; // 头像 修改 - 弹 窗 // 专辑 编辑 - 左上角 取消
 
-"ok_change_name_btn_profile" = "Confirm"; //昵称修改-弹窗
-"cancle_change_name_btn_profile" = "Cancel"; //昵称修改-弹窗
+"ok_change_name_btn_profile" = "Confirm"; // 昵称 修改 - 弹 窗
+"cancle_change_name_btn_profile" = "Cancel"; // 昵称 修改 - 弹 窗
 
-"order_number_title_profile_order" = "Order number"; //订单-订单详细
-"order_time_title_profile_order" = "Order date"; //订单-订单详细
-"today_sale_title_profile_order" = "Daily Deals"; //订单-物流详细
-"order_detail_title_profile_order" = "Order Details"; //订单-订单详细-标题
-"help_btn_profile_order" = "Need Help?"; //订单-物流详细-漏了的
+"order_number_title_profile_order" = "Numer zamówienia"; // 订单 - 订单 详细
+"order_time_title_profile_order" = "Data zamówienia"; // 订单 - 订单 详细
+"today_sale_title_profile_order" = "Codzienne oferty"; // 订单 - 物流 详细
+"order_detail_title_profile_order" = "Szczegóły zamówienia"; // 订单 - 订单 详细 - 标题
+"help_btn_profile_order" = "Potrzebujesz pomocy?"; // 订单 - 物流 详细 - 漏 了 的
 
-"cancle_btn_profile_favors" = "Cancel"; //收藏-专辑编辑
-"save_btn_profile_favors" = "Save"; //收藏-专辑编辑
-"confirm_delete_album_btn_profile_favors" = "Delete"; //收藏-专辑编辑-删除专辑弹窗
-"cancle_delete_album_btn_profile_favors" = "Cancel"; //收藏-专辑编辑-删除专辑弹窗
+"cancle_btn_profile_favors" = "Anuluj"; // 收藏 - 专辑 编辑
+"save_btn_profile_favors" = "Zapisz"; // 收藏 - 专辑 编辑
+"confirm_delete_album_btn_profile_favors" = "Usuń"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
+"cancle_delete_album_btn_profile_favors" = "Anuluj"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
 
-"ok_btn_profile_address" = "Done"; //地址-新建地址/编辑地址-右上角
-"regioin_title_profile_address" = "Region/State"; //地址-新建地址/编辑地址-地区
-"delete_btn_profile_address" = "Delete"; //地址-左滑删除时
+"ok_btn_profile_address" = "Gotowe"; // 地址 - 新建 地址 / 编辑 地址 - 右上角
+"regioin_title_profile_address" = "Region / State"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"delete_btn_profile_address" = "Usuń"; // 地址 - 左 滑 删除 时
 
-"profile_address_receiver_title" = "Full Name:"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Zip/Postal Code:"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_receiver_title" = "Pełna nazwa:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
+"profile_address_postcode_title" = "Kod pocztowy:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
-"profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
+"profile_favorite_no_album_title" = "other"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
-"profile_default_addresss_title" = "Room, Floor, Building, Street"; //地址-新建地址/编辑地址-地区
+"profile_default_addresss_title" = "Pokój, piętro, budynek, ulica"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
-"profile_no_orders_title" = "Millions of products are waiting for you"; //個人-訂單無訂單時顯示的內容
+"profile_no_orders_title" = "Miliony produktów czekają na ciebie"; // 個人 - 訂單 無 訂單 時 顯示 的 內容
 
-////////////////////////////////// 购物车_cart ///////////////////////////////////
+/////////////////////////////////// 购物 车 _cart //////////// //////////////////////
 
-"cart_icon_all" = "Cart";
-"hint2_login_title_cart" = "Sign in to view your cart, favorites, and order history";
-"select_all_btn_cart" = "Select all";
-"save_price_title_cart" = "Offer applied ";
+"cart_icon_all" = "Koszyk";
+"hint2_login_title_cart" = "Zaloguj się, aby wyświetlić koszyk, ulubione i historię zamówień";
+"select_all_btn_cart" = "Wybierz wszystko";
+"save_price_title_cart" = "Zastosowana oferta";
 "checkout_btn_cart" = "Checkout";
-"empty_title_cart" = "Your Shopping Cart is empty";
-"item_viewed_title_cart" = "Recently viewed items";
-"mall_item_discount_title_dp" = "Offer applied automatically";
-"drop_price_title_cart" = "On Sale";
+"empty_title_cart" = "Twój koszyk jest pusty";
+"item_viewed_title_cart" = "Ostatnio przeglądane elementy";
+"mall_item_discount_title_dp" = "Oferta stosowana automatycznie";
+"drop_price_title_cart" = "W sprzedaży";
 
-"agreements_content_cart1" = "By submitting this order, I accept Cloudmall's";
-"agreements_content_cart2" = "Privacy & Security/";
-"agreements_content_cart3" = "Terms of use/";
-"agreements_content_cart4" = "Return & Exchange Policies";
-"summit_checkout_btn_cart" = "Submit Order";
-"mall_shipping_fee_title_cart" = "Mall shipping fee";
-"tax_fee_title_cart" = "Tax";
-"supply_title_cart" = "Supplied by";
-"select_address_title_cart" = "Select address";
+"agreement_content_cart1" = "Przesyłając to zamówienie, akceptuję Cloudmall's";
+"agreement_content_cart2" = "Prywatność i bezpieczeństwo /";
+"agreement_content_cart3" = "Warunki użytkowania /";
+"agreement_content_cart4" = "Polityka zwrotów i wymiany";
+"summit_checkout_btn_cart" = "Prześlij zamówienie";
+"mall_shipping_fee_title_cart" = "Opłata za wysyłkę do centrum handlowego";
+"tax_fee_title_cart" = "Podatek";
+"supply_title_cart" = "Dostarczone przez";
+"select_address_title_cart" = "Wybierz adres";
 
-"confirm_payment_btn_profile_order" = "Submit Payment";
-"asap_pay_title_cart" = "Deal ends soon";
-"asap_pay_detail_content_cart" = "Prices are subject to change at anytime, so place your order now to get the best deal!";
-"choose_payment_title_cart" = "Select Payment Method";
-"hint_choose_payment_title_cart" = "Please select payment method";
-"final_price_title_cart" = "Order total:";
+"confirm_payment_btn_profile_order" = "Prześlij płatność";
+"asap_pay_title_cart" = "Umowa kończy się wkrótce";
+"asap_pay_detail_content_cart" = "Ceny mogą ulec zmianie w dowolnym momencie, więc złóż zamówienie teraz, aby uzyskać najlepszą ofertę!";
+"choose_payment_title_cart" = "Wybierz metodę płatności";
+"hint_choose_payment_title_cart" = "Proszę wybrać metodę płatności";
+"final_price_title_cart" = "Łączna liczba zamówień:";
 
-"logistic_message_title_index_message" = "Messages";
+"logistic_message_title_index_message" = "Wiadomości";
 
-"ok_btn_cart" = "Done"; //购物车列表-点击右上角后
-"edit_btn_cart" = "Edit"; //购物车列表-右上角编辑
-"delete_sold_out_btn_cart" = "Remove Sold Out Items"; //购物车列表-点击编辑后
-"delete_selected_btn_cart" = "Delete"; //购物车列表-点击编辑后
+"ok_btn_cart" = "Gotowe"; // 购物 车 列表 - 点击 右上角 后
+"edit_btn_cart" = "Edytuj"; // 购物 车 列表 - 右上角 编辑
+"delete_sold_out_btn_cart" = "Usuń sprzedane elementy"; // 购物 车 列表 - 点击 编辑 后
+"delete_selected_btn_cart" = "Usuń"; // 购物 车 列表 - 点击 编辑 后
 
-"no_return_title_cart" = "Supplier does not support returns"; //购物车列表-商品下说明
-"limited_number_title_cart" = "Item quantity restriction"; //购物车列表-商品下说明
-"delete_btn_cart" = "Delete"; //购物车列表-左滑删除
-"not_qualified_title_cart" = "Offer does not apply"; //购物车列表-商城运费优惠
-"qualified_title_cart" = "Offer applied"; //购物车列表-商城运费优惠
+"no_return_title_cart" = "Dostawca nie obsługuje zwrotów"; // 购物 车 列表 - 商品 下 说明
+"limited_number_title_cart" = "Ograniczenie ilości towaru"; // 购物 车 列表 - 商品 下 说明
+"delete_btn_cart" = "Delete"; // 购物 车 列表 - 左 滑 删除
+"not_qualified_title_cart" = "Oferta nie ma zastosowania";// 购物 车 列表 - 商城 运费 优惠
+"qual_title_cart" = "Zastosowana oferta"; // 购物 车 列表 - 商城 运费 优惠
 
-"choose_address_title_cart_checkout" = "Choose Shipping Address"; //提交订单-地址栏
-"close_btn_cart_checkout" = "Close"; //点击渠道后-左上角关闭
+"choose_address_title_cart_checkout" = "Wybierz adres wysyłki"; // 提交 订单 - 地址 栏
+"close_btn_cart_checkout" = "Zamknij"; // 点击 渠道 后 - 左上角 关闭
 
-"order_submit_title_cart_checkout" = "Processing，confirmation will be sent to you within 48 hours"; //订单完成-小鲸鱼下方的标题
-"order_submit_sub_title_cart_checkout" = "If your order cannot be completed, we will inform you via email and process a refund"; //订单完成-小鲸鱼下方的标题
+"order_submit_title_cart_checkout" = "Przetwarzanie, potwierdzenie zostanie wysłane do Ciebie w ciągu 48 godzin"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_sub_title_cart_checkout" = "Jeśli zamówienie nie może zostać zrealizowane, poinformujemy Cię e-mailem i przetworzymy zwrot pieniędzy"; // 订单 完成 - 小 鲸鱼 下方 的 标题
 
-"cart_benefit_title" = "Discount applied"; //购物车-总价下的小字，缺了已优惠
+"cart_benefit_title" = "Rabat zastosowany"; // 缺 了 总价 优惠 ， ， 缺 了 优惠
 
-"cart_checkout_logistic_self_title" = "Select pick-up location"; //购物车-顺丰自提-弹窗
+"cart_checkout_logistic_self_title" = "Wybierz lokalizację odbioru"; // 购物 车 - 顺丰 自 提 - 弹 窗
 
-"cart_checkout_order_description_title0" = "Total:"; //购物车-提交订单-选择支付方式
-"cart_checkout_order_description_title1" = "（Currency will be converted automatically）"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title0" = "Razem:"; // 购物 车 - 提交 订单 - 选择 支付 方式
+"cart_checkout_order_description_title1" = "（Waluta zostanie automatycznie przekonwertowana）"; // 购物 车 - 提交 订单 - 选择 支付 方式
 
-"cart_checkout_logistic_self_desc_title" = "Phone Number"; //购物车-顺丰自提-字体说明
-"cart_checkout_logistic_door_desc_title" = "HK$30 will be charged at delivery to non-business addresses"; //购物车-顺丰自提-字体说明
+"cart_checkout_logistic_self_desc_title" = "Numer telefonu"; // 购物 车 - 顺丰 自 提 - 字体 说明
+"cart_checkout_logistic_door_desc_title" = "Przy dostawie na adresy niezwiązane z działalnością biznesową pobierane będą 30 HK $"; // 购物 车 - 顺丰 自 提 - 字体 说明
 
-////////////////////////////////// 商品详细_detail ///////////////////////////////////
+////////////////////////////////// 商品 详细 _detail //////////// //////////////////////
 
-"add_cart_btn_dp" = "Add to Cart";
-"favourite_icon_all" = "Favorite";
-"add_to_album_title_dp" = "Add to Album";
+"add_cart_btn_dp" = "Dodaj do koszyka";
+"favourite_icon_all" = "Ulubiony";
+"add_to_album_title_dp" = "Dodaj do albumu";
 
 "just_sold_title_dp" = "Just Sold";
-"subscribe_btn_search" = "Subscribe";
-"subscribed_btn_search" = "Subscribed";
+"subscribe_btn_search" = "Subskrybuj";
+"subscribed_btn_search" = "Subskrybowane";
 "translate_btn_dp" = "Translate";
-"translate_title_dp" = "Product description";
+"translate_title_dp" = "Opis produktu";
 
-"open_facebook_share_btn_dp" = "'Cloudmall' would like to open 'Facebook'"; //商品详细-点击分享弹窗
-"cancle_open_facebook_share_btn_dp" = "Cancel"; //商品详细-点击分享弹窗
-"ok_open_facebook_share_btn_dp" = "Open"; //商品详细-点击分享弹窗
+"open_facebook_share_btn_dp" = "" Cloudmall "chciałby otworzyć" Facebook "; // 商品 详细 - 点击 分享 弹 窗
+"cancle_open_facebook_share_btn_dp" = "Anuluj"; // 商品 详细 - 点击 分享 弹 窗
+"ok_open_facebook_share_btn_dp" = "Otwórz"; // 商品 详细 - 点击 分享 弹 窗
 
-"service_description_title_dp" = "Details"; //商品详细-点击包税、超值等
-"great_deal_title_dp" = "Great Value"; //商品详细-超值
-"great_sale_title_dp" = "Special Offer"; //商品详细-优惠
+"service_description_title_dp" = "Szczegóły"; // 商品 详细 - 点击 包 税 、 超值 等
+"great_deal_title_dp" = "Wielka wartość"; // 商品 详细 - 超值
+"great_sale_title_dp" = "Oferta specjalna"; // 商品 详细 - 优惠
 
-"brand_title_dp" = "Brand"; //商品详细页下
-"item_description_title_dp" = "Product description"; //商品详细下-商品概述
-"more_item_title_dp" = "Other Products You May Like"; //商品详细-最底部商品推荐
-"supplier_btn_dp" = "Seller"; //商品详细-tabbar上
+"brand_title_dp" = "Brand"; // 商品 详细 页 下
+"item_description_title_dp" = "Opis produktu"; // 商品 详细 下 - 商品 概述
+"more_item_title_dp" = "Inne produkty, które możesz polubić"; // 商品 详细 - 最底部 商品 推荐
+"supplier_btn_dp" = "Sprzedawca"; // 商品 详细 -tabbar 上
 
-"new_album_btn_dp" = "New Album"; //商品详细-点击收藏-新建
+"new_album_btn_dp" = "Nowy album"; // 商品 详细 - 点击 收藏 - 新建
 
-"have_select_desc_title_dp" = "Selected"; //商品详细-点击加入购物车
-"warn_addcart_title_dp" = "Please note that above information (color, size, etc.) are all provided by our suppliers and are for reference only.";
-"quantity_addcart_title_dp" = "Quantity"; //商品详细-点击加入购物车
-"ok_addcart_btn_dp" = "OK"; //商品详细-加入购物车
+"have_select_desc_title_dp" = "Selected"; // 商品 详细 - 点击 加入 购物 车
+"warn_addcart_title_dp" = "Pamiętaj, że powyższe informacje (kolor, rozmiar itp.) są dostarczane przez naszych dostawców i służą wyłącznie jako odniesienie.";
+"quant_addcart_title_dp" = "Ilość"; // 商品 详细 - 点击 加入 购物 车
+"ok_addcart_btn_dp" = "OK"; // 商品 详细 - 加入 购物 车
 
-"dp_about_mall_sale_title" = "Offer Details"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_title1_title" = "Discount is provided by supplier"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_content1_title" = "Discount provided by supplier will be applied automatically. CloudMall is not responsible for changes to this offer"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_title2_title" = "Discount will be applied automatically"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_content2_title" = "	Discount will be applied automatically, no coupons necessary"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_title3_title" = "Special offer expired"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_content3_title" = "Discount time is limited and offer has expired"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_title4_title" = "Offer successfully applied"; //商品详细-关于商城优惠活动
-"dp_about_mall_sale_content4_title" = "Coupon code has been applied"; //商品详细-关于商城优惠活动
+"dp_about_mall_sale_title" = "Szczegóły oferty"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title1_title" = "Rabat jest udzielany przez dostawcę"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content1_title" = "Rabat udzielony przez dostawcę zostanie zastosowany automatycznie. CloudMall nie ponosi odpowiedzialności za zmiany w tej ofercie"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title2_title" = "Rabat zostanie zastosowany automatycznie"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content2_title" = "Rabat zostanie zastosowany automatycznie, bez kuponów"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title3_title" = "Oferta specjalna wygasła"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content3_title" = "Czas rabatu jest ograniczony i oferta wygasła"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_title4_title" = "Oferta została pomyślnie zastosowana"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content4_title" = "Zastosowano kod kuponu"; // 商品 详细 - 关于 商城 优惠 活动
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2//version 0.2
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2 // wersja 0.2
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-////////////////////////////////// 首页_index ///////////////////////////////////
+////////////////////////////////// 首页 _index /////////////// ///////////./
 
-"index_main_realtime_discout" = "Discount"; //首页-热门-实时折扣
-"index_main_time_limited_discout" = "Flash Sale"; //首页-热门-限时闪购
-"index_main_hot_mall" = "Hot Sales"; //首页-热门-热门市场
-"index_main_hot_mall_more" = "More"; //首页-热门-热门市场-更多商铺
-"index_main_hot_mall_view" = "More"; //首页-热门-热门市场-进入商铺
+"index_main_realtime_discout" = "Rabat"; // 首页 - 热门 - 实时 折扣
+"index_main_time_limited_discout" = "Flash Sale"; // 首页 - 热门 - 限时 闪 购
+"index_main_hot_mall" = "Gorąca sprzedaż"; // 首页 - 热门 - 热门 市场
+"index_main_hot_mall_more" = "Więcej"; // 首页 - 热门 - 热门 市场 - 更多 商铺
+"index_main_hot_mall_view" = "Więcej"; // 首页 - 热门 - 热门 市场 - 进入 商铺
 
-"index_main_lightlux" = "Trending"; //首页-热门-类目精选-轻奢
-"index_main_bigbrand" = "Big Brands"; //首页-热门-类目精选-大牌
-"index_main_casual" = "Casual"; //首页-热门-类目精选-休闲生活
-"index_main_beauty" = "Beauty"; //首页-热门-类目精选-美妆护肤
-"index_main_sportwear" = "Sportswear"; //首页-热门-类目精选-户外运动
-"index_main_men" = "Men"; //首页-热门-类目精选-睿智男士
+"index_main_lightlux" = "Trending"; // 首页 - 热门 - 类目 精选 - 轻 奢
+"index_main_bigbrand" = "Big Brands"; // 首页 - 热门 - 类目 精选 - 大牌
+"index_main_casual" = "Casual"; // 首页 - 热门 - 类目 精选 - 休闲 生活
+"index_main_beauty" = "Beauty"; // 首页 - 热门 - 类目 精选 - 美 妆 护肤
+"index_main_sportwear" = "Odzież sportowa"; // 首页 - 热门 - 类目 精选 - 户外 运动
+"index_main_men" = "Mężczyźni"; // 首页 - 热门 - 类目 精选 - 睿智 男士
 
-"index_sub_dailyupdate" = "Daily Update"; //首页-分屏-每日精选
-"index_sub_youmaylike" = "You May Also Like"; //首页-分屏-每日精选
+"index_sub_dailyupdate" = "Codzienna aktualizacja"; // 首页 - 分 屏 - 每日 精选
+"index_sub_youmaylike" = "Możesz także polubić"; // 首页 - 分 屏 - 每日 精选
 
-////////////////////////////////// 商品详细_detail ///////////////////////////////////
+////////////////////////////////// 商品 详细 _detail //////////// //////////////////////
 
-"dp_mall_high_grade_mall" = "Best Seller"; //商品-商城-优质商家
-"dp_mall_all_product" = "Products"; //商品-商城-全部商品
-"dp_mall_total_sale" = "Items Sold"; //商品-商城-总销量
-"dp_mall_runs_years" = "Years"; //商品-商城-优质商家
+"dp_mall_high_grade_mall" = "Najlepszy sprzedawca"; // 商品 - 商城 - 优质 商家
+"dp_mall_all_product" = "Produkty"; // 商品 - 商城 - 全部 商品
+"dp_mall_total_sale" = "Sprzedane przedmioty"; // 商品 - 商城 - 总 销量
+"dp_mall_runs_years" = "Lata"; // 商品 - 商城 - 优质 商家
 
-"dp_flash_sale" = "Sale Ends In"; //商品-限时闪购-倒计时
-"dp_favorite_new_abulm" = "Add"; //商品-收藏-新建专辑
-"dp_favorite_popup_cancel" = "Cancel"; //商品-收藏-新建专辑
-"dp_favorite_popup_confirm" = "Confirm"; //商品-收藏-新建专辑
-"dp_favorite_toast_success" = "Item was added to your album"; //商品-收藏-新建专辑
-"dp_favorite_popup_unfav_success" = "Remove from the album successfully"; //商品-收藏-新建专辑
-"dp_soldout" = "Sold Out"; //商品-售光了-找相似
-"dp_description" = "About the Item"; //商品-收藏-新建专辑
+"dp_flash_sale" = "Sale Ends In"; // 商品 - 限时 闪 购 - 倒计时
+"dp_favorite_new_abulm" = "Dodaj"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_cancel" = "Anuluj"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_confirm" = "Potwierdź"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_toast_success" = "Produkt został dodany do twojego albumu"; // 商品 - 收藏 - 新建 专辑
+"dp_favorite_popup_unfav_success" = "Pomyślnie usuń z albumu"; // 商品 - 收藏 - 新建 专辑
+"dp_soldout" = "Wyprzedane"; // 商品 - 售 光 了 - 找 相似
+"dp_description" = "About the Item"; // 商品 - 收藏 - 新建 专辑
 
-"dp_add_cart_success_toast" = "Added to cart"; //商品-成功加入购物车-toast
+"dp_add_cart_success_toast" = "Dodano do koszyka"; // 商品 - 成功 加入 购物 车 -toast
 
-////////////////////////////////// 搜索_search ///////////////////////////////////
+////////////////////////////////// 搜索 _search ///////////////// ///////////./
 
-"search_result_temp_title" = "Search Results"; //搜索-搜索结果-主标题
+"search_result_temp_title" = "Wyniki wyszukiwania"; // 搜索 - 搜索 结果 - 主 标题
 
-"search_history_result" = "History"; //搜索-历史搜索
-"search_history_result_cancel" = "Cancel"; //搜索-历史搜索-取消
-"search_hot_result" = "Trending"; //搜索-搜索结果-热门搜索
-"search_all_brand" = "All Brands"; //搜索-所有品牌
-"search_brand_list" = "Brand List"; //搜索-品牌列表
-"search_result_filter_clear" = "Clear"; //搜索-品牌列表
+"search_history_result" = "Historia"; // 搜索 - 历史 搜索
+"search_history_result_cancel" = "Anuluj"; // 搜索 - 历史 搜索 - 取消
+"search_hot_result" = "Trending"; // 搜索 - 搜索 结果 - 热门 搜索
+"search_all_brand" = "Wszystkie marki"; // 搜索 - 所有 品牌
+"search_brand_list" = "Lista marek"; // 搜索 - 品牌 列表
+"search_result_filter_clear" = "Wyczyść"; // 搜索 - 品牌 列表
 
-"search_history_result_clear_popup_title" = "Clear Search History"; //搜索-清空历史记录-标题
-"search_history_result_clear_popup_content" = "Are you sure you want to clear your Search History?"; //搜索-清空历史记录-内容
-"search_history_result_clear_popup_cancle" = "Cancel"; //搜索-清空历史记录-取消
-"search_history_result_clear_popup_confirm" = "Confirm"; //搜索-清空历史记录-确定
+"search_history_result_clear_popup_title" = "Wyczyść historię wyszukiwania"; // 搜索 - 清空 历史 记录 - 标题
+"search_history_result_clear_popup_content" = "Czy na pewno chcesz wyczyścić historię wyszukiwania?"; // 搜索 - 清空 历史 记录 - 内容
+"search_history_result_clear_popup_cancle" = "Anuluj"; // 搜索 - 清空 历史 记录 - 取消
+"search_history_result_clear_popup_confirm" = "Potwierdź"; // 搜索 - 清空 历史 记录 - 确定
 
-////////////////////////////////// 购物车_cart ///////////////////////////////////
+/////////////////////////////////// 购物 车 _cart //////////// //////////////////////
 
-"cart_checkout_credit_card" = "Credit/Debit Card"; //购物车-确认支付-信用卡标题
-"cart_checkout_total_bill" = "Total "; //购物车-确认支付-确认标题前
+"cart_checkout_credit_card" = "Karta kredytowa / debetowa"; // 购物 车 - 确认 支付 - 信用卡 标题
+"cart_checkout_total_bill" = "Razem"; // 购物 车 - 确认 支付 - 确认 标题 前
 
-"cart_checkout_credit_card_title" = "Credit/Debit Card"; //购物车-确认支付-选择信用卡支付-弹窗标题
-"cart_checkout_change_credit_card" = "Change Card"; //购物车-确认支付-选择信用卡支付-弹窗-换一张卡
-"cart_checkout_new_credit_card" = "Add New Card"; //购物车-确认支付-选择信用卡支付-新建信用卡
-"cart_checkout_credit_card_toast" = "Please add new card first"; //购物车-确认支付-选择信用卡支付-未绑定信用卡
-"cart_checkout_credit_card_cancel" = "Cancel"; //购物车-确认支付-选择信用卡支付-取消
-"cart_checkout_credit_card_pay" = "Pay"; //购物车-确认支付-选择信用卡支付-付款
-"cart_checkout_credit_card_confirm" = "Confirm"; //购物车-确认支付-选择信用卡支付-增加新加-cvv-确定
+"cart_checkout_credit_card_title" = "Karta kredytowa / debetowa"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_change_credit_card" = "Zmień kartę"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 换 一张 卡
+"cart_checkout_new_credit_card" = "Dodaj nową kartę"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 新建 信用卡
+"cart_checkout_credit_card_toast" = "Najpierw dodaj nową kartę"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 未 绑定 信用卡
+"cart_checkout_credit_card_cancel" = "Anuluj"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 取消
+"cart_checkout_credit_card_pay" = "Zapłać"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 付款
+"cart_checkout_credit_card_confirm" = "Potwierdź"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 增加 新 加 -cvv- 确定
 
-"cart_checkout_card_holdername_title" = "Name"; //购物车-确认支付-选择信用卡支付-弹窗-持卡人姓名
-"cart_checkout_card_holdername_default" = "Cardholder Name"; //购物车-确认支付-选择信用卡支付-弹窗标题
-"cart_checkout_card_number_title" = "Card No."; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_card_number_default" = "Enter Card Number"; //购物车-确认支付-选择信用卡支付-卡号
-"cart_checkout_valid_date_title" = "Expiry Date"; //购物车-确认支付-选择信用卡支付-有效期
-"cart_checkout_valid_date_default" = "MM/YY"; //购物车-确认支付-选择信用卡支付-月月/年年
-"cart_checkout_safe_code_title" = "CVV"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_safe_code_default" = "Enter CVV"; //购物车-确认支付-选择信用卡支付-安全码
-"cart_checkout_about_safety" = "Your payment for this purchase is processed securely by a third party payment processor. CloudMall does not store your credit card information."; //购物车-确认支付-选择信用卡支付-安全承诺
-"cart_checkout_comfirm" = "Confirm"; //购物车-确认支付-选择信用卡支付-完成按钮
+"cart_checkout_card_holdername_title" = "Nazwa"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 持卡人 姓名
+"cart_checkout_card_holdername_default" = "Nazwa posiadacza karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_card_number_title" = "Nr karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_card_number_default" = "Wpisz numer karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
+"cart_checkout_valid_date_title" = "Data wygaśnięcia"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 有效期
+"cart_checkout_valid_date_default" = "MM / YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
+"cart_checkout_safe_code_title" = "CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_safe_code_default" = "Wpisz CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
+"cart_checkout_about_safety" = "Twoja płatność za ten zakup jest przetwarzana bezpiecznie przez procesora płatności strony trzeciej. CloudMall nie przechowuje informacji o karcie kredytowej."; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 承诺
+"cart_checkout_comfirm" = "Potwierdź"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 完成 按钮
 
-"cart_checkout_card_holdername_toast" = "Cardholder name is invalid. Please only use alphanumeric characters [A-z]"; //购物车-确认支付-选择信用卡支付-姓名不为英文时
-"cart_checkout_card_number_toast" = "Card number entered is invalid. Please doublecheck your card number"; //购物车-确认支付-选择信用卡支付-卡号填写规则/长度不对
-"cart_checkout_card_number_toast2" = "Card type is not supported. Please try using another card"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-"cart_checkout_valid_date_toast" = "Card expiry date is invalid. Please doublecheck your card expiry date"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
-"cart_checkout_safe_code_toast" = "CVV is invalid. Please doublecheck the number you entered"; //购物车-确认支付-选择信用卡支付-卡号规则超过支持列表
+"cart_checkout_card_holdername_toast" = "Nazwa posiadacza karty jest nieprawidłowa. Używaj tylko znaków alfanumerycznych [A-z]"; // 车 车 - 确认 支付 - 选择 信用卡 支付 - 姓名 不 为 英文 时
+"cart_checkout_card_number_toast" = "Wprowadzony numer karty jest nieprawidłowy. Proszę dwukrotnie sprawdzić numer karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 填写 规则 / 长度 不对
+"cart_checkout_card_number_toast2" = "Typ karty nie jest obsługiwany. Spróbuj użyć innej karty"; // 车 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+"cart_checkout_valid_date_toast" = "Data ważności karty jest nieprawidłowa. Proszę dwukrotnie sprawdzić datę ważności karty"; // 车 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
+"cart_checkout_safe_code_toast" = "CVV jest nieprawidłowy. Proszę dwukrotnie sprawdzić wprowadzoną liczbę"; // 车 车 - 确认 支付 - 选择 信用卡 支付 - 卡号 规则 超过 支持 列表
 
-"cart_edit_done" = "Confirm"; //购物车-编辑-完成
-"cart_edit_delete_no_goods" = "Delete Sold Out Items"; //购物车-编辑-完成
-"cart_edit_delete_item" = "Delete"; //购物车-编辑-完成
-"cart_checkout_all_item" = "X item(s)"; //购物车-结算-共X件商品
-"cart_checkout_sum_price" = "Total:"; //购物车-编辑-完成
+"cart_edit_done" = "Potwierdź"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_no_goods" = "Usuń sprzedane przedmioty"; // 购物 车 - 编辑 - 完成
+"cart_edit_delete_item" = "Usuń"; // 购物 车 - 编辑 - 完成
+"cart_checkout_all_item" = "X przedmiotów"; // 购物 车 - 结算 - 共 X 件 商品
+"cart_checkout_sum_price" = "Razem:"; // 购物 车 - 编辑 - 完成
 
-"cart_checkout_cancel_payment_popup_title" = "Order Unpaid"; //购物车-订单-取消支付-弹窗
-"cart_checkout_cancel_payment_popup_content" = "Please pay within 24 hours"; //购物车-订单-取消支付-弹窗
-"cart_checkout_cancel_payment_popup_confirm" = "Confirm"; //购物车-订单-取消支付-弹窗
+"cart_checkout_cancel_payment_popup_title" = "Zamów niezapłacone"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_content" = "Proszę zapłacić w ciągu 24 godzin"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
+"cart_checkout_cancel_payment_popup_confirm" = "Potwierdź"; // 购物 车 - 订单 - 取消 支付 - 弹 窗
 
-"cart_checkout_card_date_jan" = "01-JAN"; //购物车-确认支付-填写信用卡日期-一月
-"cart_checkout_card_date_feb" = "02-FEB"; //购物车-确认支付-填写信用卡日期-二月
-"cart_checkout_card_date_mar" = "03-MAR"; //购物车-确认支付-填写信用卡日期-三月
-"cart_checkout_card_date_apr" = "04-APR"; //购物车-确认支付-填写信用卡日期-四月
-"cart_checkout_card_date_may" = "05-MAY"; //购物车-确认支付-填写信用卡日期-五月
-"cart_checkout_card_date_jun" = "06-JAN"; //购物车-确认支付-填写信用卡日期-六月
-"cart_checkout_card_date_jul" = "07-JUL"; //购物车-确认支付-填写信用卡日期-七月
-"cart_checkout_card_date_aug" = "08-AUG"; //购物车-确认支付-填写信用卡日期-八月
-"cart_checkout_card_date_sep" = "09-SEP"; //购物车-确认支付-填写信用卡日期-九月
-"cart_checkout_card_date_oct" = "10-OCT"; //购物车-确认支付-填写信用卡日期-十月
-"cart_checkout_card_date_nov" = "11-NOV"; //购物车-确认支付-填写信用卡日期-十一月
-"cart_checkout_card_date_dec" = "12-DEC"; //购物车-确认支付-填写信用卡日期-十二月
+"cart_checkout_card_date_jan" = "01-JAN"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 一月
+"cart_checkout_card_date_feb" = "02-FEB"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 二月
+"cart_checkout_card_date_mar" = "03-MAR"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 三月
+"cart_checkout_card_date_apr" = "04-APR"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 四月
+"cart_checkout_card_date_may" = "05-MAY"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 五月
+"cart_checkout_card_date_jun" = "06-JAN"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 六月
+"cart_checkout_card_date_jul" = "07-JUL"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 七月
+"cart_checkout_card_date_aug" = "08-AUG"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 八月
+"cart_checkout_card_date_sep" = "09-SEP"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 九月
+"cart_checkout_card_date_oct" = "10-OCT"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十月
+"cart_checkout_card_date_nov" = "11-NOV"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十一月
+"cart_checkout_card_date_dec" = "12-DEC"; // 购物 车 - 确认 支付 - 填写 信用卡 日期 - 十二月
 
-"cart_not_login_btn" = "Login"; //购物车-未登录-登录按钮
-"cart_checkout_card_cancel" = "Cancel"; //购物车-选择支付-取消
-"cart_checkout_card_pay" = "Purchase "; //购物车-选择支付-付款
-"cart_checkout_card_popup_title" = "Error"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_content" = "There was an error with your payment. Please verify that the card details you entered were correct or try paying with a different card."; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_cancel" = "Later"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_card_popup_tryagain" = "Try Again"; //购物车-选择支付-支付出问题-标题
-"cart_checkout_pay_total" = "Purchase"; //购物车-选择支付-取消
-"cart_checkout_bill_total" = "Bill Total "; //购物车-选择支付-付款
-"cart_checkout_pay_success_title" = "Success"; //购物车-选择支付-支付成功
+"cart_not_login_btn" = "Login"; // 购物 车 - 未登录 - 登录 按钮
+"cart_checkout_card_cancel" = "Anuluj"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_card_pay" = "Zakup"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_card_popup_title" = "Błąd"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_content" = "Wystąpił błąd podczas płatności. Sprawdź, czy wprowadzone dane karty były poprawne lub spróbuj zapłacić inną kartą."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_cancel" = "Później"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_tryagain "=" Spróbuj ponownie "; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_pay_total" = "Zakup"; // 购物 车 - 选择 支付 - 取消
+"cart_checkout_bill_total" = "Bill Total"; // 购物 车 - 选择 支付 - 付款
+"cart_checkout_pay_success_title" = "Sukces"; // 购物 车 - 选择 支付 - 支付 成功
 
-////////////////////////////////// 个人-Proilfe ///////////////////////////////////
+////////////////////////////////// 个人 -Proilfe ///////////// ///////////./
 
-"profile_setting_customer_service_cancel" = "Cancel"; //个人-客服-取消
-"profile_setting_customer_service_confirm" = "Confirm"; //个人-客服-提交
-"profile_setting_clearcache_clearing" = "Clearing Cache..."; //个人-清除缓存-取消
-"profile_setting_clearcache_cancel" = "Cancel"; //个人-清除缓存-取消
-"profile_setting_clearcache_confirm" = "Confirm"; //个人-清除缓存-清除
-"profile_setting_feedback_cancel" = "Cancel"; //个人-反馈-取消
-"profile_setting_feedback_confirm" = "Send"; //个人-反馈-发送
-"profile_setting_signout_cancel" = "Cancel"; //个人-退出登录-取消
-"profile_setting_signout_title" = "Tips"; //个人-退出登录-取消
+"profile_setting_customer_service_cancel" = "Anuluj"; // 个人 - 客服 - 取消
+"profile_setting_customer_service_confirm" = "Potwierdź"; // 个人 - 客服 - 提交
+"profile_setting_clearcache_clearing" = "Czyszczenie pamięci podręcznej ..."; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_cancel" = "Anuluj"; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_confirm" = "Potwierdź"; // 个人 - 清除 缓存 - 清除
+"profile_setting_feedback_cancel" = "Anuluj"; // 个人 - 反馈 - 取消
+"profile_setting_feedback_confirm" = "Wyślij"; // 个人 - 反馈 - 发送
+"profile_setting_signout_cancel" = "Anuluj"; // 个人 - 退出 登录 - 取消
+"profile_setting_signout_title" = "Wskazówki"; // 个人 - 退出 登录 - 取消
 
-"profile_change_photo_cancel" = "Cancel"; //个人-清除缓存-取消
+"profile_change_photo_cancel" = "Cancel"; // 个人 - 清除 缓存 - 取消
 
-"profile_favorite_edit_cancel" = "Cancel"; //个人-编辑专辑-取消
-"profile_favorite_edit_save" = "Save"; //个人-编辑专辑-保存
-"profile_favorite_edit_title" = "Edit Album"; //个人-编辑专辑-标题-专辑编辑
+"profile_favorite_edit_cancel" = "Anuluj"; // 个人 - 编辑 专辑 - 取消
+"profile_favorite_edit_save" = "Zapisz"; // 个人 - 编辑 专辑 - 保存
+"profile_favorite_edit_title" = "Edytuj album"; // 个人 - 编辑 专辑 - 标题 - 专辑 编辑
 
-"profile_address_edit_confirm" = "Confirm"; //个人-地址编辑-完成
+"profile_address_edit_confirm" = "Potwierdź"; // 个人 - 地址 编辑 - 完成
 
-"profile_setting_termsofuse" = "Terms of Use"; //个人-设置-协议条款与条件
-"profile_setting_rateapp" = "Rate CloudMall"; //个人-设置-给个评价
+"profile_setting_termsofuse" = "Warunki użytkowania"; // 个人 - 设置 - 协议 条款 与 条件
+"profile_setting_rateapp" = "Rate CloudMall"; // 个人 - 设置 - 给 个 评价
 
-"profile_change_name_cancel" = "Cancel"; //个人-更改名字-取消
-"profile_address_hongkong" = "Hong Kong"; //香港
-"profile_address_singapore" = "Singapore"; //新加坡
-"profile_address_taiwan" = "Taiwan"; //台湾
-"profile_address_vietnam" = "Vietnam"; //越南
-"profile_address_indonesia" = "Indonesia"; //印度尼西亚
-"profile_setting_clearcache_success" = "Cache was successfully cleared"; //个人-清除缓存-清除
-"profile_order_logistic_title" = "Order Tracking"; //个人-订单-物流查询-标题
-"profile_order_logistic_package" = "Package"; //个人-订单-物流查询-标题
-"profile_address_region_title" = "Select Region"; //个人-订单-物流查询-标题
-"profile_address_empty_toast" = "Please fullfill the form"; //个人-地址-空提醒
+"profile_change_name_cancel" = "Cancel"; // 个人 - 更改 名字 - 取消
+"profile_address_hongkong" = "Hong Kong"; // 香港
+"profile_address_singapore" = "Singapur"; // 新加坡
+"profile_address_taiwan" = "Tajwan"; // 台湾
+"profile_address_vietnam" = "Vietnam"; // 越南
+"profile_address_indonesia" = "Indonezja"; // 印度尼西亚
+"profile_setting_clearcache_success" = "Pamięć podręczna została pomyślnie wyczyszczona"; // 个人 - 清除 缓存 - 清除
+"profile_order_logistic_title" = "Śledzenie zamówienia"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_order_logistic_package" = "Pakiet"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_address_region_title" = "Wybierz region"; // 个人 - 订单 - 物流 查询 - 标题
+"profile_address_empty_toast" = "Proszę wypełnić formularz"; // 个人 - 地址 - 空 提醒
 
-//////////////////////////////android 新增//////////////////////////////////////////
+////////////////////////////// Android 新增 /////////////// ///////////////______/
 
-"loading_title_profile"="Loading&#8230;";
-"more"="More";
-"no_entries_in_cart_detail"="Go and discover more items!";
-"press_again_exit_toast_all"="Click again and exit";
-"write_need"="Please enter essential infomation";
+"loading_title_profile" = "Ładowanie…";
+"więcej" = "Więcej";
+"no_entries_in_cart_detail" = "Idź i odkryj więcej przedmiotów!";
+"press_again_exit_toast_all" = "Kliknij ponownie i wyjdź";
+"write_need" = "Proszę wprowadzić podstawowe informacje";
 
-"adyen_expired_year_toast_1"="Credit card expiry date:";
-"adyen_expired_year_toast_2"="Credit card expiry date has 4 digits";
-"cart_year_expire_toast"="Format of the expiry date is wrong";
-"cart_year_expire_write_toast"="Please fill the card expiry date";
-"new_sort_title_search_result"="New to Old";
-"no_delivery_supported"="Delivery is not supported";
+"adyen_expired_year_toast_1" = "Data wygaśnięcia karty kredytowej:";
+"adyen_expired_year_toast_2" = "Data ważności karty kredytowej ma 4 cyfry";
+"cart_year_expire_toast" = "Format daty ważności jest nieprawidłowy";
+"cart_year_expire_write_toast" = "Proszę wypełnić datę ważności karty";
+"new_sort_title_search_result" = "New to Old";
+"no_delivery_supported" = "Dostawa nie jest obsługiwana";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 0.2.5 // wersja 0.2.5 // wersja 0.2.5 // wersja 0.2.5 // wersja 0.2.5 // wersja 0.2.5 // wersja 0.2.5 // wersja 0.2.5
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-////////////////////////////////// 首页_index ///////////////////////////////////
+////////////////////////////////// 首页 _index /////////////// ///////////./
 
-"index_board_highlight" = "Recommended Items"; //首页-二级页面-board标题
-"index_bannerlist_highlight" = "Recommended List"; //首页-二级页面-board标题
-"index_pagingbanner_highlight" = "Recommended List"; //首页-二级页面-board标题
-"index_hotshop_highlight" = "Recommended List"; //首页-二级页面-board标题
+"index_board_highlight" = "Polecane artykuły"; // 首页 - 二级 页面 -board 标题
+"index_bannerlist_highlight" = "Zalecana lista"; // 首页 - 二级 页面 -board 标题
+"index_pagingbanner_highlight" = "Zalecana lista"; // 首页 - 二级 页面 -board 标题
+"index_hotshop_highlight" = "Zalecana lista"; // 首页 - 二级 页面 -board 标题
 
-//////////////////////////////// 搜索_search ////////////////////////////////////
+//////////////////////////////// 搜索 _search ///////////////// ////////////////////
 
-"search_input_defualt" = "Worldwide Free Shipping"; //首页-二级页面-board标题
+"search_input_defualt" = "Darmowa wysyłka na cały świat"; // 首页 - 二级 页面 -board 标题
 
-/////////////////////////////// 个人-profile /////////////////////////////////////
+/////////////// // -profil //////////////// ////////////////////
 
-"profile_address_input_default" = "Fill in"; //个人-地址-输入框
-"profile_address_select_default" = "Select"; //个人-地址-下拉框
-"profile_address_province" = "Province/State:"; //个人-地址-省州
-"profile_address_city" = "City/Town:"; //个人-地址-城市
-"profile_address_district" = "District:"; //个人-地址-下拉框
-"profile_address_detail" = "Apartment, Building...(Optional)"; //个人-地址-详细地址
+"profile_address_input_default" = "Wypełnij"; // 个人 - 地址 - 输入 框
+"profile_address_select_default" = "Wybierz"; // 个人 - 地址 - 下拉 框
+"profile_address_province" = "Province / State:"; // 个人 - 地址 - 省 州
+"profile_address_city" = "Miasto / Miasto:"; // 个人 - 地址 - 城市
+"profile_address_district" = "District:"; // 个人 - 地址 - 下拉 框
+"profile_address_detail" = "Apartament, budynek ... (opcjonalnie)"; // 个人 - 地址 - 详细 地址
 
-"profile_address_us" = "United States";
-"profile_address_uk" = "United Kingdom";
-"profile_address_ca" = "Canada";
+"profile_address_us" = "Stany Zjednoczone";
+"profile_address_uk" = "Wielka Brytania";
+"profile_address_ca" = "Kanada";
 "profile_address_de" = "Deutschland";
 "profile_address_au" = "Australia";
-"profile_address_nz" = "New Zealand";
-"profile_address_fr" = "France";
-"profile_address_it" = "Italy";
+"profile_address_nz" = "Nowa Zelandia";
+"profile_address_fr" = "Francja";
+"profile_address_it" = "Włochy";
 "profile_address_es" = "España";
 "profile_address_ru" = "Россия";
-"profile_address_mx" = "Mexico";
-"profile_address_nl" = "Netherlands";
-"profile_address_no" = "Norway";
-"profile_address_dk" = "Denmark";
-"profile_address_se" = "Sweden";
-"profile_address_ch" = "Switzerland";
-"profile_address_pl" = "Poland";
-"profile_address_be" = "Belgium";
-"profile_address_ie" = "Ireland";
-"profile_address_fi" = "Finland";
-"profile_address_pt" = "Portugal";
-"profile_address_ph" = "Philippines";
-"profile_address_my" = "Malaysia";
-"profile_address_jp" = "Japan";
+"profile_address_mx" = "Meksyk";
+"profile_address_nl" = "Holandia";
+"profile_address_no" = "Norwegia";
+"profile_address_dk" = "Dania";
+"profile_address_se" = "Szwecja";
+"profile_address_ch" = "Szwajcaria";
+"profile_address_pl" = "Polska";
+"profile_address_be" = "Belgia";
+"profile_address_ie" = "Irlandia";
+"profile_address_fi" = "Finlandia";
+"profile_address_pt" = "Portugalia";
+"profile_address_ph" = "Filipiny";
+"profile_address_my" = "Malezja";
+"profile_address_jp" = "Japonia";
 "profile_address_kr" = "Korea";
-"profile_address_ua" = "Ukraine";
+"profile_address_ua" = "Ukraina";
 "profile_address_in" = "India";
-"profile_address_ae" = "United Arab Emirates";
-"profile_address_sa" = "Saudi Arabia";
-"profile_address_qa" = "Qatar";
-"profile_address_kw" = "Kuwait";
-"profile_address_tr" = "Turkey";
-"profile_address_il" = "Israel";
-"profile_address_th" = "Thailand";
+"profile_address_ae" = "Zjednoczone Emiraty Arabskie";
+"profile_address_sa" = "Arabia Saudyjska";
+"profile_address_qa" = "Katar";
+"profile_address_kw" = "Kuwejt";
+"profil_address_tr "=" Turcja ";
+"profile_address_il" = "Izrael";
+"profile_address_th" = "Tajlandia";
 "profile_address_at" = "Austria";
-"profile_address_cz" = "Czech";
-"profile_address_za" = "South Africa";
+"profile_address_cz" = "czeski";
+"profile_address_za" = "Republika Południowej Afryki";
 
-"profile_order_package_number" = "Package number"; //个人-物流详细
+"numer_programu_pakietu_profilu" = "Numer pakietu"; // 个人 - 物流 详细
 
-"profile_setting_feedback_null_toast" = "Please enter all the information"; //个人-物流详细
-"profile_setting_feedback_null_mail_toast" = "Please enter email address correctly"; //个人-物流详细
-"address_hint_postcode_not_null"="Please enter email address";
-"choose_logistic"="Please select the shipment method";
-"confirm_delete_order_title_profile_order"="Are you sure to delete the order?";
-"confirm_valid_hint"="Passwords are not consistent";
-"pay_lack_param"="Necessary data is missing";
-"please_select_address"="Please select the address";
-"success_hide_order_profile_order"="Deleted successfully";
-"network_connect_error"="Network error";
-"network_error"="Network connection timeout";
+"profile_setting_feedback_null_toast" = "Proszę podać wszystkie informacje"; // 个人 - 物流 详细
+"profile_setting_feedback_null_mail_toast" = "Wpisz poprawnie adres e-mail"; // 个人 - 物流 详细
+"address_hint_postcode_not_null" = "Proszę podać adres e-mail";
+"choose_logistic" = "Proszę wybrać metodę wysyłki";
+"confirm_delete_order_title_profile_order" = "Czy na pewno chcesz usunąć zamówienie?";
+"confirm_valid_hint" = "Hasła nie są spójne";
+"pay_lack_param" = "Brak niezbędnych danych";
+"please_select_address" = "Proszę wybrać adres";
+"success_hide_order_profile_order" = "Usunięto pomyślnie";
+"network_connect_error" = "Błąd sieci";
+"network_error" = "Limit czasu połączenia sieciowego";
 
-////////////////////////////// 商品详细-detail ////////////////////////////////
+////////////////////////////// 商品 详细 -detail //////////////// ///////////////
 
-"dp_select_null_toast" = "Please choose "; //个人-地址-详细地址
+"dp_select_null_toast" = "Proszę wybrać"; // 个人 - 地址 - 详细 地址
 
-////////////////////////////// 购物车-cart ////////////////////////////////
+////////////////////////////// 购物 车 -cart //////////////// ///////////////
 
-"cart_soldout_toast" = "Some items sold out"; //个人-地址-详细地址
+"cart_soldout_toast" = "Niektóre przedmioty zostały wyprzedane"; // 个人 - 地址 - 详细 地址
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//version 0.3.0//ver
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 0.3.0 // wersja 0.3.0 // wersja 0.3.0 // wersja 0.3.0 // wersja 0.3.0 // wersja 0.3.0 // wersja 0.3.0 // wersja 0.3.0 // ver
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-////////////////////////////首页-index /////////////////////////////////
+//////////////////////////// 首页 -indeks ///////////////////// //////////////
 
-"index_got_coupon_toast" = "Congratulation! You have got coupon"; //搜索-筛选-来源
-"index_wrong_region_toast" = "The coupons is not available in current region"; //搜索-筛选-来源
-"index_condition_not_meet_toast" = "You cannot take the coupon"; //搜索-筛选-来源
-"index_number_limit_toast" = "You have got coupon more than once"; //搜索-筛选-来源
-"index_timeout_toast" = "The coupon is out of time"; //搜索-筛选-来源
+"index_got_coupon_toast" = "Gratulacje! Masz kupon"; // 搜索 - 筛选 - 来源
+"index_wrong_region_toast" = "Kupony nie są dostępne w bieżącym regionie"; // 搜索 - 筛选 - 来源
+"index_condition_not_meet_toast" = "Nie możesz wziąć kuponu"; // 搜索 - 筛选 - 来源
+"index_number_limit_toast" = "Masz kupon więcej niż jeden raz"; // 搜索 - 筛选 - 来源
+"index_timeout_toast" = "Kupon jest spóźniony"; // 搜索 - 筛选 - 来源
 
-//////////////////////////// 搜索-Search /////////////////////////////////
+//////////////////////////// 搜索 -Search ///////////////////////////// //////////////
 
-"search_filter_source" = "Sellers"; //搜索-筛选-来源
-"search_filter_brand" = "Brands"; //搜索-筛选-品牌
-"search_filter_category" = "Category"; //搜索-筛选-类目
-"search_filter_crowd" = "Consumer"; //搜索-筛选-人群
-"search_filter_more" = "More"; //搜索-筛选-全部
-"search_filter_reset" = "Reset"; //搜索-筛选-全部
-"search_filter_apply" = "Apply"; //搜索-筛选-全部
-"search_sort_popular" = "Popular"; //搜索-筛选-全部
-"search_sort_topsale" = "Top Sellers"; //搜索-筛选-全部
-"search_sort_price" = "Price"; //搜索-筛选-全部
+"search_filter_source" = "Sprzedawcy"; // 搜索 - 筛选 - 来源
+"search_filter_brand" = "Marki"; // 搜索 - 筛选 - 品牌
+"search_filter_category" = "Category"; // 搜索 - 筛选 - 类目
+"search_filter_crowd" = "Konsument"; // 搜索 - 筛选 - 人群
+"search_filter_more" = "Więcej"; // 搜索 - 筛选 - 全部
+"search_filter_reset" = "Reset"; // 搜索 - 筛选 - 全部
+"search_filter_apply" = "Zastosuj"; // 搜索 - 筛选 - 全部
+"search_sort_popular" = "Popular"; // 搜索 - 筛选 - 全部
+"search_sort_topsale" = "Najlepsi sprzedawcy"; // 搜索 - 筛选 - 全部
+"search_sort_price" = "Price"; // 搜索 - 筛选 - 全部
 
-"search_list_supply_by" = "Supplied by"; //搜索-筛选-全部
+"search_list_supply_by" = "Dostarczone przez"; // 搜索 - 筛选 - 全部
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_coupon_title" = "Coupons";
-"profile_coupon_only_country" = "Only in";
-"profile_coupon_condition_over" = "Buy ";
-"profile_coupon_condition_get" = "and get an";
-"profile_coupon_valid_period" = "Valid period";
-"profile_coupon_specific" = "Specific mall or brand ";
-"profile_coupon_null" = "No coupons right now";
+"profile_coupon_title" = "Kupony";
+"profile_coupon_only_country" = "Tylko w";
+"profile_coupon_condition_over" = "Kup";
+"profile_coupon_condition_get" = "i pobierz";
+"profile_coupon_valid_period" = "Ważny okres";
+"profile_coupon_specific" = "Określone centrum handlowe lub marka";
+"profile_coupon_null" = "Brak kuponów teraz";
 "profile_coupon_available" = "Available";
-"profile_coupon_unavailable" = "Unavailable";
+"profile_coupon_unavailable" = "Niedostępny";
 
-//////////////////////////// 购物车-cart /////////////////////////////////
+//////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
-"cart_coupon_available" = "Available";//支付是提示有没可用
-"cart_coupon_unavailable" = "Unavailable";//支付时提示有没可用
+"cart_coupon_available" = "Available"; // 支付 是 提示 有 没 可用
+"cart_coupon_unavailable" = "Niedostępny"; // 支付 时 提示 有 没 可用
 
-//////////////////////////// 商品详细页-DP /////////////////////////////////
+//////////////////////////// 详细 页 -DP ///////////////// ///////////////
 
-"dp_shipment_title" = "Ships from";//支付是提示有没可用
-"dp_shipment_to_title" = "to";//支付时提示有没可用
-"dp_receive_title" = "Delivered in";//支付时提示有没可用
-"dp_receive_days_title" = "days";//支付时提示有没可用
-"dp_shipment_notsupport_title" = "Delivery not supported";//支付是提示有没可用
-"dp_shipment_notsupport_description" = "Item cannot be delivered to current region";//支付是提示有没可用
+"dp_shipment_title" = "Statki z"; // 支付 是 提示 有 没 可用
+"dp_shipment_to_title" = "to"; // 支付 时 提示 有 没 可用
+"dp_receive_title" = "Dostarczone w"; // 支付 时 提示 有 没 可用
+"dp_receive_days_title" = "days"; // 支付 时 提示 有 没 可用
+"dp_shipment_notsupport_title" = "Dostawa nie jest obsługiwana"; // 支付 是 提示 有 没 可用
+"dp_shipment_notsupport_description" = "Przedmiot nie może zostać dostarczony do bieżącego regionu"; // 支付 是 提示 有 没 可用
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"index_comment_main_title" = "Comment";//支付是提示有没可用
-"index_comment_sub_title" = "Like us and comment";//支付是提示有没可用
-"index_bad_feedback_btn" = "Feedback";//支付是提示有没可用
-"index_good_feedback_btn" = "Like us！";//支付是提示有没可用
-"index_timeout_title" = "Timeout";//支付是提示有没可用
-"index_pending_title" = " Not started ";//支付是提示有没可用
-"index_timeout2_title" = " Promotion Timeout";//支付是提示有没可用
-"index_pending2_title" = " Promotion Not started ";//支付是提示有没可用
+"index_comment_main_title" = "Comment"; // 支付 是 提示 有 没 可用
+"index_comment_sub_title" = "Polub nas i komentuj"; // 支付 是 提示 有 没 可用
+"index_bad_feedback_btn" = "Feedback"; // 支付 是 提示 有 没 可用
+"index_good_feedback_btn" = "Polub nas！"; // 支付 是 提示 有 没 可用
+"index_timeout_title" = "Timeout"; // 支付 是 提示 有 没 可用
+"index_pending_title" = "Not started"; // 支付 是 提示 有 没 可用
+"index_timeout2_title" = "Limit czasu promocji"; // 支付 是 提示 有 没 可用
+"index_pending2_title" = "Promocja nie rozpoczęła się"; // 支付 是 提示 有 没 可用
 
-"index_region_null" = "Please select region and language";//支付是提示有没可用
+"index_region_null" = "Wybierz region i język"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+//////////////////////////// 详细 ail -Detail Page ///////////////// ///////////////
 
-"dp_total_sale_title" = "Total sold";//支付是提示有没可用
+"dp_total_sale_title" = "Razem sprzedane"; // 支付 是 提示 有 没 可用
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0//version 1.1.0
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0 // wersja 1.1.0
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"index_minutes_ago" = " minutes ago";//支付是提示有没可用
-"index_hours_ago" = " hours ago";//支付是提示有没可用
-"index_days_ago" = " days ago";//支付是提示有没可用
-"index_weeks_ago" = " weeks ago";//支付是提示有没可用
-"index_months_ago" = " month ago";//支付是提示有没可用
+"index_minutes_ago" = "minuty temu"; // 支付 是 提示 有 没 可用
+"index_hours_ago" = "hours ago"; // 支付 是 提示 有 没 可用
+"index_days_ago" = "dni temu"; // 支付 是 提示 有 没 可用
+"index_weeks_ago" = "tygodnie temu"; // 支付 是 提示 有 没 可用
+"index_months_ago" = "miesiąc temu"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+//////////////////////////// 详细 ail -Detail Page ///////////////// ///////////////
 
-"search_current_filter" = "Filter";//支付是提示有没可用
+"search_current_filter" = "Filtr"; // 支付 是 提示 有 没 可用
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0//version 1.2.0
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.2.0 // wersja 1.2.0 // wersja 1.2.0 // wersja 1.2.0 // wersja 1.2.0 // wersja 1.2.0 // wersja 1.2.0 // wersja 1.2.0
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 商品详细-Detail Page /////////////////////////////////
+//////////////////////////// 详细 ail -Detail Page ///////////////// ///////////////
 
-"search_no_result" = "Sorry, we can not find the results";//支付是提示有没可用
+"search_no_result" = "Przepraszamy, nie możemy znaleźć wyników"; // 支付 是 提示 有 没 可用
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0//version 1.3.0
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.3.0 // wersja 1.3.0 // wersja 1.3.0 // wersja 1.3.0 // wersja 1.3.0 // wersja 1.3.0 // wersja 1.3.0 // wersja 1.3.0
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 搜索-search /////////////////////////////////
+////////////////////////// search szukaj /////////////////// //////////////
 
-"search_ai_search" = "AI Search";//支付是提示有没可用
-"search_ai_found" = "similar items";//支付是提示有没可用
-"search_ai_explore" = "Similar items";//支付是提示有没可用
-"search_ai_not_found" = "No similar items";//支付是提示有没可用
-"search_ai_description" = "Now you can find similar items with AI search";//支付是提示有没可用
-"search_ai_description_confirm" = "Got it";//支付是提示有没可用
+"search_ai_search" = "Wyszukiwanie AI"; // 支付 是 提示 有 没 可用
+"search_ai_found" = "podobne przedmioty"; // 支付 是 提示 有 没 可用
+"search_ai_explore" = "Podobne przedmioty"; // 支付 是 提示 有 没 可用
+"search_ai_not_found" = "Brak podobnych przedmiotów"; // 支付 是 提示 有 没 可用
+"search_ai_description" = "Teraz możesz znaleźć podobne przedmioty za pomocą wyszukiwania AI"; // 支付 是 提示 有 没 可用
+"search_ai_description_confirm" = "Got it"; // 支付 是 提示 有 没 可用
 
-"search_ai_finding" = "AI search is now progressing";//支付是提示有没可用
-"search_ai_find_nothing" = "Sorry, no similar items";//支付是提示有没可用
-"search_ai_similarity" = "Similarity:";//支付是提示有没可用
+"search_ai_finding" = "Trwa wyszukiwanie AI"; // 支付 是 提示 有 没 没 可用
+"search_ai_find_nothing" = "Przepraszam, nie ma podobnych elementów"; // 支付 是 提示 有 没 可用
+"search_ai_similarity" = "podobieństwo:"; // 支付 是 提示 有 没 可用
 
-"search_sort_discount" = "Discount";//支付是提示有没可用
+"search_sort_discount" = "Rabat"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 详细-DP /////////////////////////////////
+//////////////////////////// DP -DP /////////////////// //////////////
 
-"dp_ai_found" = "similar items";//支付是提示有没可用
-"dp_ai_explore" = "Explore more similar items";//支付是提示有没可用
-"dp_ai_find_nothing" = "No similar items";//支付是提示有没可用
-"dp_ai_find_nothing_toast" = "Sorry, no similar items";//支付是提示有没可用
+"dp_ai_found" = "podobne przedmioty"; // 支付 是 提示 有 没 可用
+"dp_ai_explore" = "Przeglądaj więcej podobnych przedmiotów"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing" = "Brak podobnych elementów"; // 支付 是 提示 有 没 可用
+"dp_ai_find_nothing_toast" = "Przepraszam, nie ma podobnych przedmiotów"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 个人-Profile /////////////////////////////////
+//////////////////////////// 个人 -Profile ///////////////////// //////////////
 
-"profile_favorite_ablum_nothing" = "Nothing in album";//支付是提示有没可用
+"profile_favorite_ablum_nothing" = "Nic w albumie"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"index_tab_all" = "All";//支付是提示有没可用
+"index_tab_all" = "All"; // 支付 是 提示 有 没 可用
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0//version 1.4.0
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.4.0 // wersja 1.4.0 // wersja 1.4.0 // wersja 1.4.0 // wersja 1.4.0 // wersja 1.4.0 // wersja 1.4.0 // wersja 1.4.0
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 购物车-cart /////////////////////////////////
+//////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
-"cart_purchase_add_card" = "Use New Credit/Debit Card";//支付是提示有没可用
-"cart_purchase_choose_card" = "Choose From My Card List";//支付是提示有没可用
-"cart_purchase_delete_card_title" = "Delete Credit Card";//支付是提示有没可用
-"cart_purchase_delete_card_content" = "Are you sure you want to delete this card?";//支付是提示有没可用
-"cart_purchase_delete_card" = "Delete";//支付是提示有没可用
+"cart_purchase_add_card" = "Użyj nowej karty kredytowej / debetowej"; // 支付 是 提示 有 没 可用
+"cart_purchase_choose_card" = "Wybierz z listy moich kart"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_title" = "Usuń kartę kredytową"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card_content" = "Czy na pewno chcesz usunąć tę kartę?"; // 支付 是 提示 有 没 可用
+"cart_purchase_delete_card" = "Usuń"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_cards_tips" = "Swipe to delete credit/debit card";//支付是提示有没可用
-"profile_cards_null" = "There are no credit/debit cards linked with your account";//支付是提示有没可用
+"profile_cards_tips" = "Przesuń, aby usunąć kartę kredytową / debetową"; // 支付 是 提示 有 没 可用
+"profile_cards_null" = "Nie ma kart kredytowych / debetowych powiązanych z Twoim kontem"; // 支付 是 提示 有 没 可用
 
-//////////////////////////// 详细页-DP /////////////////////////////////
+//////////////////////////// 详细 页 -DP ///////////////// ///////////////
 
-"dp_message_title" = "Notice";
+"dp_message_title" = "Zawiadomienie";
 
 "dp_follow_btn" = "Follow";
-"dp_following_btn" = "Following";
-"dp_brand_title" = "Brand";
-"dp_brand_shai_title" = "Brand Showing";
-"dp_soldby_title" = "Supplied by";
-"dp_mall_followers" = "Followers";
-"dp_mall_items" = "Items";
+"dp_following_btn" = "Follow";
+"dp_brand_title" = "Marka";
+"dp_brand_shai_title" = "Wyświetlanie marki";
+"dp_soldby_title" = "Dostarczone przez";
+"dp_mall_followers" ​​= "Obserwujący";
+"dp_mall_items" = "Przedmioty";
 "dp_mall_rate" = "Rate";
-"dp_mall_sold" = "Sold";
+"dp_mall_sold" = "Sprzedane";
 "dp_mall_location" = "Region";
 "dp_mall_type" = "Type";
-"dp_mall_type_general" = "General Supplier";
-"dp_mall_type_brand" = "Brand Supplier";
+"dp_mall_type_general" = "Ogólny dostawca";
+"dp_mall_type_brand" = "Dostawca marki";
 
 "dp_desc_title" = "Detail";
 
-"dp_you_may_like" = "You May Like";
+"dp_you_may_like" = "Możesz polubić";
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_address_incomplete" = "The address is incomplete";
+"profile_address_incomplete" = "Adres jest niekompletny";
 
-//////////////////////////// 首页-index /////////////////////////////////
+//////////////////////////// 首页 -index ///////////////////////////////www //////////////
 
-"index_topic_all" = "All Items";
-"index_topic_title" = "Featured Topics";
+"index_topic_all" = "Wszystkie elementy";
+"index_topic_title" = "Polecane tematy";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5//version 1.4.5
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.4.5 // wersja 1.4.5 // wersja 1.4.5 // wersja 1.4.5 // wersja 1.4.5 // wersja 1.4.5 // wersja 1.4.5 // wersja 1.4.5
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 登陆-login /////////////////////////////////
+//////////////////////////// 登陆 -ogin ///////////////////______-
 
-"login_alert1_title" = "By joining you agree to our";
-"login_alert2_title" = " Terms";
-"login_alert3_title" = " &";
-"login_alert4_title" = " Privacy Policy.";
-"login_alert5_title" = " Plus, get order updates, sale alerts, and more in your inbox.";
+"login_alert1_title" = "Dołączając, zgadzasz się na nasze";
+"login_alert2_title" = "Warunki";
+"login_alert3_title" = "&";
+"login_alert4_title" = "Polityka prywatności.";
+"login_alert5_title" = "Plus, uzyskaj aktualizacje zamówienia, alerty sprzedaży i nie tylko w swojej skrzynce odbiorczej.";
 
-"login_email_validation" = "We have sent you an email about reseting password. Please check your email and reset your password";
+"login_email_validation" = "Wysłaliśmy do Ciebie wiadomość e-mail na temat resetu hasła. Sprawdź pocztę i zresetuj hasło";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50//version 1.50
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.50 // wersja 1.50 // wersja 1.50 // wersja 1.50 // wersja 1.50 // wersja 1.50 // wersja 1.50 // wersja 1.50 // wersja 1.50
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 全局-all /////////////////////////////////
+//////////////////////////// all -all /////////////////// //////////////
 
-"all_no_more_items" = "- no more items -";
+"all_no_more_items" = "- nie ma więcej elementów -";
 
-//////////////////////////// 搜索-search /////////////////////////////////
+////////////////////////// search szukaj /////////////////// //////////////
 
-"search_clearhistory_title" = "Are you sure to clear search history";
-"search_clearhistory_cancel_title" = "Cancel";
-"search_clearhistory_sure_title" = "Yes, I'm sure";
+"search_clearhistory_title" = "Czy na pewno chcesz wyczyścić historię wyszukiwania";
+"search_clearhistory_cancel_title" = "Anuluj";
+"search_clearhistory_sure_title" = "Tak, jestem pewien";
 
-//////////////////////////// 详细页-dp /////////////////////////////////
+//////////////////////////// 详细 页 -dp ////////////////// ///////////////
 
-"dp_mall_title" = "AI Price Compare";
-"dp_sizeguide_title" = "Size Guide";
-"dp_mall_nofulfilment_title" = "Sorry, We do not support the fulfillment right now. You may search it on its website.";
-"dp_size_description" = "We recommend that you choose the right size according to the size chart provided.  Please note that product information (color, sizing, etc.) is provided by our suppliers and is for reference only.";
+"dp_mall_title" = "Porównanie cen AI";
+"dp_sizeguide_title" = "Przewodnik po rozmiarach";
+"dp_mall_nofulfilment_title" = "Przepraszamy, nie obsługujemy teraz spełnienia. Możesz przeszukać go na swojej stronie internetowej.";
+"dp_size_description" = "Zalecamy wybranie odpowiedniego rozmiaru zgodnie z dostarczoną tabelą rozmiarów. Należy pamiętać, że informacje o produkcie (kolor, rozmiar itp.) są dostarczane przez naszych dostawców i mają jedynie charakter informacyjny.";
 "dp_mall_location_taobao" = "Hongkong";
 
-"dp_outorder_title" = "Out of Order";
-"dp_processingtime_title" = "Processing Time";
-"dp_processingtime_subtitle" = "Item will be shipped out within 3-5 business days.";
-"dp_addcart_fail_toast" = "Add to Cart failed";
+"dp_outorder_title" = "Poza porządkiem";
+"dp_processingtime_title" = "Czas przetwarzania";
+"dp_processingtime_subtitle" = "Produkt zostanie wysłany w ciągu 3-5 dni roboczych.";
+"dp_addcart_fail_toast" = "Dodaj do koszyka nie powiodło się";
 
-"profile_album_need_title" = "Please enter title";
+"profile_album_need_title" = "Proszę wpisać tytuł";
 
-//////////////////////////// 購物車-cart /////////////////////////////////
+//////////////////////////// 購物 車 -cart ////////////////// ///////////////
 
-"cart_shipment_title" = "Shipment: ";
-"cart_shipment_days_title" = " business days";
-"cart_remove_items" = "Removing";
-"cart_remove_items_success" = "Success";
-"cart_remove_items_fail" = "Please try again";
+"cart_shipment_title" = "Wysyłka:";
+"cart_shipment_days_title" = "dni robocze";
+"cart_remove_items" = "Usuwanie";
+"cart_remove_items_success" = "Sukces";
+"cart_remove_items_fail" = "Spróbuj ponownie";
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_no_content" = "Please fulfill the form";
-"profile_help_title" = "Help";
-"profile_submitsuccess_toast" = "Submit successfully";
-"profile_address_submitsuccess_toast" = "Added successfully";
-"profile_bill_fail_toast" = "Bill loading fail, please try again later";
+"profile_no_content" = "Proszę wypełnić formularz";
+"profile_help_title" = "Pomoc";
+"profile_submitsuccess_toast" = "Prześlij pomyślnie";
+"profile_address_submitsuccess_toast" = "Dodano pomyślnie";
+"profile_bill_fail_toast" = "Ładowanie rachunku nie powiodło się, spróbuj ponownie później";
 "profile_bill_confirm" = "Confrim";
 
-//////////////////////////// 登陆-login /////////////////////////////////
+//////////////////////////// 登陆 -login /////////////////// //////////////
 
-"login_wrong_password" = "Password is inconsistent";
-"login_short_password" = "Password must be more than 6 character";
+"login_wrong_password" = "Hasło jest niespójne";
+"login_short_password" = "Hasło musi mieć więcej niż 6 znaków";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6//version 1.6
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6 // wersja 1.6
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_address_success_toast" = "Success";
+"profile_address_success_toast" = "Sukces";
 
-//////////////////////////// 购物车-cart /////////////////////////////////
+//////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
-"cart_use_coupon" = "Use Coupons";
-"checkout_sure_popup_title" = "Are you sure you want to cancel this payment?";
-"checkout_sure_popup_yes" = "Confirm";
-"checkout_sure_popup_no" = "Cancel";
-"coupon_tip_buy" = "Buy";
-"coupon_tip_more_save" = "more, save";
-"coupon_tip_max" = "Place order and save";
-"coupon_tip_buy_lower" = "buy";
-"coupon_tip_nil" = "Apply Coupon in next step.";
+"cart_use_coupon" = "Użyj kuponów";
+"checkout_sure_popup_title" = "Czy na pewno chcesz anulować tę płatność?";
+"checkout_sure_popup_yes" = "Potwierdź";
+"checkout_sure_popup_no" = "Anuluj";
+"coupon_tip_buy" = "Kup";
+"coupon_tip_more_save" = "więcej, zapisz";
+"coupon_tip_max" = "Złóż zamówienie i zapisz";
+"coupon_tip_buy_lower" = "kup";
+"coupon_tip_nil" = "Zastosuj kupon w następnym kroku.";
 
-//////////////////////////// 商品详细-DP /////////////////////////////////
+//////////////////////////// 商品 详细 -DP ///////////////// ///////////////
 
-"dp_discount_notice_title" = "Discount";
-"dp_favorite_add_toast" = "Added to your favorite";
-"dp_favorite_remove_toast" = "Removed from your favorite";
+"dp_discount_notice_title" = "Rabat";
+"dp_favorite_add_toast" = "Dodano do twojego ulubionego";
+"dp_favorite_remove_toast" = "Usunięto z Twojego ulubionego";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65//version 1.65
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65 // wersja 1.65
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "DONE";
+"profile_switch_address & language_confirm" = "DONE";
 
-//////////////////////////// 购物车-cart /////////////////////////////////
+//////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
 "cart_shipping_recommend" = "HOT";
 
-//////////////////////////// 商品详细-dp /////////////////////////////////
+//////////////////////////// 商品 详细 -dp ////////////////// ///////////////
 
-"dp_desctiption_more" = "More";
+"dp_desctiption_more" = "Więcej";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68//version 1.68
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68 // wersja 1.68
+////////////////////S//./§/. ///////////////S//./§/. ///////////////////
 
-//////////////////////////// 商品详细-DP /////////////////////////////////
+//////////////////////////// 商品 详细 -DP ///////////////// ///////////////
 
-"dp_less" = "Less";
+"dp_less" = "Mniej";
 
-//////////////////////////// 个人-profile /////////////////////////////////
+//////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_order_confirmation_button" = "Confirm Package Recieved";
-"profile_order_confirmation_popup_title" = "Confirm Package Recieved";
-"profile_order_confirmation_popup_content" = "If you have recieved the package, please press “Confirm”";
-"profile_order_confirmation_popup_cancel" = "Cancel";
-"profile_order_confirmation_popup_confirm" = "Confirm";
+"profile_order_confirmation_button" = "Potwierdź pakiet odzyskany";
+"profile_order_confirmation_popup_title" = "Potwierdź pakiet odzyskany";
+"profile_order_confirmation_popup_content" = "Jeśli otrzymałeś pakiet, naciśnij" Potwierdź ";
+"profile_order_confirmation_popup_cancel" = "Anuluj";
+"profile_order_confirmation_popup_confirm" = "Potwierdź";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00//version 2.00
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00 // wersja 2.00
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+//////////////////////////// 个人 栏 ide -Sidebar /////////////////// ///////////////
 
 "sidebar_order_unpaid" = "Unpaid";
-"sidebar_order_processing" = "Processing";
-"sidebar_order_all" = "All Orders";
-"sidebar_message" = "Messages";
-"sidebar_category" = "All Categories";
-"sidebar_favorite" = "Favorites";
-"sidebar_creditcard" = "Credit Cards";
-"sidebar_address" = "Address Book";
-"sidebar_setting" = "Settings";
+"sidebar_order_processing" = "Przetwarzanie";
+"sidebar_order_all" = "Wszystkie zamówienia";
+"sidebar_message" = "Wiadomości";
+"sidebar_category" = "Wszystkie kategorie";
+"sidebar_favorite" = "Ulubione";
+"sidebar_creditcard" = "Karty kredytowe";
+"sidebar_address" = "Książka adresowa";
+"sidebar_setting" = "Ustawienia";
 "sidebar_faq" = "FAQ";
-"sidebar_coupon" = "Coupons";
-"sidebar_signin" = "Click to Sign in";
+"sidebar_coupon" = "Kupony";
+"sidebar_signin" = "Kliknij, aby się zalogować";
 "sidebar_setting_login" = "Login";
 
-//////////////////////////// 搜索-Search /////////////////////////////////
+//////////////////////////// 搜索 -Search ///////////////////////////// //////////////
 
 "search_sort_popular" = "Popular";
-"search_sort_hotsale" = "Top Sellers";
-"search_sort_discount_descend" = "Discount High to Low";
-"search_sort_discount_ascend" = "Discount Low to High";
-"search_sort_price_descend" = "Price High to Low";
-"search_sort_price_ascend" = "Price Low to High";
-"search_fitler" = "Filter";
+"search_sort_hotsale" = "Najlepsi sprzedawcy";
+"search_sort_discount_descend" = "Rabat od wysokiego do niskiego";
+"search_sort_discount_ascend" = "Rabat od niskiego do wysokiego";
+"search_sort_price_descend" = "Cena wysoka do niskiej";
+"search_sort_price_ascend" = "Niska cena do wysokiej";
+"search_fitler" = "Filtr";
 
 "search_top_search" = "Top Search";
-"search_category_title" = "Category";
-"search_brand_title" = "Brand";
+"search_category_title" = "Kategoria";
+"search_brand_title" = "Marka";
 "search_trending_title" = "Trending";
 
-"search_filter_cancel" = "Cancel"; 
+"search_filter_cancel" = "Anuluj";
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"index_more_items" = "More Items";
+"index_more_items" = "Więcej elementów";
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01//version 2.01
-////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
+// wersja 2.01 // wersja 2.01 // wersja 2.01 // wersja 2.01 // wersja 2.01 // wersja 2.01 // wersja 2.01 // wersja 2.01 // wersja 2.01
+///////////////S//./§/. ///////////////S//./§/. ///////////.\T
 
-//////////////////////////// 个人侧栏-Sidebar /////////////////////////////////
+//////////////////////////// 个人 栏 ide -Sidebar /////////////////// ///////////////
 
-"search_mallpage_soldby" = "Seller";
-"search_brandpage_title" = "Brand";
+"search_mallpage_soldby" = "Sprzedawca";
+"search_brandpage_title" = "Marka";
 "search_all_items_title" = "items";
 "search_watching_title" = "views";
 
-////////////////////////////////// 购物车_cart ///////////////////////////////////
+/////////////////////////////////// 购物 车 _cart //////////// //////////////////////
 
-"cart_popup_title" = "What do you think of CloudMall?";
-"cart_popup_nice" = "Pretty good!";
-"cart_popup_soso" = "Could be better";
-"cart_popup_cancel" = "Cancel";
+"cart_popup_title" = "Co myślisz o CloudMall?";
+"cart_popup_nice" = "Całkiem nieźle!"
+"cart_popup_soso" = "Może być lepiej";
+"cart_popup_cancel" = "Anuluj";
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"index_guide_region" = "You may change the shipping region";
+"index_guide_region" = "Możesz zmienić region wysyłki";
 
-////////////////////////////////// 购物车_cart ///////////////////////////////////
-"cart_toast_greeting" = "Good News!";
-"cart_toast_pricedrop" = "Price Drop on";
-"cart_toast_item" = "Item(s)!";
+/////////////////////////////////// 购物 车 _cart //////////// //////////////////////
+"cart_toast_greeting" = "Dobra wiadomość!";
+"cart_toast_pricedrop" = "Spadek ceny";
+"cart_toast_item" = "Przedmiot (y)!";
 
-//////////////////////////// 商品详细-DP /////////////////////////////////
+//////////////////////////// 商品 详细 -DP ///////////////// ///////////////
 
 "dp_aiprice_intitle" = "CloudMall Retailer";
 "dp_aiprice_inshop" = "CloudMall";
-"dp_aiprice_viewmore" = "View More";
-"dp_aiprice_outshop" = "Compare With";
-"dp_aiprice_outtitle" = "Other Retailer";
-"dp_aiprice_inshipping" = "Free shipping";
+"dp_aiprice_viewmore" = "Zobacz więcej";
+"dp_aiprice_outshop" = "Porównaj z";
+"dp_aiprice_outtitle" = "Inny sprzedawca";
+"dp_aiprice_inshipping" = "Bezpłatna dostawa";
 "dp_aiprice_outshipping" = "Includes";
-"dp_aiprice_shipping" = "shipping";
+"dp_aiprice_shipping" = "wysyłka";
 
-////////////////////////////////// 购物车_cart ///////////////////////////////////
-"cart_mark_pricedrop" = "Price Drop";
+/////////////////////////////////// 购物 车 _cart //////////// //////////////////////
+"cart_mark_pricedrop" = "Spadek ceny";
 "cart_seller_from" = "From";
-"cart_total_shipping" = "Shipping not included";
+"cart_total_shipping" = "Wysyłka nie jest wliczona";
 "cart_total_total" = "Total";
 "cart_total_pay" = "Checkout";
-"cart_soldout_popup" = "Some selected items are sold out, please deselect and try again";
+"cart_soldout_popup" = "Niektóre wybrane elementy są wyprzedane, usuń zaznaczenie i spróbuj ponownie";
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"index_banner_more" = "VIEW ALL";
+"index_banner_more" = "ZOBACZ WSZYSTKO";
 
-//////////////////////////// 搜索-Search /////////////////////////////////
-"search_mall_soldby" = "Sold by";
+//////////////////////////// 搜索 -Search ///////////////////////////// //////////////
+"search_mall_soldby" = "Sprzedane przez";
 "search_mall_about" = "About";
-"search_mall_More" = "More";
-"search_mall_less" = "Less";
+"search_mall_More" = "Więcej";
+"search_mall_less" = "Mniej";
 
-//////////////////////////// 优惠券-Coupon /////////////////////////////////
-"profile_coupon_use" = "Use Now";
-"profile_coupon_details" = "Coupon Details";
-"profile_coupon_expired" = "Expired";
-"profile_coupon_viewdetail" = "View Details";
+//////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
+"profile_coupon_use" = "Użyj teraz";
+"profile_coupon_details" = "Szczegóły kuponu";
+"profile_coupon_expired" = "Wygasł";
+"profile_coupon_viewdetail" = "Zobacz szczegóły";
 "profile_coupon_timefrom" = "Valid From";
-"profile_coupon_timeto" = "To";
-"order_coupon_notchoose" = "Do not use coupon";
-"profile_coupon_unused" = "Unused";
-"profile_coupon_expired" = "Unavailable";
-"profile_coupon_nocoupon" = "No Coupons Available";
+"profile_coupon_timeto" = "Do";
+"order_coupon_notchoose" = "Nie używaj kuponu";
+"profile_coupon_unused" = "Nieużywane";
+"profile_coupon_expired" = "Niedostępny";
+"profile_coupon_nocoupon" = "Brak dostępnych kuponów";
 
-"add_coupon_code_title" = "Coupon Code";
-"add_coupon_code_input" = "Enter coupon code";
-"add_coupon_code_apply" = "Apply";
+"add_coupon_code_title" = "Kod kuponu";
+"add_coupon_code_input "=" Wpisz kod kuponu ";
+"add_coupon_code_apply" = "Zastosuj";
 
-//////////////////////////// 订单-Order /////////////////////////////////
+//////////////////////////// 订单 -Order /////////////////////////////// //////////////
 
 "order_status_unpaid" = "Unpaid";
-"order_status_pending" = "Pending";
-"order_status_shipping" = "Shipping";
+"order_status_pending" = "Oczekuje";
+"order_status_shipping" = "Wysyłka";
 "order_status_all" = "All";
-"order_detail_policy" = "After Sales Policy";
-"order_policy_help" = "Need help?";
-"order_policy_contact" = " Contact us.";
+"order_detail_policy" = "Polityka posprzedażna";
+"order_policy_help" = "Potrzebujesz pomocy?";
+"order_policy_contact" = "Skontaktuj się z nami.";
 "order_confirm_delivery" = "Confirm Delivery";
 "order_confirm_logistics" = "Logistics";
 "order_status_finished" = "Finished";
 "order_status_refunded" = "Refunded";
-"order_logistics_co" = "Shipping Co. ";
-"order_logistics_no" = "\nTracking No. ";
-"order_logistics_day" = " day";
-"order_logistics_days" = " days";
+"order_logistics_co" = "Shipping Co.";
+"order_logistics_no" = "nTracking No.";
+"order_logistics_day" = "day";
+"order_logistics_days" = "days";
 "package_status_Unpaid" = "Unpaid";
-"package_status_Processing" = "Processing";
-"package_status_ReadyToShip" = "Ready to ship";
-"package_status_CanceledAfterPaid" = "Canceled";
+"package_status_Processing" = "Przetwarzanie";
+"package_status_ReadyToShip" = "Gotowy do wysyłki";
+"package_status_CanceledAfterPaid" = "Anulowano";
 "package_status_InTransit" = "In Transit";
 "package_status_Delivered" = "Delivered";
 "package_status_Refunded" = "Refunded";
-"package_status_CanceledBeforePaid" = "Expired";
-"order_item_no" = " item";
-"order_item_nos" = " items";
-"order_refunded_buy" = "Buy Again";
-"refunded_list_bottombar_sum" = "Total ";
-"refunded_list_bottombar_no" = " item";
-"refunded_list_bottombar_nos" = " items";
-"pending_canceled_notice" = "Your money will be returned in 48 hours";
-"order_detail_delete" = "Delete";
-"sidebar_order" = "All Orders";
-"order_viewdetail" = "View Details";
-"order_detail_time" = "Order time";
-"order_intransit_package" = "Package ";
-"order_noorder_title" = "No Orders";
-"order_noorder_info" = "Go and add goods to your shopping cart!";
-"order_noorder_button" = "Go shopping";
-"order_detail_param_price" = "Price";
-"order_detail_param_shipping" = "Shipping";
+"package_status_CanceledBeforePaid" = "Wygasł";
+"order_item_no" = "item";
+"order_item_nos" = "items";
+"order_refunded_buy" = "Kup ponownie";
+"refunded_list_bottombar_sum" = "Razem";
+"refunded_list_bottombar_no" = "item";
+"refunded_list_bottombar_nos" = "items";
+"pending_canceled_notice" = "Twoje pieniądze zostaną zwrócone w ciągu 48 godzin";
+"order_detail_delete" = "Usuń";
+"sidebar_order" = "Wszystkie zamówienia";
+"order_viewdetail" = "Zobacz szczegóły";
+"order_detail_time" = "Czas zamówienia";
+"order_intransit_package" = "Package";
+"order_noorder_title" = "Brak zamówień";
+"order_noorder_info" = "Idź i dodaj towary do koszyka!";
+"order_noorder_button" = "Idź na zakupy";
+"order_detail_param_price" = "Cena";
+"order_detail_param_shipping" = "Wysyłka";
 "order_detail_param_total" = "Total";
-"order_detail_param_discount" = "Discount";
-"order_detail_param_refund" = "Refund";
+"order_detail_param_discount" = "Rabat";
+"order_detail_param_refund" = "Zwrot";
 
-//////////////////////////// 首页-Index /////////////////////////////////
+//////////////////////////// 首页 -Index ///////////////////////////www //////////////
 
-"guide_cart_title" = "Shopping Cart";
-"guide_cart_para" = "Check the shopping cart here.";
+"guide_cart_title" = "Koszyk";
+"guide_cart_para" = "Sprawdź koszyk tutaj.";
 "guide_cart_button" = "Got it";
-"guide_dp_title" = "Add to Cart";
-"guide_dp_para" = "Put the goods into the shopping cart here.";
+"guide_dp_title" = "Dodaj do koszyka";
+"guide_dp_para" = "Umieść towary w koszyku tutaj.";
 
-//////////////////////////// 优惠券-Coupon /////////////////////////////////
+//////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
 
-"coupon_loggedin_title" = "CONGRATULATIONS";
-"coupon_loggedin_content_title" = "You Got";
-"coupon_loggedin_content_description_1" = "App Exclusive Coupon";
-"coupon_loggedin_content_description_2" = "New User Coupon";
-"coupon_loggedin_button" = "See My Coupons";
-"coupon_notloggedin_coupon" = "Coupon";
-"coupon_notloggedin_title_1" = "Send you\n";
-"coupon_notloggedin_title_2" = "the New User-Only\n";
-"coupon_notloggedin_title_3" = "coupons";
-"coupon_notloggedin_content_description_1" = "Sign up to get ";
-"coupon_notloggedin_content_description_2" = "coupons！";
-"coupon_notloggedin_button" = "Get it!";
-"coupon_cant_get" = "You have registered before, cannot get the coupons.";
-"coupon_cant_get_enjoy" = "Enjoy your shopping";
-"coupon_cant_get_button" = "Go shopping";
+"coupon_loggedin_title" = "GRATULACJE";
+"coupon_loggedin_content_title" = "Masz";
+"coupon_loggedin_content_description_1" = "Kupon wyłączny dla aplikacji";
+"coupon_loggedin_content_description_2" = "Nowy kupon użytkownika";
+"coupon_loggedin_button" = "Zobacz moje kupony";
+"coupon_notloggedin_coupon" = "Kupon";
+"coupon_notloggedin_title_1" = "Wyślij ci n";
+"coupon_notloggedin_title_2" = "Nowy użytkownik tylko n";
+"kupon_notloggedin_title_3" = "kupony";
+"coupon_notloggedin_content_description_1" = "Zarejestruj się, aby uzyskać";
+"kupon_notloggedin_content_description_2" = "kupony！";
+"coupon_notloggedin_button" = "Pobierz!";
+"coupon_cant_get" = "Zarejestrowałeś się wcześniej, nie możesz dostać kuponów.";
+"coupon_cant_get_enjoy" = "Ciesz się zakupami";
+"coupon_cant_get_button" = "Idź na zakupy";
 
-//////////////////////////// 优惠券-Coupon /////////////////////////////////
+//////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
 
-"global_toast" = "Oops, you have lost internet connection.";
-"cart_wrong_address_toast" = "Sorry, this address cannot be choosed.";
+"global_toast" = "Ups, straciłeś połączenie z internetem.";
+"cart_wrong_address_toast" = "Przepraszamy, nie można wybrać tego adresu.";
 
-//////////////////////////// 订单-Order /////////////////////////////////
+//////////////////////////// 订单 -Order /////////////////////////////// //////////////
 
-"orderpage_title_1" = "Fully Refunded";
-"orderpage_para_1" = "If you do not receive your packages.";
-"orderpage_title_2" = "Return and Refund";
-"orderpage_para_2" = "If item does not fit description.";
-"orderpage_title_3" = "Secure Payment with Escrow Protection";
-"orderpage_title_4" = "Easier, Faster Dispute Resolution";
-"orderpage_title_5" = "100% Guaranteed Refunds.";
+"orderpage_title_1" = "Całkowicie zwrócone";
+"orderpage_para_1" = "Jeśli nie otrzymasz paczek.";
+"orderpage_title_2" = "Zwrot i zwrot";
+"orderpage_para_2" = "Jeśli przedmiot nie pasuje do opisu.";
+"orderpage_title_3" = "Bezpieczna płatność z ochroną depozytu";
+"orderpage_title_4" = "Łatwiejsze, szybsze rozwiązywanie sporów";
+"orderpage_title_5" = "100% gwarantowanych refundacji.";
 
-//////////////////////////// 商品详情-DP /////////////////////////////////
+//////////////////////////// 商品 详情 -DP ///////////////// ///////////////
 
-"coupon_bigtitle" = "NEW USERS ONLY";
-"coupon_para_title" = "COUPON";
-"coupon_para_button" = "Get it!";
-"ai_price" = "AI PRICE COMPARISON";
+"coupon_bigtitle" = "TYLKO NOWY UŻYTKOWNICY";
+"coupon_para_title" = "KUPON";
+"coupon_para_button" = "Zdobądź to!";
+"ai_price" = "PORÓWNANIE CEN AI";
 "ai_price_button" = "Take A Look";
-"dp_share_para" = "Share this goods to your friends";
-"dp_share_title" = "SHARE TO FRIENDS";
-"dp_item_description" = "Description";
-"dp_item_notice" = "Notice";
-"dp_item_notice_time" = "Processing Time";
-"dp_item_notice_size" = "About Size Guide";
-"dp_item_description_more" = "More";
-"dp_item_description_less" = "Less";
+"dp_share_para" = "Udostępnij te towary znajomym";
+"dp_share_title" = "UDOSTĘPNIJ PRZYJACIELE";
+"dp_item_description" = "Opis";
+"dp_item_notice" = "Zawiadomienie";
+"dp_item_notice_time" = "Czas przetwarzania";
+"dp_item_notice_size" = "Informacje o przewodniku rozmiarów";
+"dp_item_description_more" = "Więcej";
+"dp_item_description_less" = "Mniej";
 
-//////////////////////////// 购物车-Cart /////////////////////////////////
+//////////////////////////// 购物 车 -Cart ////////////////// ///////////////
 
-"free_shipping_noenough_0" = "Buy ";
-"free_shipping_noenough_1" = " more to enjoy FREE SHIPPING!";
-"free_shipping_enough" = "Eligible for FREE SHIPPING!";
+"free_shipping_noenough_0" = "Kup";
+"free_shipping_noenough_1" = "więcej, aby cieszyć się BEZPŁATNĄ WYSYŁKĄ!";
+"free_shipping_enough" = "Uprawniony do BEZPŁATNEJ WYSYŁKI!";
 
-//////////////////////////// 登录-login /////////////////////////////////
+//////////////////////////// 登录 -login /////////////////// //////////////
 
-"Login_login" = "Log in";
-"login_facebook" = "Log in with Facebook";
-"login_phone" = "Log in with Phone";
-"login_google" = "Log in with Google";
-"login_email" = "Log in with Email";
-"signup_signin" = "Sign up";
-"signup_facebook" = "Sign up with Facebook";
-"signup_phone" = "Sign up with Phone";
-"signup_google" = "Sign up with Google";
-"signup_email" = "Sign up with Email";
-"signup_coupon" = " for New Users";
-"signup_policydetail" = "By joining you agree to our";
-"signup_policydetail_1" = "Terms";
+"Login_login" = "Zaloguj się";
+"login_facebook" = "Zaloguj się przez Facebooka";
+"login_phone" = "Zaloguj się przez telefon";
+"login_google" = "Zaloguj się za pomocą Google";
+"login_email" = "Zaloguj się przez e-mail";
+"signup_signin" = "Zarejestruj się";
+"signup_facebook" = "Zarejestruj się za pomocą Facebooka";
+"signup_phone" = "Zarejestruj się przez telefon";
+"signup_google" = "Zarejestruj się w Google";
+"signup_email" = "Zarejestruj się przez e-mail";
+"signup_coupon" = "dla nowych użytkowników";
+"signup_policydetail" = "Dołączającg zgadzasz się na nasze ";
+"signup_policydetail_1" = "Warunki";
 "signup_policydetail_2" = "&";
-"signup_policydetail_3" = "Privacy Policy";
+"signup_policydetail_3" = "Polityka prywatności";
 
-//////////////////////////// 空白页-nullpage /////////////////////////////////
+//////////////////////////// 空白 页 -nullpage ////////////////// ///////////////
 
-"no_coupon" = "No Coupons Available";
+"no_coupon" = "Brak dostępnych kuponów";
 "no_order" = "No Order";
-"no_order_detail" = "You haven't made any orders";
-"no_network" = "Oops!";
-"no_network_retry" = "Check if your phone is connected to the internet.";
-"no_search" = "Oops!";
-"no_search_detail" = "No Search Results.";
-"no_goods_cart" = "Empty Cart";
-"no_goods_cart_detail" = "I feel so empty when you don't shop.";
-"no_goods_cart_shop" = "Shop Now";
+"no_order_detail" = "Nie złożyłeś żadnych zamówień";
+"no_network" = "Ups!";
+"no_network_retry" = "Sprawdź, czy Twój telefon jest podłączony do Internetu.";
+"no_search" = "Ups!";
+"no_search_detail" = "Brak wyników wyszukiwania.";
+"no_goods_cart" = "Pusty koszyk";
+"no_goods_cart_detail" = "Czuję się taki pusty, kiedy nie robisz zakupów.";
+"no_goods_cart_shop" = "Kup teraz";
 
-//////////////////////////// 地址-Address /////////////////////////////////
+//////////////////////////// 地址 -Dodaj ///////////////////// //////////////
 
-"phone_wrong_toast" = "Phone number is in wrong format.";
+"phone_wrong_toast" = "Numer telefonu jest w niewłaściwym formacie.";
 "india_address_postcode_title" = "Pincode:";
-"india_street1_detail" = "House No, Building, Street, Locality";
-"india_street2_detail" = "Landmark (optional)";
-"india_city_title" = "City/District: ";
-"india_state_title" = "Region/State: ";
+"india_street1_detail" = "Nr domu, budynek, ulica, miejscowość";
+"india_street2_detail" = "Punkt orientacyjny (opcjonalnie)";
+"india_city_title" = "Miasto / dzielnica:";
+"india_state_title" = "Region / State:";
 "india_mobile" = "Mobile";
-"india_mobile_phone_number" = "Mobile Phone Number";
+"india_mobile_phone_number" = "Numer telefonu komórkowego";
 "india_country" = "County";
-"india_town" = "Locality/Town";
-"india_street_address" = "Street Address";
-"india_address" = "Address";
-"india_address_details" = "Address Details";
-"india_detail_address_input" = "Street,Area,House No.,C/O.";
-"india_addition_address" = "Apt,Suite,Floor,Bldg,etc.(Optional)";
-"zip_wrong_toast" = "Please enter 6-digit pincode.";
-"zip_out_range" = "Sorry, we cannot deliver to this pincode.";
-"location_failed" = "Getting Location Failed.";
-"sa_address_province_title" = "State/Prov./Region: ";
-"sa_address_city_title" = "City: ";
-"sa_address_district_title" = "District (Optional):";
-"sa_address_street1_title" = "Street";
-"sa_address_street2_title" = "Address Details (Optional)";
+"india_town" = "Lokalizacja / miasto";
+"india_street_address" = "Ulica";
+"india_address" = "Adres";
+"india_address_details" = "Szczegóły adresu";
+"india_detail_address_input" = "Ulica, powierzchnia, nr domu, C / O.";
+"india_addition_address" = "Apt, Suite, Floor, Bldg itp. (opcjonalnie)";
+"zip_wrong_toast" = "Wprowadź 6-cyfrowy kod PIN.";
+"zip_out_range" = "Przepraszamy, nie możemy dostarczyć na ten kod PIN.";
+"location_failed" = "Nie udało się uzyskać lokalizacji.";
+"sa_address_province_title" = "State / Prov. / Region:";
+"sa_address_city_title" = "Miasto:";
+"sa_address_district_title" = "Dystrykt (opcjonalnie):";
+"sa_address_street1_title" = "Ulica";
+"sa_address_street2_title" = "Szczegóły adresu (opcjonalnie)";
 
-//////////////////////////// 支付-Pay /////////////////////////////////
+//////////////////////////// ay -Pay ///////////////////////////// //////////////
 
-"cash_on_delivery_0" = "Additional Cost";
-"cash_on_delivery_1" = "You can pay in cash when your order is on delivery.";
-"cash_on delivery_2" = "You can use COD only if all your previous COD orders have been signed successfully.";
-"phone_verify_title" = "Order Confirmation.";
-"phone_verify_detail_0" = "Please verify your phone number.";
-"phone_verify_detail_1" = "Tap 'Send Code' to request verification code.";
-"phone_verify_input" = "Your Phone";
-"phone_verify_button" = "Verify";
-"phone_code_detail" = "Please enter 4-digit code.";
-"phone_code_input" = "4-digit code";
-"phone_code_resend" = "Resend";
-"phone_verify_send" = "Send Code";
-"shipping_free" = "Free";
-"phone_verify_sending" = "Sending";
-"phone_verify_wrong" = "Wrong code. Try again.";
-"code_send_failed" = "Failed to send the code, please check your phone number and try again.";
+"cash_on_delivery_0" = "Dodatkowy koszt";
+"cash_on_delivery_1" = "Możesz zapłacić gotówką, gdy twoje zamówienie jest w dostawie.";
+"cash_on delivery_2" = "Możesz użyć COD tylko wtedy, gdy wszystkie poprzednie zamówienia COD zostały pomyślnie podpisane.";
+"phone_verify_title" = "Potwierdzenie zamówienia.";
+"phone_verify_detail_0" = "Proszę zweryfikować swój numer telefonu.";
+"phone_verify_detail_1" = "Dotknij 'Wyślij kod', aby poprosić o kod weryfikacyjny.";
+"phone_verify_input" = "Twój telefon";
+"phone_verify_button" = "Weryfikuj";
+"phone_code_detail" = "Wprowadź 4-cyfrowy kod.";
+"phone_code_input" = "4-cyfrowy kod";
+"phone_code_resend" = "Wyślij ponownie";
+"phone_verify_send" = "Wyślij kod";
+"shipping_free" = "Bezpłatne";
+"phone_verify_sending" = "Wysyłanie";
+"phone_verify_wrong" = "Błędny kod. Spróbuj ponownie.";
+"code_send_failed" = "Nie udało się wysłać kodu, sprawdź swój numer telefonu i spróbuj ponownie.";
 "cod_not" = "Not Available";
 
-//////////////////////////// DP-评论 /////////////////////////////////
+///////////////Www.fx///////// //////////////
 
-"dp_reviews" = " Reviews";
-"dp_no_reviews" = "No Reviews";
-"dp_review" = " Review";
-"dp_topban_welcome" = "Welcome ";
-"dp_topban_order" = "The latest order,";
-"dp_topban_ordertime" = " sec ago.";
-"dp_topban_view" = " people viewing now!";
-"dp_more_reviews" = "More Reviews";
+"dp_reviews" = "Recenzje";
+"dp_no_reviews" = "Brak recenzji";
+"dp_review" = "Recenzja";
+"dp_topban_welcome" = "Witamy";
+"dp_topban_order" = "Ostatnie zamówienie";
+"dp_topban_ordertime" = "sec ago.";
+"dp_topban_view" = "ludzie oglądają teraz!";
+"dp_more_reviews" = "Więcej recenzji";
 
-//////////////////////////// 首页-闪购 /////////////////////////////////
-"flash_sale_end_in" = "End in";
+//////////////////////////// 首页 - 闪 购 //////////////// ///////////////
+"flash_sale_end_in" = "Zakończ";
 "flash_sale_not_started" = "Not started";
 "flash_sale_over" = "Over";
 
-///////////////////////// DP-加购解锁功能 //////////////////////////////
-"limited_time_offer_info" = "Instant offer: Add to cart right now to unlock a lower price!";
-"limited_time_offer_expired" = "Expired";
-"limited_time_offer_now_only" = "Now Only ";
+///////__- / - / - - - - • - - ---// // // // // // // // DP DP DP DP DP DP DP /////////////
+"limited_time_offer_info" = "Natychmiastowa oferta: Dodaj do koszyka już teraz, aby odblokować niższą cenę!";
+"limited_time_offer_expired" = "Wygasł";
+"limited_time_offer_now_only" = "Now Only";
 "limited_time_offer_text_first" = "You unlocked";
-"limited_time_offer_text_second" = "off this product.";
-"limited_time_offer_text_third" = "This price expires in 1 hour so checkout soon!";
-"limited_time_offer_continue" = "Continue";
+"limited_time_offer_text_second" = "wyłącz ten produkt";
+"limited_time_offer_text_third" = "Ta cena wygasa za 1 godzinę, więc zamówienie wkrótce!";
+"limited_time_offer_continue" = "Kontynuuj";
 
-//////////////////////// coupon-优惠券 //////////////////////////////
+///////////////////////pakieta- / / / / / / / / / / /. ////////
 "coupon_available_info" = "Order";
-"coupon_available_click_info" = "Click this to select a coupon";
-"coupon_code_invalid" = "Coupon code is invalid";
+"coupon_available_click_info" = "Kliknij, aby wybrać kupon";
+"coupon_code_invalid" = "Kod kuponu jest nieprawidłowy";
 
-//////////////////////// index-首页 //////////////////////////////
-"index_middle-card" = "YOUR CART>";//首页—中间-购物车
+/////////www.polecenie- ///////////// ///////
+"index_middle-card" = "TWÓJ KOSZYK>"; // 首页 - 中间 - 购物 车
 
-//////////////////////// cart-购物车 //////////////////////////////
-"cart_tip_buy" = "Buy";
+/////////////////////./karta- / / / / / / /. ////////
+"cart_tip_buy" = "Kup";
 
-//////////////////////// 地址优化 //////////////////////////////
-"address_landmark" = "Nearest Landmark";
-"ae_address_phone_number" = "Alternate Phone Number";
-"address_location_type" = "Address Type";
+//////////////////////////////////. //////
+"address_landmark" = "Najbliższy punkt orientacyjny";
+"ae_address_phone_number" = "Alternatywny numer telefonu";
+"address_location_type" = "Typ adresu";
 "address_location_type_home" = "Home";
-"address_location_type_business" = "Business";
-"address_optional_prompt" = "Optional";
+"address_location_type_business" = "Biznes";
+"address_optional_prompt" = "Opcjonalny";
 
-//////////////////////// insta //////////////////////////////
+//////////////////////// insta ///////////__/ /////
 "instar_home_navigation" = "INSTA";
 "instar_trending_title" = "Insta";
-"instar_trending_shopping" = "SHOPPING>";
+"instar_trending_shopping" = "ZAKUPY>";
 "instar_trending_translation" = "SHOW TRANSLATION";
-"instar_trending_original" = "SHOW ORIGINAL";
+"instar_trending_original" = "POKAŻ ORYGINAŁ";
 "instar_blogger_likes" = "Likes";
-"instar_blogger_follower" = "Followers";
-"instar_blogger_following" = "Following";
-"instar_blogger_not_follow_button" = "+Follow";
-"instar_detail_page" = "Photo";
-"instar_review_title" = "Reviews";
-"instar_related_posts" = "Related Posts";
-"instar_following_page_people" = "People";
+"instar_blogger_follower" = "Obserwujący";
+"instar_blogger_following" = "Follow";
+"instar_blogger_not_follow_button" = "+ Follow";
+"instar_detail_page" = "Zdjęcie";
+"instar_review_title" = "Recenzje";
+"instar_related_posts "=" Powiązane posty ";
+"instar_following_page_people" = "Ludzie";
 "instar_following_page_hashtags" = "Hashtags";
-"instar_trending_view_more" = "View More";
+"instar_trending_view_more" = "Zobacz więcej";
 "instar_unfollow_title" = "Unfollow";
-"instar_unfollow_info" = "Confirm to unfollow";
-"instar_unfollow_cancel" = "Cancel";
+"instar_unfollow_info" = "Potwierdź, aby nie obserwować";
+"instar_unfollow_cancel" = "Anuluj";
 "instar_unfollow_unfollow" = "Unfollow";
-"instar_collapse" = "Collapse";
-"insrar_object_recognized" = "Object Recognized";
-"instar_posts" = "Posts";
-"instar_kol_not_post" = "hasn't posted anything yet~";
-"instar_own_not_post" = "You hasn't posted anything yet~";
-"instar_following" = "Following";
-"instar_sliding_into" = "Sliding into INSTA";
-"instar_release_into" = "Release into INSTA";
-"instar_bottom" ="You reach the bottom.";
+"instar_collapse" = "Zwiń";
+"insrar_object_recognized" = "Obiekt rozpoznany";
+"instar_posts" = "Posty";
+"instar_kol_not_post" = "nie opublikował jeszcze niczego ~";
+"instar_own_not_post" = "Jeszcze nic nie napisałeś ~";
+"instar_following" = "Follow";
+"instar_sliding_into" = "Przesunięcie do INSTA";
+"instar_release_into" = "Zwolnij do INSTA";
+"instar_bottom" = "Dochodzisz do dołu.";
 
-//////////////////////// 购物车 //////////////////////////////
-"fs_full_amount" = "Your order is eligible for FREE SHIPPING!";
-"fs_no_select" = "Free Shipping on order over ";
-"delete_no_select" = "Please select goods";
-"we_accept" = "We Accept";
-"fs_no_full_amount_0" = "Buy";
-"fs_no_full_amount_1" = "more to enjoy FREE SHIPPING!";
+//////////////////////////////////. //////
+"fs_full_amount" = "Twoje zamówienie kwalifikuje się do BEZPŁATNEJ WYSYŁKI!";
+"fs_no_select" = "Bezpłatna wysyłka na zamówienie";
+"delete_no_select" = "Proszę wybrać towary";
+"we_accept" = "Akceptujemy";
+"fs_no_full_amount_0" = "Kup";
+"fs_no_full_amount_1" = "więcej, aby cieszyć się BEZPŁATNĄ WYSYŁKĄ!";
 
-//////////////////////// DP //////////////////////////////
+///////////////////// DP /////////__ / /////
 "DP_insta" = "INSTA SIMILARITY";
-"DP_info" = "Description";
-"DP_coupon" = "New User Coupon";
-"DP_selected" = "Select Color, Size";
-"DP_time" = "Estimated arrival time";
-"DP_product_similarity" = "PRODUCT SIMILARITY";
+"DP_info" = "Opis";
+"DP_coupon" = "Nowy kupon użytkownika";
+"DP_selected" = "Wybierz kolor, rozmiar";
+"DP_time" = "Szacowany czas przybycia";
+"DP_product_similarity" = "PODOBNE PRODUKTY";
 "DP_to" = "Ship to";
-"DP_you_may_like" = "YOU MAY LIKE";
-"DP_search_price" = "searching latest price";
+"DP_you_may_like" = "MOŻESZ PODOBAĆ SIĘ";
+"DP_search_price" = "wyszukiwanie najnowszej ceny";
 
-//////////////////////// 首页 //////////////////////////////
-"home_shopping" = "SHOPPING";
+// /////
+"home_shopping" = "ZAKUPY";
 "home_fashion" = "FASHION";
 "fashion_new_arrival" = "New Arrival";
 "fashion_trending" = "Trending";
 "home_all" = "ALL";
 
-//////////////////////// 搜索结果页 //////////////////////////////
-"search_results_top" = "Top";
-"search_results_new" = "New";
+///////////////////////./. ///////
+"search_results_top" = "Góra";
+"search_results_new" = "Nowy";
 "search_results_price" = "Price";
-"search_results_filter" = "Filter";
-"search_results_follow" = "+Follow";
-"search_results_following" = "Following";
+"search_results_filter" = "Filtr";
+"search_results_follow" = "+ Follow";
+"search_results_following" = "Follow";
 
-//////////////////////// 购物车 //////////////////////////////
-"cart_invalid_items" = "Invalid Items";
-"cart_clear_items" = "Clear Invalid Items";
-"cart_message" = "Confirm empty invalid item(s)?";
-"cart_cancel" = "Cancel";
-"cart_delete" = "Delete";
-"cart_1_hour_only" = "1 Hour Only";
+//////////////////////////////////. //////
+"cart_invalid_items" = "Nieprawidłowe elementy";
+"cart_clear_items" = "Wyczyść niepoprawne elementy";
+"cart_message" = "Potwierdź puste nieprawidłowe elementy?";
+"cart_cancel" = "Anuluj";
+"cart_delete" = "Usuń";
+"cart_1_hour_only" = "Tylko 1 godzina";
 
-//////////////////////// 闪购 //////////////////////////////
+//////////////////////////////////. //////
 "flash_sale_on_sale_now" = "On Sale Now";
 "flash_sale_coming_soon" = "Coming Soon";
-"flash_sale_sold" = "Sold";
-"flash_sale_shop_now" = "Shop Now";
-"flash_sale_almost_sold_out" = "Almost Sold Out";
-"flash_sale_sold_out" = "Sold Out";
-"flash_sale_starts_in" = "Starts in";
-"flash_sale_end_in" = "End in";
-"flash_sale_remind" = "We will reminder you once it starts.You can check it in your Reminder List.";
-"flash_sale_cancel_remind" = "Cancel Reminder";
-"flash_sale_reminder_list" = "You have no viewed items yet. The earlier you set reminders, the earlier you get good items.";
+"flash_sale_sold" = "Sprzedane";
+"flash_sale_shop_now" = "Kup teraz";
+"flash_sale_almost_sold_out" = "Prawie wyprzedane";
+"flash_sale_sold_out" = "Wyprzedane";
+"flash_sale_starts_in" = "Rozpoczyna się";
+"flash_sale_end_in" = "Zakończ";
+"flash_sale_remind" = "Przypomnimy ci, kiedy się uruchomi. Możesz to sprawdzić na liście przypomnień.";
+"flash_sale_cancel_remind" = "Anuluj przypomnienie";
+"flash_sale_reminder_list" = "Nie masz jeszcze oglądanych elementów. Im wcześniej ustawisz przypomnienia, tym wcześniej otrzymasz dobre przedmioty.";
 "flash_sale_fiery_buying" = "Fiery Buying";
-"flash_sale_coming_remind_me" = "Remind Me";
-"flash_sale_coming_following" = "Following";
-"flash_sale_reminder_list_title" = "Reminder List";
-"flash_sale_reminder_canceled" = "Reminder Canceled";
+"flash_sale_coming_remind_me" = "Przypomnij mi";
+"flash_sale_coming_following" = "Follow";
+"flash_sale_reminder_list_title" = "Lista przypomnień";
+"flash_sale_reminder_canceled" = "Przypomnienie anulowane";
 "flash_sale_reminder_list_on_going" = "On Going";
-"flash_sale_tomorrow" = "Tomorrow";
+"flash_sale_tomorrow" = "Jutro";
 
-//////////////////////// 领券提醒 //////////////////////////////
-"coupon_successful" = "You got the coupon(s)!";
-"coupon_already_received" = "You already got the coupon(s)!";
-"coupon_error" = "Somthing went wrong with the network, please try again";
+///////////////////////./. ///////
+"coupon_successful" = "Masz kupon (y)!";
+"coupon_already_received" = "Masz już kupon (y)!";
+"coupon_error" = "Coś poszło nie tak z siecią, spróbuj ponownie";
 
-//////////////////////// DP比价 //////////////////////////////
-"comparison_price_sold_by" = "Sold by";
-"comparison_price_cloudmall" = "on CloudMall";
+////////////////////// DP / / / / /. //////
+"compare_price_sold_by" = "Sprzedane przez";
+"compare_price_cloudmall" = "na CloudMall";
 
-//////////////////////// 地址 //////////////////////////////
-"address_details" = "Address Details / Landmark (Optional)";
+// /////
+"address_details" = "Szczegóły adresu / Punkt orientacyjny (opcjonalnie)";
 
-//////////////////////// 降价提醒 //////////////////////////////
-"price_reduction_home1" = "item(s) dropped a total of";
-"price_reduction_home2" = "in your cart,check out now!";
+//////////////////////////////////. //////
+"price_reduction_home1" = "item (s) spadł łącznie";
+"price_reduction_home2" = "w koszyku, sprawdź teraz!";
 "price_reduction_home3" = "Got it";
-"price_reduction_dp1" = "Check out now and get";
-"price_reduction_dp2" = "Free Shipping";
-"price_reduction_dp3" = "Check Out";
-"price_reduction_cart1" = "item(s) prices have dropped,";
-"price_reduction_cart2" = "check it out!";
+"price_reduction_dp1" = "Sprawdź teraz i pobierz";
+"price_reduction_dp2" = "Bezpłatna wysyłka";
+"price_reduction_dp3" = "Pobierz";
+"price_reduction_cart1" = "ceny przedmiotów spadły,";
+"price_reduction_cart2" = "sprawdź to!";
 
-//////////////////////// AE手机号校验 //////////////////////////////
-"phone_check" = "Your Mobile Phone Number should be a 9 digit number which start with 5";
+/ A / - / - / - / - / / - / - / - / /////////
+"phone_check" = "Twój numer telefonu komórkowego powinien być 9 cyfrowym numerem zaczynającym się od 5";
 
-///// 库存相关的翻译 /////
+///// 库存 相关 的 翻译 /////
 "stock_dp_only" = "only";
-"stock_dp_stock" = "left in stock - order soon";
+"stock_dp_stock" = "pozostawiony w magazynie - zamów wkrótce";
 
-//////////////////// item endless页面 ///////////////
+Element ///////////////////// nie ma końca 页面 /////////////////
 "item_end_less_only" = "only";
 "item_end_less_stock" = "left";
 
-////////////////Filter中价格选择////////////////
+//////////////// Filtr 中 价格 选择 ////////////////
 "filter_price" = "Price";
 "filter_price_min" = "Min";
 "filter_price_max" = "Max";
 
-///////////Filter全部标题翻译//////////////
-"filter_brands" = "Brands";
-"filter_categories" = "Categories";
-"filter_colors" = "Colors";
-"filter_countries" = "Countries";
-"filter_interfaces" = "Interface";
-"filter_materials" = "Materials";
+/////////// Filtr 全部 标题 翻译 //////////////
+"filter_brands" = "Marki";
+"filter_categories" = "Kategorie";
+"filter_colors" = "Kolory";
+"filter_countries" = "Kraje";
+"filter_interfaces" = "Interfejs";
+"filter_materials" = "Materiały";
 "filter_minorcategories" = "MinorCategories";
 "filter_models" = "Models";
 "filter_sextags" = "Gender";
-"filter_sizes" = "Size";
+"filter_sizes" = "Rozmiar";
 
-//////////////////////filter中底部按钮/////////////////////
+////////////////////// filtr 中 底部 按钮 ///////////////////
 "filter_reset" = "Reset";
 "filter_apply" = "Apply";
 
-///////////////支付-MMS商品COD不可付款提示修改/////////
-"cod_not_detail" = "COD is available only when the order is between AED99-AED1799 and doesn't contain non-COD items.";
+/////////////// 支付 -MMS 商品 COD 不可 付款 提示 修改 /////////
+"cod_not_detail" = "COD jest dostępny tylko wtedy, gdy zamówienie mieści się w przedziale od AED99-AED1799 i nie zawiera elementów innych niż COD.";
 
-///////cart-MMS商品COD不可付款提示///////
-"cart_not_cod_message" = "These items do not support COD.";
+/////// cart-MMS 商品 COD 不可 付款 提示 ///////
+"cart_not_cod_message" = "Te przedmioty nie obsługują COD.";
 
-/////////返利中的首次邀请弹窗////////
-"affiliate_invite_window_first" = "Earning Money";
-"affiliate_invite_window_left" = "CONGRATULATIONS";
-"affiliate_invite_window_between" = "You get";
-"affiliate_invite_window_right" = "cash, invite friends to earn more cash.";
-"affiliate_invite_window_link" = "Your invitation link";
-"affiliate_invite_window_copy" = "Copy";
+///////// 返利 中 的 首次 邀请 弹 窗 ////////
+"affiliate_invite_window_first" = "Zarabianie pieniędzy";
+"affiliate_invite_window_left" = "GRATULACJE";
+"affiliate_invite_window_between" = "Otrzymujesz";
+"affiliate_invite_window_right" = "gotówka, zaproś przyjaciół, aby zarobili więcej pieniędzy.";
+"affiliate_invite_window_link" = "Twój link zaproszenia";
+"affiliate_invite_window_copy" = "Kopiuj";
 "affiliate_invite_window_copy_prompt" = "Copy Succefully";
-"affiliate_invite_window_wallet" = "See my wallet";
-"affiliate_invite_window_invite" = "Invite your friends";
-"affiliate_invite_window_invite_prompt_fb" = "Facebook not found";
+"affiliate_invite_window_wallet" = "Zobacz mój portfel";
+"affiliate_invite_window_invite" = "Zaproś swoich przyjaciół";
+"affiliate_invite_window_invite_prompt_fb" = "Nie znaleziono Facebooka";
 "affiliate_invite_window_invite_prompt_ms" = "Messenge not found";
-"affiliate_invite_window_invite_prompt_msr" = "Messenger not found";
-"affiliate_invite_window_invite_prompt_ws" = "WhatsApp not found";
+"affiliate_invite_window_invite_prompt_msr" = "Messenger nie znaleziono";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp nie znaleziono";
 
-/////////返利中的非首次打开弹窗//////////////
-"affiliate_invite_window_not_first_left" = "WALLET:";
-"affiliate_invite_window_not_first_right" = "Successfully invited:";
-"affiliate_invite_window_not_first_last" = "people";
+///////// 返利 的 的 非 首次 打开 弹 窗 //////////////
+"affiliate_invite_window_not_first_left" = "PORTFEL:";
+"affiliate_invite_window_not_first_right" = "Pomyślnie zaproszono:";
+"affiliate_invite_window_not_first_last" = "ludzie";
 
-//////////被邀请人登录弹窗/////////
-"affiliate_invitee_pop_window_left" = "invites you to join CloudMall and gives you this exclusive coupon";
-"affiliate_invitee_pop_window_between" = "COUPON";
-"affiliate_invitee_pop_window_coupon_time" = "Coupon Ends In";
-"affiliate_invitee_pop_window_log_fb" = "Sign up with Facebook";
-"affiliate_invitee_pop_window_log_phone" = "Sign up with Phone";
+////////// 被 邀请 人 登录 弹 窗 /////////
+"affiliate_invitee_pop_window_left" = "zaprasza Cię do dołączenia do CloudMall i daje Ci ten ekskluzywny kupon";
+"affiliate_invitee_pop_window_between" = "KUPON";
+"affiliate_invitee_pop_window_coupon_time" = "Kupon kończy się";
+"affiliate_invitee_pop_window_log_fb" = "Zarejestruj się za pomocą Facebooka";
+"affiliate_invitee_pop_window_log_phone" = "Zarejestruj się telefonem";
 
-///////////////返利通知消息/////////////////
-"affiliate_noti_friend_accept_left" = "Your friend";
-"affiliate_noti_friend_accept_right" = "accepted your invitation.";
-"affiliate_noti_friend_log_right" = "just logged in.";
-"affiliate_noti_friend_share_right" = "shared a post.";
-"affiliate_noti_friend_share_item" = "shared an item.";
-"affiliate_noti_friend_bought_right" = "just bought";
-"affiliate_noti_friend_bought_end" = "item.";
-"affiliate_noti_withdraw_available_left" = "You have";
-"affiliate_noti_withdraw_available_right" = "available to withdraw.";
-"affiliate_noti_become_friend_left" = "You are now";
-"affiliate_noti_become_friend_right" = "'s friend.";
-"affiliate_noti_got_wallet_left" = "You just received";
-"affiliate_noti_got_wallet_remind" = "Successfully followed. We will remind you once the Flash Sale starts.";
-"affiliate_noti_got_wallet_sale" = "Flash Sale starting now!";
+///////// 消息 / /
+"affiliate_noti_friend_accept_left" = "Twój przyjaciel";
+"affiliate_noti_friend_accept_right" = "zaakceptował twoje zaproszenie.";
+"affiliate_noti_friend_log_right" = "właśnie się zalogowałeś.";
+"affiliate_noti_friend_share_right" = "udostępnił post.";
+"affiliate_noti_friend_share_item" = "udostępnił element.";
+"affiliate_noti_friend_bought_right" = "właśnie kupiony";
+"affiliate_noti_friend_bought_end" = "przedmiot (y)";
+"affiliate_noti_friend_bought_end_new" = "rabat!";
+"affiliate_noti_withdraw_available_left" = "Masz";
+"affiliate_noti_withdraw_available_right" = "dostępny do wypłaty.";
+"affiliate_noti_become_friend_left" = "Jesteś teraz";
+"affiliate_noti_become_friend_right" = "przyjaciela.";
+"affiliate_noti_got_wallet_left" = "Właśnie otrzymałeś";
+"affiliate_noti_got_wallet_left_first_login" = "Witamy w CloudMall! 10% zniżki na pierwszy zakup!";
+"affiliate_noti_got_wallet_remind" = "Pomyślnie śledzono. Przypomnimy Ci, kiedy rozpocznie się Flash Sale.";
+"affiliate_noti_got_wallet_sale" = "Sprzedaż Flash już teraz!";
 
-////////////钱包/////////////
-"wallet_sider" = "My Wallet";
+//////////// 钱包 /////////////
+"wallet_sider" = "Mój portfel";
 "wallet_person_e_wallet" = "CloudMall E-Wallet";
 "wallet_person_cash" = "Cash";
-"wallet_person_pending" = "Pending";
+"wallet_person_pending" = "Oczekuje";
 "wallet_person_refunded" = "Refunded";
-"wallet_person_withdraw" = "Withdraw";
-"wallet_person_messages" = "Messages";
-"wallet_person_invite" = "Invite";
-"sidebar_wallet" = "My Wallet";
-"wallet_withdraw_error_left" = "Withdraw Error";
-"wallet_withdraw_error_behind" = "Something wrong with the withdrawal?";
-"wallet_withdraw_error_right" = "Please contact CloudMall customer service.";
-"wallet_withdraw_error_end" = "Contact Now";
+"wallet_person_withdraw" = "Wycofaj się";
+"wallet_person_messages" = "Wiadomości";
+"wallet_person_invite" = "Zaproś";
+"sidebar_wallet" = "Mój portfel";
+"wallet_withdraw_error_left" = "Wycofaj błąd";
+"wallet_withdraw_error_behind" = "Coś nie tak z wycofaniem?";
+"wallet_withdraw_error_right" = "Skontaktuj się z obsługą klienta CloudMall.";
+"wallet_withdraw_error_end" = "Skontaktuj się teraz";
 
-//////////////////////rule弹窗//////////////////
+////////////////////// reguła 弹 窗 //////////////////
 "rule_window" = "Know More";
 
-////////////withdraw policy弹窗//////////
-"withdraw_policy_window_left" = "Withdraw Policy";
-"withdraw_policy_window_right" = "Minimum E-Wallet Cash for Withdraw";
-"withdraw_policy_window_end" = "Continue to invite";
+//////////// wycofaj politykę 弹 窗 //////////
+"withdraw_policy_window_left" = "Wycofaj politykę";
+"withdraw_policy_window_right" = "Minimalna gotówka e-portfela za wypłatę";
+"withdraw_policy_window_end" = "Kontynuuj zaproszenie";
 
-/////////////////////DP页面钱包弹窗/////////////////
+DP ///////////////www.t./.
 "wallet_dp_window_left" = "Cash Back";
-"wallet_dp_window_right" = "Invite friends to get";
+"wallet_dp_window_right" = "Zaproś przyjaciół, aby się dostali";
 
-///////支付页面钱包/////////
-"submit_order_wallet" = "Wallet";
+/////// 支付 页面 钱包 /////////
+"submit_order_wallet" = "Portfel";
 "submit_order_available" = "Available";
-"submit_order_not_available" = "Not availale";
-"order_detail_param_cash" = "Wallet";
+"submit_order_not_available" = "Niedostępny";
+"order_detail_param_cash" = "Portfel";
 
-/////////////////message页面//////////////
-"message_bought_item" = "Reward";
+///////////////// wiadomość 页面 //////////////
+"message_bought_item" = "Nagroda";
+
+////////////////////// prześlij zamówienie 页 新增 portfel 弹 窗 ////////////////
+"submit_order_wallet_rule_title" = "Zasady użycia portfela";
+"submit_order_wallet_rule_first" = "Można użyć tylko“ Dostępnego ”salda portfela.";
+"submit_order_wallet_rule_third" = "Zaproś więcej znajomych do składania zamówień, aby uzyskać więcej darmowej gotówki z portfela!";
+"submit_order_wallet_rule_thread" = "Salda portfela nie można wykorzystać do pokrycia kosztów wysyłki.";
+"submit_order_wallet_rule_fourth" = "Z powodu lokalnych ograniczeń saldo portfela nie może zostać wykorzystane do pokrycia całej kwoty zakupu. Jeśli dostępne saldo w portfelu przekroczy całkowitą kwotę zakupu, zostanie wykorzystana tylko część dostępnego salda.";
+"submit_order_wallet_rule_button" = "Rozumiem";

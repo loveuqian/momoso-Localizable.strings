@@ -1,5 +1,5 @@
 
-"language_resources" = "丹麦";
+"language_resources" = "丹麦语";
 
 ////////////////////////////////// 全局 _all ///////////// //////////////////////
 
@@ -1368,12 +1368,14 @@
 "affiliate_noti_friend_share_right" = "delte et indlæg.";
 "affiliate_noti_friend_share_item" = "delte et emne.";
 "affiliate_noti_friend_bought_right" = "lige købt";
-"affiliate_noti_friend_bought_end" = "item.";
+"affiliate_noti_friend_bought_end" = "vare (r). Du får en";
+"affiliate_noti_friend_bought_end_new" = "rabat!";
 "affiliate_noti_withdraw_available_left" = "Du har";
 "affiliate_noti_withdraw_available_right" = "tilgængelig for at trække tilbage.";
 "affiliate_noti_become_friend_left" = "Du er nu";
 "affiliate_noti_become_friend_right" = "'s ven.";
 "affiliate_noti_got_wallet_left" = "Du har lige modtaget";
+"affiliate_noti_got_wallet_left_first_login" = "Velkommen til CloudMall! 10% af dit første køb!";
 "affiliate_noti_got_wallet_remind" = "Successfully followed. Vi vil minde dig, når Flash Sale begynder.";
 "affiliate_noti_got_wallet_sale" = "Flash Sale starter nu!";
 
@@ -1412,3 +1414,11 @@
 
 ///////////////// besked 页面 //////////////
 "message_bought_item" = "Belønning";
+
+//////////////////////submit order页新增wallet弹窗////////////////
+"submit_order_wallet_rule_title" = "Brugsregler for tegnebog";
+"submit_order_wallet_rule_first" = "Kun “Tilgængelig” tegnebogssaldo kan bruges.";
+"submit_order_wallet_rule_third" = "Inviter flere venner til at placere ordrer for at få mere gratis tegnebogskasser!";
+"submit_order_wallet_rule_thread" = "Wallet-saldoen kan ikke bruges til at dække forsendelsesomkostninger.";
+"submit_order_wallet_rule_fourth" = "På grund af lokale begrænsninger kan lommebalancen ikke bruges til at dække hele købsbeløbet. Hvis den tilgængelige saldo i din tegnebog overstiger dit samlede købsbeløb, vil kun en del af den tilgængelige saldo blive brugt.";
+"submit_order_wallet_rule_button" = "Forstået";
