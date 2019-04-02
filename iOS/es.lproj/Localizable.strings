@@ -1420,5 +1420,5 @@
 "submit_order_wallet_rule_first" = "Solo se puede usar el saldo de billetera “Disponible ”.";
 "submit_order_wallet_rule_third" = "¡Invite a más amigos a realizar pedidos para obtener más efectivo gratis en la billetera!";
 "submit_order_wallet_rule_thread" = "El saldo de la cartera no se puede usar para cubrir los costos de envío.";
-"submit_order_wallet_rule_fourth" = "Debido a restricciones locales, el saldo de la cartera no se puede usar para cubrir el monto total de la compra. Si el saldo disponible en su billetera excede el monto total de su compra, solo se utilizará una parte del saldo disponible."
+"submit_order_wallet_rule_fourth" = "Debido a restricciones locales, el saldo de la cartera no se puede usar para cubrir el monto total de la compra. Si el saldo disponible en su billetera excede el monto total de su compra, solo se utilizará una parte del saldo disponible.";
 "submit_order_wallet_rule_button" = "Lo tengo";

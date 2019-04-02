@@ -252,7 +252,7 @@
 "translate_btn_dp" = "Translate";
 "translate_title_dp" = "Opis produktu";
 
-"open_facebook_share_btn_dp" = "" Cloudmall "chciałby otworzyć" Facebook "; // 商品 详细 - 点击 分享 弹 窗
+"open_facebook_share_btn_dp" = "'Cloudmall' chciałby otworzyć 'Facebook'"; // 商品 详细 - 点击 分享 弹 窗
 "cancle_open_facebook_share_btn_dp" = "Anuluj"; // 商品 详细 - 点击 分享 弹 窗
 "ok_open_facebook_share_btn_dp" = "Otwórz"; // 商品 详细 - 点击 分享 弹 窗
 
@@ -835,7 +835,7 @@
 
 "profile_order_confirmation_button" = "Potwierdź pakiet odzyskany";
 "profile_order_confirmation_popup_title" = "Potwierdź pakiet odzyskany";
-"profile_order_confirmation_popup_content" = "Jeśli otrzymałeś pakiet, naciśnij" Potwierdź ";
+"profile_order_confirmation_popup_content" = "Jeśli otrzymałeś pakiet, naciśnij 'Potwierdź'";
 "profile_order_confirmation_popup_cancel" = "Anuluj";
 "profile_order_confirmation_popup_confirm" = "Potwierdź";
 
@@ -894,7 +894,7 @@
 /////////////////////////////////// 购物 车 _cart //////////// //////////////////////
 
 "cart_popup_title" = "Co myślisz o CloudMall?";
-"cart_popup_nice" = "Całkiem nieźle!"
+"cart_popup_nice" = "Całkiem nieźle!";
 "cart_popup_soso" = "Może być lepiej";
 "cart_popup_cancel" = "Anuluj";
 
@@ -1296,14 +1296,14 @@
 "price_reduction_cart1" = "ceny przedmiotów spadły,";
 "price_reduction_cart2" = "sprawdź to!";
 
-/ A / - / - / - / - / / - / - / - / /////////
+// A / - / - / - / - / / - / - / - / /////////
 "phone_check" = "Twój numer telefonu komórkowego powinien być 9 cyfrowym numerem zaczynającym się od 5";
 
 ///// 库存 相关 的 翻译 /////
 "stock_dp_only" = "only";
 "stock_dp_stock" = "pozostawiony w magazynie - zamów wkrótce";
 
-Element ///////////////////// nie ma końca 页面 /////////////////
+//Element ///////////////////// nie ma końca 页面 /////////////////
 "item_end_less_only" = "only";
 "item_end_less_stock" = "left";
 
@@ -1402,7 +1402,7 @@ Element ///////////////////// nie ma końca 页面 /////////////////
 "withdraw_policy_window_right" = "Minimalna gotówka e-portfela za wypłatę";
 "withdraw_policy_window_end" = "Kontynuuj zaproszenie";
 
-DP ///////////////www.t./.
+//DP ///////////////www.t./.
 "wallet_dp_window_left" = "Cash Back";
 "wallet_dp_window_right" = "Zaproś przyjaciół, aby się dostali";
 

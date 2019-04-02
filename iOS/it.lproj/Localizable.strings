@@ -1125,7 +1125,7 @@
 "cash_on delivery_2" = "Puoi utilizzare COD solo se tutti i precedenti ordini COD sono stati firmati correttamente.";
 "phone_verify_title" = "Conferma dell'ordine.";
 "phone_verify_detail_0" = "Verifica il tuo numero di telefono.";
-"phone_verify_detail_1" = "Tocca" Invia codice "per richiedere il codice di verifica.";
+"phone_verify_detail_1" = "Tocca ‘Invia codice’ per richiedere il codice di verifica.";
 "phone_verify_input" = "Il tuo telefono";
 "phone_verify_button" = "Verifica";
 "phone_code_detail" = "Inserisci il codice a 4 cifre.";
@@ -1417,7 +1417,7 @@
 
 //////////////////////// inoltra la pagina dell'ordine popup popup del portafoglio //////////////////
 "submit_order_wallet_rule_title" = "Regole di utilizzo del portafoglio";
-"submit_order_wallet_rule_first" = "È possibile utilizzare solo il saldo del portafoglio" Disponibile ".";
+"submit_order_wallet_rule_first" = "È possibile utilizzare solo il saldo del portafoglio 'Disponibile'.";
 "Submit_order_wallet_rule_third" = "Invita altri amici di effettuare ordini per ottenere più libero del raccoglitore di cassa!";
 "submit_order_wallet_rule_thread" = "Non è possibile utilizzare il saldo di Wallet per coprire i costi di spedizione.";
 "Submit_order_wallet_rule_fourth" = "A causa di restrizioni locali, il saldo portafoglio non può essere utilizzata per coprire l'intero importo di acquisto Se il saldo disponibile nel vostro portafoglio supera l'importo totale dell'acquisto, quindi solo una parte del saldo disponibile sarà utilizzato ..";
