@@ -869,7 +869,7 @@
 "search_brand_title" = "Merek";
 "search_trending_title" = "Tren";
 
-"search_filter_cancel" = "Dekat"; 
+"search_filter_cancel" = "Dekat";
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
@@ -1098,7 +1098,7 @@
 "india_address_postcode_title" = "Kode PIN:";
 "india_street1_detail" = "Rumah Tidak, Gedung, Jalan, Lokalitas";
 "india_street2_detail" = "Tengara(pilihan)";
-"india_city_title" = "Kota/Distrik: "; 
+"india_city_title" = "Kota/Distrik: ";
 "india_state_title" = "Wilayah / Negara: ";
 "india_mobile" = "Seluler";
 "india_mobile_phone_number" = "Nomor ponsel";
@@ -1417,7 +1417,7 @@
 
 //////////////////////submit order页新增wallet弹窗////////////////
 "submit_order_wallet_rule_title" = "Aturan Penggunaan Dompet";
-"submit_order_wallet_rule_first" = "Hanya" Saldo dompet “Tersedia” yang dapat digunakan. ";
+"submit_order_wallet_rule_first" = "Hanya Saldo dompet “Tersedia” yang dapat digunakan. ";
 "submit_order_wallet_rule_third" = "Undang lebih banyak teman untuk memesan agar mendapat lebih banyak uang tunai dompet gratis!";
 "submit_order_wallet_rule_thread" = "Saldo dompet tidak dapat digunakan untuk menutupi biaya pengiriman.";
 "submit_order_wallet_rule_fourth" = "Karena batasan lokal, saldo dompet tidak dapat digunakan untuk menutupi seluruh jumlah pembelian. Jika saldo yang tersedia di dompet Anda melebihi jumlah total pembelian Anda, maka hanya sebagian dari saldo yang Tersedia yang akan digunakan.";
