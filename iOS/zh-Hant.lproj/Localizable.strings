@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "電子錢包餘額不能用於支付運費.";
 "submit_order_wallet_rule_fourth" = "由於當地限制，錢包餘額不能用於支付整個購買金額。 如果錢包中的可用餘額超過總購買金額，則只會使用可用餘額的一部分.";
 "submit_order_wallet_rule_button" = "知道了";
+
+///////////////////ios3.07版本 - 返利彈窗//////////////
+"affilate_window_title" = "邀請返利";
+"affilate_window_my_reward" ="我的返利";
+"submit_order_ayden" = "信用卡/借記卡";

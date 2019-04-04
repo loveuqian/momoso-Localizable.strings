@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Der Kontostand kann nicht zur Deckung der Versandkosten verwendet werden.";
 "submit_order_wallet_rule_fourth" = "Aufgrund lokaler Beschränkungen kann der Kontostand nicht zur Deckung des gesamten Kaufbetrags verwendet werden. Wenn der verfügbare Kontostand Ihres Portfolios Ihren gesamten Kaufbetrag übersteigt, wird nur ein Teil des verfügbaren Kontostands verwendet.";
 "submit_order_wallet_rule_button" = "Ich habs";
+
+/////////////////ios3.07 version - rabatt pop-ups ///////////////
+"affilate_window_title" = "Einladungsbelohnung";
+"affilate_window_my_reward" = "Meine Belohnung";
+"submit_order_ayden" = "Kredit-/Debitkarte";

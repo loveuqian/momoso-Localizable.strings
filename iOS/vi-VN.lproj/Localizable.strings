@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Không thể sử dụng số dư ví để trang trải chi phí vận chuyển.";
 "submit_order_wallet_rule_fourth" = "Do các hạn chế cục bộ, số dư ví không thể được sử dụng để trang trải toàn bộ số tiền mua. Nếu số dư khả dụng trong ví của bạn vượt quá tổng số tiền mua của bạn, thì chỉ một phần của số dư khả dụng sẽ được sử dụng.";
 "submit_order_wallet_rule_button" = "Đã nhận";
+
+/////////////////////// phiên bản 3.07 - giảm giá pop-up /////////////////
+"affilate_window_title" = "Phần thưởng lời mời";
+"affilate_window_my_Vward" = "Phần thưởng của tôi";
+"submit_order_ayden" = "Thẻ tín dụng/thẻ ghi nợ";

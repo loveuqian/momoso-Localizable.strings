@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "O saldo da carteira não pode ser usado para cobrir os custos de envio.";
 "submit_order_wallet_rule_fourth" = "Devido a restrições locais, o saldo da carteira não pode ser usado para cobrir o valor total da compra. Se o saldo Disponível na sua carteira exceder o valor total da compra, apenas uma parte do saldo Disponível será utilizada.";
 "submit_order_wallet_rule_button" = "Entendi";
+
+/////////////////////ios3.07 version - rebate pop-ups ///////////////
+"affilate_window_title" = "Convite para desconto";
+"affilate_window_my_reward" = "Meu desconto";
+"submit_order_ayden" = "Cartão de Crédito/Débito";

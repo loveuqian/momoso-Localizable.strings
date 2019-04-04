@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Non è possibile utilizzare il saldo di Wallet per coprire i costi di spedizione.";
 "Submit_order_wallet_rule_fourth" = "A causa di restrizioni locali, il saldo portafoglio non può essere utilizzata per coprire l'intero importo di acquisto Se il saldo disponibile nel vostro portafoglio supera l'importo totale dell'acquisto, quindi solo una parte del saldo disponibile sarà utilizzato ..";
 "submit_order_wallet_rule_button" = "Trovato";
+
+/////////////////////ios3.07 versione - abbonati popup ///////////////
+"affilate_window_title" = "Ricompensa dell'invito";
+"affilate_window_my_reward" = "My Reward";
+"submit_order_ayden" = "Carta di credito/debito";

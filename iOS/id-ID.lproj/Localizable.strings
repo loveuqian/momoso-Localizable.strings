@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Saldo dompet tidak dapat digunakan untuk menutupi biaya pengiriman.";
 "submit_order_wallet_rule_fourth" = "Karena batasan lokal, saldo dompet tidak dapat digunakan untuk menutupi seluruh jumlah pembelian. Jika saldo yang tersedia di dompet Anda melebihi jumlah total pembelian Anda, maka hanya sebagian dari saldo yang Tersedia yang akan digunakan.";
 "submit_order_wallet_rule_button" = "Mengerti";
+
+/////////////////////ios3.07 versi - rabat pop-up ///////////////
+"affilate_window_title" = "Hadiah Undangan";
+"affilate_window_my_reward" = "Hadiah Saya";
+"submit_order_ayden" = "Kartu Kredit/Debit";

@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Salda portfela nie można wykorzystać do pokrycia kosztów wysyłki.";
 "submit_order_wallet_rule_fourth" = "Z powodu lokalnych ograniczeń saldo portfela nie może zostać wykorzystane do pokrycia całej kwoty zakupu. Jeśli dostępne saldo w portfelu przekroczy całkowitą kwotę zakupu, zostanie wykorzystana tylko część dostępnego salda.";
 "submit_order_wallet_rule_button" = "Rozumiem";
+
+///////////////////ios3.07版本 - 返利弹窗//////////////
+"affilate_window_title" = "Zaproś rabat";
+"affilate_window_my_reward" ="Mój rabat";
+"submit_order_ayden" = "Karta kredytowa/debetowa";

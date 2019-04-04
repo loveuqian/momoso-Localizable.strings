@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Wallet-saldoen kan ikke bruges til at dække forsendelsesomkostninger.";
 "submit_order_wallet_rule_fourth" = "På grund af lokale begrænsninger kan lommebalancen ikke bruges til at dække hele købsbeløbet. Hvis den tilgængelige saldo i din tegnebog overstiger dit samlede købsbeløb, vil kun en del af den tilgængelige saldo blive brugt.";
 "submit_order_wallet_rule_button" = "Forstået";
+
+/////////////////////ios3.07 version - rabat pop-ups ///////////////
+"affilate_window_title" = "Invitationsbelønning";
+"affilate_window_my_reward" = "Mit belønning";
+"submit_order_ayden" = "Kredit/betalingskort";

@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Plånbokssaldo kan inte användas för att täcka fraktkostnader.";
 "submit_order_wallet_rule_fourth" = "På grund av lokala restriktioner kan inte plånbokens balans användas för att täcka hela inköpsbeloppet. Om det tillgängliga saldot i din plånbok överstiger ditt totala köpbelopp, kommer endast en del av tillgängliga saldo att användas.";
 "submit_order_wallet_rule_button" = "Fick det";
+
+/////////////////////ios3.07 version - rabatt popup-fönster ///////////////
+"affilate_window_title" = "Inbjudningsbelöning";
+"affilate_window_my_reward" = "Mitt belöning";
+"submit_order_ayden" = "Kredit/Betalkort";

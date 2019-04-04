@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Zůstatek peněženky nelze použít k pokrytí nákladů na přepravu.";
 "submit_order_wallet_rule_fourth" = "Vzhledem k místním omezením nelze zůstatku peněženky použít k pokrytí celé částky nákupu. Pokud zůstatek ve vaší peněžence přesáhne celkovou částku nákupu, použije se pouze část zůstatku, který je k dispozici.";
 "submit_order_wallet_rule_button" = "Mám to";
+
+/////////////////////ios3.07 verze - slevové vyskakovací okna ///////////////
+"affilate_window_title" = "Pozvánka na odměnu";
+"affilate_window_my_reward" = "Moje odměna";
+"submit_order_ayden" = "Kreditní/Debetní karta";

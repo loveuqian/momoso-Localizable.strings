@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Wallet balance cannot be used to cover shipping costs.";
 "submit_order_wallet_rule_fourth" = "Due to local restrictions, the wallet balance cannot be used to cover the entire purchase amount. If the Available balance in your wallet exceeds your total purchase amount, then only a part of the Available balance will be used.";
 "submit_order_wallet_rule_button" = "Got It";
+
+///////////////////ios3.07版本——返利弹窗//////////////
+"affilate_window_title" = "Invitation Reward";
+"affilate_window_my_reward" = "My Reward";
+"submit_order_ayden" = "Credit/Debit Card";

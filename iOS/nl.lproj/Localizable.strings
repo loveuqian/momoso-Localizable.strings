@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Wallet-saldo kan niet worden gebruikt om verzendkosten te dekken.";
 "submit_order_wallet_rule_fourth" = "Vanwege lokale beperkingen kan het walletsaldo niet worden gebruikt om het volledige aankoopbedrag te dekken.Als het beschikbare saldo in uw portemonnee uw totale aankoopbedrag overschrijdt, wordt slechts een deel van het beschikbare saldo gebruikt.";
 "submit_order_wallet_rule_button" = "Begrepen";
+
+/////////////////////ios3.07 versie - korting pop-ups ///////////////
+"affilate_window_title" = "Uitnodiging voor korting";
+"affilate_window_my_reward" = "Mijn korting";
+"submit_order_ayden" = "Creditcard/betaalkaart";

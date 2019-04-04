@@ -1422,3 +1422,8 @@
 "submit_order_wallet_rule_thread" = "Wallet-saldoen kan ikke brukes til å dekke fraktkostnadene.";
 "submit_order_wallet_rule_fourth" = "På grunn av lokale restriksjoner kan lommebalansen ikke brukes til å dekke hele kjøpsbeløpet. Hvis Tilgjengelig saldo i lommeboken din overstiger ditt totale kjøpsbeløp, vil bare en del av Tilgjengelig saldo bli brukt.";
 "submit_order_wallet_rule_button" = "Fikk det";
+
+/////////////////////ios3.07 versjon - rabatt popup-vinduer ///////////////
+"affilate_window_title" = "Invitasjonsbelønning";
+"affilate_window_my_reward" = "Mitt belønning";
+"submit_order_ayden" = "Kreditt-/debetkort";
