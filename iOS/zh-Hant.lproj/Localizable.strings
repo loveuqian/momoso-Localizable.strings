@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "邀請返利";
 "affilate_window_my_reward" ="我的返利";
 "submit_order_ayden" = "信用卡/借記卡";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "該商品加購數量已超過上限，不能再繼續添加";

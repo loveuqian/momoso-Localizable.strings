@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Uitnodiging voor korting";
 "affilate_window_my_reward" = "Mijn korting";
 "submit_order_ayden" = "Creditcard/betaalkaart";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "De aankoophoeveelheid van dit artikel heeft de limiet overschreden en kan niet langer worden toegevoegd";

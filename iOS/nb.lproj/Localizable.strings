@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Personvern og sikkerhet /";
 "agreements_content_cart3" = "Vilkår for bruk /";
 "agreements_content_cart4" = "Return & Exchange Policies";
-"summit_checkout_btn_cart" = "Send bestilling";
+"summit_checkout_btn_cart" = "Sende inn ordre";
 "mall_shipping_fee_title_cart" = "Mall fraktgebyr";
 "tax_fee_title_cart" = "Skatt";
 "supply_title_cart" = "Leveres av";
@@ -1068,11 +1068,11 @@
 "login_phone" = "Logg inn med telefon";
 "login_google" = "Logg inn med Google";
 "login_email" = "Logg inn med e-post";
-"signup_signin" = "Registrer deg";
-"signup_facebook" = "Registrer deg med Facebook";
-"signup_phone" = "Registrer deg med telefon";
-"signup_google" = "Registrer deg med Google";
-"signup_email" = "Registrer deg med e-post";
+"signup_signin" = "Registrering";
+"signup_facebook" = "Registrering med Facebook";
+"signup_phone" = "Registrering med telefon";
+"signup_google" = "Registrering med Google";
+"signup_email" = "Registrering med e-post";
 "signup_coupon" = "for nye brukere";
 "signup_policydetail" = "Ved joining er du enig i vår ";
 "signup_policydetail_1" = "Vilkår";
@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Invitasjonsbelønning";
 "affilate_window_my_reward" = "Mitt belønning";
 "submit_order_ayden" = "Kreditt-/debetkort";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "Kjøpskvantiteten til dette elementet har overskredet grensen og kan ikke lenger legges til";

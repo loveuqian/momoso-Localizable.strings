@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Inbjudningsbelöning";
 "affilate_window_my_reward" = "Mitt belöning";
 "submit_order_ayden" = "Kredit/Betalkort";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "Köpkvantiteten för det här objektet har överskridit gränsen och kan inte längre läggas till";

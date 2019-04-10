@@ -1068,11 +1068,11 @@
 "login_phone" = "Iniciar sesión con el teléfono";
 "login_google" = "Inicia sesión con Google";
 "login_email" = "Iniciar sesión con correo electrónico";
-"signup_signin" = "Registrarse";
-"signup_facebook" = "Registrarse con Facebook";
-"signup_phone" = "Registrarse con el teléfono";
-"signup_google" = "Registrarse con Google";
-"signup_email" = "Registrarse con correo electrónico";
+"signup_signin" = "Registro";
+"signup_facebook" = "Registrarse en Facebook";
+"signup_phone" = "Registrarse en Phone";
+"signup_google" = "Registrarse en Goole";
+"signup_email" = "Registrarse en Email";
 "signup_coupon" = "para nuevos usuarios";
 "signup_policydetail" = "Al unirte, aceptas nuestro";
 "signup_policydetail_1" = "Términos";
@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Recompensa de invitación";
 "affilate_window_my_reward" = "My Reward";
 "submit_order_ayden" = "Tarjeta de crédito/débito";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "La cantidad de compra de este artículo ha excedido el límite y ya no se puede agregar";

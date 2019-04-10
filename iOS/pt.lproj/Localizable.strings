@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Convite para desconto";
 "affilate_window_my_reward" = "Meu desconto";
 "submit_order_ayden" = "Cartão de Crédito/Débito";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "A quantidade de compras deste item excedeu o limite e não pode mais ser adicionada";

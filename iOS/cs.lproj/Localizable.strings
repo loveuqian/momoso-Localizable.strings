@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Pozvánka na odměnu";
 "affilate_window_my_reward" = "Moje odměna";
 "submit_order_ayden" = "Kreditní/Debetní karta";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "Množství nákupu této položky překročilo tento limit a již jej nelze přidat";

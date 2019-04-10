@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Invitationsbelønning";
 "affilate_window_my_reward" = "Mit belønning";
 "submit_order_ayden" = "Kredit/betalingskort";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "Købsmængden af denne vare har overskredet grænsen og kan ikke længere tilføjes";

@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Phần thưởng lời mời";
 "affilate_window_my_Vward" = "Phần thưởng của tôi";
 "submit_order_ayden" = "Thẻ tín dụng/thẻ ghi nợ";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "Số lượng mua của mặt hàng này đã vượt quá giới hạn và không thể thêm được nữa";

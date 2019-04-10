@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Invitation Reward";
 "affilate_window_my_reward" = "My Reward";
 "submit_order_ayden" = "Credit/Debit Card";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "The purchase quantity of this item has exceeded the limit and can no longer be added";

@@ -204,7 +204,7 @@
 "supply_title_cart" = "Geliefert von";
 "select_address_title_cart" = "Adresse auswählen";
 
-"confirm_payment_btn_profile_order" = "Zahlung absenden";
+"confirm_payment_btn_profile_order" = "Zahlung ausführen";
 "asap_pay_title_cart" = "Deal endet bald";
 "asap_pay_detail_content_cart" = "Die Preise können jederzeit geändert werden. Bestellen Sie jetzt, um das beste Angebot zu erhalten!";
 "select_payment_title_cart" = "Zahlungsmethode auswählen";
@@ -994,7 +994,7 @@
 "order_noorder_button" = "Einkaufen gehen";
 "order_detail_param_price" = "Preis";
 "order_detail_param_shipping" = "Versand";
-"order_detail_param_total" = "Total";
+"order_detail_param_total" = "Gesamt";
 "order_detail_param_discount" = "Rabatt";
 "order_detail_param_refund" = "Rückerstattung";
 
@@ -1063,16 +1063,16 @@
 
 //////////////////////////Login /////////////////// //////////////
 
-"Login_login" = "Anmelden";
-"login_facebook" = "Mit Facebook anmelden";
-"login_phone" = "Mit Telefon anmelden";
-"login_google" = "Mit Google anmelden";
-"login_email" = "Mit E-Mail anmelden";
-"signup_signin" = "Registrieren";
-"signup_facebook" = "Bei Facebook anmelden";
-"signup_phone" = "Mit Telefon anmelden";
-"signup_google" = "Bei Google anmelden";
-"signup_email" = "Mit E-Mail anmelden";
+"Login_login" = "Login";
+"login_facebook" = "Facebook-Login";
+"login_phone" = "Phone-Login";
+"login_google" = "Google-Login";
+"login_email" = "Email-Login";
+"signup_signin" = "Registrierung";
+"signup_facebook" = "Melden Sie sich für Facebook an";
+"signup_phone" = "Registrierung der Handynummer";
+"signup_google" = "Google-Registrierung";
+"signup_email" = "E-Mail-Registrierung";
 "signup_coupon" = "für neue Benutzer";
 "signup_policydetail" = "Von joining stimmst du unseren zu ";
 "signup_policydetail_1" = "Begriffe";
@@ -1386,7 +1386,7 @@
 "wallet_person_pending" = "Ausstehend";
 "wallet_person_refunded" = "Rückerstattung";
 "wallet_person_withdraw" = "Auszahlung";
-"wallet_person_messages" = "Nachrichten";
+"wallet_person_messages" = "Mitteilungen";
 "wallet_person_invite" = "Einladen";
 "sidebar_wallet" = "Mein Geldbeutel";
 "wallet_withdraw_error_left" = "Fehler beim Abheben";
@@ -1427,3 +1427,6 @@
 "affilate_window_title" = "Einladungsbelohnung";
 "affilate_window_my_reward" = "Meine Belohnung";
 "submit_order_ayden" = "Kredit-/Debitkarte";
+
+//////////////////////购物车商品数量限购////////////////////
+"cart_item_number_limt" = "Die Einkaufsmenge dieses Artikels hat das Limit überschritten und kann nicht mehr hinzugefügt werden";
