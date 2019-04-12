@@ -128,7 +128,7 @@
 "description_title_profile_favors" = "Description";
 "new_album_title_dp" = "Editar el título del nuevo álbum";
 
-"address_manage_title_all" = "Administrar libreta de direcciones";
+"address_manage_title_all" = "Gestión de direcciones";
 "add_address_btn_cart" = "Agregar una nueva dirección";
 "id_phone_title_profile_cash" = "Número de teléfono:";
 "detail_address_title_cart" = "Unit / Floor / Block / Building / Street";
@@ -186,7 +186,7 @@
 
 "cart_icon_all" = "Carrito";
 "hint2_login_title_cart" = "Inicie sesión para ver su carrito, favoritos e historial de pedidos";
-"select_all_btn_cart" = "Seleccionar todo";
+"select_all_btn_cart" = "Seleccionar";
 "save_price_title_cart" = "Oferta aplicada";
 "checkout_btn_cart" = "Checkout";
 "empty_title_cart" = "Su carrito de compras está vacío";
@@ -194,11 +194,11 @@
 "mall_item_discount_title_dp" = "Oferta aplicada automáticamente";
 "drop_price_title_cart" = "On Sale";
 
-"agreement_content_cart1" = "Al enviar este pedido, acepto el servicio de Cloudmall";
-"agreement_content_cart2" = "Privacy & Security /";
-"agreement_content_cart3" = "Términos de uso /";
-"agreement_content_cart4" = "Políticas de devolución y cambio";
-"summit_checkout_btn_cart" = "Enviar pedido";
+"submit_content_cart1" = "Al enviar este pedido, acepto el servicio de Cloudmall";
+"submit_content_cart2" = "Privacy & Security /";
+"submit_content_cart3" = "Términos de uso /";
+"submit_content_cart4" = "Políticas de devolución y cambio";
+"submit_checkout_btn_cart" = "Enviar pedido";
 "mall_shipping_fee_title_cart" = "Tarifa de envío del centro comercial";
 "tax_fee_title_cart" = "Impuesto";
 "supply_title_cart" = "Suministrado por";
@@ -206,7 +206,7 @@
 
 "confirm_payment_btn_profile_order" = "Enviar pago";
 "asap_pay_title_cart" = "El contrato terminará pronto";
-"asap_pay_detail_content_cart" = "Los precios están sujetos a cambios en cualquier momento, ¡haga su pedido ahora para obtener la mejor oferta!";
+"asap_pay_detail_content_cart" = "Los precios cambian en cualquier momento, ordene rápidamente!";
 "choose_payment_title_cart" = "Seleccione el método de pago";
 "hint_choose_payment_title_cart" = "Seleccione el método de pago";
 "final_price_title_cart" = "Total del pedido:";
@@ -1065,9 +1065,9 @@
 
 "Login_login" = "Iniciar sesión";
 "login_facebook" = "Iniciar sesión con Facebook";
-"login_phone" = "Iniciar sesión con el teléfono";
+"login_phone" = "Iniciar sesión con Phone";
 "login_google" = "Inicia sesión con Google";
-"login_email" = "Iniciar sesión con correo electrónico";
+"login_email" = "Iniciar sesión con Email";
 "signup_signin" = "Registro";
 "signup_facebook" = "Registrarse en Facebook";
 "signup_phone" = "Registrarse en Phone";
@@ -1280,8 +1280,8 @@
 "coupon_error" = "Algo salió mal con la red, inténtelo de nuevo";
 
 //////////////////////// DP 比价 //////////////////////// //////
-"compare_price_sold_by" = "Vendido por";
-"compare_price_cloudmall" = "en CloudMall";
+"compaire_price_sold_by" = "Vendido por";
+"compaire_price_cloudmall" = "en CloudMall";
 
 //////////////////////// 地址 ///////////////////////// /////
 "address_details" = "Detalles de dirección / punto de referencia (opcional)";

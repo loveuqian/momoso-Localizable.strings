@@ -206,7 +206,7 @@
 
 "confirm_payment_btn_profile_order" = "Invia pagamento";
 "asap_pay_title_cart" = "L'offerta finisce presto";
-"asap_pay_detail_content_cart" = "I prezzi sono soggetti a modifiche in qualsiasi momento, quindi effettua subito l'ordine per ottenere l'offerta migliore!";
+"asap_pay_detail_content_cart" = "I prezzi cambiano in qualsiasi momento, i primi ordini!";
 "choose_payment_title_cart" = "Seleziona il metodo di pagamento";
 "hint_choose_payment_title_cart" = "Seleziona il metodo di pagamento";
 "final_price_title_cart" = "Totale ordini:";
@@ -949,13 +949,13 @@
 "profile_coupon_nocoupon" = "Nessun coupon disponibili";
 
 "add_coupon_code_title" = "Codice coupon";
-"Add_coUpon_code_input "=" Inserisci codice coupon ";
+"add_coupon_code_input" = "Inserisci codice coupon";
 "add_coupon_code_apply" = "Applica";
 
 //////////////////////////// ordine -Ordine /////////////////// //////////////
 
 "order_status_unpaid" = "Non pagato";
-"order_status_pending" = "In sospeso";
+"order_status_pending" = "in attesa di";
 "order_status_shipping" = "Spedizione";
 "order_status_all" = "Tutto";
 "order_detail_policy" = "Politica post vendita";
@@ -964,18 +964,18 @@
 "order_confirm_delivery" = "Conferma consegna";
 "order_confirm_logistics" = "Logistica";
 "order_status_finished" = "Finito";
-"Order_status_refunded" = "rimborsato";
+"order_status_refunded" = "rimborsato";
 "order_logistics_co" = "Spedizione Co.";
 "order_logistics_no" = "\ nTracking No.";
 "order_logistics_day" = "day";
 "order_logistics_days" = "days";
 "package_status_Unpaid" = "Non pagato";
-"pacchetto_status_Processing" = "Elaborazione";
+"package_status_Processing" = "Elaborazione";
 "package_status_ReadyToShip" = "Pronto per la spedizione";
 "Package_status_CanceledAfterPaid" = "Annullato";
 "package_status_InTransit" = "In transito";
 "package_status_Delivered" = "Consegnato";
-"pacchetto_status_Refunded" = "Rimborsato";
+"package_status_Refunded" = "Rimborsato";
 "Package_status_CanceledBeforePaid" = "scaduto";
 "order_item_no" = "elemento";
 "order_item_nos" = "items";
@@ -1063,16 +1063,16 @@
 
 //////////////////////////// Accedi -login /////////////////// //////////////
 
-"Login_login" = "Accedi";
+"Login_login" = "Accedi con";
 "login_facebook" = "Accedi con Facebook";
-"login_phone" = "Accedi con il telefono";
+"login_phone" = "Accedi con telefono";
 "login_google" = "Accedi con Google";
 "login_email" = "Accedi con Email";
-"signup_signin" = "Registrati";
-"signup_facebook" = "Registrati con Facebook";
-"signup_phone" = "Registrati con il telefono";
-"signup_google" = "Registrati con Google";
-"signup_email" = "Registrati con email";
+"signup_signin" = "Iscriviti con";
+"signup_facebook" = "Iscriviti con Facebook";
+"signup_phone" = "Iscriviti con Phone";
+"signup_google" = "Iscriviti con Google";
+"signup_email" = "Registrati con Email";
 "signup_coupon" = "per i nuovi utenti";
 "signup_policydetail" = "Partecipatu accetti il ​​nostro ";
 "signup_policydetail_1" = "Termini";
@@ -1256,7 +1256,7 @@
 
 //////////////////////// vendite flash //////////////////////// //////
 "flash_sale_on_sale_now" = "In vendita ora";
-"flash_sale_coming_soon" = "Prossimamente";
+"flash_sale_coming_soon" = "In arrivo";
 "flash_sale_sold" = "Venduto";
 "flash_sale_shop_now" = "Acquista ora";
 "flash_sale_almost_sold_out" = "Quasi esaurito";
@@ -1376,7 +1376,7 @@
 "affiliate_noti_become_friend_right" = "amico di.";
 "affiliate_noti_got_wallet_left" = "Hai appena ricevuto";
 "affiliate_noti_got_wallet_left_first_login" = "Benvenuto in CloudMall! 10% di sconto sul tuo primo acquisto!";
-"Affiliate_noti_got_wallet_remind" = "seguita con successo Vi ricorderà una volta il flash di vendita ha inizio.";
+"affiliate_noti_got_wallet_remind" = "seguita con successo Vi ricorderà una volta il flash di vendita ha inizio.";
 "affiliate_noti_got_wallet_sale" = "Vendita Flash a partire da adesso!";
 
 ///////////// portafoglio ///////////////
@@ -1418,9 +1418,9 @@
 //////////////////////// inoltra la pagina dell'ordine popup popup del portafoglio //////////////////
 "submit_order_wallet_rule_title" = "Regole di utilizzo del portafoglio";
 "submit_order_wallet_rule_first" = "È possibile utilizzare solo il saldo del portafoglio 'Disponibile'.";
-"Submit_order_wallet_rule_third" = "Invita altri amici di effettuare ordini per ottenere più libero del raccoglitore di cassa!";
+"submit_order_wallet_rule_third" = "Invita altri amici di effettuare ordini per ottenere più libero del raccoglitore di cassa!";
 "submit_order_wallet_rule_thread" = "Non è possibile utilizzare il saldo di Wallet per coprire i costi di spedizione.";
-"Submit_order_wallet_rule_fourth" = "A causa di restrizioni locali, il saldo portafoglio non può essere utilizzata per coprire l'intero importo di acquisto Se il saldo disponibile nel vostro portafoglio supera l'importo totale dell'acquisto, quindi solo una parte del saldo disponibile sarà utilizzato ..";
+"submit_order_wallet_rule_fourth" = "A causa di restrizioni locali, il saldo portafoglio non può essere utilizzata per coprire l'intero importo di acquisto Se il saldo disponibile nel vostro portafoglio supera l'importo totale dell'acquisto, quindi solo una parte del saldo disponibile sarà utilizzato .";
 "submit_order_wallet_rule_button" = "Trovato";
 
 /////////////////////ios3.07 versione - abbonati popup ///////////////

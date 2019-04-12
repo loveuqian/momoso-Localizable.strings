@@ -184,9 +184,9 @@
 
 //////////////////////////////Cart //////////// /////////////////////
 
-"cart_icon_all" = "Einkaufswagen";
+"cart_icon_all" = "Wagen";
 "hint2_login_title_cart" = "Melden Sie sich an, um Ihren Warenkorb, Ihre Favoriten und den Bestellverlauf anzuzeigen.";
-"select_all_btn_cart" = "Alles auswählen";
+"select_all_btn_cart" = "Wählen Sie Alle";
 "save_price_title_cart" = "Angebot angewendet";
 "checkout_btn_cart" = "Checkout";
 "empty_title_cart" = "Ihr Einkaufswagen ist leer";
@@ -194,11 +194,11 @@
 "mall_item_discount_title_dp" = "Das Angebot wurde automatisch angewendet";
 "drop_price_title_cart" = "Sonderangebot";
 
-"agreement_content_cart1" = "Mit dem Absenden dieser Bestellung akzeptiere ich Cloudmall's";
-"agreement_content_cart2" = "Datenschutz & Sicherheit /";
-"agreement_content_cart3" = "Nutzungsbedingungen /";
-"agreement_content_cart4" = "Rückgabe- und Umtauschrichtlinien";
-"summit_checkout_btn_cart" = "Bestellung abschicken";
+"submit_content_cart1" = "Mit dem Absenden dieser Bestellung akzeptiere ich Cloudmall's";
+"submit_content_cart2" = "Datenschutz & Sicherheit /";
+"submit_content_cart3" = "Nutzungsbedingungen /";
+"submit_content_cart4" = "Rückgabe- und Umtauschrichtlinien";
+"submit_checkout_btn_cart" = "Bestellung abschicken";
 "mall_shipping_fee_title_cart" = "Versandgebühr für Einkaufszentren";
 "tax_fee_title_cart" = "Steuer";
 "supply_title_cart" = "Geliefert von";
@@ -206,9 +206,9 @@
 
 "confirm_payment_btn_profile_order" = "Zahlung ausführen";
 "asap_pay_title_cart" = "Deal endet bald";
-"asap_pay_detail_content_cart" = "Die Preise können jederzeit geändert werden. Bestellen Sie jetzt, um das beste Angebot zu erhalten!";
+"asap_pay_detail_content_cart" = "Preise ändern sich jederzeit, schnell bestellen!";
 "select_payment_title_cart" = "Zahlungsmethode auswählen";
-"hint_choose_payment_title_cart" = "Bitte Zahlungsmethode auswählen";
+"submit_choose_payment_title_cart" = "Bitte Zahlungsmethode auswählen";
 "final_price_title_cart" = "Auftragssumme:";
 
 "logistic_message_title_index_message" = "Nachrichten";
@@ -242,7 +242,7 @@
 
 //////////////////////////////Detail //////////// /////////////////////
 
-"add_cart_btn_dp" = "Zum Warenkorb hinzufügen";
+"add_cart_btn_dp" = "In den Warenkorb";
 "favourite_icon_all" = "Favorit";
 "add_to_album_title_dp" = "Zum Album hinzufügen";
 
@@ -347,7 +347,7 @@
 "cart_checkout_change_credit_card" = "Karte ändern"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 换 一张 卡
 "cart_checkout_new_credit_card" = "Neue Karte hinzufügen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 新建 信用卡
 "cart_checkout_credit_card_toast" = "Bitte erst neue Karte hinzufügen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 未 绑定 信用卡
-"cart_checkout_credit_card_cancel" = "Abbrechen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 取消
+"cart_checkout_credit_card_cancel" = "Absagen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 取消
 "cart_checkout_credit_card_pay" = "Bezahlen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 付款
 "cart_checkout_credit_card_confirm" = "Bestätigen"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 增加 新 加 -cvv- 确定
 
@@ -856,7 +856,7 @@
 "sidebar_setting" = "Einstellungen";
 "sidebar_faq" = "FAQ";
 "sidebar_coupon" = "Gutscheine";
-"sidebar_signin" = "Klicken Sie hier, um sich anzumelden";
+"sidebar_signin" = "Einloggen";
 "sidebar_setting_login" = "Login";
 
 //////////////////////////Search /////////////////// //////////////
@@ -949,7 +949,7 @@
 "profile_coupon_nocoupon" = "Keine Coupons verfügbar";
 
 "add_coupon_code_title" = "Gutscheincode";
-"add_coupon_code_input "=" Gutscheincode eingeben ";
+"add_coupon_code_input"= "Gutscheincode eingeben";
 "add_coupon_code_apply" = "Übernehmen";
 
 //////////////////////// Or -Order /////////////////// //////////////
@@ -1063,16 +1063,16 @@
 
 //////////////////////////Login /////////////////// //////////////
 
-"Login_login" = "Login";
-"login_facebook" = "Facebook-Login";
-"login_phone" = "Phone-Login";
-"login_google" = "Google-Login";
-"login_email" = "Email-Login";
-"signup_signin" = "Registrierung";
-"signup_facebook" = "Melden Sie sich für Facebook an";
-"signup_phone" = "Registrierung der Handynummer";
-"signup_google" = "Google-Registrierung";
-"signup_email" = "E-Mail-Registrierung";
+"Login_login" = "Anmeldung";
+"login_facebook" = "Mit Facebook einloggen";
+"login_phone" = "Mit Phone einloggen";
+"login_google" = "Mit Goole einloggen";
+"login_email" = "Mit Email einloggen";
+"signup_signin" = "Anmelden";
+"signup_facebook" = "Anmelden mit Facebook";
+"signup_phone" = "Anmelden mit Phone";
+"signup_google" = "Anmelden mit Goole";
+"signup_email" = "Anmelden mit Email";
 "signup_coupon" = "für neue Benutzer";
 "signup_policydetail" = "Von joining stimmst du unseren zu ";
 "signup_policydetail_1" = "Begriffe";
@@ -1255,7 +1255,7 @@
 "cart_1_hour_only" = "Nur 1 Stunde";
 
 //////////////////////// //////////////////////// //////
-"flash_sale_on_sale_now" = "Jetzt im Angebot";
+"flash_sale_on_sale_now" = "Heißer verkauf";
 "flash_sale_coming_soon" = "In Kürze verfügbar";
 "flash_sale_sold" = "Verkauft";
 "flash_sale_shop_now" = "Jetzt einkaufen";
@@ -1280,8 +1280,8 @@
 "coupon_error" = "Im Netzwerk ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
 
 //////////////////////// //////////////////////// //////
-"compare_price_sold_by" = "Verkauft von";
-"compare_price_cloudmall" = "on CloudMall";
+"compire_price_sold_by" = "Verkauft von";
+"compire_price_cloudmall" = "on CloudMall";
 
 ///////////////////////////////////////////// /////
 "address_details" = "Adressdetails / Orientierungspunkt (optional)";
