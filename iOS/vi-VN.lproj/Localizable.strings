@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Chính sách bảo mật/";
 "agreements_content_cart3" = "Thông báo miễn trừ trách nhiệm/";
 "agreements_content_cart4" = "Chính sách đổi trả";
-"submit_checkout_btn_cart" = "Gửi đơn hàng";
+"summit_checkout_btn_cart" = "Gửi đơn hàng";
 "mall_shipping_fee_title_cart" = "Phí vận chuyển";
 "tax_fee_title_cart" = "Thuế thu trước";
 "supply_title_cart" = "Nhà cung cấp";
@@ -808,7 +808,7 @@
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
-"profile_switch_address_language_confirm" = "LÀM XONG";
+"profile_switch_address&language_confirm" = "LÀM XONG";
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 

@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Confidentialité et sécurité /";
 "agreements_content_cart3" = "Conditions d'utilisation /";
 "agreements_content_cart4" = "Politiques de retour et d'échange";
-"submit_checkout_btn_cart" = "Soumettre";
+"summit_checkout_btn_cart" = "Soumettre";
 "cloudmall_shipping_fee_title_cart" = "Frais d'expédition dans les centres commerciaux";
 "tax_fee_title_cart" = "Taxe";
 "supply_title_cart" = "Fourni par";
@@ -813,7 +813,7 @@
 
 ////////////////////////////// 个人 -profile ///////////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 ////////////////////////////// 购物 车 -cart //////////////////// ///////////////
 

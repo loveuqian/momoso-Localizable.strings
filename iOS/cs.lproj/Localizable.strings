@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Soukromí a bezpečnost /";
 "agreements_content_cart3" = "Podmínky použití /";
 "agreements_content_cart4" = "Návratové a směnné zásady";
-"submit_checkout_btn_cart" = "Odeslat objednávku";
+"summit_checkout_btn_cart" = "Odeslat objednávku";
 "mall_shipping_fee_title_cart" = "Poplatek za dopravu na Mall";
 "tax_fee_title_cart" = "daň";
 "supply_title_cart" = "Dodáno";
@@ -813,7 +813,7 @@
 
 //////////// 个人 -profile //////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// /////////////
 

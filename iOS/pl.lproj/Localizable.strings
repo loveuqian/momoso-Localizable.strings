@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Prywatność i bezpieczeństwo /";
 "agreements_content_cart3" = "Warunki użytkowania /";
 "agreements_content_cart4" = "Polityka zwrotów i wymiany";
-"submit_checkout_btn_cart" = "Prześlij zamówienie";
+"summit_checkout_btn_cart" = "Prześlij zamówienie";
 "mall_shipping_fee_title_cart" = "Opłata za wysyłkę do centrum handlowego";
 "tax_fee_title_cart" = "Podatek";
 "supply_title_cart" = "Dostarczone przez";
@@ -813,7 +813,7 @@
 
 //////////////////////////// ile -profile /////////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 //////////////////////////// 购物 车 -cart ////////////////// ///////////////
 

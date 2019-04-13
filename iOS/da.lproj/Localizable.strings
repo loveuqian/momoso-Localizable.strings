@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Privacy & Security /";
 "agreements_content_cart3" = "Vilkår for brug /";
 "agreements_content_cart4" = "Retur og udvekslingspolitik";
-"submit_checkout_btn_cart" = "Send ordre";
+"summit_checkout_btn_cart" = "Send ordre";
 "mall_shipping_fee_title_cart" = "Mall fragtgebyr";
 "tax_fee_title_cart" = "Skat";
 "supply_title_cart" = "Leveres af";
@@ -813,7 +813,7 @@
 
 ////////////////////////////// 个人 -profile /////////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 ////////////////////////////// 购物 车 -cart ////////////////// ///////////////
 

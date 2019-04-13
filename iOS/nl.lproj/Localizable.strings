@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Privacy & Beveiliging /";
 "agreements_content_cart3" = "Gebruiksvoorwaarden /";
 "agreements_content_cart4" = "Terugkeer- en ruilbeleid";
-"submit_checkout_btn_cart" = "Submit Order";
+"summit_checkout_btn_cart" = "Submit Order";
 "mall_shipping_fee_title_cart" = "verzendingskosten mall";
 "tax_fee_title_cart" = "Belasting";
 "supply_title_cart" = "Geleverd door";
@@ -813,7 +813,7 @@
 
 ////////////////////////// 个人 -profile /////////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 ////////////////////////// 购物 车 -cart ////////////////// ///////////////
 

@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Privacy & Security /";
 "agreements_content_cart3" = "Términos de uso /";
 "agreements_content_cart4" = "Políticas de devolución y cambio";
-"submit_checkout_btn_cart" = "Enviar pedido";
+"summit_checkout_btn_cart" = "Enviar pedido";
 "mall_shipping_fee_title_cart" = "Tarifa de envío del centro comercial";
 "tax_fee_title_cart" = "Impuesto";
 "supply_title_cart" = "Suministrado por";
@@ -813,7 +813,7 @@
 
 //////////////////////////////// 个人 -perfil /////////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 //////////////////////////////// 购物 车 -cart ////////////////// ///////////////
 

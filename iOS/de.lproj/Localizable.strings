@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Datenschutz & Sicherheit /";
 "agreements_content_cart3" = "Nutzungsbedingungen /";
 "agreements_content_cart4" = "Rückgabe- und Umtauschrichtlinien";
-"submit_checkout_btn_cart" = "Bestellung abschicken";
+"summit_checkout_btn_cart" = "Bestellung abschicken";
 "mall_shipping_fee_title_cart" = "Versandgebühr für Einkaufszentren";
 "tax_fee_title_cart" = "Steuer";
 "supply_title_cart" = "Geliefert von";
@@ -813,7 +813,7 @@
 
 //////////////////////////Profil /////////////////// //////////////
 
-"profile_switch_address_language_confirm" = "DONE";
+"profile_switch_address&language_confirm" = "DONE";
 
 //////////////////////////Cart ////////////////// ///////////////
 
