@@ -207,7 +207,7 @@
 "confirm_payment_btn_profile_order" = "Lähetä maksu";
 "asap_pay_title_cart" = "Deal päättyy pian";
 "asap_pay_detail_content_cart" = "Hinnat voivat muuttua milloin tahansa, joten saat tilauksesi nyt saadaksesi parhaan tarjouksen!";
-"select_payment_title_cart" = "Valitse maksutapa";
+"choose_payment_title_cart" = "Valitse maksutapa";
 "hint_choose_payment_title_cart" = "Valitse maksutapa";
 "final_price_title_cart" = "Tilaus yhteensä:";
 
