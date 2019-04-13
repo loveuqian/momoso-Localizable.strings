@@ -1408,8 +1408,8 @@
 
 /////// 支付 页面 钱包 /////////
 "submit_order_wallet" = "Lompakko";
-"Submit_order_available" = "Käytettävissä";
-"Submit_order_not_available" = "Ei availale";
+"submit_order_available" = "Käytettävissä";
+"submit_order_not_available" = "Ei availale";
 "order_detail_param_cash" = "Lompakko";
 
 ///////////////// viesti 页面 //////////////
