@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Privacy & Security/";
 "agreements_content_cart3" = "Terms of use/";
 "agreements_content_cart4" = "Return & Exchange Policies";
-"summit_checkout_btn_cart" = "Submit Order";
+"submit_checkout_btn_cart" = "Submit Order";
 "mall_shipping_fee_title_cart" = "Mall shipping fee";
 "tax_fee_title_cart" = "Tax";
 "supply_title_cart" = "Supplied by";

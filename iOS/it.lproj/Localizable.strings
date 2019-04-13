@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Privacy e sicurezza /";
 "agreements_content_cart3" = "Termini di utilizzo /";
 "agreements_content_cart4" = "Politiche di restituzione e scambio";
-"summit_checkout_btn_cart" = "Invia ordine";
+"submit_checkout_btn_cart" = "Invia ordine";
 "mall_shipping_fee_title_cart" = "Tariffa di spedizione del centro commerciale";
 "tax_fee_title_cart" = "Tassa";
 "supply_title_cart" = "Fornito da";
@@ -813,7 +813,7 @@
 
 /////////////////////////////// persona / profilo ///////////////////// //////////////
 
-"Profile_switch_address & language_confirm" = "DONE";
+"profile_switch_address_language_confirm" = "DONE";
 
 //////////////////////////////) Carrello spesa carrello //////////////////// ///////////////
 

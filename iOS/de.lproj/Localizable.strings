@@ -194,10 +194,10 @@
 "mall_item_discount_title_dp" = "Das Angebot wurde automatisch angewendet";
 "drop_price_title_cart" = "Sonderangebot";
 
-"submit_content_cart1" = "Mit dem Absenden dieser Bestellung akzeptiere ich Cloudmall's";
-"submit_content_cart2" = "Datenschutz & Sicherheit /";
-"submit_content_cart3" = "Nutzungsbedingungen /";
-"submit_content_cart4" = "Rückgabe- und Umtauschrichtlinien";
+"agreements_content_cart1" = "Mit dem Absenden dieser Bestellung akzeptiere ich Cloudmall's";
+"agreements_content_cart2" = "Datenschutz & Sicherheit /";
+"agreements_content_cart3" = "Nutzungsbedingungen /";
+"agreements_content_cart4" = "Rückgabe- und Umtauschrichtlinien";
 "submit_checkout_btn_cart" = "Bestellung abschicken";
 "mall_shipping_fee_title_cart" = "Versandgebühr für Einkaufszentren";
 "tax_fee_title_cart" = "Steuer";
@@ -289,10 +289,10 @@
 ////////////////////////////// _index ///////////// //////////////////////
 
 "index_main_realtime_discout" = "Rabatt"; // 首页 - 热门 - 实时 折扣
-"index_main_time_limited_discout" = "Flash Sale"; // 首页 - 热门 - 限时 闪 购
+"index_main_time_limited_discout" = "Flash-Kauf"; // 首页 - 热门 - 限时 闪 购
 "index_main_hot_mall" = "Heiße Verkäufe"; // 首页 - 热门 - 热门 市场
-"index_main_hot_mall_more" = "More"; // 首页 - 热门 - 热门 市场 - 更多 商铺
-"index_main_hot_mall_view" = "More"; // 首页 - 热门 - 热门 市场 - 进入 商铺
+"index_main_hot_mall_more" = "Mehr"; // 首页 - 热门 - 热门 市场 - 更多 商铺
+"index_main_hot_mall_view" = "Mehr"; // 首页 - 热门 - 热门 市场 - 进入 商铺
 
 "index_main_lightlux" = "Trend"; // 首页 - 热门 - 类目 精选 - 轻 奢
 "index_main_bigbrand" = "Große Marken"; // 首页 - 热门 - 类目 精选 - 大牌
@@ -813,7 +813,7 @@
 
 //////////////////////////Profil /////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "DONE";
+"profile_switch_address_language_confirm" = "DONE";
 
 //////////////////////////Cart ////////////////// ///////////////
 
@@ -1281,7 +1281,7 @@
 
 //////////////////////// //////////////////////// //////
 "compire_price_sold_by" = "Verkauft von";
-"compire_price_cloudmall" = "on CloudMall";
+"comparison_price_cloudmall" = "on CloudMall";
 
 ///////////////////////////////////////////// /////
 "address_details" = "Adressdetails / Orientierungspunkt (optional)";

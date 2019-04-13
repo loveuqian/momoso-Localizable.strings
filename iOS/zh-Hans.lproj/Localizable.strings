@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "隐私声明/";
 "agreements_content_cart3" = "免责声明/";
 "agreements_content_cart4" = "退换货政策";
-"summit_checkout_btn_cart" = "提交订单";
+"submit_checkout_btn_cart" = "提交订单";
 "mall_shipping_fee_title_cart" = "官网运费";
 "tax_fee_title_cart" = "预收关税";
 "supply_title_cart" = "供货商";
@@ -813,7 +813,7 @@
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
-"profile_switch_address&language_confirm" = "完成";
+"profile_switch_address_language_confirm" = "完成";
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 

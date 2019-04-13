@@ -194,11 +194,11 @@
 "mall_item_discount_title_dp" = "Tarjous on käytössä automaattisesti";
 "drop_price_title_cart" = "Myynnissä";
 
-"agreement_content_cart1" = "Lähettämällä tämän tilauksen hyväksyn Cloudmall'sin";
-"agreement_content_cart2" = "Tietosuoja ja turvallisuus /";
-"agreement_content_cart3" = "Käyttöehdot /";
-"agreement_content_cart4" = "Palautus- ja vaihtopolitiikat";
-"summit_checkout_btn_cart" = "Lähetä tilaus";
+"agreements_content_cart1" = "Lähettämällä tämän tilauksen hyväksyn Cloudmall'sin";
+"agreements_content_cart2" = "Tietosuoja ja turvallisuus /";
+"agreements_content_cart3" = "Käyttöehdot /";
+"agreements_content_cart4" = "Palautus- ja vaihtopolitiikat";
+"submit_checkout_btn_cart" = "Lähetä tilaus";
 "mall_shipping_fee_title_cart" = "Mallin lähetysmaksu";
 "tax_fee_title_cart" = "Tax";
 "supply_title_cart" = "Toimitetaan";
@@ -813,7 +813,7 @@
 
 //////////////////////////// 个人 -profiili /////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "DONE";
+"profile_switch_address_language_confirm" = "DONE";
 
 //////////////////////////// 购物 车 -artikkeli ////////////////// ///////////////
 
@@ -949,7 +949,7 @@
 "profile_coupon_nocoupon" = "Ei kuponkeja saatavilla";
 
 "add_coupon_code_title" = "kuponkikoodi";
-"add_coupon_code_input "=" Syötä kuponkikoodi ";
+"add_coupon_code_input" = "Syötä kuponkikoodi";
 "add_coupon_code_apply" = "Käytä";
 
 //////////////////////////// der -Tilaaja /////////////////// //////////////
@@ -1280,8 +1280,8 @@
 "coupon_error" = "Somthing meni pieleen verkon kanssa, yritä uudelleen";
 
 //////////////////////// DP 比价 ////////////////////// //////
-"Compare_price_sold_by" = "Myymät";
-"Compare_price_cloudmall" = "CloudMallissa";
+"comparison_price_sold_by" = "Myymät";
+"comparison_price_cloudmall" = "CloudMallissa";
 
 /////////////////////// 地址 /////////////////////////// /////
 "address_details" = "Osoitetiedot / maamerkki (valinnainen)";
@@ -1416,17 +1416,17 @@
 "message_bought_item" = "Palkinto";
 
 //////////////////////submit order页新增wallet弹窗////////////////
-"Submit_order_wallet_rule_title" = "Lompakon käyttösäännöt";
-"Submit_order_wallet_rule_first" = "Vain“ Käytettävissä olevaa ”lompakon saldoa voidaan käyttää.";
-"Submit_order_wallet_rule_third" = "Kutsu lisää ystäviä tekemään tilauksia saadaksesi lisää maksutta lompakon käteistä!";
-"Submit_order_wallet_rule_thread" = "Lompakon saldoa ei voi käyttää kuljetuskustannusten kattamiseen.";
-"Submit_order_wallet_rule_fourth" = "Paikallisten rajoitusten takia lompakon saldoa ei voi käyttää kattamaan koko ostomäärää. Jos lompakon käytettävissä oleva saldo ylittää oston kokonaismäärän, käytetään vain osaa käytettävissä olevasta saldosta.";
-"Submit_order_wallet_rule_button" = "Sain sen";
+"submit_order_wallet_rule_title" = "Lompakon käyttösäännöt";
+"submit_order_wallet_rule_first" = "Vain“ Käytettävissä olevaa ”lompakon saldoa voidaan käyttää.";
+"submit_order_wallet_rule_third" = "Kutsu lisää ystäviä tekemään tilauksia saadaksesi lisää maksutta lompakon käteistä!";
+"submit_order_wallet_rule_thread" = "Lompakon saldoa ei voi käyttää kuljetuskustannusten kattamiseen.";
+"submit_order_wallet_rule_fourth" = "Paikallisten rajoitusten takia lompakon saldoa ei voi käyttää kattamaan koko ostomäärää. Jos lompakon käytettävissä oleva saldo ylittää oston kokonaismäärän, käytetään vain osaa käytettävissä olevasta saldosta.";
+"submit_order_wallet_rule_button" = "Sain sen";
 
 /////////////////////ios3.07-versio - alennushaku-ponnahdusikkunat ///////////////
 "affilate_window_title" = "Kutsu alennus";
 "affilate_window_my_reward" = "Oma alennus";
-"Submit_order_ayden" = "Luottokortti";
+"submit_order_ayden" = "Luottokortti";
 
 //////////////////////购物车商品数量限购////////////////////
 "cart_item_number_limt" = "Tämän kohteen ostomäärä on ylittänyt rajan ja sitä ei voi enää lisätä";

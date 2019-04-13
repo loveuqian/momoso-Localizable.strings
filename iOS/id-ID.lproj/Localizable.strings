@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Pernyataan privasi/";
 "agreements_content_cart3" = "Pernyataan penolakan/";
 "agreements_content_cart4" = "Kebijakan pengembalian dan penukaran barang";
-"summit_checkout_btn_cart" = "Ok";
+"submit_checkout_btn_cart" = "Masukan pesanan";
 "mall_shipping_fee_title_cart" = "Biaya pengiriman Mall";
 "tax_fee_title_cart" = "Biaya pajak bea dan cukai";
 "supply_title_cart" = "Penyedia stok";
@@ -808,7 +808,7 @@
 
 //////////////////////////// 个人-profile /////////////////////////////////
 
-"profile_switch_address&language_confirm" = "DIBUAT";
+"profile_switch_address_language_confirm" = "DIBUAT";
 
 //////////////////////////// 购物车-cart /////////////////////////////////
 

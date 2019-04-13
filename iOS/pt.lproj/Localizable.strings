@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Privacidade e Segurança /";
 "agreements_content_cart3" = "Termos de uso /";
 "agreements_content_cart4" = "Políticas de devolução e troca";
-"summit_checkout_btn_cart" = "Enviar pedido";
+"submit_checkout_btn_cart" = "Enviar pedido";
 "mall_shipping_fee_title_cart" = "Taxa de envio do shopping";
 "tax_fee_title_cart" = "Imposto";
 "supply_title_cart" = "Fornecido por";
@@ -813,7 +813,7 @@
 
 //////////////////////////// prof -profile /////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "FEITO";
+"profile_switch_address_language_confirm" = "FEITO";
 
 //////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
@@ -949,7 +949,7 @@
 "profile_coupon_nocoupon" = "Nenhum cupom disponível";
 
 "add_coupon_code_title" = "Código do cupom";
-"add_coupon_code_input "=" Digite o código do cupom ";
+"add_coupon_code_input" = "Digite o código do cupom";
 "add_coupon_code_apply" = "Aplicar";
 
 //////////////////////////// Or -Order /////////////////// //////////////

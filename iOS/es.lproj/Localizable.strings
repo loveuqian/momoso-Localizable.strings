@@ -194,10 +194,10 @@
 "mall_item_discount_title_dp" = "Oferta aplicada automáticamente";
 "drop_price_title_cart" = "On Sale";
 
-"submit_content_cart1" = "Al enviar este pedido, acepto el servicio de Cloudmall";
-"submit_content_cart2" = "Privacy & Security /";
-"submit_content_cart3" = "Términos de uso /";
-"submit_content_cart4" = "Políticas de devolución y cambio";
+"agreements_content_cart1" = "Al enviar este pedido, acepto el servicio de Cloudmall";
+"agreements_content_cart2" = "Privacy & Security /";
+"agreements_content_cart3" = "Términos de uso /";
+"agreements_content_cart4" = "Políticas de devolución y cambio";
 "submit_checkout_btn_cart" = "Enviar pedido";
 "mall_shipping_fee_title_cart" = "Tarifa de envío del centro comercial";
 "tax_fee_title_cart" = "Impuesto";
@@ -813,7 +813,7 @@
 
 //////////////////////////////// 个人 -perfil /////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "DONE";
+"profile_switch_address_language_confirm" = "DONE";
 
 //////////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
@@ -1280,8 +1280,8 @@
 "coupon_error" = "Algo salió mal con la red, inténtelo de nuevo";
 
 //////////////////////// DP 比价 //////////////////////// //////
-"compaire_price_sold_by" = "Vendido por";
-"compaire_price_cloudmall" = "en CloudMall";
+"comparison_price_sold_by" = "Vendido por";
+"comparison_price_cloudmall" = "en CloudMall";
 
 //////////////////////// 地址 ///////////////////////// /////
 "address_details" = "Detalles de dirección / punto de referencia (opcional)";

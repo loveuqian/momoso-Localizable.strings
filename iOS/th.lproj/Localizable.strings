@@ -194,11 +194,11 @@
 "mall_item_discount_title_dp" = "ข้อเสนอที่ใช้โดยอัตโนมัติ";
 "drop_price_title_cart" = "ลดราคา";
 
-"agreement_content_cart1" = "เมื่อส่งคำสั่งซื้อนี้ฉันยอมรับ Cloudmall's";
-"agreement_content_cart2" = "ความเป็นส่วนตัว & ความปลอดภัย /";
-"ข้อตกลง _content_cart3" = "ข้อกำหนดการใช้งาน /";
-"ข้อตกลง _content_cart4" = "นโยบายการคืน & แลกเปลี่ยน";
-"summit_checkout_btn_cart" = "ส่งคำสั่งซื้อ";
+"agreements_content_cart1" = "เมื่อส่งคำสั่งซื้อนี้ฉันยอมรับ Cloudmall's";
+"agreements_content_cart2" = "ความเป็นส่วนตัว & ความปลอดภัย /";
+"agreements_content_cart3" = "ข้อกำหนดการใช้งาน /";
+"agreements_content_cart4" = "นโยบายการคืน & แลกเปลี่ยน";
+"submit_checkout_btn_cart" = "ส่งคำสั่งซื้อ";
 "mall_shipping_fee_title_cart" = "ค่าจัดส่งของห้างสรรพสินค้า";
 "tax_fee_title_cart" = "ภาษี";
 "supply_title_cart" = "จัดทำโดย";
@@ -813,7 +813,7 @@
 
 ////////////////////////////// 个人 -profile ///////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "DONE";
+"profile_switch_address_language_confirm" = "DONE";
 
 //////////////////////////// 购物车 -cart //////////////////// ///////////////
 
@@ -949,7 +949,7 @@
 "profile_coupon_nocoupon" = "ไม่มีคูปอง";
 
 "add_coupon_code_title" = "รหัสคูปอง";
-"add_coupon_code_input "=" ป้อนรหัสคูปอง ";
+"add_coupon_code_input" = "ป้อนรหัสคูปอง";
 "add_coupon_code_apply" = "ใช้";
 
 ////////////////////////////// 订单 -Order /////////////////////// 订单//////////////
@@ -1280,8 +1280,8 @@
 "coupon_error" = "เกิดข้อผิดพลาดกับเครือข่ายโปรดลองอีกครั้ง";
 
 //////////////////////// DP 比价 //////////////////////////// DP //////
-"compar_price_sold_by" = "ขายโดย";
-"compar_price_cloudmall" = "บน CloudMall";
+"comparison_price_sold_by" = "ขายโดย";
+"comparison_price_cloudmall" = "บน CloudMall";
 
 //////////////////////// 地址 ////////////////////////////////////// /////
 "address_details" = "รายละเอียดที่อยู่ / จุดสังเกต (เป็นตัวเลือก)";

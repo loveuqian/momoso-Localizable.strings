@@ -198,7 +198,7 @@
 "agreements_content_cart2" = "Sekretess och säkerhet /";
 "agreements_content_cart3" = "Användarvillkor /";
 "agreements_content_cart4" = "Retur- och utbytespolicyer";
-"summit_checkout_btn_cart" = "Skicka beställning";
+"submit_checkout_btn_cart" = "Skicka beställning";
 "mall_shipping_fee_title_cart" = "Mall fraktkostnad";
 "tax_fee_title_cart" = "Tax";
 "supply_title_cart" = "Levereras av";
@@ -813,7 +813,7 @@
 
 ////////////////////////////// 个人 -profile /////////////////// //////////////
 
-"profile_switch_address&language_confirm" = "DONE";
+"profile_switch_address_language_confirm" = "DONE";
 
 ////////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
@@ -949,7 +949,7 @@
 "profile_coupon_nocoupon" = "Inga kuponger tillgängliga";
 
 "add_coupon_code_title" = "Kupongkod";
-"add_coupon_code_input "=" Ange kupongkod ";
+"add_coupon_code_input" = "Ange kupongkod";
 "add_coupon_code_apply" = "Apply";
 
 ////////////////////////////// 订单 -Order /////////////////// //////////////
