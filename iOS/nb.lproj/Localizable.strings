@@ -99,7 +99,7 @@
 "confirm_clear_cache_title_profile_about" = "Er du sikker på at du vil slette hurtigbufferen?";
 
 "hint_feedback_title_profile_feedback" = "Vennligst skriv inn tilbakemeldingen din her";
-"hint_contact_title_profile_feedback" = "E-post / Telefonnummer (Valgfritt)";
+"hint_contact_title_profile_feedback" = "E-post/Telefonnummer (Valgfritt)";
 
 "my_profile_title_profile_info" = "Min profil";
 "modify_avatar_btn_profile_info" = "Last opp bilde";
@@ -108,7 +108,7 @@
 "reset_password_info_title_profile_info" = "En bekreftelseskode vil bli sendt til e-posten din";
 "reset_password_title_profile_setting" = "Tilbakestill passord";
 
-"warn_sign_out_toast_profile_setting" = "Oppdateringer til bestillingen din vil ikke bli mottatt etter at du har logget ut. Proceed? ";
+"warn_sign_out_toast_profile_setting" = "Oppdateringer til bestillingen din vil ikke bli mottatt etter at du har logget ut. Proceed?";
 
 "total_pay_title_cart" = "Totalt:";
 "view_detail_btn_dp" = "Bestill detalj";
@@ -131,7 +131,7 @@
 "address_manage_title_all" = "Administrer adressebok";
 "add_address_btn_cart" = "Legg til en ny adresse";
 "id_phone_title_profile_cash" = "Telefonnummer:";
-"detail_address_title_cart" = "Unit / Floor / Block / Building / Street";
+"detail_address_title_cart" = "Unit/Floor/Block/Building/Street";
 
 "change_region_title_profile_setting" = "Endre region"; // 个人 - 设置 页面 - 切换 地区
 "select_region_title_profile_setting" = "Send til";
@@ -170,7 +170,7 @@
 "cancle_delete_album_btn_profile_favors" = "Cancel"; // 收藏 - 专辑 编辑 - 删除 专辑 弹 窗
 
 "ok_btn_profile_address" = "Ferdig"; // 地址 - 新建 地址 / 编辑 地址 - 右上角
-"regioin_title_profile_address" = "Region / Stat"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"regioin_title_profile_address" = "Region/Stat"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 "delete_btn_profile_address" = "Slett"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Fullt navn:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
@@ -178,14 +178,14 @@
 
 "profile_favorite_no_album_title" = "andre"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
-"profile_default_addresss_title" = "Rom, gulv, bygning, gate"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"profile_default_addresss_title" = "Rom,gulv,bygning,gate"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
 "profile_no_orders_title" = "Millioner av produkter venter på deg"; // 個人 - 訂單 無 訂單 時 顯示 的 內容
 
 //////////////////////////////////// 购物 车 _cart //////////// ///////////////////////
 
-"cart_icon_all" = "Cart";
-"hint2_login_title_cart" = "Logg inn for å se din handlevogn, favoritter og bestillingshistorie";
+"cart_icon_all" = "Handlevogn";
+"hint2_login_title_cart" = "Logg inn for å se din handlevogn,favoritter og bestillingshistorie";
 "select_all_btn_cart" = "Velg alle";
 "save_price_title_cart" = "Offer applied";
 "checkout_btn_cart" = "Checkout";
@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "På salg";
 
 "agreements_content_cart1" = "Ved å sende inn denne bestillingen aksepterer jeg Cloudmall's";
-"agreements_content_cart2" = "Personvern og sikkerhet /";
-"agreements_content_cart3" = "Vilkår for bruk /";
+"agreements_content_cart2" = "Personvern og sikkerhet/";
+"agreements_content_cart3" = "Vilkår for bruk/";
 "agreements_content_cart4" = "Return & Exchange Policies";
 "summit_checkout_btn_cart" = "Sende inn ordre";
 "mall_shipping_fee_title_cart" = "Mall fraktgebyr";
@@ -206,7 +206,7 @@
 
 "confirm_payment_btn_profile_order" = "Send inn betaling";
 "asap_pay_title_cart" = "Avtale slutter snart";
-"asap_pay_detail_content_cart" = "Prisene kan endres når som helst, så legg bestillingen din for å få den beste avtalen!";
+"asap_pay_detail_content_cart" = "Prisen kan byttes, bestill den raskt!";
 "choose_payment_title_cart" = "Velg betalingsmetode";
 "hint_choose_payment_title_cart" = "Vennligst velg betalingsmåte";
 "final_price_title_cart" = "Bestillings totalt:";
@@ -227,8 +227,8 @@
 "choose_address_title_cart_checkout" = "Velg fraktadresse"; // 提交 订单 - 地址 栏
 "close_btn_cart_checkout" = "Lukk"; // 点击 渠道 后 - 左上角 关闭
 
-"order_submit_title_cart_checkout" = "Behandling, bekreftelse vil bli sendt til deg innen 48 timer"; // 订单 完成 - 小 鲸鱼 下方 的 标题
-"order_submit_sub_title_cart_checkout" = "Hvis bestillingen din ikke kan fullføres, informerer vi deg via e-post og behandler en tilbakebetaling"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_title_cart_checkout" = "Behandling,bekreftelse vil bli sendt til deg innen 48 timer"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_sub_title_cart_checkout" = "Hvis bestillingen din ikke kan fullføres,informerer vi deg via e-post og behandler en tilbakebetaling"; // 订单 完成 - 小 鲸鱼 下方 的 标题
 
 "cart_benefit_title" = "Rabatt brukt"; // 购物 车 - 总价 下 的 小字, 缺 了 已 优惠
 
@@ -268,7 +268,7 @@
 "new_album_btn_dp" = "Nytt album"; // 商品 详细 - 点击 收藏 - 新建
 
 "have_select_desc_title_dp" = "Selected"; // 商品 详细 - 点击 加入 购物 车
-"warn_addcart_title_dp" = "Vær oppmerksom på at informasjonen ovenfor (farge, størrelse, etc.) er levert av våre leverandører og er kun til referanse.";
+"warn_addcart_title_dp" = "Vær oppmerksom på at informasjonen ovenfor (farge,størrelse,etc.) er levert av våre leverandører og er kun til referanse.";
 "quantity_addcart_title_dp" = "Quantity"; // 商品 详细 - 点击 加入 购物 车
 "ok_addcart_btn_dp" = "OK"; // 商品 详细 - 加入 购物 车
 
@@ -276,7 +276,7 @@
 "dp_about_mall_sale_title1_title" = "Rabatt leveres av leverandør"; // 商品 详细 - 关于 商城 优惠 活动
 "dp_about_mall_sale_content1_title" = "Rabatter levert av leverandør vil bli brukt automatisk. CloudMall er ikke ansvarlig for endringer i dette tilbudet"; // 商品 详细 - 关于 商城 优惠 活动
 "dp_about_mall_sale_title2_title" = "Rabatt blir automatisk brukt"; // 商品 详细 - 关于 商城 优惠 活动
-"dp_about_mall_sale_content2_title" = "Rabatter vil bli brukt automatisk, ingen kuponger nødvendig"; // 商品 详细 - 关于 商城 优惠 活动
+"dp_about_mall_sale_content2_title" = "Rabatter vil bli brukt automatisk,ingen kuponger nødvendig"; // 商品 详细 - 关于 商城 优惠 活动
 "dp_about_mall_sale_title3_title" = "Spesielt tilbud utløpt"; // 商品 详细 - 关于 商城 优惠 活动
 "dp_about_mall_sale_content3_title" = "Rabatttid er begrenset og tilbudet er utløpt"; // 商品 详细 - 关于 商城 优惠 活动
 "dp_about_mall_sale_title4_title" = "Tilbud vellykket brukt"; // 商品 详细 - 关于 商城 优惠 活动
@@ -340,10 +340,10 @@
 
 //////////////////////////////////// 购物 车 _cart //////////// ///////////////////////
 
-"cart_checkout_credit_card" = "Kreditt / debetkort"; // 购物 车 - 确认 支付 - 信用卡 标题
+"cart_checkout_credit_card" = "Kreditt/debetkort"; // 购物 车 - 确认 支付 - 信用卡 标题
 "cart_checkout_total_bill" = "Totalt"; // 购物 车 - 确认 支付 - 确认 标题 前
 
-"cart_checkout_credit_card_title" = "Kreditt / debetkort"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_credit_card_title" = "Kreditt/debetkort"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
 "cart_checkout_change_credit_card" = "Endre kort"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 换 一张 卡
 "cart_checkout_new_credit_card" = "Legg til nytt kort"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 新建 信用卡
 "cart_checkout_credit_card_toast" = "Vennligst legg til nytt kort først"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 未 绑定 信用卡
@@ -356,7 +356,7 @@
 "cart_checkout_card_number_title" = "Kortnummer"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
 "cart_checkout_card_number_default" = "Skriv inn kortnummer"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
 "cart_checkout_valid_date_title" = "Utløpsdato"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 有效期
-"cart_checkout_valid_date_default" = "MM / YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
+"cart_checkout_valid_date_default" = "MM/YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
 "cart_checkout_safe_code_title" = "CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
 "cart_checkout_safe_code_default" = "Skriv inn CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
 "cart_checkout_about_safety" = "Betalingen din for dette kjøpet behandles sikkert av en tredjeparts betalingsprosessor. CloudMall lagrer ikke kredittkortinformasjonen din."; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 承诺
@@ -395,9 +395,9 @@
 "cart_checkout_card_cancel" = "Cancel"; // 购物 车 - 选择 支付 - 取消
 "cart_checkout_card_pay" = "Kjøp"; // 购物 车 - 选择 支付 - 付款
 "cart_checkout_card_popup_title" = "Feil"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
-"cart_checkout_card_popup_content" = "Det oppstod en feil med betalingen. Vennligst kontroller at kortopplysningene du skrev inn var korrekte eller prøv å betale med et annet kort."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_content" = "Det oppstod en feil med betalingen.Vennligst kontroller at kortopplysningene du skrev inn var korrekte eller prøv å betale med et annet kort."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
 "cart_checkout_card_popup_cancel" = "Senere"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
-"cart_checkout_card_popup_tryagain "=" Prøv igjen "; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_tryagain" = "Prøv igjen"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
 "cart_checkout_pay_total" = "Kjøp"; // 购物 车 - 选择 支付 - 取消
 "cart_checkout_bill_total" = "Bill Total"; // 购物 车 - 选择 支付 - 付款
 "cart_checkout_pay_success_title" = "Suksess"; // 购物 车 - 选择 支付 - 支付 成功
@@ -406,7 +406,7 @@
 
 "profile_setting_customer_service_cancel" = "Cancel"; // 个人 - 客服 - 取消
 "profile_setting_customer_service_confirm" = "Bekreft"; // 个人 - 客服 - 提交
-"profile_setting_clearcache_clearing" = "Fjerne cache ..."; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_clearing" = "Fjerne cache..."; // 个人 - 清除 缓存 - 取消
 "profile_setting_clearcache_cancel" = "Cancel"; // 个人 - 清除 缓存 - 取消
 "profile_setting_clearcache_confirm" = "Bekreft"; // 个人 - 清除 缓存 - 清除
 "profile_setting_feedback_cancel" = "Cancel"; // 个人 - 反馈 - 取消
@@ -439,7 +439,7 @@
 
 //////////////////////////////// android 新增 ///////////////// /////////////////////////
 
-"Loading_title_profile" = "Laster ...";
+"Loading_title_profile" = "Laster...";
 "Mer" = "Mer";
 "no_entries_in_cart_detail" = "Gå og oppdag flere ting!";
 "press_again_exit_toast_all" = "Klikk igjen og avslutt";
@@ -471,10 +471,10 @@
 
 "profile_address_input_default" = "Fyll ut"; // 个人 - 地址 - 输入 框
 "profile_address_select_default" = "Select"; // 个人 - 地址 - 下拉 框
-"profile_address_province" = "Provins / stat:"; // 个人 - 地址 - 省 州
-"profile_address_city" = "By / by:"; // 个人 - 地址 - 城市
+"profile_address_province" = "Provins/stat:"; // 个人 - 地址 - 省 州
+"profile_address_city" = "By/by:"; // 个人 - 地址 - 城市
 "profile_address_district" = "District:"; // 个人 - 地址 - 下拉 框
-"profile_address_detail" = "Apartment, Building ... (Valgfritt)"; // 个人 - 地址 - 详细 地址
+"profile_address_detail" = "Apartment,Building... (Valgfritt)"; // 个人 - 地址 - 详细 地址
 
 "profile_address_us" = "United States";
 "profile_address_uk" = "Storbritannia";
@@ -507,7 +507,7 @@
 "profile_address_sa" = "Saudi Arabia";
 "profile_address_qa" = "Qatar";
 "profile_address_kw" = "Kuwait";
-"profile_address_tr "=" Tyrkia ";
+"profile_address_tr" = "Tyrkia";
 "profile_address_il" = "Israel";
 "profile_address_th" = "Thailand";
 "profile_address_at" = "Austria";
@@ -648,7 +648,7 @@
 "search_ai_description_confirm" = "Fikk det"; // Betalingsvilkår og -vilkår
 
 "search_ai_finding" = "Et søk søkes nå"; // Betalingsvilkår og -vilkår
-"search_ai_find_nothing" = "Beklager, ingen lignende elementer"; // Betalingsvilkår og -vilkår
+"search_ai_find_nothing" = "Beklager,ingen lignende elementer"; // Betalingsvilkår og -vilkår
 "search_ai_similarity" = "Likhet:"; // Betalingsvilkår og -vilkår
 
 "search_sort_discount" = "Rabatt"; // Betalingsvilkår og -vilkår
@@ -658,7 +658,7 @@
 "dp_ai_found" = "lignende elementer"; // Betalingsvilkår og -vilkår
 "dp_ai_explore" = "Utforsk flere lignende elementer"; // Betalingsvilkår og -vilkår
 "dp_ai_find_nothing" = "Ingen lignende gjenstander"; // Betalingsvilkår og -vilkår
-"dp_ai_find_nothing_toast" = "Beklager, ingen lignende elementer"; // Betalingsvilkår og -vilkår
+"dp_ai_find_nothing_toast" = "Beklager,ingen lignende elementer"; // Betalingsvilkår og -vilkår
 
 ////////////////////////////// 个人 -Profile /////////////////// //////////////
 
@@ -674,7 +674,7 @@
 
 ////////////////////////////// 购物 车 -cart ////////////////// ///////////////
 
-"cart_purchase_add_card" = "Bruk nytt kreditt / debetkort"; // Betalingsvilkår og -vilkår
+"cart_purchase_add_card" = "Bruk nytt kreditt/debetkort"; // Betalingsvilkår og -vilkår
 "cart_purchase_choose_card" = "Velg fra min kortliste"; // Betalingsvilkår og -vilkår
 "cart_purchase_delete_card_title" = "Slett kredittkort"; // Betalingsvilkår og -vilkår
 "cart_purchase_delete_card_content" = "Er du sikker på at du vil slette dette kortet?"; // Betalingsvilkår og -vilkår
@@ -682,8 +682,8 @@
 
 ////////////////////////////// 个人 -profile /////////////////// //////////////
 
-"profile_cards_tips" = "Sveip for å slette kreditt / debetkort"; // Betalingsvilkår og -vilkår
-"profile_cards_null" = "Det er ingen kreditt- / debetkort knyttet til kontoen din"; // Betalingsvilkår og -vilkår
+"profile_cards_tips" = "Sveip for å slette kreditt/debetkort"; // Betalingsvilkår og -vilkår
+"profile_cards_null" = "Det er ingen kreditt-/debetkort knyttet til kontoen din"; // Betalingsvilkår og -vilkår
 
 ////////////////////////////// 詳細 页 -DP ////////////////// ///////////////
 
@@ -726,9 +726,9 @@
 "login_alert2_title" = "Vilkår";
 "login_alert3_title" = "&";
 "login_alert4_title" = "Personvernregler.";
-"login_alert5_title" = "Plus, få bestillingsoppdateringer, salgsvarsler og mer i innboksen din.";
+"login_alert5_title" = "Plus,få bestillingsoppdateringer,salgsvarsler og mer i innboksen din.";
 
-"login_email_validation" = "Vi har sendt deg en e-post om tilbakestilling av passord. Vennligst sjekk e-posten din og tilbakestill passordet ditt";
+"login_email_validation" = "Vi har sendt deg en e-post om tilbakestilling av passord.Vennligst sjekk e-posten din og tilbakestill passordet ditt";
 
 ////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
 // versjon 1.50 // versjon 1.50 // versjon 1.50 // versjon 1.50 // versjon 1.50 // versjon 1.50 // versjon 1.50 // versjon 1.50 // versjon 1.50
@@ -736,20 +736,20 @@
 
 //////////////////////////// 全局 -all /////////////////// //////////////
 
-"all_no_more_items" = "- ikke flere elementer -";
+"all_no_more_items" = "-ikke flere elementer-";
 
 ////////////////////////////// Søkning -Search /////////////////// //////////////
 
 "search_clearhistory_title" = "Er du sikker på å slette søkeloggen";
 "search_clearhistory_cancel_title" = "Cancel";
-"search_clearhistory_sure_title" = "Ja, jeg er sikker";
+"search_clearhistory_sure_title" = "Ja,jeg er sikker";
 
 ////////////////////////////// 詳細 页 -dp ////////////////// ///////////////
 
 "dp_mall_title" = "AI Price Sammenlign";
 "dp_sizeguide_title" = "Størrelsesguide";
-"dp_mall_nofulfilment_title" = "Beklager, vi støtter ikke oppfyllelsen akkurat nå. Du kan søke det på nettsiden sin.";
-"dp_size_description" = "Vi anbefaler at du velger riktig størrelse i henhold til størrelseskartet som er oppgitt. Vær oppmerksom på at produktinformasjon (farge, dimensjonering, etc.) er levert av våre leverandører og er kun til referanse.";
+"dp_mall_nofulfilment_title" = "Beklager,vi støtter ikke oppfyllelsen akkurat nå. Du kan søke det på nettsiden sin.";
+"dp_size_description" = "Vi anbefaler at du velger riktig størrelse i henhold til størrelseskartet som er oppgitt.Vær oppmerksom på at produktinformasjon (farge,dimensjonering,etc.) er levert av våre leverandører og er kun til referanse.";
 "dp_mall_location_taobao" = "Hongkong";
 
 "dp_outorder_title" = "Out of Order";
@@ -773,7 +773,7 @@
 "profile_help_title" = "Hjelp";
 "profile_submitsuccess_toast" = "Send inn vellykket";
 "profile_address_submitsuccess_toast" = "Lagt til vellykket";
-"profile_bill_fail_toast" = "Bill fiksing mislykkes, prøv igjen senere";
+"profile_bill_fail_toast" = "Bill fiksing mislykkes,prøv igjen senere";
 "profile_bill_confirm" = "Confrim";
 
 //////////////////////////// 登陆 -login /////////////////// //////////////
@@ -796,7 +796,7 @@
 "checkout_sure_popup_yes" = "Bekreft";
 "checkout_sure_popup_no" = "Cancel";
 "coupon_tip_buy" = "Kjøp";
-"coupon_tip_more_save" = "mer, lagre";
+"coupon_tip_more_save" = "mer,lagre";
 "coupon_tip_max" = "Plasser rekkefølge og lagre";
 "coupon_tip_buy_lower" = "buy";
 "coupon_tip_nil" = "Bruk kupong i neste trinn.";
@@ -835,7 +835,7 @@
 
 "profile_order_confirmation_button" = "Bekreft pakke mottatt";
 "profile_order_confirmation_popup_title" = "Bekreft pakke mottatt";
-"profile_order_confirmation_popup_content" = "Hvis du har mottatt pakken, vennligst trykk' Bekreft '";
+"profile_order_confirmation_popup_content" = "Hvis du har mottatt pakken,vennligst trykk 'Bekreft'";
 "profile_order_confirmation_popup_cancel" = "Cancel";
 "profile_order_confirmation_popup_confirm" = "Bekreft";
 
@@ -966,7 +966,7 @@
 "order_status_finished" = "Ferdig";
 "order_status_refunded" = "Refundert";
 "order_logistics_co" = "Shipping Co";
-"order_logistics_no" = "\ nTracking No.";
+"order_logistics_no" = "\nTracking No.";
 "order_logistics_day" = "day";
 "order_logistics_days" = "days";
 "package_status_Unpaid" = "Ubetalt";
@@ -1014,20 +1014,20 @@
 "coupon_loggedin_content_description_2" = "Ny brukerkupong";
 "coupon_loggedin_button" = "Se mine kuponger";
 "coupon_notloggedin_coupon" = "Kupong";
-"coupon_notloggedin_title_1" = "Send deg \ n";
-"coupon_notloggedin_title_2" = "Bare den nye brukeren \ n";
+"coupon_notloggedin_title_1" = "Send deg\n";
+"coupon_notloggedin_title_2" = "Bare den nye brukeren\n";
 "coupon_notloggedin_title_3" = "kuponger";
 "coupon_notloggedin_content_description_1" = "Registrer deg for å få";
 "coupon_notloggedin_content_description_2" = "kuponger!";
 "coupon_notloggedin_button" = "Få det!";
-"coupon_cant_get" = "Du har registrert deg før, kan ikke få kupongene.";
+"coupon_cant_get" = "Du har registrert deg før,kan ikke få kupongene.";
 "coupon_cant_get_enjoy" = "Nyt shopping";
 "coupon_cant_get_button" = "Go shopping";
 
 ////////////////////////////// 优惠 券 -Coupon ////////////////// ///////////////
 
-"global_toast" = "Ups, du har mistet Internett-tilkobling.";
-"cart_wrong_address_toast" = "Beklager, denne adressen kan ikke velges.";
+"global_toast" = "Ups,du har mistet Internett-tilkobling.";
+"cart_wrong_address_toast" = "Beklager,denne adressen kan ikke velges.";
 
 ////////////////////////////// 订单 -Order /////////////////// //////////////
 
@@ -1036,7 +1036,7 @@
 "orderpage_title_2" = "Return and Refund";
 "orderpage_para_2" = "Hvis elementet ikke passer til beskrivelse.";
 "orderpage_title_3" = "Sikker betaling med Escrow Protection";
-"orderpage_title_4" = "Lettere, raskere tvisteløsning";
+"orderpage_title_4" = "Lettere,raskere tvisteløsning";
 "orderpage_title_5" = "100% garantert refusjon.";
 
 //////////////////////////////// Produktspesifikasjoner -DP ////////////////// ///////////////
@@ -1063,18 +1063,18 @@
 
 ////////////////////////////// Logging -login /////////////////// //////////////
 
-"Login_login" = "Logg inn";
+"login_login" = "Logg inn";
 "login_facebook" = "Logg inn med Facebook";
-"login_phone" = "Logg inn med telefon";
+"login_phone" = "Logg inn med Phone";
 "login_google" = "Logg inn med Google";
-"login_email" = "Logg inn med e-post";
+"login_email" = "Logg inn med Email";
 "signup_signin" = "Registrering";
 "signup_facebook" = "Registrering med Facebook";
-"signup_phone" = "Registrering med telefon";
+"signup_phone" = "Registrering med Phone";
 "signup_google" = "Registrering med Google";
-"signup_email" = "Registrering med e-post";
+"signup_email" = "Registrering med Email";
 "signup_coupon" = "for nye brukere";
-"signup_policydetail" = "Ved joining er du enig i vår ";
+"signup_policydetail" = "Ved joining er du enig i vår";
 "signup_policydetail_1" = "Vilkår";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "Personvernregler";
@@ -1098,25 +1098,25 @@
 "india_address_postcode_title" = "Pincode:";
 "india_street1_detail" = "Hus nr, bygning, gate, lokalitet";
 "india_street2_detail" = "Landemerke (valgfritt)";
-"india_city_title" = "By / Distrikt:";
-"india_state_title" = "Region / State:";
+"india_city_title" = "By/Distrikt:";
+"india_state_title" = "Region/State:";
 "india_mobile" = "Mobile";
 "india_mobile_phone_number" = "Mobiltelefonnummer";
 "india_country" = "County";
-"india_town" = "Locality / Town";
+"india_town" = "Locality/Town";
 "india_street_address" = "Gateadresse";
 "india_address" = "Adresse";
 "india_address_details" = "Adressedetaljer";
-"india_detail_address_input" = "Gate, Areal, Husnr., C / O.";
-"india_addition_address" = "Apt, Suite, Floor, Bldg, etc. (Valgfritt)";
+"india_detail_address_input" = "Gate,Areal,Husnr,C/O.";
+"india_addition_address" = "Apt,Suite,Floor,Bldg,etc.(Valgfritt)";
 "zip_wrong_toast" = "Vennligst skriv inn 6-sifret PIN-kode.";
-"zip_out_range" = "Beklager, vi kan ikke levere til denne PIN-koden.";
+"zip_out_range" = "Beklager,vi kan ikke levere til denne PIN-koden.";
 "location_failed" = "Får plassering mislyktes.";
-"sa_address_province_title" = "Stat / Prov. / Region:";
+"sa_address_province_title" = "Stat/Prov/Region:";
 "sa_address_city_title" = "By:";
-"sa_address_district_title" = "Distrikt (Valgfritt):";
+"sa_address_district_title" = "Distrikt(Valgfritt):";
 "sa_address_street1_title" = "Street";
-"sa_address_street2_title" = "Adressedetaljer (Valgfritt)";
+"sa_address_street2_title" = "Adressedetaljer(Valgfritt)";
 
 ////////////////////////////// 支付 -Pay /////////////////// //////////////
 
@@ -1125,7 +1125,7 @@
 "cash_on delivery_2" = "Du kan kun bruke COD hvis alle dine tidligere COD-ordrer er signert med hell.";
 "phone_verify_title" = "Bestill bekreftelse.";
 "phone_verify_detail_0" = "Vennligst bekreft telefonnummeret ditt.";
-"phone_verify_detail_1" = "Trykk' Send kode 'for å be om bekreftelseskode.";
+"phone_verify_detail_1" = "Trykk 'Send kode' for å be om bekreftelseskode.";
 "phone_verify_input" = "Telefonen din";
 "phone_verify_button" = "Bekreft";
 "phone_code_detail" = "Vennligst skriv inn 4-sifret kode.";
@@ -1135,7 +1135,7 @@
 "shipping_free" = "Free";
 "phone_verify_sending" = "Sending";
 "phone_verify_wrong" = "Feil kode. Prøv igjen.";
-"code_send_failed" = "Kunne ikke sende koden, vennligst sjekk telefonnummeret ditt og prøv igjen.";
+"code_send_failed" = "Kunne ikke sende koden,vennligst sjekk telefonnummeret ditt og prøv igjen.";
 "cod_not" = "Ikke tilgjengelig";
 
 //////////////////////////// DP- 评论 /////////////////// //////////////
@@ -1194,7 +1194,7 @@
 "instar_blogger_not_follow_button" = "+ Follow";
 "instar_detail_page" = "Photo";
 "instar_review_title" = "Reviews";
-"instar_related_posts "=" relaterte innlegg ";
+"instar_related_posts" = "relaterte innlegg";
 "instar_following_page_people" = "People";
 "instar_following_page_hashtags" = "Hashtags";
 "instar_trending_view_more" = "Se mer";
@@ -1249,7 +1249,7 @@
 //////////////////////// 购物 车 //////////////////////// //////
 "cart_invalid_items" = "Ugyldige elementer";
 "cart_clear_items" = "Fjern ugyldige elementer";
-"cart_message" = "Bekreft tom ugyldige element (e)?";
+"cart_message" = "Bekreft tom ugyldige element(e)?";
 "cart_cancel" = "Cancel";
 "cart_delete" = "Delete";
 "cart_1_hour_only" = "Bare 1 time";
@@ -1265,7 +1265,7 @@
 "flash_sale_end_in" = "End in";
 "flash_sale_remind" = "Vi vil påminne deg når den starter. Du kan sjekke den i påminnelseslisten.";
 "flash_sale_cancel_remind" = "Avbryt påminnelse";
-"flash_sale_reminder_list" = "Du har ingen viste elementer ennå. Jo tidligere du angir påminnelser, jo tidligere får du gode elementer.";
+"flash_sale_reminder_list" = "Du har ingen viste elementer ennå.Jo tidligere du angir påminnelser,jo tidligere får du gode elementer.";
 "flash_sale_fiery_buying" = "Fiery Buying";
 "flash_sale_coming_remind_me" = "Påminn meg";
 "flash_sale_coming_following" = "Følgende";
@@ -1275,8 +1275,8 @@
 "flash_sale_tomorrow" = "Tomorrow";
 
 ///////////////////////// 领 券 提醒 /////////////////////// ///////
-"coupon_successful" = "Du har kupongen (e)!";
-"coupon_already_received" = "Du har allerede fått kupongen (e)!";
+"coupon_successful" = "Du har kupongen(e)!";
+"coupon_already_received" = "Du har allerede fått kupongen(e)!";
 "coupon_error" = "Somthing gikk galt med nettverket, prøv igjen";
 
 ////////////////////////// DP 比价 //////////////////////// //////
@@ -1284,16 +1284,16 @@
 "comparison_price_cloudmall" = "på CloudMall";
 
 ////////////////////////// 地址 ///////////////////////// /////
-"address_details" = "Adressedetaljer / Landemerke (Valgfritt)";
+"address_details" = "Adressedetaljer/Landemerke(Valgfritt)";
 
 ////////////////////////// 降价 提醒 //////////////////////// //////
-"price_reduction_home1" = "element (e) falt totalt";
-"price_reduction_home2" = "i handlekurven, sjekk ut nå!";
+"price_reduction_home1" = "element(e)falt totalt";
+"price_reduction_home2" = "i handlekurven,sjekk ut nå!";
 "price_reduction_home3" = "Fikk det";
 "price_reduction_dp1" = "Sjekk ut nå og få";
 "price_reduction_dp2" = "Gratis frakt";
 "price_reduction_dp3" = "Sjekk ut";
-"price_reduction_cart1" = "elementet (prisene) har falt,";
+"price_reduction_cart1" = "elementet(prisene)har falt,";
 "price_reduction_cart2" = "sjekke det ut!";
 
 ////////////////////////// AE 手机 号 校验 ///////////////////// /////////
@@ -1301,7 +1301,7 @@
 
 ///// 库存 相关 的 翻译 /////
 "stock_dp_only" = "only";
-"stock_dp_stock" = "igjen på lager - bestil snart";
+"stock_dp_stock" = "igjen på lager- bestil snart";
 
 //////////////////// element uendelig 页面 ///////////////
 "item_end_less_only" = "only";
@@ -1368,7 +1368,7 @@
 "affiliate_noti_friend_share_right" = "delt et innlegg.";
 "affiliate_noti_friend_share_item" = "delte et element.";
 "affiliate_noti_friend_bought_right" = "nettopp kjøpt";
-"affiliate_noti_friend_bought_end" = "element (e). Du får en";
+"affiliate_noti_friend_bought_end" = "element(e). Du får en";
 "affiliate_noti_friend_bought_end_new" = "rabatt!";
 "affiliate_noti_withdraw_available_left" = "Du har";
 "affiliate_noti_withdraw_available_right" = "tilgjengelig for å trekke tilbake.";
@@ -1417,10 +1417,10 @@
 
 //////////////////////submit order页新增wallet弹窗////////////////
 "submit_order_wallet_rule_title" = "Brukervilkår for lommebok";
-"submit_order_wallet_rule_first" = "Bare“ Tilgjengelig ”lommebokbalanse kan brukes.";
+"submit_order_wallet_rule_first" = "Bare 'Tilgjengelig' lommebokbalanse kan brukes.";
 "submit_order_wallet_rule_third" = "Inviter flere venner til å bestille ordre for å få mer gratis lommebok!";
 "submit_order_wallet_rule_thread" = "Wallet-saldoen kan ikke brukes til å dekke fraktkostnadene.";
-"submit_order_wallet_rule_fourth" = "På grunn av lokale restriksjoner kan lommebalansen ikke brukes til å dekke hele kjøpsbeløpet. Hvis Tilgjengelig saldo i lommeboken din overstiger ditt totale kjøpsbeløp, vil bare en del av Tilgjengelig saldo bli brukt.";
+"submit_order_wallet_rule_fourth" = "På grunn av lokale restriksjoner kan lommebalansen ikke brukes til å dekke hele kjøpsbeløpet.Hvis Tilgjengelig saldo i lommeboken din overstiger ditt totale kjøpsbeløp,vil bare en del av Tilgjengelig saldo bli brukt.";
 "submit_order_wallet_rule_button" = "Fikk det";
 
 /////////////////////ios3.07 versjon - rabatt popup-vinduer ///////////////

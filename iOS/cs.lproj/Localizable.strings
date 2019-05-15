@@ -99,7 +99,7 @@
 "confirm_clear_cache_title_profile_about" = "Opravdu chcete vymazat mezipaměť?";
 
 "hint_feedback_title_profile_feedback" = "Zadejte prosím vaše připomínky zde";
-"hint_contact_title_profile_feedback" = "E-mail / telefonní číslo (volitelné)";
+"hint_contact_title_profile_feedback" = "E-mail/telefonní číslo (volitelné)";
 
 "my_profile_title_profile_info" = "Můj profil";
 "modify_avatar_btn_profile_info" = "Nahrát fotku";
@@ -108,7 +108,7 @@
 "reset_password_info_title_profile_info" = "Verifikační kód bude zaslán na váš e-mail";
 "reset_password_title_profile_setting" = "Resetovat heslo";
 
-"warn_sign_out_toast_profile_setting" = "Aktualizace objednávky nebudou přijata po odhlášení. Proceed? ";
+"warn_sign_out_toast_profile_setting" = "Aktualizace objednávky nebudou přijata po odhlášení. Proceed?";
 
 "total_pay_title_cart" = "Celkem:";
 "view_detail_btn_dp" = "Podrobnosti objednávky";
@@ -128,10 +128,10 @@
 "description_title_profile_favors" = "Popis";
 "new_album_title_dp" = "Upravit nový název alba";
 
-"address_manage_title_all" = "Správa adresáře";
+"address_manage_title_all" = "Správa adres";
 "add_address_btn_cart" = "Přidat novou adresu";
 "id_phone_title_profile_cash" = "Telefonní číslo:";
-"detail_address_title_cart" = "Jednotka / podlaha / blok / budova / ulice";
+"detail_address_title_cart" = "Jednotka/podlaha/blok/budova/ulice";
 
 "change_region_title_profile_setting" = "Změnit region"; // 个人 - 设置 页面 - 切换 地区
 "select_region_title_profile_setting" = "Odeslat do";
@@ -170,7 +170,7 @@
 "cancle_delete_album_btn_profile_favors" = "Zrušit"; // 收藏 - 专辑 编辑 删除 专辑 弹 窗
 
 "ok_btn_profile_address" = "Hotovo"; // 地址 - 新建 地址 / 编辑 地址 - 右上角
-"regioin_title_profile_address" = "Region / stát"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"regioin_title_profile_address" = "Region/stát"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 "delete_btn_profile_address" = "Odstranit"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Celé jméno:"; // 地址 管理 - 收件人 栏 的 默认 zobrazení 文案
@@ -178,7 +178,7 @@
 
 "profile_favorite_no_album_title" = "ostatní"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
-"profile_default_addresss_title" = "Pokoj, podlaha, budova, ulice"; // 地址 - 新建 地址 / 编辑 地址 - 地区
+"profile_default_addresss_title" = "Pokoj,podlaha,budova,ulice"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
 "profile_no_orders_title" = "Na vás čekají miliony produktů"; // 個人 - 訂單 無 訂單 時 顯示 的 內容
 
@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "V prodeji";
 
 "agreements_content_cart1" = "Odesláním této objednávky souhlasím se společností Cloudmall";
-"agreements_content_cart2" = "Soukromí a bezpečnost /";
-"agreements_content_cart3" = "Podmínky použití /";
+"agreements_content_cart2" = "Soukromí a bezpečnost/";
+"agreements_content_cart3" = "Podmínky použití/";
 "agreements_content_cart4" = "Návratové a směnné zásady";
 "summit_checkout_btn_cart" = "Odeslat objednávku";
 "mall_shipping_fee_title_cart" = "Poplatek za dopravu na Mall";
@@ -206,7 +206,7 @@
 
 "confirm_payment_btn_profile_order" = "Odeslat platbu";
 "asap_pay_title_cart" = "Deal končí brzy";
-"asap_pay_detail_content_cart" = "Ceny se mohou kdykoli měnit, takže objednávku nyní zadejte, abyste získali nejlepší nabídku!";
+"asap_pay_detail_content_cart" = "Cena je proměnlivá, objednejte si ji rychle!";
 "choose_payment_title_cart" = "Výběr způsobu platby";
 "hint_choose_payment_title_cart" = "Vyberte způsob platby";
 "final_price_title_cart" = "Celkový počet objednávek:";
@@ -252,7 +252,7 @@
 "translate_btn_dp" = "Překlad";
 "translate_title_dp" = "Popis produktu";
 
-"open_facebook_share_btn_dp" = "'Cloudmall' by rád otevřel 'Facebook' "; // Odborné informace - klikněte na odkaz
+"open_facebook_share_btn_dp" = "'Cloudmall' by rád otevřel 'Facebook'"; // Odborné informace - klikněte na odkaz
 "cancle_open_facebook_share_btn_dp" = "Zrušit"; // Odborné informace - klikněte na odkaz
 "ok_open_facebook_share_btn_dp" = "Otevřít"; // Odborné informace - klikněte na odkaz
 
@@ -340,10 +340,10 @@
 
 //////////////////// 购物 车 _cart //////////// ///////////////////////////////////////////////
 
-"cart_checkout_credit_card" = "Kreditní / debetní karta"; // 购物 车 - 确认 支付 - 信用卡 标题
+"cart_checkout_credit_card" = "Kreditní/debetní karta"; // 购物 车 - 确认 支付 - 信用卡 标题
 "cart_checkout_total_bill" = "Celkem"; // 购物 车 - 确认 支付 - 确认 标题 前
 
-"cart_checkout_credit_card_title" = "Kreditní / debetní karta"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
+"cart_checkout_credit_card_title" = "Kreditní/debetní karta"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 标题
 "cart_checkout_change_credit_card" = "Změna karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 弹 窗 - 预 一张 卡
 "cart_checkout_new_credit_card" = "Přidat novou kartu"; // 购物 车 - 确认 支付 - 选择 信用 支持 - 新 信 信用卡
 "cart_checkout_credit_card_toast" = "Nejprve přidejte novou kartu"; // 购物 车 - 确认 支付 - 选择 信息 支持 - 未 绑定 信用卡
@@ -356,7 +356,7 @@
 "cart_checkout_card_number_title" = "Číslo karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
 "cart_checkout_card_number_default" = "Zadejte číslo karty"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 卡号
 "cart_checkout_valid_date_title" = "Datum ukončení platnosti"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 有效期
-"cart_checkout_valid_date_default" = "MM / YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
+"cart_checkout_valid_date_default" = "MM/YY"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 月 月 / 年年
 "cart_checkout_safe_code_title" = "CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
 "cart_checkout_safe_code_default" = "Zadejte CVV"; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 码
 "cart_checkout_about_safety" = "Vaše platba za tento nákup je bezpečně zpracována zpracovatelem platby třetí stranou. CloudMall neukládá informace o vaší kreditní kartě."; // 购物 车 - 确认 支付 - 选择 信用卡 支付 - 安全 承诺
@@ -397,7 +397,7 @@
 "cart_checkout_card_popup_title" = "Chyba"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
 "cart_checkout_card_popup_content" = "Při platbě došlo k chybě. Ověřte, zda zadané údaje karty byly správné, nebo zkuste platit jinou kartou."; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
 "cart_checkout_card_popup_cancel" = "Později"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
-"cart_checkout_card_popup_tryagain "=" Zkuste znovu "; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
+"cart_checkout_card_popup_tryagain" = "Zkuste znovu"; // 购物 车 - 选择 支付 - 支付 出问题 - 标题
 "cart_checkout_pay_total" = "Nákup"; // 购物 车 - 选择 支付 - 取消
 "cart_checkout_bill_total" = "Celkový účet"; // 购物 车 - 选择 支付 - 付款
 "cart_checkout_pay_success_title" = "Úspěch"; // 购物 车 - 选择 支付 - 支付 成功
@@ -406,7 +406,7 @@
 
 "profile_setting_customer_service_cancel" = "Zrušit"; // 个人 - 客服 - 取消
 "profile_setting_customer_service_confirm" = "Potvrdit"; // 个人 - 客服 - 提交
-"profile_setting_clearcache_clearing" = "Vymazání mezipaměti ..."; // 个人 - 清除 缓存 - 取消
+"profile_setting_clearcache_clearing" = "Vymazání mezipaměti..."; // 个人 - 清除 缓存 - 取消
 "profile_setting_clearcache_cancel" = "Zrušit"; // 个人 - 清除 缓存 - 取消
 "profile_setting_clearcache_confirm" = "Potvrdit"; // 个人 - 清除 缓存 - 清除
 "profile_setting_feedback_cancel" = "Zrušit"; // 个人 - 反馈 - 取消
@@ -439,8 +439,8 @@
 
 ////////////////// android 新增 ///////////////////// ///////////////
 
-"load_title_profile" = "Načítání ...";
-"více" = "Více";
+"load_title_profile" = "Načítání...";
+"more" = "Více";
 "no_entries_in_cart_detail" = "Přejít a objevit další položky!";
 "press_again_exit_toast_all" = "Znovu klepněte a ukončete";
 "write_need" = "Zadejte prosím základní informace";
@@ -471,10 +471,10 @@
 
 "profile_address_input_default" = "Vyplnit"; // 个人 - 地址 - 输入 框
 "profile_address_select_default" = "Vybrat"; // 个人 - 地址 - 下拉 框
-"profile_address_province" = "Provincie / stát:"; // 个人 - 地址 - 省 州
-"profile_address_city" = "Město / obec:"; // 个人 - 地址 - 城市
+"profile_address_province" = "Provincie/stát:"; // 个人 - 地址 - 省 州
+"profile_address_city" = "Město/obec:"; // 个人 - 地址 - 城市
 "profile_address_district" = "Okres:"; // 个人 - 地址 - 下拉 框
-"profile_address_detail" = "Byt, budova ... (volitelné)"; // 个人 - 地址 - 详细 地址
+"profile_address_detail" = "Byt, budova... (volitelné)"; // 个人 - 地址 - 详细 地址
 
 "profile_address_us" = "Spojené státy";
 "profile_address_uk" = "Velká Británie";
@@ -507,7 +507,7 @@
 "profile_address_sa" = "Saúdská Arábie";
 "profile_address_qa" = "Katar";
 "profile_address_kw" = "Kuvajt";
-"profil_address_tr "=" Turecko ";
+"profile_address_tr" = "Turecko";
 "profile_address_il" = "Izrael";
 "profile_address_th" = "Thajsko";
 "profile_address_at" = "Rakousko";
@@ -682,8 +682,8 @@
 
 //////////// 个人 -profile //////////////// //////////////
 
-"profile_cards_tips" = "Přejetím prstu pro vymazání kreditní / debetní karty"; // 支付 是 提示 有 没 可用
-"profile_cards_null" = "Neexistují žádné kreditní / debetní karty spojené s vaším účtem"; // 支付 是 提示 有 没 可用
+"profile_cards_tips" = "Přejetím prstu pro vymazání kreditní/debetní karty"; // 支付 是 提示 有 没 可用
+"profile_cards_null" = "Neexistují žádné kreditní/debetní karty spojené s vaším účtem"; // 支付 是 提示 有 没 可用
 
 //////////// Detailní stránka -DP //////////////////// /////////////
 
@@ -736,7 +736,7 @@
 
 //////////// 全局 -all ////////////////// //////////////
 
-"all_no_more_items" = "- žádné další položky -";
+"all_no_more_items" = "-žádné další položky-";
 
 //////////// Hledání-hledání ////////////// //////////////
 
@@ -795,10 +795,10 @@
 "checkout_sure_popup_title" = "Opravdu chcete tuto platbu zrušit?";
 "checkout_sure_popup_yes" = "Potvrdit";
 "checkout_sure_popup_no" = "Zrušit";
-"kupon_tip_buy" = "Koupit";
-"kupon_tip_more_save" = "více, uložit";
+"coupon_tip_buy" = "Koupit";
+"coupon_tip_more_save" = "více, uložit";
 "coupon_tip_max" = "Umístit objednávku a uložit";
-"kupon_tip_buy_lower" = "koupit";
+"coupon_tip_buy_lower" = "koupit";
 "coupon_tip_nil" = "Použijte Kupon v dalším kroku.";
 
 //////////// Další informace -DP ////////////////////// /////////////
@@ -835,7 +835,7 @@
 
 "profile_order_confirmation_button" = "Potvrzení přijetí balíčku";
 "profile_order_confirmation_popup_title" = "Potvrzení přijetí balíčku";
-"profile_order_confirmation_popup_content" = "Pokud jste obdrželi balíček, stiskněte' Confirm '";
+"profile_order_confirmation_popup_content" = "Pokud jste obdrželi balíček, stiskněte 'Confirm'";
 "profile_order_confirmation_popup_cancel" = "Zrušit";
 "profile_order_confirmation_popup_confirm" = "Potvrdit";
 
@@ -956,7 +956,7 @@
 
 "order_status_unpaid" = "Neplacené";
 "order_status_pending" = "Čekající";
-"order_status_shipping" = "Odeslání";
+"order_status_shipping" = "Lodní";
 "order_status_all" = "Vše";
 "order_detail_policy" = "Po obchodní politice";
 "order_policy_help" = "Potřebujete pomoc?";
@@ -964,9 +964,9 @@
 "order_confirm_delivery" = "Potvrzení doručení";
 "order_confirm_logistics" = "Logistika";
 "order_status_finished" = "Dokončeno";
-"order_status_refunded" = "Refunded";
+"order_status_refunded" = "Vrácení";
 "order_logistics_co" = "Přepravní společnosti";
-"order_logistics_no" = "\ nPracovní č.";
+"order_logistics_no" = "\nPracovní č.";
 "order_logistics_day" = "den";
 "order_logistics_days" = "dny";
 "package_status_Unpaid" = "Neplacené";
@@ -1008,21 +1008,21 @@
 
 //////////// 优惠 券 -Coupon //////////////////// /////////////
 
-"kupon_loggedin_title" = "Gratulujeme";
+"coupon_loggedin_title" = "Gratulujeme";
 "coupon_loggedin_content_title" = "Získali jste";
 "coupon_loggedin_content_description_1" = "Exkluzivní kupon aplikace";
 "coupon_loggedin_content_description_2" = "Nový kupón uživatele";
 "coupon_loggedin_button" = "Viz Moje kupóny";
 "coupon_notloggedin_coupon" = "Kupon";
-"coupon_notloggedin_title_1" = "Odeslat vás \ n";
-"coupon_notloggedin_title_2" = "Nový uživatel pouze \ n";
-"kupon_notloggedin_title_3" = "kupony";
+"coupon_notloggedin_title_1" = "Odeslat vás\n";
+"coupon_notloggedin_title_2" = "Nový uživatel pouze\n";
+"coupon_notloggedin_title_3" = "kupony";
 "coupon_notloggedin_content_description_1" = "Přihlaste se, abyste získali";
-"kupon_notloggedin_content_description_2" = "kupony!";
+"coupon_notloggedin_content_description_2" = "kupony!";
 "coupon_notloggedin_button" = "Získat!";
 "coupon_cant_get" = "Již jste se registrovali, kupony nelze získat.";
 "coupon_cant_get_enjoy" = "Užijte si nákupy";
-"kupon_cant_get_button" = "Jdi nakupovat";
+"coupon_cant_get_button" = "Jdi nakupovat";
 
 //////////// 优惠 券 -Coupon //////////////////// /////////////
 
@@ -1041,8 +1041,8 @@
 
 //////////// Další informace -DP //////////////////// /////////////
 
-"kupon_bigtitle" = "POUZE NOVÉ UŽIVATELÉ";
-"kupon_para_title" = "COUPON";
+"coupon_bigtitle" = "POUZE NOVÉ UŽIVATELÉ";
+"coupon_para_title" = "COUPON";
 "coupon_para_button" = "Získat!";
 "ai_price" = "Srovnání ceny AI";
 "ai_price_button" = "Podívej se na to";
@@ -1063,18 +1063,18 @@
 
 //////////// 登录 -login ////////////////////// //////////////
 
-"Login_login" = "Přihlaste se";
-"login_facebook" = "Přihlaste se pomocí Facebooku";
-"login_phone" = "Přihlaste se pomocí telefonu";
+"login_login" = "Přihlaste se";
+"login_facebook" = "Přihlaste se pomocí Facebook";
+"login_phone" = "Přihlaste se pomocí Phone";
 "login_google" = "Přihlaste se pomocí Google";
-"login_email" = "Přihlaste se pomocí e-mailu";
-"signup_signin" = "Registrace";
-"signup_facebook" = "Registrace s Facebookem";
-"signup_phone" = "Registrace s telefonem";
-"signup_google" = "Přihlaste se do Googlu";
-"signup_email" = "Přihlaste se pomocí e-mailu";
+"login_email" = "Přihlaste se pomocí Email";
+"signup_signin" = "Zaregistrujte";
+"signup_facebook" = "Zaregistrujte se pomocí Facebook";
+"signup_phone" = "Zaregistrujte se pomocí Phone";
+"signup_google" = "Zaregistrujte se pomocí Google";
+"signup_email" = "Zaregistrujte se pomocí Email";
 "signup_coupon" = "pro nové uživatele";
-"signup_policydetail" = "Do joininsouhlasíte s našimi ";
+"signup_policydetail" = "Do joininsouhlasíte s našimi";
 "signup_policydetail_1" = "Podmínky";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "Zásady ochrany osobních údajů";
@@ -1098,21 +1098,21 @@
 "india_address_postcode_title" = "Pincode:";
 "india_street1_detail" = "dům ne, budova, ulice, lokalita";
 "india_street2_detail" = "Landmark (volitelné)";
-"india_city_title" = "Město / Oblast:";
-"india_state_title" = "Region / stát:";
+"india_city_title" = "Město/Oblast:";
+"india_state_title" = "Region/stát:";
 "india_mobile" = "Mobilní";
 "india_mobile_phone_number" = "Číslo mobilního telefonu";
 "india_country" = "kraj";
-"india_town" = "Lokalita / město";
+"india_town" = "Lokalita/město";
 "india_street_address" = "Adresa ulice";
 "india_address" = "Adresa";
 "india_address_details" = "Podrobnosti o adrese";
-"india_detail_address_input" = "Ulice, oblast, číslo domu, C / O.";
+"india_detail_address_input" = "Ulice, oblast, číslo domu, C/O.";
 "india_addition_address" = "Apt, Suite, Floor, Bldg atd. (volitelné)";
 "zip_wrong_toast" = "Zadejte prosím 6místný pincode.";
 "zip_out_range" = "Omlouváme se, nemůžeme se k tomuto pincode dostat.";
 "location_failed" = "Selhání umístění se nezdařilo.";
-"sa_address_province_title" = "Stav / Prov. / Region:";
+"sa_address_province_title" = "Stav/Prov/Region:";
 "sa_address_city_title" = "Město:";
 "sa_address_district_title" = "Oblast (volitelné):";
 "sa_address_street1_title" = "Ulice";
@@ -1125,7 +1125,7 @@
 "cash_on delivery_2" = "Kód COD můžete použít pouze v případě úspěšného podpisu všech předchozích příkazů COD.";
 "phone_verify_title" = "Potvrzení objednávky.";
 "phone_verify_detail_0" = "Ověřte prosím vaše telefonní číslo.";
-"phone_verify_detail_1" = "Chcete-li požádat o ověření, klepněte na' Odeslat kód '.";
+"phone_verify_detail_1" = "Chcete-li požádat o ověření, klepněte na 'Odeslat kód'.";
 "phone_verify_input" = "Váš telefon";
 "phone_verify_button" = "Ověřit";
 "phone_code_detail" = "Zadejte prosím čtyřmístný kód.";
@@ -1164,7 +1164,7 @@
 "limited_time_offer_continue" = "Pokračovat";
 
 ////////// kupon- 优惠 券 //////////////// ////////
-"kupon_available_info" = "Objednávka";
+"coupon_available_info" = "Objednávka";
 "coupon_available_click_info" = "Kliknutím vyberte kupon";
 "coupon_code_invalid" = "Kód kupónu je neplatný";
 
@@ -1194,7 +1194,7 @@
 "instar_blogger_not_follow_button" = "+ Sledovat";
 "instar_detail_page" = "Foto";
 "instar_review_title" = "Recenze";
-"instar_related_posts "=" Související příspěvky ";
+"instar_related_posts" = "Související příspěvky";
 "instar_following_page_people" = "Lidé";
 "instar_following_page_hashtags" = "Hashtags";
 "instar_trending_view_more" = "Zobrazit více";
@@ -1284,7 +1284,7 @@
 "comparison_price_cloudmall" = "ve službě CloudMall";
 
 //////////////////////////////////////////////////////////////Www.////////// /////
-"address_details" = "Podrobnosti adresy / orientační bod (volitelné)";
+"address_details" = "Podrobnosti adresy/orientační bod (volitelné)";
 
 ////////////////////////////////////////////////////////////////////////////////// //////
 "price_reduction_home1" = "položka (y) klesla celkem";
@@ -1301,7 +1301,7 @@
 
 ///// 库存 相关 的 翻译 /////
 "stock_dp_only" = "pouze";
-"stock_dp_stock" = "vlevo na skladě - brzy si objednejte";
+"stock_dp_stock" = "vlevo na skladě- brzy si objednejte";
 
 //////////// položka nekonečná stránka /////////////////
 "item_end_less_only" = "pouze";

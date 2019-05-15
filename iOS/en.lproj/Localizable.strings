@@ -235,7 +235,7 @@
 "cart_checkout_logistic_self_title" = "Select pick-up location"; //购物车-顺丰自提-弹窗
 
 "cart_checkout_order_description_title0" = "Total:"; //购物车-提交订单-选择支付方式
-"cart_checkout_order_description_title1" = "（Currency will be converted automatically）"; //购物车-提交订单-选择支付方式
+"cart_checkout_order_description_title1" = "(Currency will be converted automatically)"; //购物车-提交订单-选择支付方式
 
 "cart_checkout_logistic_self_desc_title" = "Phone Number"; //购物车-顺丰自提-字体说明
 "cart_checkout_logistic_door_desc_title" = "HK$30 will be charged at delivery to non-business addresses"; //购物车-顺丰自提-字体说明
@@ -399,7 +399,7 @@
 "cart_checkout_card_popup_cancel" = "Later"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_card_popup_tryagain" = "Try Again"; //购物车-选择支付-支付出问题-标题
 "cart_checkout_pay_total" = "Purchase"; //购物车-选择支付-取消
-"cart_checkout_bill_total" = "Bill Total "; //购物车-选择支付-付款
+"cart_checkout_bill_total" = "Bill Total"; //购物车-选择支付-付款
 "cart_checkout_pay_success_title" = "Success"; //购物车-选择支付-支付成功
 
 ////////////////////////////////// 个人-Proilfe ///////////////////////////////////
@@ -439,18 +439,18 @@
 
 //////////////////////////////android 新增//////////////////////////////////////////
 
-"loading_title_profile"="Loading&#8230;";
-"more"="More";
-"no_entries_in_cart_detail"="Go and discover more items!";
-"press_again_exit_toast_all"="Click again and exit";
-"write_need"="Please enter essential infomation";
+"loading_title_profile" = "Loading&#8230;";
+"more" = "More";
+"no_entries_in_cart_detail" = "Go and discover more items!";
+"press_again_exit_toast_all" = "Click again and exit";
+"write_need" = "Please enter essential infomation";
 
-"adyen_expired_year_toast_1"="Credit card expiry date:";
-"adyen_expired_year_toast_2"="Credit card expiry date has 4 digits";
-"cart_year_expire_toast"="Format of the expiry date is wrong";
-"cart_year_expire_write_toast"="Please fill the card expiry date";
-"new_sort_title_search_result"="New to Old";
-"no_delivery_supported"="Delivery is not supported";
+"adyen_expired_year_toast_1" = "Credit card expiry date:";
+"adyen_expired_year_toast_2" = "Credit card expiry date has 4 digits";
+"cart_year_expire_toast" = "Format of the expiry date is wrong";
+"cart_year_expire_write_toast" = "Please fill the card expiry date";
+"new_sort_title_search_result" = "New to Old";
+"no_delivery_supported" = "Delivery is not supported";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -518,19 +518,19 @@
 
 "profile_setting_feedback_null_toast" = "Please enter all the information"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "Please enter email address correctly"; //个人-物流详细
-"address_hint_postcode_not_null"="Please enter email address";
-"choose_logistic"="Please select the shipment method";
-"confirm_delete_order_title_profile_order"="Are you sure to delete the order?";
-"confirm_valid_hint"="Passwords are not consistent";
-"pay_lack_param"="Necessary data is missing";
-"please_select_address"="Please select the address";
-"success_hide_order_profile_order"="Deleted successfully";
-"network_connect_error"="Network error";
-"network_error"="Network connection timeout";
+"address_hint_postcode_not_null" = "Please enter email address";
+"choose_logistic" = "Please select the shipment method";
+"confirm_delete_order_title_profile_order" = "Are you sure to delete the order?";
+"confirm_valid_hint" = "Passwords are not consistent";
+"pay_lack_param" = "Necessary data is missing";
+"please_select_address" = "Please select the address";
+"success_hide_order_profile_order" = "Deleted successfully";
+"network_connect_error" = "Network error";
+"network_error" = "Network connection timeout";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
-"dp_select_null_toast" = "Please choose "; //个人-地址-详细地址
+"dp_select_null_toast" = "Please choose"; //个人-地址-详细地址
 
 ////////////////////////////// 购物车-cart ////////////////////////////////
 
@@ -567,10 +567,10 @@
 
 "profile_coupon_title" = "Coupons";
 "profile_coupon_only_country" = "Only in";
-"profile_coupon_condition_over" = "Buy ";
+"profile_coupon_condition_over" = "Buy";
 "profile_coupon_condition_get" = "and get an";
 "profile_coupon_valid_period" = "Valid period";
-"profile_coupon_specific" = "Specific mall or brand ";
+"profile_coupon_specific" = "Specific mall or brand";
 "profile_coupon_null" = "No coupons right now";
 "profile_coupon_available" = "Available";
 "profile_coupon_unavailable" = "Unavailable";
@@ -598,11 +598,11 @@
 "index_comment_main_title" = "Comment";//支付是提示有没可用
 "index_comment_sub_title" = "Like us and comment";//支付是提示有没可用
 "index_bad_feedback_btn" = "Feedback";//支付是提示有没可用
-"index_good_feedback_btn" = "Like us！";//支付是提示有没可用
+"index_good_feedback_btn" = "Like us!";//支付是提示有没可用
 "index_timeout_title" = "Timeout";//支付是提示有没可用
-"index_pending_title" = " Not started ";//支付是提示有没可用
-"index_timeout2_title" = " Promotion Timeout";//支付是提示有没可用
-"index_pending2_title" = " Promotion Not started ";//支付是提示有没可用
+"index_pending_title" = "Not started";//支付是提示有没可用
+"index_timeout2_title" = "Promotion Timeout";//支付是提示有没可用
+"index_pending2_title" = "Promotion Not started";//支付是提示有没可用
 
 "index_region_null" = "Please select region and language";//支付是提示有没可用
 
@@ -616,11 +616,11 @@
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
-"index_minutes_ago" = " minutes ago";//支付是提示有没可用
-"index_hours_ago" = " hours ago";//支付是提示有没可用
-"index_days_ago" = " days ago";//支付是提示有没可用
-"index_weeks_ago" = " weeks ago";//支付是提示有没可用
-"index_months_ago" = " month ago";//支付是提示有没可用
+"index_minutes_ago" = "minutes ago";//支付是提示有没可用
+"index_hours_ago" = "hours ago";//支付是提示有没可用
+"index_days_ago" = "days ago";//支付是提示有没可用
+"index_weeks_ago" = "weeks ago";//支付是提示有没可用
+"index_months_ago" = "month ago";//支付是提示有没可用
 
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
@@ -723,10 +723,10 @@
 //////////////////////////// 登陆-login /////////////////////////////////
 
 "login_alert1_title" = "By joining you agree to our";
-"login_alert2_title" = " Terms";
-"login_alert3_title" = " &";
-"login_alert4_title" = " Privacy Policy.";
-"login_alert5_title" = " Plus, get order updates, sale alerts, and more in your inbox.";
+"login_alert2_title" = "Terms";
+"login_alert3_title" = "&";
+"login_alert4_title" = "Privacy Policy.";
+"login_alert5_title" = "Plus, get order updates, sale alerts, and more in your inbox.";
 
 "login_email_validation" = "We have sent you an email about reseting password. Please check your email and reset your password";
 
@@ -761,8 +761,8 @@
 
 //////////////////////////// 購物車-cart /////////////////////////////////
 
-"cart_shipment_title" = "Shipment: ";
-"cart_shipment_days_title" = " business days";
+"cart_shipment_title" = "Shipment:";
+"cart_shipment_days_title" = "business days";
 "cart_remove_items" = "Removing";
 "cart_remove_items_success" = "Success";
 "cart_remove_items_fail" = "Please try again";
@@ -960,15 +960,15 @@
 "order_status_all" = "All";
 "order_detail_policy" = "After Sales Policy";
 "order_policy_help" = "Need help?";
-"order_policy_contact" = " Contact us.";
+"order_policy_contact" = "Contact us.";
 "order_confirm_delivery" = "Confirm Delivery";
 "order_confirm_logistics" = "Logistics";
 "order_status_finished" = "Finished";
 "order_status_refunded" = "Refunded";
-"order_logistics_co" = "Shipping Co. ";
-"order_logistics_no" = "\nTracking No. ";
-"order_logistics_day" = " day";
-"order_logistics_days" = " days";
+"order_logistics_co" = "Shipping Co.";
+"order_logistics_no" = "\nTracking No.";
+"order_logistics_day" = "day";
+"order_logistics_days" = "days";
 "package_status_Unpaid" = "Unpaid";
 "package_status_Processing" = "Processing";
 "package_status_ReadyToShip" = "Ready to ship";
@@ -977,18 +977,18 @@
 "package_status_Delivered" = "Delivered";
 "package_status_Refunded" = "Refunded";
 "package_status_CanceledBeforePaid" = "Expired";
-"order_item_no" = " item";
-"order_item_nos" = " items";
+"order_item_no" = "item";
+"order_item_nos" = "items";
 "order_refunded_buy" = "Buy Again";
-"refunded_list_bottombar_sum" = "Total ";
-"refunded_list_bottombar_no" = " item";
-"refunded_list_bottombar_nos" = " items";
+"refunded_list_bottombar_sum" = "Total";
+"refunded_list_bottombar_no" = "item";
+"refunded_list_bottombar_nos" = "items";
 "pending_canceled_notice" = "Your money will be returned in 48 hours";
 "order_detail_delete" = "Delete";
 "sidebar_order" = "All Orders";
 "order_viewdetail" = "View Details";
 "order_detail_time" = "Order time";
-"order_intransit_package" = "Package ";
+"order_intransit_package" = "Package";
 "order_noorder_title" = "No Orders";
 "order_noorder_info" = "Go and add goods to your shopping cart!";
 "order_noorder_button" = "Go shopping";
@@ -1017,8 +1017,8 @@
 "coupon_notloggedin_title_1" = "Send you\n";
 "coupon_notloggedin_title_2" = "the New User-Only\n";
 "coupon_notloggedin_title_3" = "coupons";
-"coupon_notloggedin_content_description_1" = "Sign up to get ";
-"coupon_notloggedin_content_description_2" = "coupons！";
+"coupon_notloggedin_content_description_1" = "Sign up to get";
+"coupon_notloggedin_content_description_2" = "coupons!";
 "coupon_notloggedin_button" = "Get it!";
 "coupon_cant_get" = "You have registered before, cannot get the coupons.";
 "coupon_cant_get_enjoy" = "Enjoy your shopping";
@@ -1057,8 +1057,8 @@
 
 //////////////////////////// 购物车-Cart /////////////////////////////////
 
-"free_shipping_noenough_0" = "Buy ";
-"free_shipping_noenough_1" = " more to enjoy FREE SHIPPING!";
+"free_shipping_noenough_0" = "Buy";
+"free_shipping_noenough_1" = "more to enjoy FREE SHIPPING!";
 "free_shipping_enough" = "Eligible for FREE SHIPPING!";
 
 //////////////////////////// 登录-login /////////////////////////////////
@@ -1073,7 +1073,7 @@
 "signup_phone" = "Sign up with Phone";
 "signup_google" = "Sign up with Google";
 "signup_email" = "Sign up with Email";
-"signup_coupon" = " for New Users";
+"signup_coupon" = "for New Users";
 "signup_policydetail" = "By joining you agree to our";
 "signup_policydetail_1" = "Terms";
 "signup_policydetail_2" = "&";
@@ -1140,13 +1140,13 @@
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
-"dp_reviews" = " Reviews";
+"dp_reviews" = "Reviews";
 "dp_no_reviews" = "No Reviews";
-"dp_review" = " Review";
-"dp_topban_welcome" = "Welcome ";
+"dp_review" = "Review";
+"dp_topban_welcome" = "Welcome";
 "dp_topban_order" = "The latest order,";
-"dp_topban_ordertime" = " sec ago.";
-"dp_topban_view" = " people viewing now!";
+"dp_topban_ordertime" = "sec ago.";
+"dp_topban_view" = "people viewing now!";
 "dp_more_reviews" = "More Reviews";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
@@ -1157,7 +1157,7 @@
 ///////////////////////// DP-加购解锁功能 //////////////////////////////
 "limited_time_offer_info" = "Instant offer: Add to cart right now to unlock a lower price!";
 "limited_time_offer_expired" = "Expired";
-"limited_time_offer_now_only" = "Now Only ";
+"limited_time_offer_now_only" = "Now Only";
 "limited_time_offer_text_first" = "You unlocked";
 "limited_time_offer_text_second" = "off this product.";
 "limited_time_offer_text_third" = "This price expires in 1 hour so checkout soon!";
@@ -1210,11 +1210,11 @@
 "instar_following" = "Following";
 "instar_sliding_into" = "Sliding into INSTA";
 "instar_release_into" = "Release into INSTA";
-"instar_bottom" ="You reach the bottom.";
+"instar_bottom" = "You reach the bottom.";
 
 //////////////////////// 购物车 //////////////////////////////
 "fs_full_amount" = "Your order is eligible for FREE SHIPPING!";
-"fs_no_select" = "Free Shipping on order over ";
+"fs_no_select" = "Free Shipping on order over";
 "delete_no_select" = "Please select goods";
 "we_accept" = "We Accept";
 "fs_no_full_amount_0" = "Buy";

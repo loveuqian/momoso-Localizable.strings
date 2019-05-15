@@ -99,7 +99,7 @@
 "confirm_clear_cache_title_profile_about" = "Sei sicuro di voler svuotare la cache?";
 
 "hint_feedback_title_profile_feedback" = "Inserisci qui il tuo feedback";
-"hint_contact_title_profile_feedback" = "Email / Numero di telefono (facoltativo)";
+"hint_contact_title_profile_feedback" = "Email/Numero di telefono (facoltativo)";
 
 "my_profile_title_profile_info" = "Il mio profilo";
 "modify_avatar_btn_profile_info" = "Carica foto";
@@ -131,7 +131,7 @@
 "address_manage_title_all" = "Gestisci rubrica";
 "add_address_btn_cart" = "Aggiungi un nuovo indirizzo";
 "id_phone_title_profile_cash" = "Numero di telefono:";
-"detail_address_title_cart" = "Unità / Piano / Blocco / Edificio / Via";
+"detail_address_title_cart" = "Unità/Piano/Blocco/Edificio/Via";
 
 "change_region_title_profile_setting" = "Cambia regione"; // Personale - Pagina Impostazioni - Cambia area
 "select_region_title_profile_setting" = "Spedisci a";
@@ -170,15 +170,15 @@
 "cancle_delete_album_btn_profile_favors" = "Annulla"; // Collezione - Album Modifica - Elimina album Popup
 
 "ok_btn_profile_address" = "Fine"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - In alto a destra
-"regioin_title_profile_address" = "Regione / Stato"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - Regione
+"regioin_title_profile_address" = "Regione/Stato"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - Regione
 "delete_btn_profile_address" = "Elimina"; // Indirizzo - quando cancella lo scorrimento a sinistra
 
 "profile_address_receiver_title" = "Nome completo:"; // Gestione indirizzi - Copia di visualizzazione predefinita della barra del destinatario
-"profile_address_postcode_title" = "Codice postale / postale:"; // Gestione indirizzi - Singapore - Copia di visualizzazione predefinita del codice di avviamento postale
+"profile_address_postcode_title" = "Codice postale/postale:"; // Gestione indirizzi - Singapore - Copia di visualizzazione predefinita del codice di avviamento postale
 
 "profile_favorite_no_album_title" = "altro"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - Regione
 
-"profile_default_addresss_title" = "Stanza, piano, edificio, strada"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - Regione
+"profile_default_addresss_title" = "Stanza,piano,edificio,strada"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - Regione
 
 "profile_no_orders_title" = "Milioni di prodotti ti stanno aspettando"; // Personale: cosa viene visualizzato quando l'ordine non ha ordine
 
@@ -195,8 +195,8 @@
 "drop_price_title_cart" = "In vendita";
 
 "agreements_content_cart1" = "Inviando questo ordine, accetto Cloudmall's";
-"agreements_content_cart2" = "Privacy e sicurezza /";
-"agreements_content_cart3" = "Termini di utilizzo /";
+"agreements_content_cart2" = "Privacy e sicurezza/";
+"agreements_content_cart3" = "Termini di utilizzo/";
 "agreements_content_cart4" = "Politiche di restituzione e scambio";
 "summit_checkout_btn_cart" = "Invia ordine";
 "mall_shipping_fee_title_cart" = "Tariffa di spedizione del centro commerciale";
@@ -227,18 +227,18 @@
 "choose_address_title_cart_checkout" = "Scegli l'indirizzo di spedizione"; // Invia ordine - Barra degli indirizzi
 "close_btn_cart_checkout" = "Chiudi"; // Clicca sul canale - chiudi l'angolo in alto a sinistra
 
-"Order_submit_title_cart_checkout" = "Processing, la conferma verrà inviata entro 48 ore"; // evasione degli ordini - sotto il titolo di piccole balene
-"Order_submit_sub_title_cart_checkout" = "Se il vostro ordine non può essere completato, vi informeremo via email e elaborare un rimborso"; // evasione degli ordini - sotto il titolo di piccole balene
+"order_submit_title_cart_checkout" = "Processing, la conferma verrà inviata entro 48 ore"; // evasione degli ordini - sotto il titolo di piccole balene
+"order_submit_sub_title_cart_checkout" = "Se il vostro ordine non può essere completato, vi informeremo via email e elaborare un rimborso"; // evasione degli ordini - sotto il titolo di piccole balene
 
 "cart_benefit_title" = "Sconto applicato"; // Carrello - piccole parole sotto il prezzo totale, manca l'offerta
 
 "cart_checkout_logistic_self_title" = "Seleziona luogo di ritiro"; // Carrello spesa - SF Express - Popup
 
 "cart_checkout_order_description_title0" = "Totale:"; // Carrello acquisti - Invia ordine - Seleziona metodo di pagamento
-"Cart_checkout_order_description_title1" = "(valuta sarà automaticamente convertito)"; // carrello della spesa - presentare gli ordini - Modalità di pagamento
+"cart_checkout_order_description_title1" = "(valuta sarà automaticamente convertito)"; // carrello della spesa - presentare gli ordini - Modalità di pagamento
 
 "cart_checkout_logistic_self_desc_title" = "Numero di telefono"; // Carrello spesa - SF Express - Descrizione carattere
-"Cart_checkout_logistic_door_desc_title" = "HK $ 30 sarà addebitato al momento della consegna a indirizzi non professionali"; // carrello - SF in quanto la questione - descrizione dei font
+"cart_checkout_logistic_door_desc_title" = "HK $ 30 sarà addebitato al momento della consegna a indirizzi non professionali"; // carrello - SF in quanto la questione - descrizione dei font
 
 ////////////////////////////////////// Dettagli del prodotto _detail ///////////// ///////////////////////
 
@@ -252,7 +252,7 @@
 "translate_btn_dp" = "Traduci";
 "translate_title_dp" = "Descrizione prodotto";
 
-"Open_facebook_share_btn_dp" = " 'Cloudmall' vorrebbe aprire 'Facebook'"; // Dati del prodotto - cliccare sul pop-sharing
+"open_facebook_share_btn_dp" = " 'Cloudmall' vorrebbe aprire 'Facebook'"; // Dati del prodotto - cliccare sul pop-sharing
 "cancle_open_facebook_share_btn_dp" = "Annulla"; // Dettagli prodotto - Fai clic per condividere popup
 "ok_open_facebook_share_btn_dp" = "Apri"; // Dettagli prodotto - Fai clic per condividere popup
 
@@ -268,19 +268,19 @@
 "new_album_btn_dp" = "Nuovo album"; // Dettagli prodotto - Fare clic su Preferiti - Nuovo
 
 "have_select_desc_title_dp" = "Selezionato"; // Dettagli prodotto - Clicca per aggiungere al carrello
-"Warn_addcart_title_dp" = "Si prega di notare che le sopraindicate informazioni (colore, dimensioni, ecc) sono tutti forniti dai nostri fornitori e sono solo di riferimento.";
+"warn_addcart_title_dp" = "Si prega di notare che le sopraindicate informazioni (colore, dimensioni, ecc) sono tutti forniti dai nostri fornitori e sono solo di riferimento.";
 "quantity_addcart_title_dp" = "Quantità"; // Dettagli prodotto - Clicca per aggiungere al carrello
 "ok_addcart_btn_dp" = "OK"; // Dettagli prodotto - aggiungi al carrello
 
 "dp_about_mall_sale_title" = "Dettagli offerta"; // Dettagli sul prodotto - Informazioni su Mall Deals
-"Dp_about_mall_sale_title1_title" = "Sconto è fornita da fornitore"; // Dati del prodotto - riguardo le promozioni centro commerciale
-"Dp_about_mall_sale_content1_title" = "sconto previsto da parte del fornitore sarà applicata automaticamente CloudMall non è responsabile di modifiche a questa offerta"; // Dati del prodotto - riguardo le promozioni centro commerciale
-"Dp_about_mall_sale_title2_title" = "Lo sconto sarà applicato automaticamente"; // i dettagli del prodotto - riguardo le promozioni centro commerciale
-"Dp_about_mall_sale_content2_title" = "Verrà applicato automaticamente sconto, nessun coupon necessario"; // Dati del prodotto - riguardo le promozioni centro commerciale
+"dp_about_mall_sale_title1_title" = "Sconto è fornita da fornitore"; // Dati del prodotto - riguardo le promozioni centro commerciale
+"dp_about_mall_sale_content1_title" = "sconto previsto da parte del fornitore sarà applicata automaticamente CloudMall non è responsabile di modifiche a questa offerta"; // Dati del prodotto - riguardo le promozioni centro commerciale
+"dp_about_mall_sale_title2_title" = "Lo sconto sarà applicato automaticamente"; // i dettagli del prodotto - riguardo le promozioni centro commerciale
+"dp_about_mall_sale_content2_title" = "Verrà applicato automaticamente sconto, nessun coupon necessario"; // Dati del prodotto - riguardo le promozioni centro commerciale
 "dp_about_mall_sale_title3_title" = "Offerta speciale scaduta"; // Dettagli sul prodotto - Informazioni su Mall Deals
-"Dp_about_mall_sale_content3_title" = "tempo di sconto è limitato e offerta è scaduta"; // i dettagli del prodotto - riguardo le promozioni centro commerciale
+"dp_about_mall_sale_content3_title" = "tempo di sconto è limitato e offerta è scaduta"; // i dettagli del prodotto - riguardo le promozioni centro commerciale
 "dp_about_mall_sale_title4_title" = "Offerta applicata correttamente"; // Dettagli sul prodotto - Informazioni sulle promozioni del centro commerciale
-"Dp_about_mall_sale_content4_title" = "Le ultime notizie è stata applicata"; // Dati del prodotto - riguardo le promozioni centro commerciale
+"dp_about_mall_sale_content4_title" = "Le ultime notizie è stata applicata"; // Dati del prodotto - riguardo le promozioni centro commerciale
 
 ////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2 // versione 0.2
@@ -340,10 +340,10 @@
 
 /////////////////////////////////////////// Carrello della spesa _cart ///////////// ///////////////////////
 
-"cart_checkout_credit_card" = "Carta di credito / debito"; // Carrello - Conferma pagamento - Titolo carta di credito
+"cart_checkout_credit_card" = "Carta di credito/debito"; // Carrello - Conferma pagamento - Titolo carta di credito
 "cart_checkout_total_bill" = "Totale"; // Carrello acquisti - Conferma pagamento - Conferma titolo
 
-"cart_checkout_credit_card_title" = "Carta di credito / debito"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Titolo popup
+"cart_checkout_credit_card_title" = "Carta di credito/debito"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Titolo popup
 "cart_checkout_change_credit_card" = "Cambia scheda"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Finestra popup - Cambia scheda
 "cart_checkout_new_credit_card" = "Aggiungi nuova carta"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Nuova carta di credito
 "cart_checkout_credit_card_toast" = "Aggiungi prima la nuova carta"; // Carrello - Conferma pagamento - Seleziona pagamento con carta di credito - Carta di credito non associata
@@ -356,22 +356,22 @@
 "cart_checkout_card_number_title" = "N. tessera"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Numero carta
 "cart_checkout_card_number_default" = "Inserisci il numero della carta"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Numero carta
 "cart_checkout_valid_date_title" = "Data di scadenza"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Periodo di validità
-"cart_checkout_valid_date_default" = "MM / YY"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento carta di credito - Mese / Anno
+"cart_checkout_valid_date_default" = "MM/YY"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento carta di credito - Mese / Anno
 "cart_checkout_safe_code_title" = "CVV"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Codice di sicurezza
 "cart_checkout_safe_code_default" = "Inserisci CVV"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Codice di sicurezza
-"Cart_checkout_about_safety" = "Il pagamento per questo acquisto viene elaborato in modo sicuro da un terzo sistema di pagamento CloudMall non memorizza i dati della carta di credito .."; // carrello - confermare il pagamento - di pagare con carta di credito - impegni di sicurezza
+"cart_checkout_about_safety" = "Il pagamento per questo acquisto viene elaborato in modo sicuro da un terzo sistema di pagamento CloudMall non memorizza i dati della carta di credito .."; // carrello - confermare il pagamento - di pagare con carta di credito - impegni di sicurezza
 "cart_checkout_comfirm" = "Conferma"; // Carrello acquisti - Conferma pagamento - Seleziona pagamento con carta di credito - Pulsante Fine
 
-"Cart_checkout_card_holdername_toast" = "nome del titolare non è valido Si prega di utilizzare solo caratteri alfanumerici [A-Z]"; // cart - Conferma il pagamento - di pagare con carta di credito - il nome non è in inglese
-"Cart_checkout_card_number_toast" = "Numero di carta inserito non è valido Si prega di ricontrollare il numero della carta."; // cart - Conferma il pagamento - di pagare con carta di credito - il numero di carta di riempire Regole / lunghezza sbagliata
+"cart_checkout_card_holdername_toast" = "nome del titolare non è valido Si prega di utilizzare solo caratteri alfanumerici [A-Z]"; // cart - Conferma il pagamento - di pagare con carta di credito - il nome non è in inglese
+"cart_checkout_card_number_toast" = "Numero di carta inserito non è valido Si prega di ricontrollare il numero della carta."; // cart - Conferma il pagamento - di pagare con carta di credito - il numero di carta di riempire Regole / lunghezza sbagliata
 "cart_checkout_card_number_toast2" = "Il tipo di carta non è supportato. Prova a utilizzare un'altra carta"; // Carrello - Conferma pagamento - Seleziona pagamento con carta di credito - La regola numero carta supera l'elenco di supporto
-"Cart_checkout_valid_date_toast" = "Scheda data di scadenza non è valido Si prega di ricontrollare la vostra carta data di scadenza"; // cart - Conferma il pagamento - di pagare con carta di credito - numero di carta sopra la lista regole Support
-"Cart_checkout_safe_code_toast" = "CVV non è valido Si prega di ricontrollare il numero immesso"; // cart - Conferma il pagamento - di pagare con carta di credito - numero di carta sopra la lista di sostegno regole
+"cart_checkout_valid_date_toast" = "Scheda data di scadenza non è valido Si prega di ricontrollare la vostra carta data di scadenza"; // cart - Conferma il pagamento - di pagare con carta di credito - numero di carta sopra la lista regole Support
+"cart_checkout_safe_code_toast" = "CVV non è valido Si prega di ricontrollare il numero immesso"; // cart - Conferma il pagamento - di pagare con carta di credito - numero di carta sopra la lista di sostegno regole
 
 "cart_edit_done" = "Conferma"; // Carrello spesa - Modifica - Fine
 "cart_edit_delete_no_goods" = "Elimina gli articoli esauriti"; // Carrello degli acquisti - Modifica - Fine
 "cart_edit_delete_item" = "Elimina"; // Carrello acquisti - Modifica - Fine
-"cart_checkout_all_item" = "X oggetto / i"; // Carrello - Liquidazione - Un totale di X articoli
+"cart_checkout_all_item" = "X oggetto/i"; // Carrello - Liquidazione - Un totale di X articoli
 "cart_checkout_sum_price" = "Totale:"; // Carrello spesa - Modifica - Fine
 
 "cart_checkout_cancel_payment_popup_title" = "Ordine non pagato"; // Carrello - Ordine - Annulla pagamento - Popup
@@ -395,9 +395,9 @@
 "cart_checkout_card_cancel" = "Annulla"; // Carrello acquisti - Seleziona pagamento - Annulla
 "cart_checkout_card_pay" = "Acquista"; // Carrello - Seleziona pagamento - Pagamento
 "cart_checkout_card_popup_title" = "Errore"; // Carrello - Seleziona pagamento - Paga domanda - Titolo
-"Cart_checkout_card_popup_content" = "Si è verificato un errore con il pagamento Verificare che i dati della carta che hai inserito sono state corrette o provare pagando con carta di diverso .."; // cart - scegliere di pagare - problemi di pagamento - Titolo
+"cart_checkout_card_popup_content" = "Si è verificato un errore con il pagamento Verificare che i dati della carta che hai inserito sono state corrette o provare pagando con carta di diverso .."; // cart - scegliere di pagare - problemi di pagamento - Titolo
 "cart_checkout_card_popup_cancel" = "Più tardi"; // Carrello - Seleziona pagamento - Paga domanda - Titolo
-"Cart_checKout_card_popup_tryagain "=" Riprova "; // Carrello - Seleziona pagamento - Paga domanda - Titolo
+"cart_checKout_card_popup_tryagain" = "Riprova"; // Carrello - Seleziona pagamento - Paga domanda - Titolo
 "cart_checkout_pay_total" = "Acquista"; // Carrello acquisti - Seleziona pagamento - Annulla
 "cart_checkout_bill_total" = "Totale fattura"; // Carrello acquisti - Seleziona pagamento - Pagamento
 "cart_checkout_pay_success_title" = "Successo"; // Carrello - Seleziona pagamento - Pagamento riuscito
@@ -439,8 +439,8 @@
 
 ///////////////////////////////// android android aggiunto //////////////////// /////////////////////////
 
-"Loading_title_profile" = "Loading ...";
-"More" = "More";
+"loading_title_profile" = "Loading ...";
+"more" = "More";
 "no_entries_in_cart_detail" = "Vai e scopri più oggetti!";
 "press_again_exit_toast_all" = "Fai nuovamente clic e esci";
 "write_need" = "Inserisci le informazioni essenziali";
@@ -471,8 +471,8 @@
 
 "profile_address_input_default" = "Compila"; // casella di inserimento dell'indirizzo personale
 "profile_address_select_default" = "Seleziona"; // casella di riepilogo a discesa indirizzo personale
-"profile_address_province" = "Provincia / Stato:"; // Indirizzo-personale-Provincia
-"profile_address_city" = "Città / Città:"; // Indirizzo-personale-Città
+"profile_address_province" = "Provincia/Stato:"; // Indirizzo-personale-Provincia
+"profile_address_city" = "Città/Città:"; // Indirizzo-personale-Città
 "profile_address_district" = "Distretto:"; // Personal-Address-Dropdown
 "profile_address_detail" = "Appartamento, Edificio ... (Opzionale)"; // Indirizzo personale-Indirizzo dettagliato
 
@@ -507,7 +507,7 @@
 "profile_address_sa" = "Arabia Saudita";
 "profile_address_qa" = "Qatar";
 "profile_address_kw" = "Kuwait";
-"Profile_aDdress_tr "=" Turkey ";
+"profile_address_tr" = "Turkey";
 "profile_address_il" = "Israele";
 "profile_address_th" = "Thailand";
 "profile_address_at" = "Austria";
@@ -674,7 +674,7 @@
 
 //////////////////////////////) Carrello spesa carrello //////////////////// ///////////////
 
-"cart_purchase_add_card" = "Usa nuova carta di credito / debito"; // Il pagamento è un suggerimento che nessuno è disponibile
+"cart_purchase_add_card" = "Usa nuova carta di credito/debito"; // Il pagamento è un suggerimento che nessuno è disponibile
 "cart_purchase_choose_card" = "Scegli dalla lista delle mie carte"; // Il pagamento è un suggerimento che non è disponibile
 "cart_purchase_delete_card_title" = "Elimina carta di credito"; // il pagamento viene richiesto che non è disponibile
 "cart_purchase_delete_card_content" = "Sei sicuro di voler eliminare questa carta?"; // Il pagamento è un promemoria che non è disponibile
@@ -682,8 +682,8 @@
 
 /////////////////////////////// persona / profilo ///////////////////// //////////////
 
-"profile_cards_tips" = "Scorri per eliminare la carta di credito / debito"; // Il pagamento è un suggerimento che nessuno è disponibile
-"profile_cards_null" = "Non ci sono carte di credito / debito collegate al tuo account"; // Il pagamento è un promemoria che non è disponibile
+"profile_cards_tips" = "Scorri per eliminare la carta di credito/debito"; // Il pagamento è un suggerimento che nessuno è disponibile
+"profile_cards_null" = "Non ci sono carte di credito/debito collegate al tuo account"; // Il pagamento è un promemoria che non è disponibile
 
 ////////////////////////////// Pagina dettagliata-DP //////////////////// ///////////////
 
@@ -728,7 +728,7 @@
 "login_alert4_title" = "Informativa sulla privacy.";
 "login_alert5_title" = "Inoltre, ricevi gli aggiornamenti degli ordini, gli avvisi di vendita e altro nella tua casella di posta.";
 
-"Login_email_validation" = "Abbiamo ti ha inviato una e-mail su resettare la password Controlla la tua email e reimpostare la password.";
+"login_email_validation" = "Abbiamo ti ha inviato una e-mail su resettare la password Controlla la tua email e reimpostare la password.";
 
 ////////////////////////////////////////////////// ////////////////////////////////////////////////// ////////////////////////
 // // versione 1.50 versione 1.50 // // versione 1.50 versione 1.50 // // versione 1.50 versione 1.50 // // versione 1.50 versione 1.50 // versione 1.50
@@ -736,7 +736,7 @@
 
 //////////////////////////// -tutti globale /////////////////// //////////////
 
-"all_no_more_items" = "- niente più elementi -";
+"all_no_more_items" = "-niente più elementi-";
 
 ////////////////////////////// ricerca / ricerca ///////////////////// //////////////
 
@@ -748,9 +748,9 @@
 
 "dp_mall_title" = "Confronto prezzi AI";
 "dp_sizeguide_title" = "Guida alle taglie";
-"Dp_mall_nofulfilment_title" = "Siamo spiacenti, non è supportata la realizzazione in questo momento Puoi cercare sul proprio sito web ..";
-"Dp_size_description" = "Si consiglia di scegliere il giusto formato secondo la tabella di formato a condizione Si prega di notare che le informazioni di prodotto (colore, dimensionamento, ecc) è fornito dai nostri fornitori ed è solo di riferimento ..";
-"Dp_mall_location_taobao" = "Hong Kong";
+"dp_mall_nofulfilment_title" = "Siamo spiacenti, non è supportata la realizzazione in questo momento Puoi cercare sul proprio sito web ..";
+"dp_size_description" = "Si consiglia di scegliere il giusto formato secondo la tabella di formato a condizione Si prega di notare che le informazioni di prodotto (colore, dimensionamento, ecc) è fornito dai nostri fornitori ed è solo di riferimento ..";
+"dp_mall_location_taobao" = "Hong Kong";
 
 "dp_outorder_title" = "Fuori servizio";
 "dp_processingtime_title" = "Tempo di elaborazione";
@@ -966,7 +966,7 @@
 "order_status_finished" = "Finito";
 "order_status_refunded" = "rimborsato";
 "order_logistics_co" = "Spedizione Co.";
-"order_logistics_no" = "\ nTracking No.";
+"order_logistics_no" = "\nTracking No.";
 "order_logistics_day" = "day";
 "order_logistics_days" = "days";
 "package_status_Unpaid" = "Non pagato";
@@ -983,7 +983,7 @@
 "refunded_list_bottombar_sum" = "Totale";
 "refunded_list_bottombar_no" = "elemento";
 "refunded_list_bottombar_nos" = "articoli";
-"Pending_canceled_notice" = "Il tuo denaro verrà restituito in 48 ore";
+"pending_canceled_notice" = "Il tuo denaro verrà restituito in 48 ore";
 "order_detail_delete" = "Elimina";
 "sidebar_order" = "Tutti gli ordini";
 "order_viewdetail" = "Visualizza dettagli";
@@ -1013,11 +1013,11 @@
 "coupon_loggedin_content_description_1" = "Coupon esclusivo per app";
 "coupon_loggedin_content_description_2" = "Nuovo tagliando utente";
 "coupon_loggedin_button" = "Vedi i miei coupon";
-"Coupon_notloggedin_coupon" = "Coupon";
+"coupon_notloggedin_coupon" = "Coupon";
 "coupon_notloggedin_title_1" = "Invia \ n";
 "coupon_notloggedin_title_2" = "il Nuovo utente solo \ n";
 "coupon_notloggedin_title_3" = "coupon";
-"Coupon_notloggedin_content_description_1" = "Iscriviti a ricevere";
+"coupon_notloggedin_content_description_1" = "Iscriviti a ricevere";
 "coupon_notloggedin_content_description_2" = "coupon!";
 "coupon_notloggedin_button" = "Scarica!";
 "coupon_cant_get" = "Ti sei registrato prima, non puoi ottenere i coupon.";
@@ -1042,7 +1042,7 @@
 //////////////////////////// Dettagli -DP ////////////////// ///////////////
 
 "coupon_bigtitle" = "SOLO PER NUOVI UTENTI";
-"Coupon_para_title" = "coupon";
+"coupon_para_title" = "coupon";
 "coupon_para_button" = "Scarica!";
 "ai_price" = "CONFRONTO DI PREZZO AI";
 "ai_price_button" = "Dai un'occhiata";
@@ -1058,12 +1058,12 @@
 //////////////////////////// carrello -Cart ////////////////// ///////////////
 
 "free_shipping_noenough_0" = "Acquista";
-"Free_shipping_noenough_1" = "di più per godere la spedizione gratuita!";
-"Free_shipping_enough" = "Idoneo per trasporto libero!";
+"free_shipping_noenough_1" = "di più per godere la spedizione gratuita!";
+"free_shipping_enough" = "Idoneo per trasporto libero!";
 
 //////////////////////////// Accedi -login /////////////////// //////////////
 
-"Login_login" = "Accedi con";
+"login_login" = "Accedi con";
 "login_facebook" = "Accedi con Facebook";
 "login_phone" = "Accedi con telefono";
 "login_google" = "Accedi con Google";
@@ -1074,7 +1074,7 @@
 "signup_google" = "Iscriviti con Google";
 "signup_email" = "Registrati con Email";
 "signup_coupon" = "per i nuovi utenti";
-"signup_policydetail" = "Partecipatu accetti il ​​nostro ";
+"signup_policydetail" = "Partecipatu accetti il ​​nostro";
 "signup_policydetail_1" = "Termini";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "Informativa sulla privacy";
@@ -1098,21 +1098,21 @@
 "india_address_postcode_title" = "Codice PIN:";
 "india_street1_detail" = "Casa No, Edificio, Via, Località";
 "india_street2_detail" = "Punto di riferimento (facoltativo)";
-"india_city_title" = "Città / Distretto:";
-"india_state_title" = "Regione / Stato:";
+"india_city_title" = "Città/Distretto:";
+"india_state_title" = "Regione/Stato:";
 "india_mobile" = "Cellulare";
 "india_mobile_phone_number" = "Numero di cellulare";
 "india_country" = "Contea";
-"india_town" = "Località / Città";
+"india_town" = "Località/Città";
 "india_street_address" = "Indirizzo";
 "india_address" = "Indirizzo";
 "india_address_details" = "Dettagli indirizzo";
-"india_detail_address_input" = "Via, Area, Numero civico, C / O.";
+"india_detail_address_input" = "Via, Area, Numero civico, C/O.";
 "india_addition_address" = "Apt, Suite, Floor, Bldg, ecc. (Opzionale)";
 "zip_wrong_toast" = "Inserisci il codice PIN a 6 cifre.";
 "zip_out_range" = "Spiacenti, non possiamo consegnare a questo codice PIN.";
 "location_failed" = "Ricerca posizione non riuscita.";
-"sa_address_province_title" = "Stato / Prov. / Regione:";
+"sa_address_province_title" = "Stato/Prov/Regione:";
 "sa_address_city_title" = "Città:";
 "sa_address_district_title" = "Distretto (facoltativo):";
 "sa_address_street1_title" = "Via";
@@ -1125,7 +1125,7 @@
 "cash_on delivery_2" = "Puoi utilizzare COD solo se tutti i precedenti ordini COD sono stati firmati correttamente.";
 "phone_verify_title" = "Conferma dell'ordine.";
 "phone_verify_detail_0" = "Verifica il tuo numero di telefono.";
-"phone_verify_detail_1" = "Tocca ‘Invia codice’ per richiedere il codice di verifica.";
+"phone_verify_detail_1" = "Tocca 'Invia codice' per richiedere il codice di verifica.";
 "phone_verify_input" = "Il tuo telefono";
 "phone_verify_button" = "Verifica";
 "phone_code_detail" = "Inserisci il codice a 4 cifre.";
@@ -1194,7 +1194,7 @@
 "instar_blogger_not_follow_button" = "+ Segui";
 "instar_detail_page" = "Foto";
 "instar_review_title" = "Recensioni";
-"Instar_related_posts "=" Post correlati ";
+"instar_related_posts" = "Post correlati";
 "instar_following_page_people" = "Persone";
 "instar_following_page_hashtags" = "Hashtags";
 "instar_trending_view_more" = "Visualizza altro";
@@ -1275,8 +1275,8 @@
 "flash_sale_tomorrow" = "Domani";
 
 ////////////////////////// Promemoria voucher ////////////////////////// ///////
-"coupon_successful" = "Hai ottenuto il / i coupon / i!";
-"coupon_already_received" = "Hai già ottenuto il / i coupon / i!";
+"coupon_successful" = "Hai ottenuto il/i coupon/i!";
+"coupon_already_received" = "Hai già ottenuto il/i coupon/i!";
 "coupon_error" = "Qualcosa è andato storto con la rete, per favore riprova";
 
 //////////////////////// DP parità //////////////////////// //////
@@ -1284,7 +1284,7 @@
 "comparison_price_cloudmall" = "su CloudMall";
 
 //////////////////////// indirizzo ///////////////////////// /////
-"address_details" = "Dettagli indirizzo / Punto di riferimento (facoltativo)";
+"address_details" = "Dettagli indirizzo/Punto di riferimento (facoltativo)";
 
 ///////////////////////// Promemoria prezzo /////////////////////////////// //////
 "price_reduction_home1" = "item (s) ha rilasciato un totale di";
@@ -1293,7 +1293,7 @@
 "price_reduction_dp1" = "Dai un'occhiata ora e ottieni";
 "price_reduction_dp2" = "Spedizione gratuita";
 "price_reduction_dp3" = "Estrai";
-"price_reduction_cart1" = "i prezzi dell'articolo / i sono scesi,";
+"price_reduction_cart1" = "i prezzi dell'articolo/i sono scesi,";
 "price_reduction_cart2" = "check it out!";
 
 ////////////////////////// Controllo numero di cellulare AE ///////////////////////// /////////
@@ -1301,7 +1301,7 @@
 
 ///// Traduzione dell'inventario /////
 "stock_dp_only" = "solo";
-"stock_dp_stock" = "lasciato in stock - ordina presto";
+"stock_dp_stock" = "lasciato in stock-ordina presto";
 
 ///////////////////// pagina infinita dell'oggetto ////////////////
 "item_end_less_only" = "only";
@@ -1329,7 +1329,7 @@
 "filter_apply" = "Applica";
 
 /////////////// pay-MMS merchandise COD suggerimenti non pagabili per modificare / / / / / / / / /
-"Cod_not_detail" = "COD è disponibile solo quando l'ordine è tra AED99-AED1799 e non contiene elementi non-COD.";
+"cod_not_detail" = "COD è disponibile solo quando l'ordine è tra AED99-AED1799 e non contiene elementi non-COD.";
 
 /////// cart-MMS Il merchandise COD non è un promemoria di pagamento ///////
 "cart_not_cod_message" = "Questi articoli non supportano COD.";
@@ -1347,7 +1347,7 @@
 "affiliate_invite_window_invite_prompt_fb" = "Facebook non trovato";
 "affiliate_invite_window_invite_prompt_ms" = "Messenge non trovato";
 "affiliate_invite_window_invite_prompt_msr" = "Messenger non trovato";
-"Affiliate_invite_window_invite_prompt_ws" = "WhatsApp non trovato";
+"affiliate_invite_window_invite_prompt_ws" = "WhatsApp non trovato";
 
 ///////// Pop-up non primo aperto in sconto ///////////////
 "affiliate_invite_window_not_first_left" = "WALLET:";
@@ -1355,7 +1355,7 @@
 "affiliate_invite_window_not_first_last" = "persone";
 
 ////////// Invita log in popup /////////
-"Affiliate_invitee_pop_window_left" = "vi invita ad unirsi a CloudMall e ti dà questo coupon esclusivo";
+"affiliate_invitee_pop_window_left" = "vi invita ad unirsi a CloudMall e ti dà questo coupon esclusivo";
 "affiliate_invitee_pop_window_between" = "COUPON";
 "affiliate_invitee_pop_window_coupon_time" = "Il tagliando termina";
 "affiliate_invitee_pop_window_log_fb" = "Registrati con Facebook";
@@ -1368,7 +1368,7 @@
 "affiliate_noti_friend_share_right" = "ha condiviso un post.";
 "affiliate_noti_friend_share_item" = "ha condiviso un elemento.";
 "affiliate_noti_friend_bought_right" = "appena comprato";
-"affiliate_noti_friend_bought_end" = "articolo / i. Stai ricevendo a";
+"affiliate_noti_friend_bought_end" = "articolo/i. Stai ricevendo a";
 "affiliate_noti_friend_bought_end_new" = "sconto!";
 "affiliate_noti_withdraw_available_left" = "Hai";
 "affiliate_noti_withdraw_available_right" = "disponibile per il prelievo.";

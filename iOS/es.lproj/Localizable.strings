@@ -131,7 +131,7 @@
 "address_manage_title_all" = "Gestión de direcciones";
 "add_address_btn_cart" = "Agregar una nueva dirección";
 "id_phone_title_profile_cash" = "Número de teléfono:";
-"detail_address_title_cart" = "Unit / Floor / Block / Building / Street";
+"detail_address_title_cart" = "Unit/Floor/Block/Building/Street";
 
 "change_region_title_profile_setting" = "Cambiar región"; // 个人 - 设置 页面 - 切换 地区
 "select_region_title_profile_setting" = "Enviar a";
@@ -440,8 +440,8 @@
 ////////////////////////////////////// 新增 ///////////////// ///////////////////////////
 
 "loading_title_profile" = "Cargando ...";
-"más" = "Más";
-"no_entries_in_cart_detail" = "¡Vaya y descubra más elementos!";
+"more" = "Más";
+"no_entries_in_cart_detail" = "Vaya y descubra más elementos!";
 "press_again_exit_toast_all" = "Haga clic nuevamente y salga";
 "write_need" = "Por favor ingrese información esencial";
 
@@ -1063,7 +1063,7 @@
 
 //////////////////////////////// 登录 -login /////////////////// //////////////
 
-"Login_login" = "Iniciar sesión";
+"login_login" = "Iniciar sesión";
 "login_facebook" = "Iniciar sesión con Facebook";
 "login_phone" = "Iniciar sesión con Phone";
 "login_google" = "Inicia sesión con Google";
@@ -1084,7 +1084,7 @@
 "no_coupon" = "No hay cupones disponibles";
 "no_order" = "No Order";
 "no_order_detail" = "No has hecho ningún pedido";
-"no_network" = "¡Ups!";
+"no_network" = "Ups!";
 "no_network_retry" = "Compruebe si su teléfono está conectado a internet.";
 "no_search" = "¡Ups!";
 "no_search_detail" = "No hay resultados de búsqueda.";

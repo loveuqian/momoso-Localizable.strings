@@ -439,18 +439,18 @@
 
 //////////////////////////////android 新增//////////////////////////////////////////
 
-"loading_title_profile"="Đang Download&#8230;";
-"more"="Nhiều hơn";
-"no_entries_in_cart_detail"="Nhanh tay chọn ngay sản phẩm bạn yêu thích";
-"press_again_exit_toast_all"="Ấn lần nữa để thoát khỏi Cloudmall";
-"write_need"="Điền thông tin bắt buộc";
+"loading_title_profile" = "Đang Download&#8230;";
+"more" = "Nhiều hơn";
+"no_entries_in_cart_detail" = "Nhanh tay chọn ngay sản phẩm bạn yêu thích";
+"press_again_exit_toast_all" = "Ấn lần nữa để thoát khỏi Cloudmall";
+"write_need" = "Điền thông tin bắt buộc";
 
-"adyen_expired_year_toast_1"="Thời hạn hiệu lực thẻ tín dụng:";
-"adyen_expired_year_toast_2"="Năm hiệu lực bắt buộc điền 4 chữ số";
-"cart_year_expire_toast"="Thời hạn hiệu lực thẻ tín dụng không đúng";
-"cart_year_expire_write_toast"="Vui lòng nhập thời hạn hiệu lực thẻ tín dụng";
-"new_sort_title_search_result"="Ưu tiên hàng mới";
-"no_delivery_supported"="Giao hàng không được hỗ trợ";
+"adyen_expired_year_toast_1" = "Thời hạn hiệu lực thẻ tín dụng:";
+"adyen_expired_year_toast_2" = "Năm hiệu lực bắt buộc điền 4 chữ số";
+"cart_year_expire_toast" = "Thời hạn hiệu lực thẻ tín dụng không đúng";
+"cart_year_expire_write_toast" = "Vui lòng nhập thời hạn hiệu lực thẻ tín dụng";
+"new_sort_title_search_result" = "Ưu tiên hàng mới";
+"no_delivery_supported" = "Giao hàng không được hỗ trợ";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -518,15 +518,15 @@
 
 "profile_setting_feedback_null_toast" = "Vui lòng nhập tất cả thông tin"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "Vui lòng nhập địa chỉ email một cách chính xác"; //个人-物流详细
-"address_hint_postcode_not_null"="Vui lòng nhập địa chỉ email";
-"choose_logistic"="Vui lòng chọn phương thức vận chuyển";
-"confirm_delete_order_title_profile_order"="Bạn có chắc chắn để xóa đơn đặt hàng?";
-"confirm_valid_hint"="Mật khẩu không nhất quán";
-"pay_lack_param"="Không có dữ liệu cần thiết";
-"please_select_address"="Vui lòng chọn địa chỉ";
-"success_hide_order_profile_order"="Xóa thành công";
-"network_connect_error"="Lỗi mạng";
-"network_error"="Thời gian chờ kết nối mạng";
+"address_hint_postcode_not_null" = "Vui lòng nhập địa chỉ email";
+"choose_logistic" = "Vui lòng chọn phương thức vận chuyển";
+"confirm_delete_order_title_profile_order" = "Bạn có chắc chắn để xóa đơn đặt hàng?";
+"confirm_valid_hint" = "Mật khẩu không nhất quán";
+"pay_lack_param" = "Không có dữ liệu cần thiết";
+"please_select_address" = "Vui lòng chọn địa chỉ";
+"success_hide_order_profile_order" = "Xóa thành công";
+"network_connect_error" = "Lỗi mạng";
+"network_error" = "Thời gian chờ kết nối mạng";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
@@ -616,11 +616,11 @@
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
-"index_minutes_ago" = " minutes ago";//支付是提示有没可用
-"index_hours_ago" = " hours ago";//支付是提示有没可用
-"index_days_ago" = " days ago";//支付是提示有没可用
-"index_weeks_ago" = " weeks ago";//支付是提示有没可用
-"index_months_ago" = " month ago";//支付是提示有没可用
+"index_minutes_ago" = "minutes ago";//支付是提示有没可用
+"index_hours_ago" = "hours ago";//支付是提示有没可用
+"index_days_ago" = "days ago";//支付是提示有没可用
+"index_weeks_ago" = "weeks ago";//支付是提示有没可用
+"index_months_ago" = "month ago";//支付是提示有没可用
 
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
@@ -1063,7 +1063,7 @@
 
 //////////////////////////// 登录-login /////////////////////////////////
 
-"Login_login" = "Đăng nhập";
+"login_login" = "Đăng nhập";
 "login_facebook" = "Đăng nhập bằng Facebook";
 "login_phone" = "Đăng nhập bằng Phone";
 "login_google" = "Đăng nhập bằng Google";

@@ -518,15 +518,15 @@
 
 "profile_setting_feedback_null_toast" = "请填写信息"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "请填写正确的邮箱"; //个人-物流详细
-"address_hint_postcode_not_null"="邮编不能为空";
-"choose_logistic"="请选择物流渠道";
-"confirm_delete_order_title_profile_order"="确定删除这个订单？";
-"confirm_valid_hint"="两次密码输入不一致";
-"pay_lack_param"="缺少必要的支付参数";
-"please_select_address"="请选择地址";
-"success_hide_order_profile_order"="删除成功";
-"network_connect_error"="网络异常";
-"network_error"="网络超时";
+"address_hint_postcode_not_null" = "邮编不能为空";
+"choose_logistic" = "请选择物流渠道";
+"confirm_delete_order_title_profile_order" = "确定删除这个订单？";
+"confirm_valid_hint" = "两次密码输入不一致";
+"pay_lack_param" = "缺少必要的支付参数";
+"please_select_address" = "请选择地址";
+"success_hide_order_profile_order" = "删除成功";
+"network_connect_error" = "网络异常";
+"network_error" = "网络超时";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 

@@ -439,18 +439,18 @@
 
 //////////////////////////////android 新增//////////////////////////////////////////
 
-"loading_title_profile"="Sedang memuat&#8230;";
-"more"="Lebih banyak";
-"no_entries_in_cart_detail"="Ayo lihat barang-barang kesukaanmu!";
-"press_again_exit_toast_all"="Klik sekali lagi untuk keluar Cloudmall";
-"write_need"="Silahkan isi informasi yang diperlukan";
+"loading_title_profile" = "Sedang memuat&#8230;";
+"more" = "Lebih banyak";
+"no_entries_in_cart_detail" = "Ayo lihat barang-barang kesukaanmu!";
+"press_again_exit_toast_all" = "Klik sekali lagi untuk keluar Cloudmall";
+"write_need" = "Silahkan isi informasi yang diperlukan";
 
-"adyen_expired_year_toast_1"="Format masa berlaku kartu kredit：";
-"adyen_expired_year_toast_2"="Tahun masa berlaku harus 4 digit";
-"cart_year_expire_toast"="Format masa berlaku kartu kredit salah";
-"cart_year_expire_write_toast"="Silahkan isi masa berlaku kartu kredit";
-"new_sort_title_search_result"="Produk baru diutamakan";
-"no_delivery_supported"="Pengiriman tidak dapat didukung";
+"adyen_expired_year_toast_1" = "Format masa berlaku kartu kredit：";
+"adyen_expired_year_toast_2" = "Tahun masa berlaku harus 4 digit";
+"cart_year_expire_toast" = "Format masa berlaku kartu kredit salah";
+"cart_year_expire_write_toast" = "Silahkan isi masa berlaku kartu kredit";
+"new_sort_title_search_result" = "Produk baru diutamakan";
+"no_delivery_supported" = "Pengiriman tidak dapat didukung";
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 //version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5//version 0.2.5
@@ -518,15 +518,15 @@
 
 "profile_setting_feedback_null_toast" = "Harap masukkan semua informasi"; //个人-物流详细
 "profile_setting_feedback_null_mail_toast" = "Silahkan masukkan alamat email dengan benar"; //个人-物流详细
-"address_hint_postcode_not_null"="Silahkan masukkan alamat email";
-"choose_logistic"="Silahkan pilih metode pengiriman";
-"confirm_delete_order_title_profile_order"="Anda yakin untuk menghapus pesanan?";
-"confirm_valid_hint"="Sandi tidak konsisten";
-"pay_lack_param"="Data yang diperlukan tidak ada";
-"please_select_address"="Silahkan pilih alamatnya";
-"success_hide_order_profile_order"="Berhasil dihapus";
-"network_connect_error"="Kesalahan jaringan";
-"network_error"="Waktu habis koneksi jaringan";
+"address_hint_postcode_not_null" = "Silahkan masukkan alamat email";
+"choose_logistic" = "Silahkan pilih metode pengiriman";
+"confirm_delete_order_title_profile_order" = "Anda yakin untuk menghapus pesanan?";
+"confirm_valid_hint" = "Sandi tidak konsisten";
+"pay_lack_param" = "Data yang diperlukan tidak ada";
+"please_select_address" = "Silahkan pilih alamatnya";
+"success_hide_order_profile_order" = "Berhasil dihapus";
+"network_connect_error" = "Kesalahan jaringan";
+"network_error" = "Waktu habis koneksi jaringan";
 
 ////////////////////////////// 商品详细-detail ////////////////////////////////
 
@@ -616,11 +616,11 @@
 
 //////////////////////////// 首页-Index /////////////////////////////////
 
-"index_minutes_ago" = " minutes ago";//支付是提示有没可用
-"index_hours_ago" = " hours ago";//支付是提示有没可用
-"index_days_ago" = " days ago";//支付是提示有没可用
-"index_weeks_ago" = " weeks ago";//支付是提示有没可用
-"index_months_ago" = " month ago";//支付是提示有没可用
+"index_minutes_ago" = "minutes ago";//支付是提示有没可用
+"index_hours_ago" = "hours ago";//支付是提示有没可用
+"index_days_ago" = "days ago";//支付是提示有没可用
+"index_weeks_ago" = "weeks ago";//支付是提示有没可用
+"index_months_ago" = "month ago";//支付是提示有没可用
 
 //////////////////////////// 商品详细-Detail Page /////////////////////////////////
 
@@ -723,10 +723,10 @@
 //////////////////////////// 登陆-login /////////////////////////////////
 
 "login_alert1_title" = "Dengan bergabung dengan Anda, kami menyetujui";
-"login_alert2_title" = " Ketentuan";
-"login_alert3_title" = " &";
-"login_alert4_title" = " Kebijakan pribadi.";
-"login_alert5_title" = " dapatkan kabar terbaru, lansiran penjualan, dan lebih banyak lagi di kotak masuk Anda.";
+"login_alert2_title" = "Ketentuan";
+"login_alert3_title" = "&";
+"login_alert4_title" = "Kebijakan pribadi.";
+"login_alert5_title" = "dapatkan kabar terbaru, lansiran penjualan, dan lebih banyak lagi di kotak masuk Anda.";
 
 "login_email_validation" = "Kami telah mengirimi Anda email tentang mereset kata sandi. Silakan cek email anda dan reset password anda";
 
@@ -762,7 +762,7 @@
 //////////////////////////// 購物車-cart /////////////////////////////////
 
 "cart_shipment_title" = "Pengiriman: ";
-"cart_shipment_days_title" = " hari kerja";
+"cart_shipment_days_title" = "hari kerja";
 "cart_remove_items" = "Melepaskan";
 "cart_remove_items_success" = "Keberhasilan";
 "cart_remove_items_fail" = "Silahkan coba lagi";
@@ -830,7 +830,7 @@
 
 "profile_order_confirmation_button" = "Menerima konfirmasi";
 "profile_order_confirmation_popup_title" = "Menerima konfirmasi";
-"profile_order_confirmation_popup_content" = "Jika Anda menerima paketnya, tekan“Memastikan” ";
+"profile_order_confirmation_popup_content" = "Jika Anda menerima paketnya, tekan'Memastikan'";
 "profile_order_confirmation_popup_cancel" = "Tidak";
 "profile_order_confirmation_popup_confirm" = "Memastikan";
 
@@ -977,12 +977,12 @@
 "package_status_Delivered" = "Menyampaikan";
 "package_status_Refunded" = "Dikembalikan";
 "package_status_CanceledBeforePaid" = "Kadaluarsa";
-"order_item_no" = " barang";
-"order_item_nos" = " barang";
+"order_item_no" = "barang";
+"order_item_nos" = "barang";
 "order_refunded_buy" = "Beli Lagi";
 "refunded_list_bottombar_sum" = "Sama sekali ";
-"refunded_list_bottombar_no" = " barang";
-"refunded_list_bottombar_nos" = " barang";
+"refunded_list_bottombar_no" = "barang";
+"refunded_list_bottombar_nos" = "barang";
 "pending_canceled_notice" = "Uang Anda akan dikembalikan dalam 48 jam";
 "order_detail_delete" = "Menghapus";
 "sidebar_order" = "Semua";
@@ -1058,7 +1058,7 @@
 //////////////////////////// 购物车-Cart /////////////////////////////////
 
 "free_shipping_noenough_0" = "Meli ";
-"free_shipping_noenough_1" = " lagi untuk menikmati PENGIRIMAN GRATIS!";
+"free_shipping_noenough_1" = "lagi untuk menikmati PENGIRIMAN GRATIS!";
 "free_shipping_enough" = "Memenuhi syarat untuk GRATIS Pengiriman!";
 
 //////////////////////////// 登录-login /////////////////////////////////
@@ -1140,13 +1140,13 @@
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
-"dp_reviews" = " Ulasan";
+"dp_reviews" = "Ulasan";
 "dp_no_reviews" = "Tidak Ada Ulasan";
-"dp_review" = " Ulasan";
+"dp_review" = "Ulasan";
 "dp_topban_welcome" = "Welcome ";
 "dp_topban_order" = "Pesanan terbaru,";
-"dp_topban_ordertime" = " detik yang lalu.";
-"dp_topban_view" = " orang sedang melihat sekarang!";
+"dp_topban_ordertime" = "detik yang lalu.";
+"dp_topban_view" = "orang sedang melihat sekarang!";
 "dp_more_reviews" = "Lebih banyak komentar";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
@@ -1191,7 +1191,7 @@
 "instar_blogger_likes" = "Suka";
 "instar_blogger_follower" = "Pengikut";
 "instar_blogger_following" = "Mengikuti";
-"instar_blogger_not_follow_button" = "+Ikuti";
+"instar_blogger_not_follow_button" = "+ Ikuti";
 "instar_detail_page" = "Foto";
 "instar_review_title" = "Ulasan";
 "instar_related_posts" = "posting terkait";
@@ -1205,8 +1205,8 @@
 "instar_collapse" = "Jatuh";
 "insrar_object_recognized" = "Objek Diakui";
 "instar_posts" = "Kiriman";
-"instar_kol_not_post" = "belum memposting apa pun ~";
-"instar_own_not_post" = "Anda belum memposting apa pun ~";
+"instar_kol_not_post" = "belum memposting apa pun~";
+"instar_own_not_post" = "Anda belum memposting apa pun~";
 "instar_following" = "Mengikuti";
 "instar_sliding_into" = "Geser ke INSTA";
 "instar_release_into" = "Rilis ke INSTA";

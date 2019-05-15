@@ -32,8 +32,8 @@
 "all_people_title_search_result" = "ทุกคน"; // 所有结果 - 筛选人群
 "all_brand_title_search_result" = "แบรนด์"; // 所有结果 - 筛选品牌
 "general_sort_title_search_result" = "เรียงลำดับ"; // 所有结果 - 排序
-"price_high_sort_title_search_result" = "ราคา (มากไปน้อย)"; // 所有结果 - 排序
-"price_low_sort_title_search_result" = "ราคา (ต่ำไปสูง)"; // 所有结果 - 排序
+"price_high_sort_title_search_result" = "ราคา(มากไปน้อย)"; // 所有结果 - 排序
+"price_low_sort_title_search_result" = "ราคา(ต่ำไปสูง)"; // 所有结果 - 排序
 "discount_sort_title_search_result" = "ข้อเสนอที่ดีที่สุด"; // 所有结果 - 排序
 "sale_sort_title_search_result" = "ที่นิยมมากที่สุด"; // 所有结果 - 排序
 
@@ -77,7 +77,7 @@
 "order_title_profile_order" = "คำสั่งซื้อของฉัน";
 "un_paid_btn_profile_order" = "ไม่ได้ชำระ";
 "processing_btn_profile_order" = "กำลังดำเนินการ";
-"ได้รับ _btn_profile_order" = "เสร็จสมบูรณ์";
+"received_btn_profile_order" = "เสร็จสมบูรณ์";
 "all_order_btn_profile_order" = "ประวัติการสั่งซื้อ";
 
 "problem_consult_title_profile_setting" = "ศูนย์บริการลูกค้า";
@@ -99,7 +99,7 @@
 "confirm_clear_cache_title_profile_about" = "คุณแน่ใจหรือไม่ว่าคุณต้องการล้างแคช";
 
 "hint_feedback_title_profile_feedback" = "โปรดป้อนความคิดเห็นของคุณที่นี่";
-"hint_contact_title_profile_feedback" = "อีเมล / หมายเลขโทรศัพท์ (ตัวเลือก)";
+"hint_contact_title_profile_feedback" = "อีเมล/หมายเลขโทรศัพท์(ตัวเลือก)";
 
 "my_profile_title_profile_info" = "โปรไฟล์ของฉัน";
 "modified_avatar_btn_profile_info" = "อัปโหลดรูปภาพ";
@@ -108,7 +108,7 @@
 "reset_password_info_title_profile_info" = "รหัสยืนยันจะถูกส่งไปยังอีเมลของคุณ";
 "reset_password_title_profile_setting" = "รีเซ็ตรหัสผ่าน";
 
-"warn_sign_out_toast_profile_setting" = "การอัปเดตการสั่งซื้อของคุณจะไม่ได้รับหลังจากออกจากระบบ Proceed ";
+"warn_sign_out_toast_profile_setting" = "การอัปเดตการสั่งซื้อของคุณจะไม่ได้รับหลังจากออกจากระบบ Proceed";
 
 "total_pay_title_cart" = "ทั้งหมด:";
 "view_detail_btn_dp" = "รายละเอียดการสั่งซื้อ";
@@ -131,7 +131,7 @@
 "address_manage_title_all" = "จัดการสมุดที่อยู่";
 "add_address_btn_cart" = "เพิ่มที่อยู่ใหม่";
 "id_phone_title_profile_cash" = "หมายเลขโทรศัพท์:";
-"detail_address_title_cart" = "หน่วย / ชั้น / บล็อก / อาคาร / ถนน";
+"detail_address_title_cart" = "หน่วย/ชั้น/บล็อก/อาคาร/ถนน";
 
 "change_region_title_profile_setting" = "เปลี่ยนภูมิภาค"; // 个人 - 设置页面 - 切换地区
 "select_region_title_profile_setting" = "จัดส่งไปที่";
@@ -158,7 +158,7 @@
 "ok_change_name_btn_profile" = "ยืนยัน"; // 昵称修改 - 弹窗
 "cancle_change_name_btn_profile" = "ยกเลิก"; // 昵称修改 - 弹窗
 
-"order_number_title_profile_order" = "หมายเลขคำสั่งซื้อ"; // 订单 - 订单详细
+"order_number_title_profile_order" = "เลขที่ใบสั่ง"; // 订单 - 订单详细
 "order_time_title_profile_order" = "วันที่สั่งซื้อ"; // 订单 - 订单详细
 "today_sale_title_profile_order" = "ดีลรายวัน"; // 订单 - 物流详细
 "order_detail_title_profile_order" = "รายละเอียดการสั่งซื้อ"; // 订单 - 订单详细 - 标题
@@ -169,14 +169,14 @@
 "confirm_delete_album_btn_profile_favors" = "ลบ"; // 收藏 - 专辑编辑 - 删除专辑弹窗
 "cancle_delete_album_btn_profile_favors" = "ยกเลิก"; // 收藏 - 专辑编辑 - 删除专辑弹窗
 
-"ok_btn_profile_address" = "เสร็จสิ้น"; // 地址 - 新建地址 / 编辑地址 - 右上角
-"regioin_title_profile_address" = "ภูมิภาค / รัฐ"; // 地址 - 新建地址 / 编辑地址 - 地区
+"ok_btn_profile_address" = "Done การ"; // 地址 - 新建地址 / 编辑地址 - 右上角
+"regioin_title_profile_address" = "ภูมิภาค/รัฐ"; // 地址 - 新建地址 / 编辑地址 - 地区
 "delete_btn_profile_address" = "ลบ"; // 地址 - 左滑删除时
 
 "profile_address_receiver_title" = "ชื่อเต็ม:"; // 地址管理 - 收件人栏的默认显示文案
 "profile_address_postcode_title" = "รหัสไปรษณีย์:"; // 地址管理 - 新加坡 - 邮编的默认显示文案
 
-"profile_favorite_no_album_title" = "อื่น ๆ "; // 地址 - 新建地址 / 编辑地址 - 地区
+"profile_favorite_no_album_title" = "อื่น ๆ"; // 地址 - 新建地址 / 编辑地址 - 地区
 
 "profile_default_addresss_title" = "ห้อง, ชั้น, อาคาร, ถนน"; // 地址 - 新建地址 / 编辑地址 - 地区
 
@@ -188,15 +188,15 @@
 "hint2_login_title_cart" = "ลงชื่อเข้าใช้เพื่อดูรถเข็นรายการโปรดและประวัติการสั่งซื้อของคุณ";
 "select_all_btn_cart" = "เลือกทั้งหมด";
 "save_price_title_cart" = "ข้อเสนอใช้แล้ว";
-"checkout_btn_cart" = "ชำระเงิน";
+"checkout_btn_cart" = "เช็คเอาท์";
 "empty_title_cart" = "รถเข็นของคุณว่างเปล่า";
 "item_viewed_title_cart" = "รายการที่ดูล่าสุด";
 "mall_item_discount_title_dp" = "ข้อเสนอที่ใช้โดยอัตโนมัติ";
 "drop_price_title_cart" = "ลดราคา";
 
 "agreements_content_cart1" = "เมื่อส่งคำสั่งซื้อนี้ฉันยอมรับ Cloudmall's";
-"agreements_content_cart2" = "ความเป็นส่วนตัว & ความปลอดภัย /";
-"agreements_content_cart3" = "ข้อกำหนดการใช้งาน /";
+"agreements_content_cart2" = "ความเป็นส่วนตัว & ความปลอดภัย/";
+"agreements_content_cart3" = "ข้อกำหนดการใช้งาน/";
 "agreements_content_cart4" = "นโยบายการคืน & แลกเปลี่ยน";
 "summit_checkout_btn_cart" = "ส่งคำสั่งซื้อ";
 "mall_shipping_fee_title_cart" = "ค่าจัดส่งของห้างสรรพสินค้า";
@@ -206,7 +206,7 @@
 
 "confirm_payment_btn_profile_order" = "ส่งการชำระเงิน";
 "asap_pay_title_cart" = "ข้อเสนอจะจบเร็ว ๆ นี้";
-"asap_pay_detail_content_cart" = "ราคาอาจเปลี่ยนแปลงได้ตลอดเวลาดังนั้นสั่งซื้อตอนนี้เพื่อรับข้อเสนอที่ดีที่สุด!";
+"asap_pay_detail_content_cart" = "ราคาอาจมีการเปลี่ยนแปลงสั่งซื้อได้อย่างรวดเร็ว!";
 "choose_payment_title_cart" = "เลือกวิธีการชำระเงิน";
 "hint_choose_payment_title_cart" = "โปรดเลือกวิธีการชำระเงิน";
 "final_price_title_cart" = "ยอดสั่งซื้อทั้งหมด:";
@@ -235,7 +235,7 @@
 "cart_checkout_logistic_self_title" = "เลือกตำแหน่งที่รับสินค้า"; // 购物车 - 顺丰自提 - 弹窗
 
 "cart_checkout_order_description_title0" = "ทั้งหมด:"; // 购物车 - 提交订单 - 选择支付方式
-"cart_checkout_order_description_title1" = "（สกุลเงินจะถูกแปลงโดยอัตโนมัติ）"; // 购物车 - 提交订单 - 选择支付方式
+"cart_checkout_order_description_title1" = "(สกุลเงินจะถูกแปลงโดยอัตโนมัติ)"; // 购物车 - 提交订单 - 选择支付方式
 
 "cart_checkout_logistic_self_desc_title" = "หมายเลขโทรศัพท์"; // 购物车 - 顺丰自提 - 字体说明
 "cart_checkout_logistic_door_desc_title" = "HK $ 30 จะถูกเรียกเก็บเงินเมื่อส่งไปยังที่อยู่ที่ไม่ใช่ธุรกิจ"; // 购物车 - 顺丰自提 - 字体说明
@@ -268,8 +268,8 @@
 "new_album_btn_dp" = "อัลบั้มใหม่"; // 商品详细 - 点击收藏 - 新建
 
 "have_select_desc_title_dp" = "ที่เลือก"; // 商品详细 - 点击加入购物车
-"warn_addcart_title_dp" = "โปรดทราบว่าข้อมูลข้างต้น (สีขนาด ฯลฯ ) จัดทำโดยซัพพลายเออร์ของเราทั้งหมดและเพื่อการอ้างอิงเท่านั้น";
-"Quantity_addcart_title_dp" = "จำนวน"; // 商品详细 - 点击加入购物车
+"warn_addcart_title_dp" = "โปรดทราบว่าข้อมูลข้างต้น(สีขนาด ฯลฯ)จัดทำโดยซัพพลายเออร์ของเราทั้งหมดและเพื่อการอ้างอิงเท่านั้น";
+"quantity_addcart_title_dp" = "จำนวน"; // 商品详细 - 点击加入购物车
 "ok_addcart_btn_dp" = "ตกลง"; // 商品详细 - 加入购物车
 
 "dp_about_mall_sale_title" = "รายละเอียดข้อเสนอ"; // 商品详细 - 关于商城优惠活动
@@ -340,10 +340,10 @@
 
 //////////////////////////////////// 购物购物 c c _cart //////////// ///////////////////////
 
-"cart_checkout_credit_card" = "บัตรเครดิต / เดบิต"; // 购物车 - 确认支付 - 信用卡标题
+"cart_checkout_credit_card" = "บัตรเครดิต/เดบิต"; // 购物车 - 确认支付 - 信用卡标题
 "cart_checkout_total_bill" = "รวม"; // 购物车 - 确认支付 - 确认标题前
 
-"cart_checkout_credit_card_title" = "บัตรเครดิต / เดบิต"; // 购物车 - 确认支付 - 选择信用卡支付 - 弹窗标题
+"cart_checkout_credit_card_title" = "บัตรเครดิต/เดบิต"; // 购物车 - 确认支付 - 选择信用卡支付 - 弹窗标题
 "cart_checkout_change_credit_card" = "เปลี่ยนบัตร"; // 购物车 - 确认支付 - 选择信用卡支付 - 弹窗 - 换一张卡
 "cart_checkout_new_credit_card" = "เพิ่มบัตรใหม่"; // 购物车 - 确认支付 - 选择信用卡支付 - 新建信用卡
 "cart_checkout_credit_card_toast" = "โปรดเพิ่มบัตรใหม่ก่อน"; // 购物车 - 确认支付 - 选择信用卡支付 - 未绑定信用卡
@@ -356,7 +356,7 @@
 "cart_checkout_card_number_title" = "หมายเลขบัตร"; // 购物车 - 确认支付 - 选择信用卡支付 - 卡号
 "cart_checkout_card_number_default" = "ป้อนหมายเลขบัตร"; // 购物车 - 确认支付 - 选择信用卡支付 - 卡号
 "cart_checkout_valid_date_title" = "วันหมดอายุ"; // 购物车 - 确认支付 - 选择信用卡支付 - 有效期
-"cart_checkout_valid_date_default" = "MM / YY"; // 购物车 - 确认支付 - 选择信用卡支付 - 月月 / 年年
+"cart_checkout_valid_date_default" = "MM/YY"; // 购物车 - 确认支付 - 选择信用卡支付 - 月月 / 年年
 "cart_checkout_safe_code_title" = "CVV"; // 购物车 - 确认支付 - 选择信用卡支付 - 安全码
 "cart_checkout_safe_code_default" = "ป้อน CVV"; // 购物车 - 确认支付 - 选择信用卡支付 - 安全码
 "cart_checkout_about_safety" = "การชำระเงินของคุณสำหรับการซื้อนี้ได้รับการประมวลผลอย่างปลอดภัยโดยหน่วยประมวลผลการชำระเงินบุคคลที่สาม CloudMall ไม่ได้จัดเก็บข้อมูลบัตรเครดิตของคุณ"; // 购物车 - 确认支付 - 选择信用卡支付 - 安全承诺
@@ -397,7 +397,7 @@
 "cart_checkout_card_popup_title" = "ข้อผิดพลาด"; // 购物车 - 选择支付 - 支付出问题 - 标题
 "cart_checkout_card_popup_content" = "เกิดข้อผิดพลาดกับการชำระเงินของคุณโปรดตรวจสอบว่ารายละเอียดบัตรที่คุณป้อนนั้นถูกต้องหรือลองชำระเงินด้วยบัตรอื่น"; // 购物车 - 选择支付 - 支付出问题 - 标题
 "cart_checkout_card_popup_cancel" = "ภายหลัง"; // 购物车 - 选择支付 - 支付出问题 - 标题
-"cart_checkout_card_popup_tryagain "=" ลองอีกครั้ง "; // 购物车 - 选择支付 - 支付出问题 - 标题
+"cart_checkout_card_popup_tryagain" = "ลองอีกครั้ง"; // 购物车 - 选择支付 - 支付出问题 - 标题
 "cart_checkout_pay_total" = "ซื้อ"; // 购物车 - 选择支付 - 取消
 "cart_checkout_bill_total" = "รวมบิล"; // 购物车 - 选择支付 - 付款
 "cart_checkout_pay_success_title" = "สำเร็จ"; // 购物车 - 选择支付 - 支付成功
@@ -406,7 +406,7 @@
 
 "profile_setting_customer_service_cancel" = "ยกเลิก"; // 个人 - 客服 - 取消
 "profile_setting_customer_service_confirm" = "ยืนยัน"; // 个人 - 客服 - 提交
-"profile_setting_clearcache_clearing" = "กำลังล้างแคช ... "; // 个人 - 清除缓存 - 取消
+"profile_setting_clearcache_clearing" = "กำลังล้างแคช..."; // 个人 - 清除缓存 - 取消
 "profile_setting_clearcache_cancel" = "ยกเลิก"; // 个人 - 清除缓存 - 取消
 "profile_setting_clearcache_confirm" = "ยืนยัน"; // 个人 - 清除缓存 - 清除
 "profile_setting_feedback_cancel" = "ยกเลิก"; // 个人 - 反馈 - 取消
@@ -439,8 +439,8 @@
 
 ///////////////////////////////// สำหรับ Android 新增 /////////////////// /////////////////////////
 
-"loading_title_profile" = "กำลังโหลด ...";
-"มากกว่า" = "เพิ่มเติม";
+"loading_title_profile" = "กำลังโหลด...";
+"more" = "เพิ่มเติม";
 "no_entries_in_cart_detail" = "ไปและค้นหารายการเพิ่มเติม!";
 "press_again_exit_toast_all" = "คลิกอีกครั้งและออก";
 "write_need" = "โปรดป้อนข้อมูลที่จำเป็น";
@@ -471,10 +471,10 @@
 
 "profile_address_input_default" = "กรอก"; // 个人 - 地址 - 输入框
 "profile_address_select_default" = "เลือก"; // 个人 - 地址 - 下拉框
-"profile_address_province" = "จังหวัด / รัฐ:"; // 个人 - 地址 - 省州
-"profile_address_city" = "เมือง / เมือง:"; // 个人 - 地址 - 城市
+"profile_address_province" = "จังหวัด/รัฐ:"; // 个人 - 地址 - 省州
+"profile_address_city" = "เมือง/เมือง:"; // 个人 - 地址 - 城市
 "profile_address_district" = "เขต:"; // 个人 - 地址 - 下拉框
-"profile_address_detail" = "อพาร์ทเมนต์อาคาร ... (ไม่บังคับ)"; // 个人 - 地址 - 详细地址
+"profile_address_detail" = "อพาร์ทเมนต์อาคาร...(ไม่บังคับ)"; // 个人 - 地址 - 详细地址
 
 "profile_address_us" = "สหรัฐอเมริกา";
 "profile_address_uk" = "สหราชอาณาจักร";
@@ -507,7 +507,7 @@
 "profile_address_sa" = "ซาอุดิอาระเบีย";
 "profile_address_qa" = "กาตาร์";
 "profile_address_kw" = "คูเวต";
-"profile_address_tr "=" ตุรกี ";
+"profile_address_tr" = "ตุรกี";
 "profile_address_il" = "อิสราเอล";
 "profile_address_th" = "ประเทศไทย";
 "profile_address_at" = "ออสเตรีย";
@@ -598,7 +598,7 @@
 "index_comment_main_title" = "ความคิดเห็น"; // 支付是提示有没可用
 "index_comment_sub_title" = "ชอบเราและแสดงความคิดเห็น"; // 支付是提示有没没可用
 "index_bad_feedback_btn" = "คำติชม"; // 支付是提示有没可用
-"index_good_feedback_btn" = "ชอบเรา！"; // 支付是提示有没可用
+"index_good_feedback_btn" = "ชอบเรา!"; // 支付是提示有没可用
 "index_timeout_title" = "หมดเวลา"; // 支付是提示有没可用
 "index_pending_title" = "ยังไม่เริ่ม"; // 支付是提示有没可用
 "index_timeout2_title" = "การหมดเวลาส่งเสริมการขาย"; // 支付是提示有没可用可用
@@ -640,7 +640,7 @@
 
 //////////////////////////// 搜索 -search /////////////////////// 搜索//////////////
 
-"search_ai_search" = "AI Search"; // 支付是提示有没可用
+"search_ai_search" = "AI ค้นหา"; // 支付是提示有没可用
 "search_ai_found" = "รายการที่คล้ายกัน"; // 支付是提示有没可用
 "search_ai_explore" = "รายการที่คล้ายกัน"; // 支付是提示有没可用
 "search_ai_not_found" = "ไม่มีรายการที่คล้ายกัน"; // 支付是提示有没可用
@@ -674,7 +674,7 @@
 
 //////////////////////////// 购物车 -cart //////////////////// ///////////////
 
-"cart_purchase_add_card" = "ใช้บัตรเครดิต / เดบิตใหม่"; // 支付是提示有有没可用
+"cart_purchase_add_card" = "ใช้บัตรเครดิต/เดบิตใหม่"; // 支付是提示有有没可用
 "cart_purchase_choose_card" = "เลือกจากรายการบัตรของฉัน"; // 支付是提示有没没可用
 "cart_purchase_delete_card_title" = "ลบบัตรเครดิต"; // 支付是提示有没没可用
 "cart_purchase_delete_card_content" = "คุณแน่ใจว่าต้องการลบการ์ดนี้หรือไม่"; // 支付是提示有没可用
@@ -682,8 +682,8 @@
 
 ////////////////////////////// 个人 -profile ///////////////////// //////////////
 
-"profile_cards_tips" = "ปัดเพื่อลบบัตรเครดิต / เดบิต"; // 支付是提示有没没可用
-"profile_cards_null" = "ไม่มีบัตรเครดิต / เดบิตที่เชื่อมโยงกับบัญชีของคุณ"; // 支付是提示提示有没可用
+"profile_cards_tips" = "ปัดเพื่อลบบัตรเครดิต/เดบิต"; // 支付是提示有没没可用
+"profile_cards_null" = "ไม่มีบัตรเครดิต/เดบิตที่เชื่อมโยงกับบัญชีของคุณ"; // 支付是提示提示有没可用
 
 //////////////////////////// 详细页 -DP ///////////////////// ///////////////
 
@@ -736,7 +736,7 @@
 
 //////////////////////////// 全局 - ทั้งหมด ///////////////////// 全局//////////////
 
-"all_no_more_items" = "- ไม่มีรายการเพิ่มเติม -";
+"all_no_more_items" = "-ไม่มีรายการเพิ่มเติม-";
 
 //////////////////////////// 搜索 -search /////////////////////// 搜索//////////////
 
@@ -748,8 +748,8 @@
 
 "dp_mall_title" = "เปรียบเทียบราคา AI";
 "dp_sizeguide_title" = "คู่มือขนาด";
-"dp_mall_nofulfilment_title" = "ขออภัยเราไม่สนับสนุนการปฏิบัติตามทันทีคุณสามารถค้นหาได้บนเว็บไซต์ของ บริษัท ";
-"dp_size_description" = "เราขอแนะนำให้คุณเลือกขนาดที่เหมาะสมตามแผนภูมิขนาดที่ให้ไว้โปรดทราบว่าข้อมูลผลิตภัณฑ์ (สีการปรับขนาด ฯลฯ ) จัดทำโดยซัพพลายเออร์ของเราและเพื่อการอ้างอิงเท่านั้น";
+"dp_mall_nofulfilment_title" = "ขออภัยเราไม่สนับสนุนการปฏิบัติตามทันทีคุณสามารถค้นหาได้บนเว็บไซต์ของ บริษัท";
+"dp_size_description" = "เราขอแนะนำให้คุณเลือกขนาดที่เหมาะสมตามแผนภูมิขนาดที่ให้ไว้โปรดทราบว่าข้อมูลผลิตภัณฑ์(สีการปรับขนาด ฯลฯ)จัดทำโดยซัพพลายเออร์ของเราและเพื่อการอ้างอิงเท่านั้น";
 "dp_mall_location_taobao" = "ฮ่องกง";
 
 "dp_outorder_title" = "ไม่เพียงพอ";
@@ -774,7 +774,7 @@
 "profile_submitsuccess_toast" = "ส่งสำเร็จ";
 "profile_address_submitsuccess_toast" = "เพิ่มสำเร็จแล้ว";
 "profile_bill_fail_toast" = "การโหลดบิลล้มเหลวโปรดลองอีกครั้งในภายหลัง";
-"profile_bill_confirm" = "Confrim";
+"profile_bill_confirm" = "ยืนยัน";
 
 //////////////////////////// 登陆 -login /////////////////////// 登陆//////////////
 
@@ -817,7 +817,7 @@
 
 //////////////////////////// 购物车 -cart //////////////////// ///////////////
 
-"cart_shipping_recommend" = "HOT";
+"cart_shipping_recommend" = "ร้อน";
 
 //////////////////////////// 商品详细 -dp ///////////////////// ///////////////
 
@@ -854,7 +854,7 @@
 "sidebar_creditcard" = "บัตรเครดิต";
 "sidebar_address" = "สมุดที่อยู่";
 "sidebar_setting" = "การตั้งค่า";
-"sidebar_faq" = "คำถามที่พบบ่อย";
+"sidebar_faq" = "FAQ";
 "sidebar_coupon" = "คูปอง";
 "sidebar_signin" = "คลิกเพื่อลงชื่อเข้าใช้";
 "sidebar_setting_login" = "เข้าสู่ระบบ";
@@ -954,7 +954,7 @@
 
 ////////////////////////////// 订单 -Order /////////////////////// 订单//////////////
 
-"order_status_unpaid" = "ยังไม่ได้ชำระ";
+"order_status_unpaid" = "ที่ยังไม่ชำระ";
 "order_status_pending" = "รอดำเนินการ";
 "order_status_shipping" = "การจัดส่ง";
 "order_status_all" = "ทั้งหมด";
@@ -963,10 +963,10 @@
 "order_policy_contact" = "ติดต่อเรา";
 "order_confirm_delivery" = "ยืนยันการจัดส่ง";
 "order_confirm_logistics" = "โลจิสติกส์";
-"order_status_finished" = "เสร็จสิ้น";
+"order_status_finished" = "สำเร็จรูป";
 "order_status_refunded" = "คืนเงิน";
 "order_logistics_co" = "บริษัท จัดส่ง";
-"order_logistics_no" = "\ n หมายเลขการติดตาม";
+"order_logistics_no" = "\n หมายเลขการติดตาม";
 "order_logistics_day" = "วัน";
 "order_logistics_days" = "วัน";
 "package_status_Unpaid" = "ไม่ได้ชำระ";
@@ -980,9 +980,9 @@
 "order_item_no" = "รายการ";
 "order_item_nos" = "รายการ";
 "order_refunded_buy" = "ซื้ออีกครั้ง";
-"คืนเงิน _list_bottombar_sum" = "ยอดรวม";
-"คืนเงิน _list_bottombar_no" = "รายการ";
-"คืนเงิน _list_bottombar_nos" = "รายการ";
+"refunded_list_bottombar_sum" = "ยอดรวม";
+"refunded_list_bottombar_no" = "รายการ";
+"refunded_list_bottombar_nos" = "รายการ";
 "pending_canceled_notice" = "เงินของคุณจะถูกส่งกลับภายใน 48 ชั่วโมง";
 "order_detail_delete" = "ลบ";
 "sidebar_order" = "คำสั่งซื้อทั้งหมด";
@@ -1008,17 +1008,17 @@
 
 //////////////////////////// 优惠券 -Coupon ///////////////////// ///////////////
 
-"coupon_loggedin_title" = "CONGRATULATIONS";
+"coupon_loggedin_title" = "ขอแสดงความยินดี";
 "coupon_loggedin_content_title" = "คุณได้รับ";
 "coupon_loggedin_content_description_1" = "คูปองพิเศษของแอป";
 "coupon_loggedin_content_description_2" = "คูปองผู้ใช้ใหม่";
 "coupon_loggedin_button" = "ดูคูปองของฉัน";
 "coupon_notloggedin_coupon" = "คูปอง";
-"coupon_notloggedin_title_1" = "ส่งคุณ \ n";
-"coupon_notloggedin_title_2" = "ผู้ใช้ใหม่เท่านั้น \ n";
+"coupon_notloggedin_title_1" = "ส่งคุณ\n";
+"coupon_notloggedin_title_2" = "ผู้ใช้ใหม่เท่านั้น\n";
 "coupon_notloggedin_title_3" = "คูปอง";
 "coupon_notloggedin_content_description_1" = "ลงทะเบียนเพื่อรับ";
-"coupon_notloggedin_content_description_2" = "คูปอง！";
+"coupon_notloggedin_content_description_2" = "คูปอง!";
 "coupon_notloggedin_button" = "รับเลย!";
 "coupon_cant_get" = "คุณเคยลงทะเบียนก่อนไม่สามารถรับคูปอง";
 "coupon_cant_get_enjoy" = "เพลิดเพลินไปกับการช็อปปิ้งของคุณ";
@@ -1063,18 +1063,18 @@
 
 //////////////////////////// 登录 -login /////////////////////// 登录//////////////
 
-"Login_login" = "เข้าสู่ระบบ";
+"login_login" = "เข้าสู่ระบบ";
 "login_facebook" = "เข้าสู่ระบบด้วย Facebook";
-"login_phone" = "เข้าสู่ระบบด้วยโทรศัพท์";
+"login_phone" = "เข้าสู่ระบบด้วย Phone";
 "login_google" = "เข้าสู่ระบบด้วย Google";
-"login_email" = "เข้าสู่ระบบด้วยอีเมล";
-"signup_signin" = "สมัครสมาชิก";
-"signup_facebook" = "สมัครสมาชิกด้วย Facebook";
-"signup_phone" = "สมัครสมาชิกด้วยโทรศัพท์";
-"signup_google" = "สมัครสมาชิกด้วย Google";
-"signup_email" = "สมัครสมาชิกด้วยอีเมล";
+"login_email" = "เข้าสู่ระบบด้วย Email";
+"signup_signin" = "ลงทะเบียน";
+"signup_facebook" = "ลงทะเบียนกับ Facebook";
+"signup_phone" = "ลงทะเบียนกับ Phone";
+"signup_google" = "ลงทะเบียนกับ Google";
+"signup_email" = "ลงทะเบียนกับ Email";
 "signup_coupon" = "สำหรับผู้ใช้ใหม่";
-"signup_policydetail" = "โดยเข้าร่วมg คุณเห็นด้วยกับเรา ";
+"signup_policydetail" = "โดยเข้าร่วมg คุณเห็นด้วยกับเรา";
 "signup_policydetail_1" = "ข้อกำหนด";
 "signup_policydetail_2" = "&";
 "signup_policydetail_3" = "นโยบายความเป็นส่วนตัว";
@@ -1097,26 +1097,26 @@
 "phone_wrong_toast" = "หมายเลขโทรศัพท์อยู่ในรูปแบบที่ไม่ถูกต้อง";
 "india_address_postcode_title" = "Pincode:";
 "india_street1_detail" = "บ้านเลขที่, อาคาร, ถนน, ท้องที่";
-"india_street2_detail" = "จุดสังเกต (เป็นทางเลือก)";
-"india_city_title" = "เมือง / เขต:";
-"india_state_title" = "ภูมิภาค / รัฐ:";
+"india_street2_detail" = "จุดสังเกต(เป็นทางเลือก)";
+"india_city_title" = "เมือง/เขต:";
+"india_state_title" = "ภูมิภาค/รัฐ:";
 "india_mobile" = "มือถือ";
 "india_mobile_phone_number" = "หมายเลขโทรศัพท์มือถือ";
 "india_country" = "จังหวัด";
-"india_town" = "ท้องที่ / เมือง";
+"india_town" = "ท้องที่/เมือง";
 "india_street_address" = "ที่อยู่";
 "india_address" = "ที่อยู่";
 "india_address_details" = "รายละเอียดที่อยู่";
-"india_detail_address_input" = "ถนน, พื้นที่, เลขที่บ้าน, C / O";
+"india_detail_address_input" = "ถนน, พื้นที่, เลขที่บ้าน, C/O";
 "india_addition_address" = "Apt, Suite, Floor, Bldg ฯลฯ (ไม่บังคับ)";
 "zip_wrong_toast" = "โปรดป้อนรหัส PIN 6 หลัก";
 "zip_out_range" = "ขออภัยเราไม่สามารถส่งไปยังรหัสผ่านนี้";
 "location_failed" = "การรับตำแหน่งล้มเหลว";
-"sa_address_province_title" = "รัฐ / Prov. / ภูมิภาค:";
+"sa_address_province_title" = "รัฐ/Prov./ภูมิภาค:";
 "sa_address_city_title" = "เมือง:";
-"sa_address_district_title" = "เขต (ตัวเลือก):";
+"sa_address_district_title" = "เขต(ตัวเลือก):";
 "sa_address_street1_title" = "ถนน";
-"sa_address_street2_title" = "รายละเอียดที่อยู่ (ตัวเลือก)";
+"sa_address_street2_title" = "รายละเอียดที่อยู่(ตัวเลือก)";
 
 ////////////////////////////// 支付 -Pay /////////////////////// 支付//////////////
 
@@ -1185,16 +1185,16 @@
 ////////////////////////// insta ///////////////////////////////////// /////
 "instar_home_navigation" = "INSTA";
 "instar_trending_title" = "Insta";
-"instar_trending_shopping" = "SHOPPING>";
-"instar_trending_translation" = "SHOW TRANSLATION";
-"instar_trending_original" = "SHOW ORIGINAL";
+"instar_trending_shopping" = "ช้อปปิ้ง>";
+"instar_trending_translation" = "แสดงการแปล";
+"instar_trending_original" = "แสดงต้นฉบับ";
 "instar_blogger_likes" = "ชอบ";
 "instar_blogger_follower" = "ผู้ติดตาม";
 "instar_blogger_following" = "กำลังติดตาม";
 "instar_blogger_not_follow_button" = "+ ติดตาม";
 "instar_detail_page" = "รูปภาพ";
 "instar_review_title" = "ความคิดเห็น";
-"instar_related_posts "=" โพสต์ที่เกี่ยวข้อง ";
+"instar_related_posts" = "โพสต์ที่เกี่ยวข้อง";
 "instar_following_page_people" = "ผู้คน";
 "instar_following_page_hashtags" = "แฮชแท็ก";
 "instar_trending_view_more" = "ดูเพิ่มเติม";
@@ -1221,7 +1221,7 @@
 "fs_no_full_amount_1" = "เพิ่มเติมเพื่อเพลิดเพลินกับการจัดส่งฟรี!";
 
 //////////////////////// DP ///////////////////////////////////// /////
-"DP_insta" = "INSTA SIMILARITY";
+"DP_insta" = "ความคล้ายคลึงกันของ INSTA";
 "DP_info" = "คำอธิบาย";
 "DP_coupon" = "คูปองผู้ใช้ใหม่";
 "DP_selected" = "เลือกสีขนาด";
@@ -1232,11 +1232,11 @@
 "DP_search_price" = "ค้นหาราคาล่าสุด";
 
 //////////////////////// 首页 ////////////////////////////////////// /////
-"home_shopping" = "SHOPPING";
-"home_fashion" = "FASHION";
+"home_shopping" = "ช้อปปิ้ง";
+"home_fashion" = "แฟชั่น";
 "fashion_new_arrival" = "สินค้ามาใหม่";
 "fashion_trending" = "ความนิยม";
-"home_all" = "ALL";
+"home_all" = "ทั้งหมด";
 
 //////////////////////// 搜索结果页 ///////////////////////////////////////////// 搜索结果结果///////
 "search_results_top" = "ด้านบน";
@@ -1284,7 +1284,7 @@
 "comparison_price_cloudmall" = "บน CloudMall";
 
 //////////////////////// 地址 ////////////////////////////////////// /////
-"address_details" = "รายละเอียดที่อยู่ / จุดสังเกต (เป็นตัวเลือก)";
+"address_details" = "รายละเอียดที่อยู่/จุดสังเกต(เป็นตัวเลือก)";
 
 //////////////////////// 降价提醒 //////////////////////////// 降价//////
 "price_reduction_home1" = "รายการลดลงทั้งหมด";
@@ -1301,7 +1301,7 @@
 
 ///// 库存相关的翻译 /////
 "stock_dp_only" = "เท่านั้น";
-"stock_dp_stock" = "ที่เหลืออยู่ในสต็อก - สั่งซื้อเร็ว ๆ นี้";
+"stock_dp_stock" = "ที่เหลืออยู่ในสต็อก- สั่งซื้อเร็ว ๆ นี้";
 
 ////////////////////// รายการที่สิ้นสุด页面 /////////////////
 "item_end_less_only" = "เท่านั้น";
@@ -1336,8 +1336,8 @@
 
 ///////// 返利中的首次邀请弹窗 ////////
 "affiliate_invite_window_first" = "รับเงิน";
-"affiliate_invite_window_left" = "CONGRATULATIONS";
-"affiliate_invite_window_b Between" = "คุณได้รับ";
+"affiliate_invite_window_left" = "ขอแสดงความยินดี";
+"affiliate_invite_window_between" = "คุณได้รับ";
 "affiliate_invite_window_right" = "เงินสดเชิญเพื่อนเพื่อรับเงินสดเพิ่ม";
 "affiliate_invite_window_link" = "ลิงก์คำเชิญของคุณ";
 "affiliate_invite_window_copy" = "คัดลอก";
@@ -1380,7 +1380,7 @@
 "affiliate_noti_got_wallet_sale" = "การลดราคาแฟลชเริ่มต้นตอนนี้!";
 
 //////////// 钱包 /////////////
-"wallet_sider" = "กระเป๋าเงินของฉัน";
+"wallet_sider" = "กระเป๋าเงิน";
 "wallet_person_e_wallet" = "CloudMall E-Wallet";
 "wallet_person_cash" = "เงินสด";
 "wallet_person_pending" = "รอดำเนินการ";
@@ -1398,9 +1398,9 @@
 "rule_window" = "รู้เพิ่มเติม";
 
 ///////////// ถอนนโยบาย弹窗 //////////
-"draw_policy_window_left "=" นโยบายการถอน ";
-"draw_policy_window_right "=" เงินสด E-Wallet ขั้นต่ำสำหรับการถอน ";
-"draw_policy_window_end "=" เชิญต่อไป ";
+"draw_policy_window_left" = "นโยบายการถอน";
+"draw_policy_window_right" = "เงินสด E-Wallet ขั้นต่ำสำหรับการถอน";
+"draw_policy_window_end" = "เชิญต่อไป";
 
 ///////////////////// DP 页面钱包弹窗 /////////////////
 "wallet_dp_window_left" = "คืนเงิน";
@@ -1409,7 +1409,7 @@
 /////// 支付页面钱包 /////////
 "submit_order_wallet" = "กระเป๋าเงิน";
 "submit_order_available" = "ว่าง";
-"submit_order_not_available" = "ไม่ใช่ availale";
+"submit_order_not_available" = "ไม่สามารถใช้ได้";
 "order_detail_param_cash" = "กระเป๋าเงิน";
 
 ///////////////// ข้อความ页面 //////////////
