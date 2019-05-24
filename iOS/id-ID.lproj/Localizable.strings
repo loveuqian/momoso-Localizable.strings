@@ -1430,3 +1430,6 @@
 
 //////////////////////购物车商品数量限购////////////////////
 "cart_item_number_limt" = "Jumlah pembelian item ini telah melampaui batas dan tidak dapat lagi ditambahkan";
+
+/////////////单独闪购页标题/////////////
+"single_lucky_spin" = "spin beruntung";

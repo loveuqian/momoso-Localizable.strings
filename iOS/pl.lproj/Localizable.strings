@@ -1430,3 +1430,6 @@
 
 //////////////////////购物车商品数量限购////////////////////
 "cart_item_number_limt" = "Ilość zakupu tego przedmiotu przekroczyła limit i nie można go już dodać";
+
+/////////////单独闪购页标题/////////////
+"single_lucky_spin" = "Lucky Spin";

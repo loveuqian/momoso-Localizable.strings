@@ -1430,3 +1430,6 @@
 
 //////////////////////购物车商品数量限购////////////////////
 "cart_item_number_limt" = "Số lượng mua của mặt hàng này đã vượt quá giới hạn và không thể thêm được nữa";
+
+/////////////单独闪购页标题/////////////
+"single_lucky_spin" = "Quay may mắn";
