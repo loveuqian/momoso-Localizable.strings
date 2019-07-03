@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Delete"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Nombre completo:"; // 地址 管理 - 收件人 的 默认 显示 文案
-"profile_address_postcode_title" = "Código postal / código postal:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/Código postal"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "other"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Para";
+"cart_add_marketing_activity2" = "Piezas";
+"cart_add_marketing_activity3" = "Comprar";
+"cart_add_marketing_activity4" = "Más para disfrutar";
+"cart_add_marketing_activity5" = "xa";
+"cart_add_marketing_activity6" = "Añadir";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "conseguir";
+"cart_add_marketing_activity9" = "apagado";
+"cart_add_marketing_activity10" = "compra";
+"cart_add_marketing_activity11" = "Más para conseguir";
+"cart_add_marketing_activity12" = "APAGADO";
+"cart_add_marketing_activity13" = "Salvaste";
+"cart_add_marketing_activity14" = "Ver más";
+"cart_add_marketing_activity15" = "Menos que cuando Añadido";
+"cart_add_marketing_activity16" = "cupón de descuento en el siguiente paso";
+"cart_add_marketing_activity17" = "Descuento：";
+"cart_add_marketing_activity18" = "Descuento: cálculo...";
+"cart_add_marketing_activity19" = "Ver descuento en el siguiente paso";
+"cart_add_marketing_activity20" = "Conseguir";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Muerto";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Recibirás un cupón hasta";
+"submit_order_coupon_activity_invied2" = "después de realizar su pedido.";
+"order_payment_success_prompt1" = "Pago exitoso";
+"order_payment_success_prompt2" = "Gracias por su orden";
+"order_payment_success_prompt3" = "Continuar comprando";
+"order_payment_success_prompt4" = "Ver mi orden";
+"marketing_activity_receive_coupon1" = "Felicidades Tienes un";
+"marketing_activity_receive_coupon2" = "cupón!";
+"marketing_activity_receive_coupon3" = "Ver mi cupón";

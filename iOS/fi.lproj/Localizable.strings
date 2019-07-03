@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Poista"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Koko nimi:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
-"profile_address_postcode_title" = "Postinumero:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/Postinumero"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "muu"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "varten";
+"cart_add_marketing_activity2" = "kappaletta";
+"cart_add_marketing_activity3" = "Ostaa";
+"cart_add_marketing_activity4" = "Lisää nauttia";
+"cart_add_marketing_activity5" = "sillä";
+"cart_add_marketing_activity6" = "Lisätä";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "saada";
+"cart_add_marketing_activity9" = "pois";
+"cart_add_marketing_activity10" = "ostaa";
+"cart_add_marketing_activity11" = "Lisää kohteeseen Get";
+"cart_add_marketing_activity12" = "POIS";
+"cart_add_marketing_activity13" = "Pelastit";
+"cart_add_marketing_activity14" = "Katso lisää";
+"cart_add_marketing_activity15" = "Vähemmän kuin kun se lisätään";
+"cart_add_marketing_activity16" = "pois kuponki seuraavassa vaiheessa";
+"cart_add_marketing_activity17" = "Alennus：";
+"cart_add_marketing_activity18" = "Alennus: lasketaan...";
+"cart_add_marketing_activity19" = "Katso alennus seuraavassa vaiheessa";
+"cart_add_marketing_activity20" = "Saada";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Vanhentunut";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Saat kupongin jopa";
+"submit_order_coupon_activity_invied2" = "tilauksen jälkeen.";
+"order_payment_success_prompt1" = "Maksu onnistuu";
+"order_payment_success_prompt2" = "Kiitos tilauksestanne";
+"order_payment_success_prompt3" = "Jatka ostoksia";
+"order_payment_success_prompt4" = "Katso My Order";
+"marketing_activity_receive_coupon1" = "Onnea! Sinulla on";
+"marketing_activity_receive_coupon2" = "kuponki!";
+"marketing_activity_receive_coupon3" = "Katso My Coupon";

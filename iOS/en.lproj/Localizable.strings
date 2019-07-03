@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Delete"; //地址-左滑删除时
 
 "profile_address_receiver_title" = "Full Name:"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Zip/Postal Code:"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_postcode_title" = "ZIP/Post Code"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "other"; //地址-新建地址/编辑地址-地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "For";
+"cart_add_marketing_activity2" = "Pieces";
+"cart_add_marketing_activity3" = "Buy";
+"cart_add_marketing_activity4" = "More to enjoy";
+"cart_add_marketing_activity5" = "for";
+"cart_add_marketing_activity6" = "Add";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "get";
+"cart_add_marketing_activity9" = "off";
+"cart_add_marketing_activity10" = "buy";
+"cart_add_marketing_activity11" = "More to Get";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "You Saved";
+"cart_add_marketing_activity14" = "See more";
+"cart_add_marketing_activity15" = "Less Than When Added";
+"cart_add_marketing_activity16" = "off coupon in next step";
+"cart_add_marketing_activity17" = "Discount：";
+"cart_add_marketing_activity18" = "Discount：calculating...";
+"cart_add_marketing_activity19" = "See discount in next step";
+"cart_add_marketing_activity20" = "Get";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Expired";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "You will receive a coupon up to";
+"submit_order_coupon_activity_invied2" = "after you place your order.";
+"order_payment_success_prompt1" = "Payment Successful";
+"order_payment_success_prompt2" = "Thank you for your order";
+"order_payment_success_prompt3" = "Continue Shopping";
+"order_payment_success_prompt4" = "See My Order";
+"marketing_activity_receive_coupon1" = "Congrats! You got a";
+"marketing_activity_receive_coupon2" = "coupon!";
+"marketing_activity_receive_coupon3" = "See My Coupon";

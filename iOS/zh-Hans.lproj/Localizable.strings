@@ -1425,7 +1425,7 @@
 
 ///////////////////ios3.07版本 - 返利弹窗//////////////
 "affilate_window_title" = "邀请返利";
-"affilate_window_my_reward" ="我的返利";
+"affilate_window_my_reward" = "我的返利";
 "submit_order_ayden" = "信用卡/借记卡";
 
 //////////////////////购物车商品数量限购////////////////////
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "幸运转盘";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "买";
+"cart_add_marketing_activity2" = "件";
+"cart_add_marketing_activity3" = "买";
+"cart_add_marketing_activity4" = "可享受";
+"cart_add_marketing_activity5" = "买";
+"cart_add_marketing_activity6" = "去凑单";
+"cart_add_marketing_activity7" = "已享受";
+"cart_add_marketing_activity8" = "满";
+"cart_add_marketing_activity9" = "减";
+"cart_add_marketing_activity10" = "再买";
+"cart_add_marketing_activity11" = "可享受";
+"cart_add_marketing_activity12" = "折扣";
+"cart_add_marketing_activity13" = "可节省";
+"cart_add_marketing_activity14" = "去看看";
+"cart_add_marketing_activity15" = "还未达到优惠指标";
+"cart_add_marketing_activity16" = "在下一步中获取优惠券";
+"cart_add_marketing_activity17" = "折扣：";
+"cart_add_marketing_activity18" = "折扣：计算中...";
+"cart_add_marketing_activity19" = "优惠金额请在下一步查看";
+"cart_add_marketing_activity20" = "获得";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "过期啦";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "您将收到额外的优惠券";
+"submit_order_coupon_activity_invied2" = "下单完成后.";
+"order_payment_success_prompt1" = "支付成功";
+"order_payment_success_prompt2" = "感谢您下单支持";
+"order_payment_success_prompt3" = "继续加购";
+"order_payment_success_prompt4" = "查看我的订单";
+"marketing_activity_receive_coupon1" = "恭喜! 您已获得";
+"marketing_activity_receive_coupon2" = "优惠券!";
+"marketing_activity_receive_coupon3" = "查看我的优惠券";

@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Verwijderen"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Volledige naam:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
-"profile_address_postcode_title" = "Postcode/Postcode:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/postcode"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "andere"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Voor";
+"cart_add_marketing_activity2" = "Stukken";
+"cart_add_marketing_activity3" = "Buy";
+"cart_add_marketing_activity4" = "Meer om van te genieten";
+"cart_add_marketing_activity5" = "voor";
+"cart_add_marketing_activity6" = "Toevoegen";
+"cart_add_marketing_activity7" = "Jij hebt";
+"cart_add_marketing_activity8" = "krijgen";
+"cart_add_marketing_activity9" = "af";
+"cart_add_marketing_activity10" = "kopen";
+"cart_add_marketing_activity11" = "More to Get";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Jij redde";
+"cart_add_marketing_activity14" = "Zie meer";
+"cart_add_marketing_activity15" = "Minder dan wanneer Toegevoegd";
+"cart_add_marketing_activity16" = "kortingsbon in de volgende stap";
+"cart_add_marketing_activity17" = "Korting：";
+"cart_add_marketing_activity18" = "Korting: het berekenen van...";
+"cart_add_marketing_activity19" = "Zie korting in de volgende stap";
+"cart_add_marketing_activity20" = "Krijgen";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Verlopen";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "U krijgt een coupon je aan en ontvang";
+"submit_order_coupon_activity_invied2" = "nadat u uw bestelling plaatst.";
+"order_payment_success_prompt1" = "betaling gelukt";
+"order_payment_success_prompt2" = "Bedankt voor uw bestelling";
+"order_payment_success_prompt3" = "Verder winkelen";
+"order_payment_success_prompt4" = "Zie Mijn Order";
+"marketing_activity_receive_coupon1" = "Proficiat! Je hebt een";
+"marketing_activity_receive_coupon2" = "coupon!";
+"marketing_activity_receive_coupon3" = "Zie Mijn coupon";

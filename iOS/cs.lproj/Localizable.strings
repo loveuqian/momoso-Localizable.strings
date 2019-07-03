@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Odstranit"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Celé jméno:"; // 地址 管理 - 收件人 栏 的 默认 zobrazení 文案
-"profile_address_postcode_title" = "PSČ:"; // 地址 管理 - 新加坡 - 邮件 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/PSČ"; // 地址 管理 - 新加坡 - 邮件 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "ostatní"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Pro";
+"cart_add_marketing_activity2" = "Kousky";
+"cart_add_marketing_activity3" = "Koupit";
+"cart_add_marketing_activity4" = "Více se těšit";
+"cart_add_marketing_activity5" = "pro";
+"cart_add_marketing_activity6" = "Přidat";
+"cart_add_marketing_activity7" = "Máš";
+"cart_add_marketing_activity8" = "dostat";
+"cart_add_marketing_activity9" = "vypnuto";
+"cart_add_marketing_activity10" = "nakoupit";
+"cart_add_marketing_activity11" = "Více se k nám";
+"cart_add_marketing_activity12" = "VYP";
+"cart_add_marketing_activity13" = "Zachránil jsi";
+"cart_add_marketing_activity14" = "Vidět víc";
+"cart_add_marketing_activity15" = "Méně než při přidání";
+"cart_add_marketing_activity16" = "off kupón v dalším kroku";
+"cart_add_marketing_activity17" = "Sleva：";
+"cart_add_marketing_activity18" = "Sleva: výpočet...";
+"cart_add_marketing_activity19" = "Viz sleva v dalším kroku";
+"cart_add_marketing_activity20" = "Dostat";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "vypršela";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Obdržíte kuponu až do výše";
+"submit_order_coupon_activity_invied2" = "po zadání objednávky.";
+"order_payment_success_prompt1" = "platba Úspěšné";
+"order_payment_success_prompt2" = "Děkuji za Vaši objednávku";
+"order_payment_success_prompt3" = "Pokračujte v nákupu";
+"order_payment_success_prompt4" = "Viz Moje objednávka";
+"marketing_activity_receive_coupon1" = "Gratuluji! Máš";
+"marketing_activity_receive_coupon2" = "kupón!";
+"marketing_activity_receive_coupon3" = "Viz Moje kupón";

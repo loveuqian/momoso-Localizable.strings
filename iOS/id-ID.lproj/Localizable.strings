@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Hapus"; //地址-左滑删除时
 
 "profile_address_receiver_title" = "Penerima:"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Kode pos:"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_postcode_title" = "ZIP/Kode Pos"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "Belum membuat album"; //地址-新建地址/编辑地址-地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "spin beruntung";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Untuk";
+"cart_add_marketing_activity2" = "Potongan";
+"cart_add_marketing_activity3" = "Membeli";
+"cart_add_marketing_activity4" = "Lebih untuk menikmati";
+"cart_add_marketing_activity5" = "untuk";
+"cart_add_marketing_activity6" = "Tambah";
+"cart_add_marketing_activity7" = "Anda Punya";
+"cart_add_marketing_activity8" = "mendapatkan";
+"cart_add_marketing_activity9" = "off";
+"cart_add_marketing_activity10" = "beli";
+"cart_add_marketing_activity11" = "Lebih Banyak untuk Dapat";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Anda Disimpan";
+"cart_add_marketing_activity14" = "Lihat lebih";
+"cart_add_marketing_activity15" = "Kurang Dari Saat Ditambahkan";
+"cart_add_marketing_activity16" = "off kupon di langkah berikutnya";
+"cart_add_marketing_activity17" = "Diskon：";
+"cart_add_marketing_activity18" = "Diskon: menghitung...";
+"cart_add_marketing_activity19" = "Lihat diskon di langkah berikutnya";
+"cart_add_marketing_activity20" = "Mendapatkan";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Kedaluwarsa";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Anda akan menerima kupon hingga";
+"submit_order_coupon_activity_invied2" = "setelah Anda melakukan pemesanan.";
+"order_payment_success_prompt1" = "Pembayaran Sukses";
+"order_payment_success_prompt2" = "Terima kasih atas pesanan anda";
+"order_payment_success_prompt3" = "Lanjutkan Belanja";
+"order_payment_success_prompt4" = "Lihat My Order";
+"marketing_activity_receive_coupon1" = "Congrats! Kamu mendapat";
+"marketing_activity_receive_coupon2" = "kupon!";
+"marketing_activity_receive_coupon3" = "Lihat Kupon Saya";

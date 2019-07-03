@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Supprimer"; // - 滑 删除 时
 
 "profile_address_receiver_title" = "Nom complet:"; // 管理 - 人 栏 的 默认 显示 文案
-"profile_address_postcode_title" = "Code postal:"; // 管理 - 新加坡 - 的 默认 显示 文案
+"profile_address_postcode_title" = "Code de ZIP/Post"; // 管理 - 新加坡 - 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "autre"; // - 地址 / -
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Spin chanceux";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Pour";
+"cart_add_marketing_activity2" = "Des morceaux";
+"cart_add_marketing_activity3" = "Acheter";
+"cart_add_marketing_activity4" = "Plus de profiter";
+"cart_add_marketing_activity5" = "pour";
+"cart_add_marketing_activity6" = "Ajouter";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "obtenir";
+"cart_add_marketing_activity9" = "de";
+"cart_add_marketing_activity10" = "acheter";
+"cart_add_marketing_activity11" = "Plus d'obtenir";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Vous avez sauvé";
+"cart_add_marketing_activity14" = "Voir plus";
+"cart_add_marketing_activity15" = "Moins que quand ajouté";
+"cart_add_marketing_activity16" = "coupon à l'étape suivante";
+"cart_add_marketing_activity17" = "Remise：";
+"cart_add_marketing_activity18" = "Remise: calcul...";
+"cart_add_marketing_activity19" = "Voir remise à l'étape suivante";
+"cart_add_marketing_activity20" = "Obtenir";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Expiré";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Vous recevrez un coupon jusqu'à";
+"submit_order_coupon_activity_invied2" = "après votre commande.";
+"order_payment_success_prompt1" = "Paiement réussi";
+"order_payment_success_prompt2" = "Merci pour votre commande";
+"order_payment_success_prompt3" = "Continuer les achats";
+"order_payment_success_prompt4" = "Voir ma commande";
+"marketing_activity_receive_coupon1" = "Congrats! Tu as une";
+"marketing_activity_receive_coupon2" = "coupon!";
+"marketing_activity_receive_coupon3" = "Voir mon coupon";

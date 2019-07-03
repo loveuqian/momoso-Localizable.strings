@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Usuń"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Pełna nazwa:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
-"profile_address_postcode_title" = "Zip/Postal Code:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/Kod pocztowy"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "other"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1425,7 +1425,7 @@
 
 ///////////////////ios3.07版本 - 返利弹窗//////////////
 "affilate_window_title" = "Zaproś rabat";
-"affilate_window_my_reward" ="Mój rabat";
+"affilate_window_my_reward" = "Mój rabat";
 "submit_order_ayden" = "Karta kredytowa/debetowa";
 
 //////////////////////购物车商品数量限购////////////////////
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Dla";
+"cart_add_marketing_activity2" = "Kawałki";
+"cart_add_marketing_activity3" = "Zakupić";
+"cart_add_marketing_activity4" = "Więcej cieszyć";
+"cart_add_marketing_activity5" = "dla";
+"cart_add_marketing_activity6" = "Dodaj";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "dostać";
+"cart_add_marketing_activity9" = "off";
+"cart_add_marketing_activity10" = "zakupić";
+"cart_add_marketing_activity11" = "Więcej do zdobycia";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Uratowałeś";
+"cart_add_marketing_activity14" = "Zobacz więcej";
+"cart_add_marketing_activity15" = "Mniej niż w przypadku dodania";
+"cart_add_marketing_activity16" = "off kupon w następnym kroku";
+"cart_add_marketing_activity17" = "Zniżka：";
+"cart_add_marketing_activity18" = "Rabat: obliczanie...";
+"cart_add_marketing_activity19" = "Zobacz rabat w następnym kroku";
+"cart_add_marketing_activity20" = "Dostać";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Przedawniony";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Otrzymasz kupon do";
+"submit_order_coupon_activity_invied2" = "po złożeniu zamówienia.";
+"order_payment_success_prompt1" = "Płatność Udane";
+"order_payment_success_prompt2" = "Dziękuję za zamówienie";
+"order_payment_success_prompt3" = "Kontynuuj zakupy";
+"order_payment_success_prompt4" = "Zobacz moje zamówienie";
+"marketing_activity_receive_coupon1" = "Gratulacje! Masz";
+"marketing_activity_receive_coupon2" = "kupon!";
+"marketing_activity_receive_coupon3" = "Patrz Moja kupon";

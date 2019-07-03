@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "ลบ"; // 地址 - 左滑删除时
 
 "profile_address_receiver_title" = "ชื่อเต็ม:"; // 地址管理 - 收件人栏的默认显示文案
-"profile_address_postcode_title" = "รหัสไปรษณีย์:"; // 地址管理 - 新加坡 - 邮编的默认显示文案
+"profile_address_postcode_title" = "รหัสไปรษณีย์"; // 地址管理 - 新加坡 - 邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "อื่น ๆ"; // 地址 - 新建地址 / 编辑地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "สปินโชคดี";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "สำหรับ";
+"cart_add_marketing_activity2" = "ชิ้น";
+"cart_add_marketing_activity3" = "ซื้อ";
+"cart_add_marketing_activity4" = "เพลิดเพลินไปกับการเพิ่มเติม";
+"cart_add_marketing_activity5" = "สำหรับ";
+"cart_add_marketing_activity6" = "เพิ่ม";
+"cart_add_marketing_activity7" = "คุณได้รับ";
+"cart_add_marketing_activity8" = "ได้รับ";
+"cart_add_marketing_activity9" = "ออก";
+"cart_add_marketing_activity10" = "ซื้อ";
+"cart_add_marketing_activity11" = "เพิ่มเติมเพื่อรับ";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "คุณบันทึกไว้";
+"cart_add_marketing_activity14" = "ดูเพิ่มเติม";
+"cart_add_marketing_activity15" = "น้อยกว่าเมื่อเพิ่ม";
+"cart_add_marketing_activity16" = "ปิดคูปองในขั้นตอนต่อไป";
+"cart_add_marketing_activity17" = "ส่วนลด：";
+"cart_add_marketing_activity18" = "ส่วนลด: การคำนวณ...";
+"cart_add_marketing_activity19" = "ดูส่วนลดในขั้นตอนถัดไป";
+"cart_add_marketing_activity20" = "ได้รับ";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "หมดอายุแล้ว";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "คุณจะได้รับคูปองได้ถึง";
+"submit_order_coupon_activity_invied2" = "หลังจากที่คุณสั่งซื้อของคุณ.";
+"order_payment_success_prompt1" = "ชำระเงินสำเร็จ";
+"order_payment_success_prompt2" = "ขอขอบคุณสำหรับการสั่งซื้อของคุณ";
+"order_payment_success_prompt3" = "ช็อปต่อ";
+"order_payment_success_prompt4" = "ดูคำสั่งของฉัน";
+"marketing_activity_receive_coupon1" = "ยินดีด้วย! คุณมี";
+"marketing_activity_receive_coupon2" = "คูปอง!";
+"marketing_activity_receive_coupon3" = "ดูคูปองของฉัน";

@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Xóa"; //地址-左滑删除时
 
 "profile_address_receiver_title" = "Người nhận:"; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "Mã vùng:"; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_postcode_title" = "ZIP/Mã bưu"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "Chưa có bộ sưu tập"; //地址-新建地址/编辑地址-地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Quay may mắn";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "cho";
+"cart_add_marketing_activity2" = "Mẩu";
+"cart_add_marketing_activity3" = "Mua";
+"cart_add_marketing_activity4" = "Hơn để thưởng thức";
+"cart_add_marketing_activity5" = "cho";
+"cart_add_marketing_activity6" = "Thêm vào";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "nhận được";
+"cart_add_marketing_activity9" = "tắt";
+"cart_add_marketing_activity10" = "mua";
+"cart_add_marketing_activity11" = "Hơn để Nhận";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Bạn đã lưu";
+"cart_add_marketing_activity14" = "Xem thêm";
+"cart_add_marketing_activity15" = "Less Than Khi thêm";
+"cart_add_marketing_activity16" = "coupon tắt trong bước tiếp theo";
+"cart_add_marketing_activity17" = "Chiết khấu：";
+"cart_add_marketing_activity18" = "Giảm giá tính toán...";
+"cart_add_marketing_activity19" = "Xem giảm giá trong bước tiếp theo";
+"cart_add_marketing_activity20" = "Nhận được";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Đã hết hạn";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Bạn sẽ nhận được một phiếu giảm giá lên đến";
+"submit_order_coupon_activity_invied2" = "sau khi bạn đặt hàng.";
+"order_payment_success_prompt1" = "Thanh toán thành công";
+"order_payment_success_prompt2" = "Cảm ơn bạn đã đặt hàng";
+"order_payment_success_prompt3" = "Tiếp tục mua sắm";
+"order_payment_success_prompt4" = "Xem đơn hàng của tôi";
+"marketing_activity_receive_coupon1" = "Chúc phúc! Bạn có một";
+"marketing_activity_receive_coupon2" = "phiếu mua hàng!";
+"marketing_activity_receive_coupon3" = "Xem phiếu giảm giá của tôi";

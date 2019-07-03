@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "刪除"; //地址-左滑删除时
 
 "profile_address_receiver_title" = "收件人："; //地址管理-收件人栏的默认显示文案
-"profile_address_postcode_title" = "郵編："; //地址管理-新加坡-邮编的默认显示文案
+"profile_address_postcode_title" = "郵編"; //地址管理-新加坡-邮编的默认显示文案
 
 "profile_favorite_no_album_title" = "還沒創建專輯~"; //地址-新建地址/编辑地址-地区
 
@@ -1425,7 +1425,7 @@
 
 ///////////////////ios3.07版本 - 返利彈窗//////////////
 "affilate_window_title" = "邀請返利";
-"affilate_window_my_reward" ="我的返利";
+"affilate_window_my_reward" = "我的返利";
 "submit_order_ayden" = "信用卡/借記卡";
 
 //////////////////////购物车商品数量限购////////////////////
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "幸運轉盤";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "買";
+"cart_add_marketing_activity2" = "件";
+"cart_add_marketing_activity3" = "買";
+"cart_add_marketing_activity4" = "可享受";
+"cart_add_marketing_activity5" = "買";
+"cart_add_marketing_activity6" = "去湊單";
+"cart_add_marketing_activity7" = "已享受";
+"cart_add_marketing_activity8" = "滿";
+"cart_add_marketing_activity9" = "減";
+"cart_add_marketing_activity10" = "再買";
+"cart_add_marketing_activity11" = "可享受";
+"cart_add_marketing_activity12" = "折扣";
+"cart_add_marketing_activity13" = "可節省";
+"cart_add_marketing_activity14" = "去看看";
+"cart_add_marketing_activity15" = "還未達到優惠指標";
+"cart_add_marketing_activity16" = "在下一步中獲取優惠券";
+"cart_add_marketing_activity17" = "折扣：";
+"cart_add_marketing_activity18" = "折扣：計算中...";
+"cart_add_marketing_activity19" = "優惠金額請在下一步查看";
+"cart_add_marketing_activity20" = "獲得";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "過期啦";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "您將收到額外的優惠券";
+"submit_order_coupon_activity_invied2" = "下單完成後.";
+"order_payment_success_prompt1" = "支付成功";
+"order_payment_success_prompt2" = "感謝您下單支持";
+"order_payment_success_prompt3" = "繼續加購";
+"order_payment_success_prompt4" = "查看我的訂單";
+"marketing_activity_receive_coupon1" = "恭喜！您已獲得";
+"marketing_activity_receive_coupon2" = "優惠券!";
+"marketing_activity_receive_coupon3" = "查看我的優惠券";

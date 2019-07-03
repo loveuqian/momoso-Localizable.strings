@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Slett"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Fullt navn:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
-"profile_address_postcode_title" = "Postnummer:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/Postnummer"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "andre"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "for";
+"cart_add_marketing_activity2" = "Pieces";
+"cart_add_marketing_activity3" = "Kjøpe";
+"cart_add_marketing_activity4" = "Mer å nyte";
+"cart_add_marketing_activity5" = "til";
+"cart_add_marketing_activity6" = "Legge til";
+"cart_add_marketing_activity7" = "Du fikk";
+"cart_add_marketing_activity8" = "skaffe oss";
+"cart_add_marketing_activity9" = "av";
+"cart_add_marketing_activity10" = "kjøpe";
+"cart_add_marketing_activity11" = "Mer å få";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Du reddet";
+"cart_add_marketing_activity14" = "Se mer";
+"cart_add_marketing_activity15" = "Mindre enn når det legges til";
+"cart_add_marketing_activity16" = "av kupong i neste trinn";
+"cart_add_marketing_activity17" = "Rabatt：";
+"cart_add_marketing_activity18" = "Rabatt: beregning...";
+"cart_add_marketing_activity19" = "Se rabatt i neste trinn";
+"cart_add_marketing_activity20" = "Bli";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Utløpt";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Du vil motta en kupong opp til";
+"submit_order_coupon_activity_invied2" = "etter at du har bestilt bestillingen din.";
+"order_payment_success_prompt1" = "Betaling Vellykket";
+"order_payment_success_prompt2" = "takk for din bestilling";
+"order_payment_success_prompt3" = "Fortsette å handle";
+"order_payment_success_prompt4" = "Se Min bestilling";
+"marketing_activity_receive_coupon1" = "Congrats! Du har en";
+"marketing_activity_receive_coupon2" = "kupong!";
+"marketing_activity_receive_coupon3" = "Se Min kupong";

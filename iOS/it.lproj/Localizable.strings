@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Elimina"; // Indirizzo - quando cancella lo scorrimento a sinistra
 
 "profile_address_receiver_title" = "Nome completo:"; // Gestione indirizzi - Copia di visualizzazione predefinita della barra del destinatario
-"profile_address_postcode_title" = "Codice postale/postale:"; // Gestione indirizzi - Singapore - Copia di visualizzazione predefinita del codice di avviamento postale
+"profile_address_postcode_title" = "CAP/codice postale"; // Gestione indirizzi - Singapore - Copia di visualizzazione predefinita del codice di avviamento postale
 
 "profile_favorite_no_album_title" = "altro"; // Indirizzo - Nuovo indirizzo / Modifica indirizzo - Regione
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "Per";
+"cart_add_marketing_activity2" = "pezzi";
+"cart_add_marketing_activity3" = "Acquistare";
+"cart_add_marketing_activity4" = "Più di godere";
+"cart_add_marketing_activity5" = "per";
+"cart_add_marketing_activity6" = "Aggiungere";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "ottenere";
+"cart_add_marketing_activity9" = "fuori";
+"cart_add_marketing_activity10" = "acquistare";
+"cart_add_marketing_activity11" = "Altro da ottenere";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Hai salvato";
+"cart_add_marketing_activity14" = "Vedi altro";
+"cart_add_marketing_activity15" = "Meno di quando aggiunto";
+"cart_add_marketing_activity16" = "off coupon nel passaggio successivo";
+"cart_add_marketing_activity17" = "Sconto：";
+"cart_add_marketing_activity18" = "Sconto: calcolo...";
+"cart_add_marketing_activity19" = "Vedi lo sconto nel passaggio successivo";
+"cart_add_marketing_activity20" = "Ottenere";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Scaduto";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Riceverai un coupon fino a";
+"submit_order_coupon_activity_invied2" = "dopo aver effettuato l'ordine.";
+"order_payment_success_prompt1" = "Pagamento riuscito";
+"order_payment_success_prompt2" = "Grazie per il vostro ordine";
+"order_payment_success_prompt3" = "Continua a fare acquisti";
+"order_payment_success_prompt4" = "Vedi il mio ordine";
+"marketing_activity_receive_coupon1" = "Congratulazioni! Hai un";
+"marketing_activity_receive_coupon2" = "buono!";
+"marketing_activity_receive_coupon3" = "Vedi il mio coupon";

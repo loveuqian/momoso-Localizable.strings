@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Löschen"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "vollständiger Name:"; // 地址 管理 - 收件人 的 的 默认 显示 文案
-"profile_address_postcode_title" = "Postleitzahl:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "Postleitzahl"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "other"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "für";
+"cart_add_marketing_activity2" = "Stücke";
+"cart_add_marketing_activity3" = "Kaufen";
+"cart_add_marketing_activity4" = "Mehr genießen";
+"cart_add_marketing_activity5" = "für";
+"cart_add_marketing_activity6" = "Addieren";
+"cart_add_marketing_activity7" = "You Got";
+"cart_add_marketing_activity8" = "bekommen";
+"cart_add_marketing_activity9" = "aus";
+"cart_add_marketing_activity10" = "Kauf";
+"cart_add_marketing_activity11" = "Mehr zu bekommen";
+"cart_add_marketing_activity12" = "AUS";
+"cart_add_marketing_activity13" = "Du hast gespeichert";
+"cart_add_marketing_activity14" = "Mehr sehen";
+"cart_add_marketing_activity15" = "Less Than Wenn Hinzugefügt";
+"cart_add_marketing_activity16" = "off Coupon im nächsten Schritt";
+"cart_add_marketing_activity17" = "Rabatt：";
+"cart_add_marketing_activity18" = "Rabatt: Berechnung...";
+"cart_add_marketing_activity19" = "Siehe Rabatt im nächsten Schritt";
+"cart_add_marketing_activity20" = "Erhalten";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Abgelaufen";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Sie erhalten einen Gutschein bis zu";
+"submit_order_coupon_activity_invied2" = "nachdem Sie Ihre Bestellung.";
+"order_payment_success_prompt1" = "Zahlung erfolgreich";
+"order_payment_success_prompt2" = "Vielen Dank für Ihren Auftrag";
+"order_payment_success_prompt3" = "Weiter einkaufen";
+"order_payment_success_prompt4" = "Siehe Meine Bestellung";
+"marketing_activity_receive_coupon1" = "Glückwunsch! Du hast ein";
+"marketing_activity_receive_coupon2" = "Coupon!";
+"marketing_activity_receive_coupon3" = "See My Coupon";

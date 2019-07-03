@@ -174,7 +174,7 @@
 "delete_btn_profile_address" = "Ta bort"; // 地址 - 左 滑 删除 时
 
 "profile_address_receiver_title" = "Fullständigt namn:"; // 地址 管理 - 收件人 栏 的 默认 显示 文案
-"profile_address_postcode_title" = "Postnummer:"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
+"profile_address_postcode_title" = "ZIP/Postnummer"; // 地址 管理 - 新加坡 - 邮编 的 默认 显示 文案
 
 "profile_favorite_no_album_title" = "other"; // 地址 - 新建 地址 / 编辑 地址 - 地区
 
@@ -1433,3 +1433,39 @@
 
 /////////////单独闪购页标题/////////////
 "single_lucky_spin" = "Lucky Spin";
+
+////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity1" = "För";
+"cart_add_marketing_activity2" = "Pieces";
+"cart_add_marketing_activity3" = "Köp";
+"cart_add_marketing_activity4" = "Mer att njuta av";
+"cart_add_marketing_activity5" = "för";
+"cart_add_marketing_activity6" = "Tillägga";
+"cart_add_marketing_activity7" = "Du har";
+"cart_add_marketing_activity8" = "få";
+"cart_add_marketing_activity9" = "off";
+"cart_add_marketing_activity10" = "köpa";
+"cart_add_marketing_activity11" = "Mer att få";
+"cart_add_marketing_activity12" = "OFF";
+"cart_add_marketing_activity13" = "Du räddade";
+"cart_add_marketing_activity14" = "Se mer";
+"cart_add_marketing_activity15" = "Mindre än när den läggs till";
+"cart_add_marketing_activity16" = "av kupongen i nästa steg";
+"cart_add_marketing_activity17" = "Rabatt：";
+"cart_add_marketing_activity18" = "Rabatt: beräkning...";
+"cart_add_marketing_activity19" = "Se rabatt i nästa steg";
+"cart_add_marketing_activity20" = "Skaffa sig";
+
+////////////iOS3.10DP页倒计时地址/////////////////
+"dp_item_sale_over" = "Utgånget";
+
+////////////iOS3.10DP页地址订单支付优惠券等/////////////////
+"submit_order_coupon_activity_invied1" = "Du kommer att få en kupong upp till";
+"submit_order_coupon_activity_invied2" = "efter att du har beställt din beställning.";
+"order_payment_success_prompt1" = "Betalning Framgångsrik";
+"order_payment_success_prompt2" = "Tack för din beställning";
+"order_payment_success_prompt3" = "Fortsätt Shopping";
+"order_payment_success_prompt4" = "Se Min beställning";
+"marketing_activity_receive_coupon1" = "grattis! Du har en";
+"marketing_activity_receive_coupon2" = "kupong!";
+"marketing_activity_receive_coupon3" = "Se min kupong";
