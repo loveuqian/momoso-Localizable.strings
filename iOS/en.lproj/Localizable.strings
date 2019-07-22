@@ -227,7 +227,7 @@
 "choose_address_title_cart_checkout" = "Choose Shipping Address"; //提交订单-地址栏
 "close_btn_cart_checkout" = "Close"; //点击渠道后-左上角关闭
 
-"order_submit_title_cart_checkout" = "Processing,confirmation will be sent to you within 48 hours"; //订单完成-小鲸鱼下方的标题
+"order_submit_title_cart_checkout" = "Processing, confirmation will be sent to you within 48 hours"; //订单完成-小鲸鱼下方的标题
 "order_submit_sub_title_cart_checkout" = "If your order cannot be completed, we will inform you via email and process a refund"; //订单完成-小鲸鱼下方的标题
 
 "cart_benefit_title" = "Discount applied"; //购物车-总价下的小字，缺了已优惠

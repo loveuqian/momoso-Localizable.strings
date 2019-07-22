@@ -227,7 +227,7 @@
 "choose_address_title_cart_checkout" = "填写收货地址"; //提交订单-地址栏
 "close_btn_cart_checkout" = "关闭"; //点击渠道后-左上角关闭
 
-"order_submit_title_cart_checkout" = "正在为您下单，下单结果将在48小时内通知您"; //订单完成-小鲸鱼下方的标题
+"order_submit_title_cart_checkout" = "正在为您下单, 下单结果将在48小时内通知您"; //订单完成-小鲸鱼下方的标题
 "order_submit_sub_title_cart_checkout" = "若下单失败则会为您操作退款，届时请留意邮件通知"; //订单完成-小鲸鱼下方的标题
 
 "cart_benefit_title" = "已优惠"; //购物车-总价下的小字，缺了已优惠

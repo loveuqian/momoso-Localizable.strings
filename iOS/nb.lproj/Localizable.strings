@@ -227,7 +227,7 @@
 "choose_address_title_cart_checkout" = "Velg fraktadresse"; // 提交 订单 - 地址 栏
 "close_btn_cart_checkout" = "Lukk"; // 点击 渠道 后 - 左上角 关闭
 
-"order_submit_title_cart_checkout" = "Behandling,bekreftelse vil bli sendt til deg innen 48 timer"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_title_cart_checkout" = "Behandling, bekreftelse vil bli sendt til deg innen 48 timer"; // 订单 完成 - 小 鲸鱼 下方 的 标题
 "order_submit_sub_title_cart_checkout" = "Hvis bestillingen din ikke kan fullføres,informerer vi deg via e-post og behandler en tilbakebetaling"; // 订单 完成 - 小 鲸鱼 下方 的 标题
 
 "cart_benefit_title" = "Rabatt brukt"; // 购物 车 - 总价 下 的 小字, 缺 了 已 优惠

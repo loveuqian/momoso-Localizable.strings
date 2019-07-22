@@ -227,7 +227,7 @@
 "choose_address_title_cart_checkout" = "Vælg afsenderadresse"; // 提交 订单 - 地址 栏
 "close_btn_cart_checkout" = "Luk"; // 点击 渠道 后 - 左上角 关闭
 
-"order_submit_title_cart_checkout" = "Behandling,bekræftelse vil blive sendt til dig inden for 48 timer"; // 订单 完成 - 小 鲸鱼 下方 的 标题
+"order_submit_title_cart_checkout" = "Behandling, bekræftelse vil blive sendt til dig inden for 48 timer"; // 订单 完成 - 小 鲸鱼 下方 的 标题
 "order_submit_sub_title_cart_checkout" = "Hvis din ordre ikke kan gennemføres,informerer vi dig via e-mail og behandler en refusion"; // 订单 完成 - 小 鲸鱼 下方 的 标题
 
 "cart_benefit_title" = "Anvendt rabat"; // 购物 车 - 总价 下 的 小字, 缺 了 已 优惠
