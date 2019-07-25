@@ -1469,3 +1469,6 @@
 "marketing_activity_receive_coupon1" = "Congrats! Tu as une";
 "marketing_activity_receive_coupon2" = "coupon!";
 "marketing_activity_receive_coupon3" = "Voir mon coupon";
+
+/////////////支付成功页优惠券命名////////////////////
+"payment_success_coupoun_name" = "LUCKY COUPON!";

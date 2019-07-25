@@ -1469,3 +1469,6 @@
 "marketing_activity_receive_coupon1" = "Chúc phúc! Bạn có một";
 "marketing_activity_receive_coupon2" = "phiếu mua hàng!";
 "marketing_activity_receive_coupon3" = "Xem phiếu giảm giá của tôi";
+
+/////////////支付成功页优惠券命名////////////////////
+"payment_success_coupoun_name" = "COUCON LUCKY!";

@@ -1469,3 +1469,6 @@
 "marketing_activity_receive_coupon1" = "Onnea! Sinulla on";
 "marketing_activity_receive_coupon2" = "kuponki!";
 "marketing_activity_receive_coupon3" = "Katso My Coupon";
+
+/////////////支付成功页优惠券命名////////////////////
+"payment_success_coupoun_name" = "LUCKY KUPONKI!";
