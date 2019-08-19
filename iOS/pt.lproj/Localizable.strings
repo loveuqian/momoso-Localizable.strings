@@ -1435,6 +1435,7 @@
 "single_lucky_spin" = "Sorte spin";
 
 ////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity_title" = "Compre Mais Economize Mais";
 "cart_add_marketing_activity1" = "Para";
 "cart_add_marketing_activity2" = "Pedaços";
 "cart_add_marketing_activity3" = "Comprar";

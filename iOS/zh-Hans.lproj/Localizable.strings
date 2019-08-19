@@ -1435,6 +1435,7 @@
 "single_lucky_spin" = "幸运转盘";
 
 ////////////iOS3.10购物车新增活动文案/////////////////
+"cart_add_marketing_activity_title" = "多买多省";
 "cart_add_marketing_activity1" = "买";
 "cart_add_marketing_activity2" = "件";
 "cart_add_marketing_activity3" = "买";
