@@ -1474,3 +1474,6 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY KUPONKI!";
 "payment_success_coupoun_get_it_now" = "Hanki nyt";
+"payment_success_coupoun_click_remind1" = "Sinulla on kuponki(t)!";
+"payment_success_coupoun_click_remind2" = "Sinulla on jo kuponki(t)!";
+"payment_success_coupoun_click_remind3" = "Jokin meni pieleen verkossa, yritä uudelleen";

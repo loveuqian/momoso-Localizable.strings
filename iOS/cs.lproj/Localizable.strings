@@ -1474,3 +1474,6 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "ZÍSKEJTE TEĎ";
+"payment_success_coupoun_click_remind1" = "Máš kupón(y)!";
+"payment_success_coupoun_click_remind2" = "Už jste dostali kupón(y)!";
+"payment_success_coupoun_click_remind3" = "Něco se v síti v pořádku, zkuste to znovu";

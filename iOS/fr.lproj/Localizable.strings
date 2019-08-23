@@ -1474,3 +1474,6 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "GET IT NOW";
+"payment_success_coupoun_click_remind1" = "Vous avez obtenu le coupon(s)!";
+"payment_success_coupoun_click_remind2" = "Vous avez déjà obtenu le coupon(s)!";
+"payment_success_coupoun_click_remind3" = "Quelque chose a mal tourné avec le réseau, s'il vous plaît essayer à nouveau";

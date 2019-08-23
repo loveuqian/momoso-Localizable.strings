@@ -1474,3 +1474,6 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "COUCON LUCKY!";
 "payment_success_coupoun_get_it_now" = "NHẬN NGAY";
+"payment_success_coupoun_click_remind1" = "Bạn có phiếu giảm giá(s)!";
+"payment_success_coupoun_click_remind2" = "Bạn đã có phiếu giảm giá(s)!";
+"payment_success_coupoun_click_remind3" = "Một cái gì đó đã đi sai với mạng, hãy thử lại";
