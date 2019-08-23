@@ -1474,6 +1474,3 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "優惠券！";
 "payment_success_coupoun_get_it_now" = "領取";
-"payment_success_coupoun_click_remind1" = "您已獲得優惠券!";
-"payment_success_coupoun_click_remind2" = "您已領取過優惠券啦!";
-"payment_success_coupoun_click_remind3" = "網絡出了問題，請再試一次";

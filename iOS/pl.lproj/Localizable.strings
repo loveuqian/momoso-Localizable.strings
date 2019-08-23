@@ -1474,6 +1474,3 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "SZCZĘŚLIWY KUPON!";
 "payment_success_coupoun_get_it_now" = "ZDOBĄDŹ TO TERAZ";
-"payment_success_coupoun_click_remind1" = "Masz kupon(y)!";
-"payment_success_coupoun_click_remind2" = "Masz już kupon(y)!";
-"payment_success_coupoun_click_remind3" = "Coś poszło nie tak z siecią, spróbuj ponownie";

@@ -1474,6 +1474,3 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "FÅ DET NÅ";
-"payment_success_coupoun_click_remind1" = "Du fikk kupongen(e)!";
-"payment_success_coupoun_click_remind2" = "Du har allerede kupongen(e)!";
-"payment_success_coupoun_click_remind3" = "Noe gikk galt med nettverket, prøv igjen";

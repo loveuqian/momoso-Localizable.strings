@@ -1474,6 +1474,3 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "KRIJG HET NU";
-"payment_success_coupoun_click_remind1" = "Je hebt de coupon(s)!";
-"payment_success_coupoun_click_remind2" = "Je hebt al de coupon(s)!";
-"payment_success_coupoun_click_remind3" = "Er ging iets mis met het netwerk, probeer het opnieuw";

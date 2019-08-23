@@ -1474,6 +1474,3 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "Cupom de sorte!";
 "payment_success_coupoun_get_it_now" = "OBTÊ-LO AGORA";
-"payment_success_coupoun_click_remind1" = "Você tem o cupom(s)!";
-"payment_success_coupoun_click_remind2" = "Você já tem o cupom(s)!";
-"payment_success_coupoun_click_remind3" = "Algo deu errado com a rede, por favor, tente novamente";

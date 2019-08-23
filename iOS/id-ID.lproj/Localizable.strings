@@ -1474,6 +1474,3 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "KUPON BERUNTUNG!";
 "payment_success_coupoun_get_it_now" = "DAPATKAN SEKARANG";
-"payment_success_coupoun_click_remind1" = "Anda mendapat kupon(s)!";
-"payment_success_coupoun_click_remind2" = "Anda sudah punya kupon(s)!";
-"payment_success_coupoun_click_remind3" = "Sesuatu yang tidak beres dengan jaringan, silakan coba lagi";
