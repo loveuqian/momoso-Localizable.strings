@@ -1461,8 +1461,8 @@
 "dp_item_sale_over" = "Vanhentunut";
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
-"submit_order_coupon_activity_invied1" = "Saat kupongin jopa";
-"submit_order_coupon_activity_invied2" = "tilauksen jälkeen.";
+"submit_order_coupon_activity_invied1" = "Maksa nyt ja nouse jopa";
+"submit_order_coupon_activity_invied2" = "seuraavasta tilauksestasi.";
 "order_payment_success_prompt1" = "Maksu onnistuu";
 "order_payment_success_prompt2" = "Kiitos tilauksestanne";
 "order_payment_success_prompt3" = "Jatka ostoksia";

@@ -1461,8 +1461,8 @@
 "dp_item_sale_over" = "Đã hết hạn";
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
-"submit_order_coupon_activity_invied1" = "Bạn sẽ nhận được một phiếu giảm giá lên đến";
-"submit_order_coupon_activity_invied2" = "sau khi bạn đặt hàng.";
+"submit_order_coupon_activity_invied1" = "Trả tiền ngay và nhận được lên đến";
+"submit_order_coupon_activity_invied2" = "tắt thứ tự tiếp theo của bạn.";
 "order_payment_success_prompt1" = "Thanh toán thành công";
 "order_payment_success_prompt2" = "Cảm ơn bạn đã đặt hàng";
 "order_payment_success_prompt3" = "Tiếp tục mua sắm";

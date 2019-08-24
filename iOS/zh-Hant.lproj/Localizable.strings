@@ -1462,7 +1462,7 @@
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
 "submit_order_coupon_activity_invied1" = "您將收到額外的優惠券";
-"submit_order_coupon_activity_invied2" = "下單完成後.";
+"submit_order_coupon_activity_invied2" = "在下單完成後.";
 "order_payment_success_prompt1" = "支付成功";
 "order_payment_success_prompt2" = "感謝您下單支持";
 "order_payment_success_prompt3" = "繼續加購";

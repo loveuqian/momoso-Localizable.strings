@@ -1461,8 +1461,8 @@
 "dp_item_sale_over" = "Utgånget";
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
-"submit_order_coupon_activity_invied1" = "Du kommer att få en kupong upp till";
-"submit_order_coupon_activity_invied2" = "efter att du har beställt din beställning.";
+"submit_order_coupon_activity_invied1" = "Betala nu och få upp till";
+"submit_order_coupon_activity_invied2" = "från din nästa beställning.";
 "order_payment_success_prompt1" = "Betalning Framgångsrik";
 "order_payment_success_prompt2" = "Tack för din beställning";
 "order_payment_success_prompt3" = "Fortsätt Shopping";

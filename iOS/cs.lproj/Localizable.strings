@@ -1461,8 +1461,8 @@
 "dp_item_sale_over" = "vypršela";
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
-"submit_order_coupon_activity_invied1" = "Obdržíte kuponu až do výše";
-"submit_order_coupon_activity_invied2" = "po zadání objednávky.";
+"submit_order_coupon_activity_invied1" = "Zaplaťte hned a vstaňte";
+"submit_order_coupon_activity_invied2" = "z vaší další objednávky.";
 "order_payment_success_prompt1" = "platba Úspěšné";
 "order_payment_success_prompt2" = "Děkuji za Vaši objednávku";
 "order_payment_success_prompt3" = "Pokračujte v nákupu";

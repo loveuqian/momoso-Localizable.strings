@@ -1461,8 +1461,8 @@
 "dp_item_sale_over" = "Utløpt";
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
-"submit_order_coupon_activity_invied1" = "Du vil motta en kupong opp til";
-"submit_order_coupon_activity_invied2" = "etter at du har bestilt bestillingen din.";
+"submit_order_coupon_activity_invied1" = "Betal nå og få opp til";
+"submit_order_coupon_activity_invied2" = "av din neste bestilling.";
 "order_payment_success_prompt1" = "Betaling Vellykket";
 "order_payment_success_prompt2" = "takk for din bestilling";
 "order_payment_success_prompt3" = "Fortsette å handle";

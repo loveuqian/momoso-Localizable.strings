@@ -1461,8 +1461,8 @@
 "dp_item_sale_over" = "Expired";
 
 ////////////iOS3.10DP页地址订单支付优惠券等/////////////////
-"submit_order_coupon_activity_invied1" = "You will receive a coupon up to";
-"submit_order_coupon_activity_invied2" = "after you place your order.";
+"submit_order_coupon_activity_invied1" = "Pay now and get up to";
+"submit_order_coupon_activity_invied2" = "off your next order.";
 "order_payment_success_prompt1" = "Payment Successful";
 "order_payment_success_prompt2" = "Thank you for your order";
 "order_payment_success_prompt3" = "Continue Shopping";
