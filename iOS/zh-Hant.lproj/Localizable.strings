@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "優惠券！";
 "payment_success_coupoun_get_it_now" = "領取";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "立即下單";
+"manage_adress_book_ec_title" = "快速結算";
+"change_select_region_remind" = "更改送貨地址國家/地區可能會導致訂單發生一些變化。請確認國家是否正確.";
+"not_support_delivery_remind" = "抱歉，此地暫不支持配送";
+"select_all_region_window" = "選擇地區";
+"adress_book_first_order_remind_window1" = "獲得";
+"adress_book_first_order_remind_window2" = "的额外優惠券，若現在保存地址!";
+"adress_book_first_order_remind_window3" = "機會稍縱即逝";
+"adress_book_first_order_remind_window4" = "繼續添加地址";
+"adress_book_first_order_remind_window4" = "不用了, 謝謝";

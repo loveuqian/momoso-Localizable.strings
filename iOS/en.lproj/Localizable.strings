@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON !";
 "payment_success_coupoun_get_it_now" = "GET IT NOW";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "BUY IT NOW";
+"manage_adress_book_ec_title" = "Express Checkout";
+"change_select_region_remind" = "Changing your shipping address country may cause some changes in your order.  Please confirm the country is correct.";
+"not_support_delivery_remind" = "Sorry, delivery to this State is not supported";
+"select_all_region_window" = "Select Region";
+"adress_book_first_order_remind_window1" = "Get";
+"adress_book_first_order_remind_window2" = "off coupon if you save address now!";
+"adress_book_first_order_remind_window3" = "Don't miss this deal, only available now";
+"adress_book_first_order_remind_window4" = "Continue add address";
+"adress_book_first_order_remind_window4" = "No, thanks";

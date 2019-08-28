@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "FÅ DET NÅ";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Kjøp det nå";
+"manage_adress_book_ec_title" = "Ekspresskasse";
+"change_select_region_remind" = "Endre leveringsadressen landet kan føre til noen endringer i din bestilling. Bekreft at landet er riktig.";
+"not_support_delivery_remind" = "Beklager, levering til denne staten støttes ikke";
+"select_all_region_window" = "Velg Region";
+"adress_book_first_order_remind_window1" = "Skaffe oss";
+"adress_book_first_order_remind_window2" = "off kupong Hvis du lagrer adressen nå!";
+"adress_book_first_order_remind_window3" = "Ikke gå glipp av denne avtalen, bare tilgjengelig nå";
+"adress_book_first_order_remind_window4" = "Fortsett add-adresse";
+"adress_book_first_order_remind_window4" = "Nei takk";

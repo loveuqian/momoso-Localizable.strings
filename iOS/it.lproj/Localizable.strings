@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "COUPON fortunato!";
 "payment_success_coupoun_get_it_now" = "OTTIENI ORA";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Compralo Ora";
+"manage_adress_book_ec_title" = "Pagamento express";
+"change_select_region_remind" = "Cambiare il Paese indirizzo di spedizione può causare alcuni cambiamenti nel vostro ordine. Si prega di confermare il paese è corretta.";
+"not_support_delivery_remind" = "Siamo spiacenti, il recapito a questo Stato non è supportato";
+"select_all_region_window" = "Seleziona Regione";
+"adress_book_first_order_remind_window1" = "Ottenere";
+"adress_book_first_order_remind_window2" = "buono sconto se si salva l'indirizzo ora!";
+"adress_book_first_order_remind_window3" = "Non perdetevi questo accordo, disponibile solo ora";
+"adress_book_first_order_remind_window4" = "Continuare indirizzo adds";
+"adress_book_first_order_remind_window4" = "No, grazie";

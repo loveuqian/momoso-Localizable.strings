@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "HENT DEN NU";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Køb det nu";
+"manage_adress_book_ec_title" = "Hurtig checkout";
+"change_select_region_remind" = "Ændring af din leveringsadresse land kan medføre nogle ændringer i din ordre. Bekræft venligst, at landet er korrekt.";
+"not_support_delivery_remind" = "Beklager, levering til denne stat understøttes ikke";
+"select_all_region_window" = "Vælg region";
+"adress_book_first_order_remind_window1" = "Få";
+"adress_book_first_order_remind_window2" = "off-kupon, hvis du gemmer adresse nu!";
+"adress_book_first_order_remind_window3" = "Gå ikke glip af denne aftale, kun tilgængelig nu";
+"adress_book_first_order_remind_window4" = "Fortsæt add-adresse";
+"adress_book_first_order_remind_window4" = "Nej, tak";

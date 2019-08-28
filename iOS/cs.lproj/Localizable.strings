@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "ZÍSKEJTE TEĎ";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Kup to ted";
+"manage_adress_book_ec_title" = "Express Checkout";
+"change_select_region_remind" = "Změna vaší dodací adresy může způsobit některé změny ve vaší objednávce. Prosím potvrďte, že země je v pořádku.";
+"not_support_delivery_remind" = "Litujeme, doručení do tohoto státu není podporováno";
+"select_all_region_window" = "Vyberte Region";
+"adress_book_first_order_remind_window1" = "Dostat";
+"adress_book_first_order_remind_window2" = "off kuponu, pokud uložíte adresy teď!";
+"adress_book_first_order_remind_window3" = "Nenechte si ujít tuto dohodu, k dispozici teprve nyní";
+"adress_book_first_order_remind_window4" = "Pokračovat Přidat adresu";
+"adress_book_first_order_remind_window4" = "Ne, díky";

@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY KUPONKI!";
 "payment_success_coupoun_get_it_now" = "Hanki nyt";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Osta se nyt";
+"manage_adress_book_ec_title" = "Pikaostos";
+"change_select_region_remind" = "Toimitusosoitteen maan muuttaminen voi aiheuttaa tilauksen muutoksia. Varmista, että maa on oikea.";
+"not_support_delivery_remind" = "Valitettavasti toimitusta tähän osavaltioon ei tueta";
+"select_all_region_window" = "Valitse alue";
+"adress_book_first_order_remind_window1" = "Saada";
+"adress_book_first_order_remind_window2" = "pois kuponki, jos tallennat osoitteen nyt!";
+"adress_book_first_order_remind_window3" = "Älä missaa tätä kauppaa, saatavana vain nyt";
+"adress_book_first_order_remind_window4" = "Jatka add osoite";
+"adress_book_first_order_remind_window4" = "Ei, kiitos";

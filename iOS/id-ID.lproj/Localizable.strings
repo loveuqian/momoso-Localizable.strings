@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "KUPON BERUNTUNG!";
 "payment_success_coupoun_get_it_now" = "DAPATKAN SEKARANG";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "BELI SEKARANG";
+"manage_adress_book_ec_title" = "Checkout Kilat";
+"change_select_region_remind" = "Mengubah negara alamat pengiriman Anda dapat menyebabkan beberapa perubahan dalam pesanan Anda. Harap konfirmasikan negara tersebut benar.";
+"not_support_delivery_remind" = "Maaf, pengiriman ke negara ini tidak didukung";
+"select_all_region_window" = "Pilih Region";
+"adress_book_first_order_remind_window1" = "Mendapatkan";
+"adress_book_first_order_remind_window2" = "off kupon jika Anda menyimpan alamat sekarang!";
+"adress_book_first_order_remind_window3" = "Jangan lewatkan kesepakatan ini, hanya tersedia sekarang";
+"adress_book_first_order_remind_window4" = "Lanjutkan alamat add";
+"adress_book_first_order_remind_window4" = "Tidak, terima kasih";

@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "KRIJG HET NU";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Koop het nu";
+"manage_adress_book_ec_title" = "Express Checkout";
+"change_select_region_remind" = "Het wijzigen van het land van uw verzendadres kan enkele wijzigingen in uw bestelling veroorzaken. Bevestig het land juist is.";
+"not_support_delivery_remind" = "Sorry, bezorging in deze staat wordt niet ondersteund";
+"select_all_region_window" = "Selecteer regio";
+"adress_book_first_order_remind_window1" = "Krijgen";
+"adress_book_first_order_remind_window2" = "kortingsbon als u nu adres opslaat!";
+"adress_book_first_order_remind_window3" = "Mis deze deal niet, nu alleen beschikbaar";
+"adress_book_first_order_remind_window4" = "Doorgaan adres toevoegen";
+"adress_book_first_order_remind_window4" = "Nee, dank je";

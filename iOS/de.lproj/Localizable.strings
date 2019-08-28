@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "LUCKY COUPON!";
 "payment_success_coupoun_get_it_now" = "HOL ES DIR JETZT";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "Kaufe es jetzt";
+"manage_adress_book_ec_title" = "Express Checkout";
+"change_select_region_remind" = "Ihre Lieferadresse Land ändern können einige Änderungen in Ihrer Bestellung führen. Bitte bestätigen Sie das Land richtig ist.";
+"not_support_delivery_remind" = "Leider Lieferung an diesen Staat wird nicht unterstützt";
+"select_all_region_window" = "Region wählen";
+"adress_book_first_order_remind_window1" = "Bekommen";
+"adress_book_first_order_remind_window2" = "wenn Sie Adresse jetzt sparen Rabatt Gutschein!";
+"adress_book_first_order_remind_window3" = "Verpassen Sie nicht diesen Deal verpassen, nur jetzt";
+"adress_book_first_order_remind_window4" = "Weiter Adresse hinzufügen";
+"adress_book_first_order_remind_window4" = "Nein, danke";

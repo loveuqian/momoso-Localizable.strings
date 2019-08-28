@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "COUCON LUCKY!";
 "payment_success_coupoun_get_it_now" = "NHẬN NGAY";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "MUA NGAY BÂY GIỜ";
+"manage_adress_book_ec_title" = "express Checkout";
+"change_select_region_remind" = "Thay đổi nước địa chỉ vận chuyển của bạn có thể gây ra một số thay đổi trong đơn đặt hàng. Vui lòng xác nhận quốc gia là chính xác.";
+"not_support_delivery_remind" = "Xin lỗi, giao hàng đến Nhà nước này không được hỗ trợ";
+"select_all_region_window" = "Chọn vùng";
+"adress_book_first_order_remind_window1" = "Nhận";
+"adress_book_first_order_remind_window2" = "phiếu giảm giá nếu bạn lưu địa chỉ bây giờ!";
+"adress_book_first_order_remind_window3" = "Đừng bỏ lỡ thỏa thuận này, chỉ có sẵn bây giờ";
+"adress_book_first_order_remind_window4" = "Tiếp tục địa chỉ add";
+"adress_book_first_order_remind_window4" = "Không, cám ơn";

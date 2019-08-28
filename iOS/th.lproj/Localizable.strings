@@ -1474,3 +1474,15 @@
 /////////////支付成功页优惠券命名////////////////////
 "payment_success_coupoun_name" = "คูปองโชคดี!";
 "payment_success_coupoun_get_it_now" = "รับตอนนี้";
+
+//////////3.13INTL版本////////////////
+"dp_buy_it_now_button" = "ซื้อเลย";
+"manage_adress_book_ec_title" = "การชำระเงินด่วน";
+"change_select_region_remind" = "การเปลี่ยนประเทศที่อยู่จัดส่งของคุณอาจทำให้เกิดการเปลี่ยนแปลงบางอย่างในการสั่งซื้อของคุณ โปรดยืนยันว่าประเทศนั้นถูกต้อง.";
+"not_support_delivery_remind" = "ขออภัยจัดส่งไปยังรัฐนี้ไม่ได้รับการสนับสนุน";
+"select_all_region_window" = "เลือกภูมิภาค";
+"adress_book_first_order_remind_window1" = "ได้รับ";
+"adress_book_first_order_remind_window2" = "ปิดคูปองหากคุณบันทึกที่อยู่ตอนนี้!";
+"adress_book_first_order_remind_window3" = "พลาดไม่ได้กับข้อตกลงนี้ใช้ได้เฉพาะในขณะนี้";
+"adress_book_first_order_remind_window4" = "เพิ่มที่อยู่ต่อไป";
+"adress_book_first_order_remind_window4" = "ไม่ขอบคุณ";
