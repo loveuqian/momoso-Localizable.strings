@@ -1485,4 +1485,6 @@
 "adress_book_first_order_remind_window2" = "ปิดคูปองหากคุณบันทึกที่อยู่ตอนนี้!";
 "adress_book_first_order_remind_window3" = "พลาดไม่ได้กับข้อตกลงนี้ใช้ได้เฉพาะในขณะนี้";
 "adress_book_first_order_remind_window4" = "เพิ่มที่อยู่ต่อไป";
-"adress_book_first_order_remind_window4" = "ไม่ขอบคุณ";
+"adress_book_first_order_remind_window5" = "ไม่ขอบคุณ";
+"adress_book_first_order_remind_window6" = "ขอแสดงความยินดีคุณได้รับ";
+"adress_book_first_order_remind_window7" = "นอกคูปองใช้คูปองของคุณในขั้นตอนต่อไป";

@@ -1485,4 +1485,6 @@
 "adress_book_first_order_remind_window2" = "off coupon se você salvar o endereço agora!";
 "adress_book_first_order_remind_window3" = "Não perca este negócio, só está disponível agora";
 "adress_book_first_order_remind_window4" = "Continue endereço add";
-"adress_book_first_order_remind_window4" = "Não, obrigado";
+"adress_book_first_order_remind_window5" = "Não, obrigado";
+"adress_book_first_order_remind_window6" = "Parabéns, você tem um";
+"adress_book_first_order_remind_window7" = "off cupom, usar seu cupom no próximo passo";

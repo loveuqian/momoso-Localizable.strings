@@ -1485,4 +1485,6 @@
 "adress_book_first_order_remind_window2" = "pois kuponki, jos tallennat osoitteen nyt!";
 "adress_book_first_order_remind_window3" = "Älä missaa tätä kauppaa, saatavana vain nyt";
 "adress_book_first_order_remind_window4" = "Jatka add osoite";
-"adress_book_first_order_remind_window4" = "Ei, kiitos";
+"adress_book_first_order_remind_window5" = "Ei, kiitos";
+"adress_book_first_order_remind_window6" = "Onnittelut, sinulla";
+"adress_book_first_order_remind_window7" = "pois kuponki, käytä kuponki seuraavassa vaiheessa";

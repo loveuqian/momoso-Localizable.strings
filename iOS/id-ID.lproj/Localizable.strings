@@ -1485,4 +1485,6 @@
 "adress_book_first_order_remind_window2" = "off kupon jika Anda menyimpan alamat sekarang!";
 "adress_book_first_order_remind_window3" = "Jangan lewatkan kesepakatan ini, hanya tersedia sekarang";
 "adress_book_first_order_remind_window4" = "Lanjutkan alamat add";
-"adress_book_first_order_remind_window4" = "Tidak, terima kasih";
+"adress_book_first_order_remind_window5" = "Tidak, terima kasih";
+"adress_book_first_order_remind_window6" = "Selamat, Anda mendapat";
+"adress_book_first_order_remind_window7" = "off kupon, menggunakan kupon Anda di langkah berikutnya";

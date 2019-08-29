@@ -1485,4 +1485,6 @@
 "adress_book_first_order_remind_window2" = "off kupong Hvis du lagrer adressen nå!";
 "adress_book_first_order_remind_window3" = "Ikke gå glipp av denne avtalen, bare tilgjengelig nå";
 "adress_book_first_order_remind_window4" = "Fortsett add-adresse";
-"adress_book_first_order_remind_window4" = "Nei takk";
+"adress_book_first_order_remind_window5" = "Nei takk";
+"adress_book_first_order_remind_window6" = "Gratulasjonen, du fikk en";
+"adress_book_first_order_remind_window7" = "off kupong, bruk kupongen i neste trinn";
