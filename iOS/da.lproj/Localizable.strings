@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Nej, tak";
 "adress_book_first_order_remind_window6" = "Tillykke, du fik en";
 "adress_book_first_order_remind_window7" = "off-kupon, brug din kupon i næste trin";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Slet elementer";
+"cart-delete_more_item" = "Slet dette element";

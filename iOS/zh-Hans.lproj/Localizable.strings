@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "不用了, 谢谢";
 "adress_book_first_order_remind_window6" = "恭喜你，你有一个";
 "adress_book_first_order_remind_window7" = "的优惠券，请在下一步使用您的优惠券";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "删除此商品";
+"cart-delete_more_item" = "这些商品将被删除";

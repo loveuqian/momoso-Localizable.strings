@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "ไม่ขอบคุณ";
 "adress_book_first_order_remind_window6" = "ขอแสดงความยินดีคุณได้รับ";
 "adress_book_first_order_remind_window7" = "นอกคูปองใช้คูปองของคุณในขั้นตอนต่อไป";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "ลบรายการ";
+"cart-delete_more_item" = "ลบรายการนี้";

@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Ne, díky";
 "adress_book_first_order_remind_window6" = "Gratuluji, máš";
 "adress_book_first_order_remind_window7" = "off kupon, používat svůj kupón v dalším kroku";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Odstranit položky";
+"cart-delete_more_item" = "Odstranit tuto položku";

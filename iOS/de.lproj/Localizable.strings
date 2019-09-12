@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Nein, danke";
 "adress_book_first_order_remind_window6" = "Glückwunsch, du hast eine";
 "adress_book_first_order_remind_window7" = "Verwenden Sie Ihren Gutschein im nächsten Schritt";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Elemente löschen";
+"cart-delete_more_item" = "Diesen Artikel löschen";

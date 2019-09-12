@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Non, merci";
 "adress_book_first_order_remind_window6" = "Félicitation, vous avez un";
 "adress_book_first_order_remind_window7" = "coupon rabais, utilisez votre coupon à l'étape suivante";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Supprimer des éléments";
+"cart-delete_more_item" = "Supprimer cet élément";

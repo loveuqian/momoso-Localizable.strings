@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Ei, kiitos";
 "adress_book_first_order_remind_window6" = "Onnittelut, sinulla";
 "adress_book_first_order_remind_window7" = "pois kuponki, käytä kuponki seuraavassa vaiheessa";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Poista kohteita";
+"cart-delete_more_item" = "Poista tämä";

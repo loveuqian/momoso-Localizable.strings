@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Nie, dziękuję";
 "adress_book_first_order_remind_window6" = "Gratulacje, masz";
 "adress_book_first_order_remind_window7" = "kupon zniżkowy, wykorzystania kuponu w następnym kroku";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Usuń elementy";
+"cart-delete_more_item" = "Usuń ten element";

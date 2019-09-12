@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Không, cám ơn";
 "adress_book_first_order_remind_window6" = "Xin chúc mừng, bạn đã có một";
 "adress_book_first_order_remind_window7" = "phiếu giảm giá, sử dụng phiếu giảm giá của bạn trong bước tiếp theo";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Xóa mục";
+"cart-delete_more_item" = "Xóa mục này";

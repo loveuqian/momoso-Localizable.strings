@@ -1488,3 +1488,7 @@
 "adress_book_first_order_remind_window5" = "Nej, tack";
 "adress_book_first_order_remind_window6" = "Grattis, du har en";
 "adress_book_first_order_remind_window7" = "off-kupong, använd din kupong i nästa steg";
+
+//////////////购物车商品数量管理/////////////////
+"cart_delete_one_item" = "Radera objekt";
+"cart-delete_more_item" = "Radera den här artikeln";
