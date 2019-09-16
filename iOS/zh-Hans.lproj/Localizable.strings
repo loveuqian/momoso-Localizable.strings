@@ -1491,4 +1491,4 @@
 
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "删除此商品";
-"cart-delete_more_item" = "这些商品将被删除";
+"cart_delete_more_item" = "这些商品将被删除";

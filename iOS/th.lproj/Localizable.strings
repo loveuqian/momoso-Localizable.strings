@@ -1491,4 +1491,4 @@
 
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "ลบรายการ";
-"cart-delete_more_item" = "ลบรายการนี้";
+"cart_delete_more_item" = "ลบรายการนี้";

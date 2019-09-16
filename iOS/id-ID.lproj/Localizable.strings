@@ -1491,4 +1491,4 @@
 
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "Hapus Item";
-"cart-delete_more_item" = "Hapus Barang Ini";
+"cart_delete_more_item" = "Hapus Barang Ini";

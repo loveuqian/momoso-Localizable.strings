@@ -1491,4 +1491,4 @@
 
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "Excluir itens";
-"cart-delete_more_item" = "Excluir este item";
+"cart_delete_more_item" = "Excluir este item";
