@@ -1492,3 +1492,38 @@
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "Excluir itens";
 "cart_delete_more_item" = "Excluir este item";
+
+///////////4.0版本翻译//////////
+"all_order_page_no_order_below" = "Você não fez nenhum pedido.";///空订单页面提示
+"all_order_page_no_order_title_remiand" = "Os produtos de diferentes lojas será dividido em várias parcelas e enviado a você.";///订单页顶部提醒
+"order_list_page_order_number" = "Ordem NÃO.";///订单列表订单号
+"order_list_page_deleted_order" = "Excluído";///订单列表删除订单
+"order_list_page_order_status1" = "Processando reembolso";///订单状态退款
+"order_list_page_order_status2" = "Entrega";///订单状态收货
+"order_detail_order_pay_tax" = "Taxas incluídas";///订单详情含税
+"order_detail_order_pay_method" = "Forma de pagamento";///订单详情支付方式
+"order_detail_order_unpaid_time" = "Termina em:";///订单详情倒计时
+"order_detail_order_unpaid_paynow" = "Pague agora";///订单详情继续支付
+"order_detail_deleted_order_window1" = "Excluir pedido";///详情页删除订单弹窗
+"order_detail_deleted_order_window2" = "Confirmar para excluir este pedido?";///详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "Anular Motivo: Order Expired";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason2" = "Anular Order";///详情页取消订单弹窗
+"order_detail_cancel_order_reason3" = "Por favor, escreva o motivo do cancelamento";///详情页取消订单弹窗
+"order_detail_cancel_order_reason4" = "Digite sua mensagem detalhada.";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "Fim cancelar sucesso";///详情页取消订单弹窗
+"order_detail_order_logistics1" = "Informações Logísticas";///详情页订单物流标题
+"order_detail_order_logistics2" = "Nº de rastreamento";///详情页订单物流订单号
+"order_detail_order_logistics3" = "Padding";///物流
+"order_detail_order_logistics4" = "Seu pedido foi recebido e está sendo processado";///物流
+"order_detail_order_logistics5" = "Seu pedido foi confirmado";///物流
+"order_detail_order_logistics6" = "Seu pedido está sendo enviado para o armazém de transporte internacional";///物流
+"order_detail_order_logistics7" = "Seu pacote está a caminho";///物流
+"hmoe_page_order_logistics" = "Atualização de Remessa";///首页物流
+"hmoe_page_bottom_button1" = "Combinado";///首页
+"hmoe_page_bottom_button2" = "Eu";///首页
+"home_page_me_person_follower" = "Seguidor";///首页个人
+"home_page_me_order_show" = "Ver tudo";///首页个人
+"item_dp_customer_comment1" = "Avaliações de Clientes";///DP评论
+"item_dp_customer_comment2" = "Avaliações";///DP评论
+"address_page_input_email_prompt1" = "E-mail deve ser introduzido";///地址页填写邮件提示
+"address_page_input_email_prompt2" = "Entre com um email válido";///地址页填写邮件提示

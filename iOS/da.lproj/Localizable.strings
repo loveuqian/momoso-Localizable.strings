@@ -1492,3 +1492,38 @@
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "Slet elementer";
 "cart_delete_more_item" = "Slet dette element";
+
+///////////4.0版本翻译//////////
+"all_order_page_no_order_below" = "Du har ikke lavet nogen ordrer.";///空订单页面提示
+"all_order_page_no_order_title_remiand" = "Produkterne fra forskellige butikker opdeles i flere pakker og sendes til dig.";///订单页顶部提醒
+"order_list_page_order_number" = "Ordre nummer.";///订单列表订单号
+"order_list_page_deleted_order" = "slettet";///订单列表删除订单
+"order_list_page_order_status1" = "Behandler refusion";///订单状态退款
+"order_list_page_order_status2" = "Levering";///订单状态收货
+"order_detail_order_pay_tax" = "Skat inkluderet";///订单详情含税
+"order_detail_order_pay_method" = "Betalingsmetode";///订单详情支付方式
+"order_detail_order_unpaid_time" = "Ender i:";///订单详情倒计时
+"order_detail_order_unpaid_paynow" = "Betal nu";///订单详情继续支付
+"order_detail_deleted_order_window1" = "Slet ordre";///详情页删除订单弹窗
+"order_detail_deleted_order_window2" = "Bekræft for at slette denne ordre?";///详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "Annuller Årsag: Bestilling udløbet";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason2" = "Annuller ordre";///详情页取消订单弹窗
+"order_detail_cancel_order_reason3" = "Skriv din årsag til aflysning";///详情页取消订单弹窗
+"order_detail_cancel_order_reason4" = "Indtast din detaljerede meddelelse.";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "Bestil annullere succes";///详情页取消订单弹窗
+"order_detail_order_logistics1" = "Logistik Information";///详情页订单物流标题
+"order_detail_order_logistics2" = "Tracking Antal";///详情页订单物流订单号
+"order_detail_order_logistics3" = "Foring";///物流
+"order_detail_order_logistics4" = "Din ordre er modtaget og behandles";///物流
+"order_detail_order_logistics5" = "Din ordre er bekræftet";///物流
+"order_detail_order_logistics6" = "Din ordre sendes til det internationale transitlager";///物流
+"order_detail_order_logistics7" = "Din pakke er på vej";///物流
+"hmoe_page_order_logistics" = "forsendelse opdatering";///首页物流
+"hmoe_page_bottom_button1" = "Del";///首页
+"hmoe_page_bottom_button2" = "Mig";///首页
+"home_page_me_person_follower" = "Efterfølger";///首页个人
+"home_page_me_order_show" = "Se alt";///首页个人
+"item_dp_customer_comment1" = "kunde anmeldelser";///DP评论
+"item_dp_customer_comment2" = "Vurderinger";///DP评论
+"address_page_input_email_prompt1" = "E-mail skal indtastes";///地址页填写邮件提示
+"address_page_input_email_prompt2" = "Indtast en gyldig e-mail";///地址页填写邮件提示

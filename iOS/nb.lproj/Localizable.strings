@@ -1492,3 +1492,38 @@
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "Slett elementer";
 "cart_delete_more_item" = "Slett denne varen";
+
+///////////4.0版本翻译//////////
+"all_order_page_no_order_below" = "Du har ikke gitt noen bestillinger.";///空订单页面提示
+"all_order_page_no_order_title_remiand" = "Produktene fra forskjellige butikker blir delt opp i flere pakker og sendt til deg.";///订单页顶部提醒
+"order_list_page_order_number" = "Ordrenr.";///订单列表订单号
+"order_list_page_deleted_order" = "Slettede";///订单列表删除订单
+"order_list_page_order_status1" = "Behandler refusjon";///订单状态退款
+"order_list_page_order_status2" = "Leveranse";///订单状态收货
+"order_detail_order_pay_tax" = "Avgift inkludert";///订单详情含税
+"order_detail_order_pay_method" = "Betalingsmetode";///订单详情支付方式
+"order_detail_order_unpaid_time" = "Slutter på:";///订单详情倒计时
+"order_detail_order_unpaid_paynow" = "Betal nå";///订单详情继续支付
+"order_detail_deleted_order_window1" = "Slett Bestill";///详情页删除订单弹窗
+"order_detail_deleted_order_window2" = "Bekrefte å slette denne bestillingen?";///详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "Avbryt Årsak: Bestilling utløpt";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason2" = "Avbryt ordre";///详情页取消订单弹窗
+"order_detail_cancel_order_reason3" = "Vennligst skriv din årsak til kansellering";///详情页取消订单弹窗
+"order_detail_cancel_order_reason4" = "Vennligst skriv inn den detaljerte meldingen.";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "Bestill avbryt suksess";///详情页取消订单弹窗
+"order_detail_order_logistics1" = "Logistics Information";///详情页订单物流标题
+"order_detail_order_logistics2" = "Sporingsnr.";///详情页订单物流订单号
+"order_detail_order_logistics3" = "Pakninger";///物流
+"order_detail_order_logistics4" = "Bestillingen din er mottatt og behandles";///物流
+"order_detail_order_logistics5" = "Bestillingen din er bekreftet";///物流
+"order_detail_order_logistics6" = "Bestillingen din sendes til det internasjonale transittlageret";///物流
+"order_detail_order_logistics7" = "Pakken din er på vei";///物流
+"hmoe_page_order_logistics" = "forsendelse Update";///首页物流
+"hmoe_page_bottom_button1" = "Avtale";///首页
+"hmoe_page_bottom_button2" = "Meg";///首页
+"home_page_me_person_follower" = "Follower";///首页个人
+"home_page_me_order_show" = "Se alt";///首页个人
+"item_dp_customer_comment1" = "Kunde anmeldelser";///DP评论
+"item_dp_customer_comment2" = "Evalueringer";///DP评论
+"address_page_input_email_prompt1" = "E-post må legges inn";///地址页填写邮件提示
+"address_page_input_email_prompt2" = "Skriv inn en gyldig e-post";///地址页填写邮件提示

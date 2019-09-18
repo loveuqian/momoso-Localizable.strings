@@ -1492,3 +1492,38 @@
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "ลบรายการ";
 "cart_delete_more_item" = "ลบรายการนี้";
+
+///////////4.0版本翻译//////////
+"all_order_page_no_order_below" = "คุณยังไม่ได้ทำการสั่งซื้อใด ๆ";///空订单页面提示
+"all_order_page_no_order_title_remiand" = "ผลิตภัณฑ์จากร้านค้าต่าง ๆ จะถูกแบ่งออกเป็นหลายหีบห่อและส่งถึงคุณ";///订单页顶部提醒
+"order_list_page_order_number" = "หมายเลขสั่งซื้อ";///订单列表订单号
+"order_list_page_deleted_order" = "ที่ถูกลบ";///订单列表删除订单
+"order_list_page_order_status1" = "กำลังดำเนินการคืนเงิน";///订单状态退款
+"order_list_page_order_status2" = "จัดส่งสินค้า";///订单状态收货
+"order_detail_order_pay_tax" = "รวมภาษี";///订单详情含税
+"order_detail_order_pay_method" = "วิธีการชำระเงิน";///订单详情支付方式
+"order_detail_order_unpaid_time" = "สิ้นสุดใน:";///订单详情倒计时
+"order_detail_order_unpaid_paynow" = "จ่ายตอนนี้";///订单详情继续支付
+"order_detail_deleted_order_window1" = "ลบคำสั่งซื้อ";///详情页删除订单弹窗
+"order_detail_deleted_order_window2" = "ยืนยันการลบคำสั่งซื้อนี้หรือไม่";///详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "ยกเลิกเหตุผล: คำสั่งหมดอายุ";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason2" = "ยกเลิกคำสั่งซื้อ";///详情页取消订单弹窗
+"order_detail_cancel_order_reason3" = "กรุณาเขียนเหตุผลของคุณสำหรับการยกเลิก";///详情页取消订单弹窗
+"order_detail_cancel_order_reason4" = "โปรดป้อนข้อความโดยละเอียดของคุณ";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "ยกเลิกคำสั่งสำเร็จ";///详情页取消订单弹窗
+"order_detail_order_logistics1" = "ข้อมูลโลจิสติก";///详情页订单物流标题
+"order_detail_order_logistics2" = "ติดตามเลขที่";///详情页订单物流订单号
+"order_detail_order_logistics3" = "การขยายความ";///物流
+"order_detail_order_logistics4" = "ใบสั่งซื้อของคุณได้รับแล้วและกำลังดำเนินการอยู่";///物流
+"order_detail_order_logistics5" = "ใบสั่งซื้อของคุณได้รับการยืนยันแล้ว";///物流
+"order_detail_order_logistics6" = "คำสั่งซื้อของคุณกำลังถูกจัดส่งไปยังคลังสินค้าการขนส่งระหว่างประเทศ";///物流
+"order_detail_order_logistics7" = "แพ็คเกจของคุณกำลังจะไป";///物流
+"hmoe_page_order_logistics" = "อัพเดทการจัดส่ง";///首页物流
+"hmoe_page_bottom_button1" = "จัดการ";///首页
+"hmoe_page_bottom_button2" = "ฉัน";///首页
+"home_page_me_person_follower" = "ลูกศิษย์";///首页个人
+"home_page_me_order_show" = "ดูทั้งหมด";///首页个人
+"item_dp_customer_comment1" = "ความคิดเห็นของลูกค้า";///DP评论
+"item_dp_customer_comment2" = "ความนิยม";///DP评论
+"address_page_input_email_prompt1" = "อีเมล์จะต้องมีการป้อนข้อมูล";///地址页填写邮件提示
+"address_page_input_email_prompt2" = "ป้อนอีเมลที่ถูกต้อง";///地址页填写邮件提示

@@ -1492,3 +1492,38 @@
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "删除此商品";
 "cart_delete_more_item" = "这些商品将被删除";
+
+///////////4.0版本翻译//////////
+"all_order_page_no_order_below" = "你还没有订单.";///空订单页面提示
+"all_order_page_no_order_title_remiand" = "来自不同商店的产品将会分成几个包裹发送给您.";///订单页顶部提醒
+"order_list_page_order_number" = "订单号.";///订单列表订单号
+"order_list_page_deleted_order" = "删除";///订单列表删除订单
+"order_list_page_order_status1" = "处理退款中";///订单状态退款
+"order_list_page_order_status2" = "收货";///订单状态收货
+"order_detail_order_pay_tax" = "含税";///订单详情含税
+"order_detail_order_pay_method" = "付款方式";///订单详情支付方式
+"order_detail_order_unpaid_time" = "结束：";///订单详情倒计时
+"order_detail_order_unpaid_paynow" = "现在下单";///订单详情继续支付
+"order_detail_deleted_order_window1" = "删除订单";///详情页删除订单弹窗
+"order_detail_deleted_order_window2" = "确认删除此订单?";///详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "取消原因: 订单已过期";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason2" = "取消订单";///详情页取消订单弹窗
+"order_detail_cancel_order_reason3" = "请写下您取消的原因";///详情页取消订单弹窗
+"order_detail_cancel_order_reason4" = "请输入详细信息.";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "订单取消成功";///详情页取消订单弹窗
+"order_detail_order_logistics1" = "物流信息";///详情页订单物流标题
+"order_detail_order_logistics2" = "物流追踪号.";///详情页订单物流订单号
+"order_detail_order_logistics3" = "进行中";///物流
+"order_detail_order_logistics4" = "您的订单已收到并正在处理中";///物流
+"order_detail_order_logistics5" = "您的订单已经确认";///物流
+"order_detail_order_logistics6" = "您的订单将被运送到国际运输仓库";///物流
+"order_detail_order_logistics7" = "您的包裹正在路上";///物流
+"hmoe_page_order_logistics" = "物流更新";///首页物流
+"hmoe_page_bottom_button1" = "首页";///首页
+"hmoe_page_bottom_button2" = "我的";///首页
+"home_page_me_person_follower" = "粉丝";///首页个人
+"home_page_me_order_show" = "查看全部";///首页个人
+"item_dp_customer_comment1" = "用户名评论";///DP评论
+"item_dp_customer_comment2" = "评级";///DP评论
+"address_page_input_email_prompt1" = "电子邮件必须输入";///地址页填写邮件提示
+"address_page_input_email_prompt2" = "请输入有效的电子邮件";///地址页填写邮件提示

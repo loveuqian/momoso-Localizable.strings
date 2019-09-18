@@ -1492,3 +1492,38 @@
 //////////////购物车商品数量管理/////////////////
 "cart_delete_one_item" = "Radera objekt";
 "cart_delete_more_item" = "Radera den här artikeln";
+
+///////////4.0版本翻译//////////
+"all_order_page_no_order_below" = "Du har inte gjort några beställningar.";///空订单页面提示
+"all_order_page_no_order_title_remiand" = "Produkterna från olika butiker delas upp i flera paket och skickas till dig.";///订单页顶部提醒
+"order_list_page_order_number" = "Beställningsnr.";///订单列表订单号
+"order_list_page_deleted_order" = "raderade";///订单列表删除订单
+"order_list_page_order_status1" = "Bearbetar återbetalning";///订单状态退款
+"order_list_page_order_status2" = "Leverans";///订单状态收货
+"order_detail_order_pay_tax" = "Skatt ingår";///订单详情含税
+"order_detail_order_pay_method" = "Betalningsmetod";///订单详情支付方式
+"order_detail_order_unpaid_time" = "Slutar på:";///订单详情倒计时
+"order_detail_order_unpaid_paynow" = "Betala nu";///订单详情继续支付
+"order_detail_deleted_order_window1" = "Radera order";///详情页删除订单弹窗
+"order_detail_deleted_order_window2" = "Bekräfta att ta bort denna order?";///详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "Avbryt orsak: Beställningen har gått ut";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason2" = "Avbryt beställning";///详情页取消订单弹窗
+"order_detail_cancel_order_reason3" = "Vänligen skriv din anledning till avbokningen";///详情页取消订单弹窗
+"order_detail_cancel_order_reason4" = "Ange ditt detaljerade meddelande.";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "Beställ avbryta framgång";///详情页取消订单弹窗
+"order_detail_order_logistics1" = "Logistikinformation";///详情页订单物流标题
+"order_detail_order_logistics2" = "Spårningsnummer.";///详情页订单物流订单号
+"order_detail_order_logistics3" = "Stoppning";///物流
+"order_detail_order_logistics4" = "Din beställning har mottagits och behandlas";///物流
+"order_detail_order_logistics5" = "Din beställning har bekräftats";///物流
+"order_detail_order_logistics6" = "Din beställning skickas till det internationella transitlagret";///物流
+"order_detail_order_logistics7" = "Ditt paket är på väg";///物流
+"hmoe_page_order_logistics" = "sändning Update";///首页物流
+"hmoe_page_bottom_button1" = "Handla";///首页
+"hmoe_page_bottom_button2" = "Mig";///首页
+"home_page_me_person_follower" = "Efterföljare";///首页个人
+"home_page_me_order_show" = "Visa alla";///首页个人
+"item_dp_customer_comment1" = "Recensioner";///DP评论
+"item_dp_customer_comment2" = "Omdömen";///DP评论
+"address_page_input_email_prompt1" = "E-post måste anges";///地址页填写邮件提示
+"address_page_input_email_prompt2" = "Ange ett giltigt e-postmeddelande";///地址页填写邮件提示
