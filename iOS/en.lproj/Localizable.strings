@@ -1248,7 +1248,7 @@
 
 //////////////////////// 购物车 //////////////////////////////
 "cart_invalid_items" = "Invalid Items";
-"cart_clear_items" = "Clear Invalid Items";
+"cart_clear_items" = "Clear items";
 "cart_message" = "Confirm empty invalid item(s)?";
 "cart_cancel" = "Cancel";
 "cart_delete" = "Delete";

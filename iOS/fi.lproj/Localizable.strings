@@ -1248,7 +1248,7 @@
 
 //////////////////////// 购物 车 //////////////////////// //////
 "cart_invalid_items" = "Virheelliset kohteet";
-"cart_clear_items" = "Poista virheelliset kohteet";
+"cart_clear_items" = "Poista kohteet";
 "cart_message" = "Vahvista tyhjät kelpaamattomat kohteet?";
 "cart_cancel" = "Peruuta";
 "cart_delete" = "Poista";

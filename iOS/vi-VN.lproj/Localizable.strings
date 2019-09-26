@@ -1248,7 +1248,7 @@
 
 //////////////////////// 购物车 //////////////////////////////
 "cart_invalid_items" = "Mục không hợp lệ";
-"cart_clear_items" = "Xóa các mục không hợp lệ";
+"cart_clear_items" = "rõ ràng mục";
 "cart_message" = "Xác nhận (các) mục không hợp lệ trống?";
 "cart_cancel" = "Hủy bỏ";
 "cart_delete" = "Xóa bỏ";

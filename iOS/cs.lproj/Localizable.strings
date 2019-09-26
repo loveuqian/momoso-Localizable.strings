@@ -1248,7 +1248,7 @@
 
 ////////////////////////////////////////////////////////////////////////////////////////////////// //////////// //////
 "cart_invalid_items" = "Neplatné položky";
-"cart_clear_items" = "Vymazat neplatné položky";
+"cart_clear_items" = "Vymazat položky";
 "cart_message" = "Potvrďte prázdné neplatné položky?";
 "cart_cancel" = "Zrušit";
 "cart_delete" = "Odstranit";

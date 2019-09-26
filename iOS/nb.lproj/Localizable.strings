@@ -1248,7 +1248,7 @@
 
 //////////////////////// 购物 车 //////////////////////// //////
 "cart_invalid_items" = "Ugyldige elementer";
-"cart_clear_items" = "Fjern ugyldige elementer";
+"cart_clear_items" = "klare elementer";
 "cart_message" = "Bekreft tom ugyldige element(e)?";
 "cart_cancel" = "Cancel";
 "cart_delete" = "Delete";

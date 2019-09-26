@@ -1248,7 +1248,7 @@
 
 //////////////////////////////////. //////
 "cart_invalid_items" = "Nieprawidłowe elementy";
-"cart_clear_items" = "Wyczyść niepoprawne elementy";
+"cart_clear_items" = "Usunąć przedmioty";
 "cart_message" = "Potwierdź puste nieprawidłowe elementy?";
 "cart_cancel" = "Anuluj";
 "cart_delete" = "Usuń";

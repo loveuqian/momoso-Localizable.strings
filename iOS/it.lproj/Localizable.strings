@@ -1248,7 +1248,7 @@
 
 //////////////////////// carrello //////////////////////// //////
 "cart_invalid_items" = "Articoli non validi";
-"cart_clear_items" = "Cancella elementi non validi";
+"cart_clear_items" = "elementi chiaris";
 "cart_message" = "Conferma gli articoli non validi vuoti?";
 "cart_cancel" = "Annulla";
 "cart_delete" = "Elimina";
