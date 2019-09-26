@@ -1537,6 +1537,7 @@
 "hmoe_page_bottom_button3" = "Insta";///首页
 "home_page_me_person_follower" = "Người theo dõi";///首页个人
 "home_page_me_order_show" = "Xem tất cả";///首页个人
+"home_page_me_title" = "Tiểu sử của tôi";
 "home_page_me_no_sign_in" = "Nhấn vào đây để đăng nhập";///首页个人未登录
 "home_page_me_setting_update" = "Cập nhật ứng dụng";///首页个人设置
 "home_page_me_order_show1" = "Đơn đặt hàng của tôi";
