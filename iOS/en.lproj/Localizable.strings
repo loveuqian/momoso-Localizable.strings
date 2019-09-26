@@ -1537,6 +1537,8 @@
 "hmoe_page_bottom_button3" = "Insta";///首页
 "home_page_me_person_follower" = "Follower";///首页个人
 "home_page_me_order_show" = "View All";///首页个人
+"home_page_me_no_sign_in" = "Click to sign in";///首页个人未登录
+"home_page_me_setting_update" = "Update App";///首页个人设置
 "home_page_me_order_show1" = "My Orders";
 "home_page_me_address" = "Address";
 "home_page_me_my_wallet" = "My Wallet";
