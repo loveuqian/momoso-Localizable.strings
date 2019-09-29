@@ -1550,6 +1550,7 @@
 "item_search_no_result_page3" = "Znaleźliśmy kilka podobnych produktów może Cię zainteresować :)";
 "address_page_input_email_prompt1" = "E-mail musi być wejście";///地址页填写邮件提示
 "address_page_input_email_prompt2" = "Wpisz poprawny email";///地址页填写邮件提示
+"address_page_input_email_title" = "E-mail";///地址的email标题
 "order_list_order_statu1" = "Nie zapłacony";///订单及商品状态
 "order_list_order_statu2" = "Detal";
 "order_list_order_statu3" = "Płacić";

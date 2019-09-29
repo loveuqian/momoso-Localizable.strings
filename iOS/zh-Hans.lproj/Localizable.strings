@@ -1550,6 +1550,7 @@
 "item_search_no_result_page3" = "我们找到了一些您可能喜欢的类似产品: )";
 "address_page_input_email_prompt1" = "电子邮件必须输入";///地址页填写邮件提示
 "address_page_input_email_prompt2" = "请输入有效的电子邮件";///地址页填写邮件提示
+"address_page_input_email_title" = "邮箱";///地址的email标题
 "order_list_order_statu1" = "未付款";///订单及商品状态
 "order_list_order_statu2" = "详情";
 "order_list_order_statu3" = "支付";

@@ -1550,6 +1550,7 @@
 "item_search_no_result_page3" = "Vi fant noen lignende produkter du kanskje vil like :)";
 "address_page_input_email_prompt1" = "E-post må legges inn";///地址页填写邮件提示
 "address_page_input_email_prompt2" = "Skriv inn en gyldig e-post";///地址页填写邮件提示
+"address_page_input_email_title" = "Epost";///地址的email标题
 "order_list_order_statu1" = "Skyldige";///订单及商品状态
 "order_list_order_statu2" = "Detalj";
 "order_list_order_statu3" = "Betale";

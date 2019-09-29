@@ -1550,6 +1550,7 @@
 "item_search_no_result_page3" = "Našli jsme nějaké podobné produkty, které by se vám mohly líbit :)";
 "address_page_input_email_prompt1" = "E-mail musí být zadán";///地址页填写邮件提示
 "address_page_input_email_prompt2" = "Zadejte platný e-mail";///地址页填写邮件提示
+"address_page_input_email_title" = "E-mailem";///地址的email标题
 "order_list_order_statu1" = "nezaplacený";///订单及商品状态
 "order_list_order_statu2" = "Detail";
 "order_list_order_statu3" = "Platit";
