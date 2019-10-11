@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "Logistika";
 "order_list_order_statu18" = "Celkový:";
 "order_list_order_statu19" = "Vrácení";
+"address_page_zip_code_prompt1" = "Váš ZIP/PSČ by mělo být"; /// 地址 页 ZipCode 提示
+"address_page_zip_code_prompt2" = "digits";
+"address_page_zip_code_prompt3" = "alfanumerický kód";
+"address_page_zip_code_prompt4" = "with '-' ve formátu 11-111";
+"address_page_zip_code_prompt5" = "with '-' ve formátu 1111-111";
+"address_page_zip_code_prompt6" = "s '-' ve formátu 11111-1111";

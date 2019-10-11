@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "Logistics";
 "order_list_order_statu18" = "Total:";
 "order_list_order_statu19" = "Refund";
+"address_page_zip_code_prompt1" = "Your ZIP/Post Code should be a";///地址页ZipCode提示
+"address_page_zip_code_prompt2" = "digits";
+"address_page_zip_code_prompt3" = "alphanumeric code";
+"address_page_zip_code_prompt4" = "with '-' in the format 11-111";
+"address_page_zip_code_prompt5" = "with '-' in the format 1111-111";
+"address_page_zip_code_prompt6" = "with '-' in the format 11111–1111";

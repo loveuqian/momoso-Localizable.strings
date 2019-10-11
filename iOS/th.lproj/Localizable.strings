@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "โลจิสติ";
 "order_list_order_statu18" = "ทั้งหมด:";
 "order_list_order_statu19" = "คืนเงินให้";
+"address_page_zip_code_prompt1" = "รหัสไปรษณีย์/รหัสไปรษณีย์ของคุณควรเป็น"; /// 地址页 ZipCode 提示
+"address_page_zip_code_prompt2" = "ตัวเลข";
+"address_page_zip_code_prompt3" = "รหัสตัวอักษรและตัวเลข";
+"address_page_zip_code_prompt4" = "กับ '-' ในรูปแบบ 11-111";
+"address_page_zip_code_prompt5" = "ด้วย '-' ในรูปแบบ 1111-111";
+"address_page_zip_code_prompt6" = "ด้วย '-' ในรูปแบบ 11111–1111";

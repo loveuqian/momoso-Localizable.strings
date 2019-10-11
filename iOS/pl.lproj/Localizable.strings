@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "Logistyka";
 "order_list_order_statu18" = "Łączny:";
 "order_list_order_statu19" = "Refundować";
+"address_page_zip_code_prompt1" = "Twój kod pocztowy/pocztowy powinien mieć postać"; /// 地址 页 Kod pocztowy 提示
+"address_page_zip_code_prompt2" = "cyfry";
+"address_page_zip_code_prompt3" = "kod alfanumeryczny";
+"address_page_zip_code_prompt4" = "z '-' w formacie 11-111";
+"address_page_zip_code_prompt5" = "z '-' w formacie 1111-111";
+"address_page_zip_code_prompt6" = "z '-' w formacie 11111–1111";

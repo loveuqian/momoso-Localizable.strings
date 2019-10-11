@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "Logistiikka";
 "order_list_order_statu18" = "Kokonais:";
 "order_list_order_statu19" = "Maksun palautus";
+"address_page_zip_code_prompt1" = "Postinumerosi tulisi olla"; /// 地址 页 Postinumero 提示
+"address_page_zip_code_prompt2" = "numerot";
+"address_page_zip_code_prompt3" = "aakkosnumeerinen koodi";
+"address_page_zip_code_prompt4" = "-merkillä '-' muodossa 11-111";
+"address_page_zip_code_prompt5" = "-merkillä '-' muodossa 1111-111";
+"address_page_zip_code_prompt6" = "-merkillä '-' muodossa 11111–1111";

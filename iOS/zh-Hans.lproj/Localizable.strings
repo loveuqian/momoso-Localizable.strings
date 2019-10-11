@@ -1507,7 +1507,7 @@
 "order_detail_order_unpaid_paynow" = "现在下单";///订单详情继续支付
 "order_detail_deleted_order_window1" = "删除订单";///详情页删除订单弹窗
 "order_detail_deleted_order_window2" = "确认删除此订单?";///详情页删除订单弹窗
-"order_detail_cancel_order_reason1" = "取消原因";///b详情页删除订单弹窗
+"order_detail_cancel_order_reason1" = "取消原因:";///b详情页删除订单弹窗
 "order_detail_cancel_order_reason_1" = "订单已过期";
 "order_detail_cancel_order_reason_2" = "售罄";
 "order_detail_cancel_order_reason2" = "取消订单";///详情页取消订单弹窗
@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "物流";
 "order_list_order_statu18" = "总计:";
 "order_list_order_statu19" = "退款";
+"address_page_zip_code_prompt1" = "您的邮递区号应为";///地址页邮编提示
+"address_page_zip_code_prompt2" = "数字";
+"address_page_zip_code_prompt3" = "字母数字代码";
+"address_page_zip_code_prompt4" = "带有'-'格式为11-111";
+"address_page_zip_code_prompt5" = "带有'-'格式为1111-111";
+"address_page_zip_code_prompt6" = "带有'-'的格式为11111-1111";

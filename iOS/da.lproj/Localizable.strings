@@ -1570,3 +1570,9 @@
 "order_list_order_statu17" = "Logistik";
 "order_list_order_statu18" = "I alt:";
 "order_list_order_statu19" = "Tilbagebetaling";
+"address_page_zip_code_prompt1" = "Din postnummer skal være en"; /// 地址 页 ZipCode 提示
+"address_page_zip_code_prompt2" = "cifre";
+"address_page_zip_code_prompt3" = "alfanumerisk kode";
+"address_page_zip_code_prompt4" = "med '-' i formatet 11-111";
+"address_page_zip_code_prompt5" = "med '-' i formatet 1111-111";
+"address_page_zip_code_prompt6" = "med '-' i formatet 11111–1111";
