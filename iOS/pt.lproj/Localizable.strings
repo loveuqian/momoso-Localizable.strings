@@ -1063,7 +1063,7 @@
 
 //////////////////////////// log -login /////////////////// //////////////
 
-"login_login" = "pouso";
+"Login_login" = "pouso";
 "login_facebook" = "Facebook pouso";
 "login_phone" = "Phone pouso";
 "login_google" = "Google pouso";

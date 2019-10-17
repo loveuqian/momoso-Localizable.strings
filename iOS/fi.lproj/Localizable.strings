@@ -1063,7 +1063,7 @@
 
 //////////////////////////// 登录 -login /////////////////// //////////////
 
-"login_login" = "laskeutunut";
+"Login_login" = "laskeutunut";
 "login_facebook" = "Facebook-kirjautumistunnus";
 "login_phone" = "Phone-kirjautumistunnus";
 "login_google" = "Google-kirjautumistunnus";

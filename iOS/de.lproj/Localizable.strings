@@ -1063,7 +1063,7 @@
 
 //////////////////////////Login /////////////////// //////////////
 
-"login_login" = "Anmeldung";
+"Login_login" = "Anmeldung";
 "login_facebook" = "Mit Facebook einloggen";
 "login_phone" = "Mit Phone einloggen";
 "login_google" = "Mit Goole einloggen";

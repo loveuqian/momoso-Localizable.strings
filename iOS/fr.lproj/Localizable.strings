@@ -1063,7 +1063,7 @@
 
 ////////////////////////////// 登录 -login ///////////////////// //////////////
 
-"login_login" = "Ouverture de session";
+"Login_login" = "Ouverture de session";
 "login_facebook" = "Connectez-vous avec Facebook";
 "login_phone" = "Connectez-vous avec Phone";
 "login_google" = "Connectez-vous avec Google";

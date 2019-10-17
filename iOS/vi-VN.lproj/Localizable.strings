@@ -1063,7 +1063,7 @@
 
 //////////////////////////// 登录-login /////////////////////////////////
 
-"login_login" = "Đăng nhập";
+"Login_login" = "Đăng nhập";
 "login_facebook" = "Đăng nhập bằng Facebook";
 "login_phone" = "Đăng nhập bằng Phone";
 "login_google" = "Đăng nhập bằng Google";
@@ -1073,7 +1073,7 @@
 "signup_phone" = "Đăng ký với Phone";
 "signup_google" = "Đăng ký với Google";
 "signup_email" = "Đăng ký với Email";
-"signup_coupon" = " Dành cho người dùng mới";
+"signup_coupon" = "Dành cho người dùng mới";
 "signup_policydetail" = "Bằng cách tham gia, bạn đồng ý với";
 "signup_policydetail_1" = "Điều khoản";
 "signup_policydetail_2" = "&";

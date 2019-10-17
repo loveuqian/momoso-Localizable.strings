@@ -1063,7 +1063,7 @@
 
 ////////////////////////////// Logging -login /////////////////// //////////////
 
-"login_login" = "Logg inn";
+"Login_login" = "Logg inn";
 "login_facebook" = "Logg inn med Facebook";
 "login_phone" = "Logg inn med Phone";
 "login_google" = "Logg inn med Google";

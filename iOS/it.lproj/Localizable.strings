@@ -1063,7 +1063,7 @@
 
 //////////////////////////// Accedi -login /////////////////// //////////////
 
-"login_login" = "Accedi con";
+"Login_login" = "Accedi con";
 "login_facebook" = "Accedi con Facebook";
 "login_phone" = "Accedi con telefono";
 "login_google" = "Accedi con Google";
