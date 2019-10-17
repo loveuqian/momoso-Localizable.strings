@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Skicka in";///订单详情
 "order_detail_order_edit6" = "Är du säker på att du vill ta bort denna order?";///订单详情
 "order_detail_order_edit7" = "När beställningen har tagits bort kan inte orderinformationen återställas.";///订单详情
+"order_detail_order_edit_delete" = "Radera orderframgång";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Visa mer";///订单详情
 "hmoe_page_order_logistics" = "sändning Update";///首页物流

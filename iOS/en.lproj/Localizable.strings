@@ -1513,7 +1513,7 @@
 "order_detail_cancel_order_reason2" = "Cancel Order";///详情页取消订单弹窗
 "order_detail_cancel_order_reason3" = "Please write your reason for cancellation";///详情页取消订单弹窗
 "order_detail_cancel_order_reason4" = "Please enter your detailed message.";///详情页取消订单弹窗
-"order_detail_cancel_order_reason5" = "Order cancel successs";///详情页取消订单弹窗
+"order_detail_cancel_order_reason5" = "Order cancel success";///详情页取消订单弹窗
 "order_detail_order_logistics1" = "Logistics Information";///详情页订单物流标题
 "order_detail_order_logistics2" = "Tracking No.";///详情页订单物流订单号
 "order_detail_order_logistics3" = "Padding";///物流
@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Submit";///订单详情
 "order_detail_order_edit6" = "Are you sure you want to delete this order?";///订单详情
 "order_detail_order_edit7" = "Once the order is deleted, the order information cannot be recovered.";///订单详情
+"order_detail_order_edit_delete" = "Delete order success";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "View More";///订单详情
 "hmoe_page_order_logistics" = "Shipment Update";///首页物流

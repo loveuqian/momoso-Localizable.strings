@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Předložit";///订单详情
 "order_detail_order_edit6" = "Opravdu chcete tuto objednávku smazat?";///订单详情
 "order_detail_order_edit7" = "Jakmile je příkaz odstraněna, informace o pořadí již nelze obnovit.";///订单详情
+"order_detail_order_edit_delete" = "Smazat úspěšnost objednávky";
 "order_detail_order_edit8" = "Přepravní Co.";///订单详情
 "order_detail_order_edit9" = "Ukázat více";///订单详情
 "hmoe_page_order_logistics" = "Aktualizace zásilky";///首页物流

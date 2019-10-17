@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Lähetä";///订单详情
 "order_detail_order_edit6" = "Haluatko varmasti poistaa tämän tilauksen?";///订单详情
 "order_detail_order_edit7" = "Kun tilaus on poistettu, tilaustietoja ei voida palauttaa.";///订单详情
+"order_detail_order_edit_delete" = "Poista tilauksen onnistuminen";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Näytä lisää";///订单详情
 "hmoe_page_order_logistics" = "Lähetyksen päivitys";///首页物流

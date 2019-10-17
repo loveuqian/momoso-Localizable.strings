@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Kirim";///订单详情
 "order_detail_order_edit6" = "Anda yakin ingin menghapus pesanan ini?";///订单详情
 "order_detail_order_edit7" = "Setelah pesanan dihapus, informasi agar tidak dapat dipulihkan.";///订单详情
+"order_detail_order_edit_delete" = "Hapus keberhasilan pesanan";
 "order_detail_order_edit8" = "Pengiriman Co";///订单详情
 "order_detail_order_edit9" = "Lihat Lebih";///订单详情
 "hmoe_page_order_logistics" = "Pembaruan Pengiriman";///首页物流

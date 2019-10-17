@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "提交";///订单详情
 "order_detail_order_edit6" = "您確定要刪除此訂單嗎？";///订单详情
 "order_detail_order_edit7" = "一旦刪除訂單，將無法恢復訂單信息.";///订单详情
+"order_detail_order_edit_delete" = "刪除訂單成功";
 "order_detail_order_edit8" = "物流號";///订单详情
 "order_detail_order_edit9" = "查看更多";///订单详情
 "hmoe_page_order_logistics" = "物流更新";///首页物流

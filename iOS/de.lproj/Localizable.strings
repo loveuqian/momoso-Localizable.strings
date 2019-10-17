@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "einreichen";///订单详情
 "order_detail_order_edit6" = "Sind Sie sicher, dass Sie diesen Auftrag löschen?";///订单详情
 "order_detail_order_edit7" = "Sobald die Bestellung gelöscht wurde, können die Bestellinformationen nicht wiederhergestellt werden.";///订单详情
+"order_detail_order_edit_delete" = "Auftragserfolg löschen";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Mehr sehen";///订单详情
 "hmoe_page_order_logistics" = "Versand Update";///首页物流

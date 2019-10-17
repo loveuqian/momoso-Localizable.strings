@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Underkaste";///订单详情
 "order_detail_order_edit6" = "Er du sikker på at du vil slette denne bestillingen?";///订单详情
 "order_detail_order_edit7" = "Når ordren er slettet, kan ikke ordreinformasjonen gjenopprettes.";///订单详情
+"order_detail_order_edit_delete" = "Slett ordresuksess";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Vis mer";///订单详情
 "hmoe_page_order_logistics" = "forsendelse Update";///首页物流

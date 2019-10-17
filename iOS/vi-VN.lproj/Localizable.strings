@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Đệ trình";///订单详情
 "order_detail_order_edit6" = "Bạn có chắc chắn muốn xóa thứ tự này?";///订单详情
 "order_detail_order_edit7" = "Khi đơn hàng bị xóa, thông tin đơn hàng không thể được phục hồi.";///订单详情
+"order_detail_order_edit_delete" = "Xóa thành công đơn hàng";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Xem thêm";///订单详情
 "hmoe_page_order_logistics" = "Cập nhật lô hàng";///首页物流

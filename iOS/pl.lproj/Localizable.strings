@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Zatwierdź";///订单详情
 "order_detail_order_edit6" = "Czy na pewno chcesz usunąć to zamówienie?";///订单详情
 "order_detail_order_edit7" = "Gdy zamówienie zostanie usunięta, informacja kolejność nie można odzyskać.";///订单详情
+"order_detail_order_edit_delete" = "Usuń sukces zamówienia";
 "order_detail_order_edit8" = "Wysyłka Co.";///订单详情
 "order_detail_order_edit9" = "Zobacz więcej";///订单详情
 "hmoe_page_order_logistics" = "Aktualizacja przesyłki";///首页物流

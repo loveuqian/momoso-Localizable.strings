@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "voorleggen";///订单详情
 "order_detail_order_edit6" = "Weet je zeker dat je deze bestelling wilt verwijderen?";///订单详情
 "order_detail_order_edit7" = "Nadat de bestelling is verwijderd, kan de bestelinformatie niet worden hersteld.";///订单详情
+"order_detail_order_edit_delete" = "Verwijder succes van bestelling";
 "order_detail_order_edit8" = "Verzending Co.";///订单详情
 "order_detail_order_edit9" = "Bekijk meer";///订单详情
 "hmoe_page_order_logistics" = "Verzending update";///首页物流

@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Soumettre";///订单详情
 "order_detail_order_edit6" = "Êtes-vous sûr de vouloir supprimer cette commande?";///订单详情
 "order_detail_order_edit7" = "Une fois l'ordre est supprimé, les informations de commande ne peut pas être récupéré.";///订单详情
+"order_detail_order_edit_delete" = "Suppression de la commande réussie";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Voir plus";///订单详情
 "hmoe_page_order_logistics" = "Mise à jour de l'envoi";///首页物流

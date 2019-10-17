@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "Enviar";///订单详情
 "order_detail_order_edit6" = "Tem certeza de que deseja excluir este pedido?";///订单详情
 "order_detail_order_edit7" = "Depois que o pedido é excluído, as informações do pedido não podem ser recuperadas.";///订单详情
+"order_detail_order_edit_delete" = "Excluir sucesso do pedido";
 "order_detail_order_edit8" = "Shipping Co.";///订单详情
 "order_detail_order_edit9" = "Ver Mais";///订单详情
 "hmoe_page_order_logistics" = "Atualização de Remessa";///首页物流

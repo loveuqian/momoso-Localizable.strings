@@ -1529,6 +1529,7 @@
 "order_detail_order_edit5" = "เสนอ";///订单详情
 "order_detail_order_edit6" = "คุณแน่ใจหรือว่าต้องการลบคำสั่งซื้อนี้?";///订单详情
 "order_detail_order_edit7" = "เมื่อสั่งซื้อจะถูกลบข้อมูลการสั่งซื้อไม่สามารถกู้คืนได้";///订单详情
+"order_detail_order_edit_delete" = "ลบคำสั่งสำเร็จ";
 "order_detail_order_edit8" = "การส่งสินค้า Co.";///订单详情
 "order_detail_order_edit9" = "ดูเพิ่มเติม";///订单详情
 "hmoe_page_order_logistics" = "อัพเดทการจัดส่ง";///首页物流
