@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "met '-' in het formaat 11111–1111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "Gratis nieuwe gebruiker";
-"zero_money_rush_to_buy_dp2" = "Nieuwe gebruiker voor";
-"zero_money_rush_to_buy_dp3" = "Aankoop en beloning";
-"zero_money_rush_to_buy_dp4" = "U kunt slechts één item van dit evenement kopen.";
-"zero_money_rush_to_buy_cart" = "Koop nu en ontvang een beloning";
+"zero_money_rush_to_buy_dp1" = "Aankoop en krijg";
+"zero_money_rush_to_buy_dp2" = "Cashback";
+"zero_money_rush_to_buy_dp3" = "Nu kopen";
+"zero_money_rush_to_buy_dp4" = "Aankoop";
+"zero_money_rush_to_buy_dp5" = "Cashback ophalen";
+"zero_money_rush_to_buy_dp6" = "Intrekken";
+"zero_money_rush_to_buy_dp7" = "Succes met kopen";
+"zero_money_rush_to_buy_dp8" = "Item ontvangen";
+"zero_money_rush_to_buy_dp9" = "U kunt slechts één item van dit evenement kopen.";
+"zero_money_rush_to_buy_cart1" = "Gratis nieuwe gebruiker";
+"zero_money_rush_to_buy_cart2" = "Koop nu en krijg Cashback";
 "zero_money_rush_to_buy_order_success1" = "Gefeliciteerd !!";
-"zero_money_rush_to_buy_order_success2" = "Je hebt";
-"zero_money_rush_to_buy_order_success3" = "Eerste orderprijzen !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "Wachten op intrekking";
-"zero_money_rush_to_buy_order_success6" = "Nu intrekken!";
+"zero_money_rush_to_buy_order_success2" = "U heeft 2 prijzen voor de eerste bestelling !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "Wachten op intrekking";
+"zero_money_rush_to_buy_order_success5" = "Nu intrekken!";
 "zero_money_rush_to_buy_order_wallet_message" = "Succesvolle aankoop. Succesvol ontvangen";
 /////////////4.1 版本 签到 /////////////
 "check_in_page_title" = "Mijn munten";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Muntrecord";
 "check_in_page_coin_record2" = "Dagelijks inchecken";
 "check_in_page_coin_record3" = "Couponuitwisseling";
+"chein_in_page_rules_window_title" = "REGELS";
+"chein_in_page_rules_window1" = "Dagelijks inchecken:";
+"chein_in_page_rules_window2" = "1. U kunt slechts eenmaal per dag inchecken.";
+"chein_in_page_rules_window3" = "2. U kunt meer munten verdienen door 'Check-in' op opeenvolgende dagen.";
+"chein_in_page_rules_window4" = "3. 7 dagen als één cyclus, krijgt u verschillende munten volgens opeenvolgende dagen. Een nieuwe cyclus begint vanaf de 8e dag en telt als de eerste dag van een nieuwe cyclus.";
+"chein_in_page_rules_window5" = "4. Het inchecken wordt opnieuw gestart als u een dag mist.";
+"chein_in_page_rules_window6" = "Hoe munten te gebruiken:";
+"chein_in_page_rules_window7" = "1. U kunt de bijbehorende munten gebruiken om de coupons voor verschillende bedragen in te wisselen.";
+"chein_in_page_rules_window8" = "2. Munten zijn geldig voor een natuurlijk jaar. Wissel uw munt tijdig in.";
+"chein_in_page_rules_window9" = "3. CloudMall behoudt zich het recht voor definitieve uitleg te geven over incheckactiviteiten en -regels.";
+"chein_in_page_rules_window10" = "Hoe een grote prijs te winnen:";
+"chein_in_page_rules_window11" = "1. u krijgt een gratis 'gelukscodeticket' zolang u in totaal 7 dagen incheckt. als uw code het geluksgetal bereikt, is de hoofdprijs de uwe.";
+"chein_in_page_rules_window12" = "2. Als u de grote prijs haalt, neemt onze klantenservice per e-mail contact met u op om relevante informatie over u te bevestigen.";
+"chein_in_page_rules_window13" = "3. Als de winnaar de prijs om persoonlijke redenen niet kan accepteren of door het systeem als vals wordt beoordeeld, wordt de winnaar gediskwalificeerd.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Nu draaien";
 "lucky_spin_page_deploy_entrance1" = "ONTVANG GROTE PRIJS";

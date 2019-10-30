@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "ด้วย '-' ในรูปแบบ 11111–1111";
 
 /////////////4.1 版本 0 元抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "ผู้ใช้ใหม่ฟรี";
-"zero_money_rush_to_buy_dp2" = "ผู้ใช้ใหม่สำหรับ";
-"zero_money_rush_to_buy_dp3" = "การซื้อและรางวัล";
-"zero_money_rush_to_buy_dp4" = "คุณสามารถซื้อรายการนี้ได้เพียงรายการเดียว";
-"zero_money_rush_to_buy_cart" = "ซื้อและรับรางวัลทันที";
+"zero_money_rush_to_buy_dp1" = "ซื้อและรับ";
+"zero_money_rush_to_buy_dp2" = "คืนเงิน";
+"zero_money_rush_to_buy_dp3" = "ซื้อทันที";
+"zero_money_rush_to_buy_dp4" = "ซื้อ";
+"zero_money_rush_to_buy_dp5" = "รับเงินคืน";
+"zero_money_rush_to_buy_dp6" = "ถอนเงิน";
+"zero_money_rush_to_buy_dp7" = "ซื้อสำเร็จ";
+"zero_money_rush_to_buy_dp8" = "รับรายการ";
+"zero_money_rush_to_buy_dp9" = "คุณสามารถซื้อรายการนี้ได้เพียงรายการเดียว";
+"zero_money_rush_to_buy_cart1" = "ผู้ใช้ใหม่ฟรี";
+"zero_money_rush_to_buy_cart2" = "ซื้อและรับเงินคืนทันที";
 "zero_money_rush_to_buy_order_success1" = "ขอแสดงความยินดี !!";
-"zero_money_rush_to_buy_order_success2" = "คุณได้รับ";
-"zero_money_rush_to_buy_order_success3" = "รางวัลการสั่งซื้อครั้งแรก !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "กำลังรอการถอน";
-"zero_money_rush_to_buy_order_success6" = "ถอนออกตอนนี้!";
+"zero_money_rush_to_buy_order_success2" = "คุณได้รับรางวัลลำดับที่ 2 แรก !!";
+"zero_money_rush_to_buy_order_success3" = "เงินคืน";
+"zero_money_rush_to_buy_order_success4" = "กำลังรอการถอน";
+"zero_money_rush_to_buy_order_success5" = "ถอนออกตอนนี้!";
 "zero_money_rush_to_buy_order_wallet_message" = "การซื้อที่สำเร็จได้รับสำเร็จ";
 /////////////4.1 版本签到 /////////////
 "check_in_page_title" = "เหรียญของฉัน";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "บันทึกเหรียญ";
 "check_in_page_coin_record2" = "เช็คอินรายวัน";
 "check_in_page_coin_record3" = "การแลกเปลี่ยนคูปอง";
+"chein_in_page_rules_window_title" = "กฎระเบียบ";
+"chein_in_page_rules_window1" = "เช็คอินทุกวัน:";
+"chein_in_page_rules_window2" = "1. คุณสามารถเช็คอินวันละครั้งเท่านั้น";
+"chein_in_page_rules_window3" = "2. คุณสามารถรับเหรียญเพิ่มได้โดย 'เช็คอิน' ในวันติดต่อกัน";
+"chein_in_page_rules_window4" = "3. 7 วันเป็นหนึ่งรอบคุณจะได้รับเหรียญแตกต่างกันตามวันติดต่อกันรอบใหม่จะเริ่มจากวันที่ 8 และจะนับเป็นวันแรกของรอบใหม่";
+"chein_in_page_rules_window5" = "4. บันทึกการเช็คอินจะเริ่มต้นใหม่หากคุณพลาดหนึ่งวัน";
+"chein_in_page_rules_window6" = "วิธีใช้เหรียญ:";
+"chein_in_page_rules_window7" = "1. คุณสามารถใช้เหรียญที่สอดคล้องกันเพื่อแลกคูปองเป็นจำนวนที่แตกต่างกัน";
+"chein_in_page_rules_window8" = "2. เหรียญถูกต้องสำหรับปีตามธรรมชาติโปรดแลกเหรียญของคุณในเวลา";
+"chein_in_page_rules_window9" = "3. CloudMall ขอสงวนสิทธิ์ในการอธิบายขั้นสุดท้ายเกี่ยวกับกิจกรรมและกฎการเช็คอิน";
+"chein_in_page_rules_window10" = "วิธีชนะรางวัลใหญ่:";
+"chein_in_page_rules_window11" = "1. คุณจะได้รับ 'ตั๋วรหัสนำโชค' ฟรีตราบใดที่คุณเช็คอินเป็นเวลา 7 วันโดยรวมหากรหัสของคุณโดนหมายเลขนำโชครางวัลใหญ่จะเป็นของคุณ";
+"chein_in_page_rules_window12" = "2. ถ้าคุณได้รับรางวัลใหญ่พนักงานบริการลูกค้าของเราจะติดต่อคุณทางอีเมลยืนยันข้อมูลที่เกี่ยวข้องบางอย่างเกี่ยวกับคุณ";
+"chein_in_page_rules_window13" = "3. หากผู้ชนะไม่สามารถรับรางวัลด้วยเหตุผลส่วนตัวหรือระบบตัดสินว่าจะโกงผู้ชนะจะถูกตัดสิทธิ์";
 /////////////4.1 版本其他页面 /////////////
 "lucky_spin_page_share_button" = "หมุนตอนนี้";
 "lucky_spin_page_deploy_entrance1" = "รับรางวัลใหญ่";

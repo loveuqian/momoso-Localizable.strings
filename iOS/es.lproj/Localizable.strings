@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "con '-' en el formato 11111–1111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "Nuevo usuario gratis";
-"zero_money_rush_to_buy_dp2" = "Nuevo usuario para";
-"zero_money_rush_to_buy_dp3" = "Compra y recompensa";
-"zero_money_rush_to_buy_dp4" = "Solo puede comprar un artículo de este evento";
-"zero_money_rush_to_buy_cart" = "Compre y obtenga recompensas ahora";
+"zero_money_rush_to_buy_dp1" = "Comprar y obtener";
+"zero_money_rush_to_buy_dp2" = "Cashback";
+"zero_money_rush_to_buy_dp3" = "Cómpralo ahora";
+"zero_money_rush_to_buy_dp4" = "Compra";
+"zero_money_rush_to_buy_dp5" = "Obtener reembolso";
+"zero_money_rush_to_buy_dp6" = "Retirar";
+"zero_money_rush_to_buy_dp7" = "Éxito de compra";
+"zero_money_rush_to_buy_dp8" = "Recibir elemento";
+"zero_money_rush_to_buy_dp9" = "Solo puede comprar un artículo de este evento";
+"zero_money_rush_to_buy_cart1" = "Nuevo usuario gratis";
+"zero_money_rush_to_buy_cart2" = "Compre y obtenga devolución de efectivo ahora mismo";
 "zero_money_rush_to_buy_order_success1" = "¡Felicidades!";
-"zero_money_rush_to_buy_order_success2" = "Tienes";
-"zero_money_rush_to_buy_order_success3" = "¡Premios de primer pedido!";
-"zero_money_rush_to_buy_order_success4" = "AFILIADO";
-"zero_money_rush_to_buy_order_success5" = "Esperando retiro";
-"zero_money_rush_to_buy_order_success6" = "¡Retirar ahora!";
+"zero_money_rush_to_buy_order_success2" = "¡Tienes 2 premios de primer pedido!";
+"zero_money_rush_to_buy_order_success3" = "EFECTIVO";
+"zero_money_rush_to_buy_order_success4" = "Esperando retiro";
+"zero_money_rush_to_buy_order_success5" = "¡Retirar ahora!";
 "zero_money_rush_to_buy_order_wallet_message" = "Compra exitosa. Recibido exitosamente";
 /////////////4.1 版本 签到 /////////////
 "check_in_page_title" = "Mis monedas";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Registro de monedas";
 "check_in_page_coin_record2" = "Registro diario";
 "check_in_page_coin_record3" = "Intercambio de cupones";
+"chein_in_page_rules_window_title" = "REGLAS";
+"chein_in_page_rules_window1" = "Registro diario en:";
+"chein_in_page_rules_window2" = "1. Solo puede registrarse una vez al día.";
+"chein_in_page_rules_window3" = "2. Puede ganar más monedas al 'Registrarse' en días consecutivos.";
+"chein_in_page_rules_window4" = "3. 7 días como un ciclo, obtendrá diferentes monedas según días consecutivos. Un nuevo ciclo comenzará a partir del octavo día y contará como el primer día de un nuevo ciclo.";
+"chein_in_page_rules_window5" = "4. El registro de check-in se reiniciará si falta un día.";
+"chein_in_page_rules_window6" = "Cómo usar monedas:";
+"chein_in_page_rules_window7" = "1. Puede usar las monedas correspondientes para canjear los cupones por diferentes cantidades.";
+"chein_in_page_rules_window8" = "2. Las monedas son válidas por un año natural. Canjee su moneda a tiempo.";
+"chein_in_page_rules_window9" = "3. CloudMall se reserva el derecho de explicaciones finales sobre las actividades y reglas de Check-in.";
+"chein_in_page_rules_window10" = "Cómo ganar un gran premio:";
+"chein_in_page_rules_window11" = "1. obtendrá un 'boleto de código de la suerte' gratuito siempre y cuando haya ingresado durante 7 días en total. si su código toca el número de la suerte, el gran premio es suyo";
+"chein_in_page_rules_window12" = "2. Si obtiene el gran premio, nuestro personal de servicio al cliente se pondrá en contacto con usted por correo electrónico y le confirmará información relevante sobre usted.";
+"chein_in_page_rules_window13" = "3. Si el ganador no puede aceptar el premio por razones personales o si el sistema juzga que está haciendo trampa, el ganador será descalificado.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Girar ahora";
 "lucky_spin_page_deploy_entrance1" = "OBTENER UN GRAN PREMIO";

@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "với '-' ở định dạng 111111111111";
 
 /////////////4.1 版本 0 元 抢购 ///////////////
-"zero_money_rush_to_buy_dp1" = "Người dùng mới miễn phí";
-"zero_money_rush_to_buy_dp2" = "Người dùng mới cho";
-"zero_money_rush_to_buy_dp3" = "Mua và thưởng";
-"zero_money_rush_to_buy_dp4" = "Bạn chỉ có thể mua một mặt hàng của sự kiện này.";
-"zero_money_rush_to_buy_cart" = "Mua và nhận phần thưởng ngay bây giờ";
+"zero_money_rush_to_buy_dp1" = "Mua và nhận";
+"zero_money_rush_to_buy_dp2" = "Hoàn tiền";
+"zero_money_rush_to_buy_dp3" = "Mua ngay";
+"zero_money_rush_to_buy_dp4" = "Mua hàng";
+"zero_money_rush_to_buy_dp5" = "Nhận hoàn tiền";
+"zero_money_rush_to_buy_dp6" = "Rút tiền";
+"zero_money_rush_to_buy_dp7" = "Mua thành công";
+"zero_money_rush_to_buy_dp8" = "Nhận vật phẩm";
+"zero_money_rush_to_buy_dp9" = "Bạn chỉ có thể mua một mặt hàng của sự kiện này.";
+"zero_money_rush_to_buy_cart1" = "Người dùng mới miễn phí";
+"zero_money_rush_to_buy_cart2" = "Mua và nhận hoàn tiền ngay bây giờ";
 "zero_money_rush_to_buy_order_success1" = "Xin chúc mừng !!";
-"zero_money_rush_to_buy_order_success2" = "Bạn đã nhận";
-"zero_money_rush_to_buy_order_success3" = "Giải thưởng đặt hàng đầu tiên !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "Đang chờ rút tiền";
-"zero_money_rush_to_buy_order_success6" = "Rút tiền ngay!";
+"zero_money_rush_to_buy_order_success2" = "Bạn đã nhận được 2 giải thưởng đặt hàng đầu tiên !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "Đang chờ rút tiền";
+"zero_money_rush_to_buy_order_success5" = "Rút tiền ngay!";
 "zero_money_rush_to_buy_order_wallet_message" = "Mua hàng thành công. Đã nhận thành công";
 /////////////4.1 版本 签到 ///////////////
 "check_in_page_title" = "Tiền của tôi";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Bản ghi tiền xu";
 "check_in_page_coin_record2" = "Đăng ký hàng ngày";
 "check_in_page_coin_record3" = "Trao đổi phiếu giảm giá";
+"chein_in_page_rules_window_title" = "QUY TẮC";
+"chein_in_page_rules_window1" = "Đăng ký hàng ngày:";
+"Chein_in_page_rules_window2" = "1. Bạn chỉ có thể đăng ký một lần một ngày.";
+"Chein_in_page_rules_window3" = "2. Bạn có thể kiếm được nhiều tiền hơn bằng cách 'Đăng ký' vào những ngày liên tiếp.";
+"chein_in_page_rules_window4" = "3. 7 ngày là một chu kỳ, bạn sẽ nhận được các đồng tiền khác nhau theo các ngày liên tiếp. Một chu kỳ mới sẽ bắt đầu từ ngày thứ 8 và sẽ được tính là ngày đầu tiên của chu kỳ mới.";
+"Chein_in_page_rules_window5" = "4. Bản ghi đăng ký sẽ khởi động lại nếu bạn bỏ lỡ một ngày.";
+"chein_in_page_rules_window6" = "Cách sử dụng tiền xu:";
+"Chein_in_page_rules_window7" = "1. Bạn có thể sử dụng các đồng tiền tương ứng để đổi phiếu giảm giá cho các số tiền khác nhau.";
+"chein_in_page_rules_window8" = "2. Tiền xu có giá trị trong một năm tự nhiên. Vui lòng đổi xu của bạn kịp thời.";
+"Chein_in_page_rules_window9" = "3. CloudMall bảo lưu quyền giải thích cuối cùng về các hoạt động và quy tắc Đăng ký.";
+"chein_in_page_rules_window10" = "Cách giành giải thưởng lớn:";
+"Chein_in_page_rules_window11" = "1. bạn sẽ nhận được 'vé mã may mắn' miễn là bạn đã đăng ký trong 7 ngày. Nếu mã của bạn đạt được con số may mắn, giải thưởng lớn là của bạn.";
+"Chein_in_page_rules_window12" = "2. Nếu bạn trúng giải thưởng lớn, nhân viên dịch vụ khách hàng của chúng tôi sẽ liên hệ với bạn qua email, hãy xác nhận một số thông tin liên quan về bạn.";
+"Chein_in_page_rules_window13" = "3. Nếu người chiến thắng không thể chấp nhận giải thưởng vì lý do cá nhân hoặc bị hệ thống đánh giá là gian lận, người chiến thắng sẽ bị loại.";
 /////////////4.1 版本 其他 页面 ///////////////
 "lucky_spin_page_share_button" = "Quay ngay";
 "lucky_spin_page_deploy_entrance1" = "NHẬN GIẢI THƯỞNG LỚN";

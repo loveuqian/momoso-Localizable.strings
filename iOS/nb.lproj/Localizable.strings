@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "med '-' i formatet 11111–1111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "Ny bruker gratis";
-"zero_money_rush_to_buy_dp2" = "Ny bruker for";
-"zero_money_rush_to_buy_dp3" = "Kjøp og belønning";
-"zero_money_rush_to_buy_dp4" = "Du kan bare kjøpe ett element av denne hendelsen.";
-"zero_money_rush_to_buy_cart" = "Kjøp og få belønning akkurat nå";
+"zero_money_rush_to_buy_dp1" = "Kjøp og få";
+"zero_money_rush_to_buy_dp2" = "Cashback";
+"zero_money_rush_to_buy_dp3" = "Kjøp det nå";
+"zero_money_rush_to_buy_dp4" = "Kjøp";
+"zero_money_rush_to_buy_dp5" = "Få cashback";
+"zero_money_rush_to_buy_dp6" = "Trekk ut";
+"zero_money_rush_to_buy_dp7" = "Kjøp av suksess";
+"zero_money_rush_to_buy_dp8" = "Motta varen";
+"zero_money_rush_to_buy_dp9" = "Du kan bare kjøpe ett element av denne hendelsen.";
+"zero_money_rush_to_buy_cart1" = "Ny bruker gratis";
+"zero_money_rush_to_buy_cart2" = "Kjøp og få cashback akkurat nå";
 "zero_money_rush_to_buy_order_success1" = "Gratulerer !!";
-"zero_money_rush_to_buy_order_success2" = "Du fikk";
-"zero_money_rush_to_buy_order_success3" = "Første ordenspriser !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "Venter på uttak";
-"zero_money_rush_to_buy_order_success6" = "Trekk nå ut!";
+"zero_money_rush_to_buy_order_success2" = "Du fikk to førsteordenspriser !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "Venter på uttak";
+"zero_money_rush_to_buy_order_success5" = "Trekk tilbake nå!";
 "zero_money_rush_to_buy_order_wallet_message" = "Vellykket kjøp. Vellykket mottatt";
 /////////////4.1 版本 签到 /////////////
 "check_in_page_title" = "Mine mynter";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Myntrekord";
 "check_in_page_coin_record2" = "Daglig innsjekking";
 "check_in_page_coin_record3" = "Kupongbørs";
+"chein_in_page_rules_window_title" = "REGLER";
+"chein_in_page_rules_window1" = "Daglig innsjekking:";
+"chein_in_page_rules_window2" = "1. Du kan bare sjekke inn en gang om dagen.";
+"chein_in_page_rules_window3" = "2. Du kan tjene flere mynter ved å sjekke inn på påfølgende dager.";
+"chein_in_page_rules_window4" = "3. 7 dager som en syklus, vil du få forskjellige mynter i henhold til påfølgende dager. En ny syklus starter fra åttende dag og vil regne som den første dagen i en ny syklus.";
+"chein_in_page_rules_window5" = "4. Innsjekkingsposten starter på nytt hvis du går glipp av en dag.";
+"chein_in_page_rules_window6" = "Hvordan bruke mynter:";
+"chein_in_page_rules_window7" = "1. Du kan bruke de tilsvarende myntene til å innløse kupongene for forskjellige beløp.";
+"chein_in_page_rules_window8" = "2. Mynter er gyldige for et naturlig år. Innløs mynten din i tide.";
+"chein_in_page_rules_window9" = "3. CloudMall forbeholder seg retten til endelige forklaringer på innsjekkingsaktiviteter og regler.";
+"chein_in_page_rules_window10" = "Hvordan vinne en stor premie:";
+"chein_in_page_rules_window11" = "1. Du vil få en gratis 'lykkekodebillett' så lenge du sjekket inn i totalt 7 dager. Hvis koden din treffer heldignummeret, er den store premien din.";
+"chein_in_page_rules_window12" = "2. Hvis du vinner den store prisen, vil kundeservicemedarbeiderne kontakte deg via e-post, bekrefte relevant informasjon om deg.";
+"chein_in_page_rules_window13" = "3. Hvis vinneren ikke kan ta imot prisen av personlige grunner eller blir bedømt av systemet til å jukse, blir vinneren diskvalifisert.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Spinn nå";
 "lucky_spin_page_deploy_entrance1" = "FÅ STOR PRIS";

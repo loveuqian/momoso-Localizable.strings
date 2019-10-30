@@ -1579,18 +1579,23 @@
 "address_page_zip_code_prompt6" = "-merkillä '-' muodossa 11111–1111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "Uusi käyttäjä ilmaiseksi";
-"zero_money_rush_to_buy_dp2" = "Uusi käyttäjä kohteelle";
-"zero_money_rush_to_buy_dp3" = "Osta ja palkitse";
-"zero_money_rush_to_buy_dp4" = "Voit ostaa vain yhden kohteen tästä tapahtumasta.";
-"zero_money_rush_to_buy_cart" = "Osta ja saa palkkio heti";
+"zero_money_rush_to_buy_dp1" = "Osta ja hanki";
+"zero_money_rush_to_buy_dp2" = "Cashback";
+"zero_money_rush_to_buy_dp3" = "Osta nyt";
+"zero_money_rush_to_buy_dp4" = "Osta";
+"zero_money_rush_to_buy_dp5" = "Hanki Cashback";
+"zero_money_rush_to_buy_dp6" = "Peruuta";
+"zero_money_rush_to_buy_dp7" = "Osta onnistunut";
+"zero_money_rush_to_buy_dp8" = "Vastaanota esine";
+"zero_money_rush_to_buy_dp9" = "Voit ostaa vain yhden kohteen tästä tapahtumasta.";
+"zero_money_rush_to_buy_cart1" = "Uusi käyttäjä ilmaiseksi";
+"zero_money_rush_to_buy_cart2" = "Osta ja saat takaisinmaksun heti";
 "zero_money_rush_to_buy_order_success1" = "Onnittelut !!";
-"zero_money_rush_to_buy_order_success2" = "Sinulla on";
-"zero_money_rush_to_buy_order_success3" = "Ensimmäisen tilauksen palkinnot !!";
-"zero_money_rush_to_buy_order_success4" = "TYÖTYÖ";
-"zero_money_rush_to_buy_order_success5" = "Odottaa peruuttamista";
-"zero_money_rush_to_buy_order_success6" = "Peruuta nyt!";
-"zero_money_rush_to_buy_order_wallet_message" = "Onnistunut ostaminen. Vastaanotto onnistunut";
+"zero_money_rush_to_buy_order_success2" = "Sinulla on 2 ensimmäisen tilauksen palkintoa !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "Odottaa peruuttamista";
+"zero_money_rush_to_buy_order_success5" = "Peruuta nyt!";
+"zero_money_rush_to_buy_order_wallet_message" = "Onnistunut ostaminen. Vastaanotettu onnistuneesti";
 /////////////4.1 版本 签到 /////////////
 "check_in_page_title" = "Minun kolikoni";
 "check_in_page_center1" = "Kolikot";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Kolikotietue";
 "check_in_page_coin_record2" = "Päivittäinen sisäänkirjautuminen";
 "check_in_page_coin_record3" = "Kuponginvaihto";
+"chein_in_page_rules_window_title" = "SÄÄNNÖT";
+"chein_in_page_rules_window1" = "Päivittäinen sisäänkirjautuminen:";
+"chein_in_page_rules_window2" = "1. Voit kirjautua sisään vain kerran päivässä.";
+"chein_in_page_rules_window3" = "2. Voit ansaita enemmän kolikoita kirjautumalla sisään peräkkäisinä päivinä.";
+"chein_in_page_rules_window4" = "3. 7 päivää yhtenä jaksona, saat erilaisia ​​kolikoita peräkkäisten päivien mukaan. Uusi jakso alkaa 8. päivästä ja lasketaan uuden jakson ensimmäisenä päivänä.";
+"chein_in_page_rules_window5" = "4. Lähtötietue käynnistyy uudelleen, jos unohdat yhden päivän.";
+"chein_in_page_rules_window6" = "Kuinka käyttää kolikoita:";
+"chein_in_page_rules_window7" = "1. Voit käyttää vastaavia kolikoita lunastamaan kuponkeja eri määrille.";
+"chein_in_page_rules_window8" = "2. Kolikot ovat voimassa luonnollista vuotta. Lunasta kolikot ajoissa.";
+"chein_in_page_rules_window9" = "3. CloudMall pidättää oikeuden lopulliseen selitykseen Check-in-toiminnoista ja säännöistä.";
+"chein_in_page_rules_window10" = "Kuinka voittaa iso palkinto:";
+"chein_in_page_rules_window11" = "1. saat ilmaisen 'onnekoodin lipun' niin kauan kuin olet kirjautunut sisään seitsemän päivän ajan. Jos koodisi osuu onnenumeroon, iso palkinto on sinun.";
+"chein_in_page_rules_window12" = "2. Jos osut iso palkinto, asiakaspalvelumme henkilökunta ottaa sinuun yhteyttä sähköpostitse, vahvistaa joitain merkityksellisiä tietoja sinusta.";
+"chein_in_page_rules_window13" = "3. Jos voittaja ei voi hyväksyä palkintoa henkilökohtaisista syistä tai jos järjestelmä arvioi sen pettävän, voittaja hylätään.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Pyöritä nyt";
 "lucky_spin_page_deploy_entrance1" = "SAA iso palkinto";

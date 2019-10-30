@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "dengan '-' dalam format 11111–1111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "Pengguna Baru Gratis";
-"zero_money_rush_to_buy_dp2" = "Pengguna Baru untuk";
-"zero_money_rush_to_buy_dp3" = "Beli dan Hadiah";
-"zero_money_rush_to_buy_dp4" = "Anda hanya dapat membeli satu item dari acara ini.";
-"zero_money_rush_to_buy_cart" = "Beli dan Dapatkan Hadiah Saat Ini";
+"zero_money_rush_to_buy_dp1" = "Beli dan Dapatkan";
+"zero_money_rush_to_buy_dp2" = "Cashback";
+"zero_money_rush_to_buy_dp3" = "Beli Sekarang";
+"zero_money_rush_to_buy_dp4" = "Beli";
+"zero_money_rush_to_buy_dp5" = "Dapatkan Uang Kembali";
+"zero_money_rush_to_buy_dp6" = "Penarikan";
+"zero_money_rush_to_buy_dp7" = "Sukses Pembelian";
+"zero_money_rush_to_buy_dp8" = "Terima item";
+"zero_money_rush_to_buy_dp9" = "Anda hanya dapat membeli satu item dari acara ini.";
+"zero_money_rush_to_buy_cart1" = "Pengguna Baru Gratis";
+"zero_money_rush_to_buy_cart2" = "Beli dan Dapatkan Uang Kembali Sekarang";
 "zero_money_rush_to_buy_order_success1" = "Selamat !!";
-"zero_money_rush_to_buy_order_success2" = "Anda mendapat";
-"zero_money_rush_to_buy_order_success3" = "Hadiah Pesanan Pertama !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "Menunggu penarikan";
-"zero_money_rush_to_buy_order_success6" = "Tarik Sekarang!";
+"zero_money_rush_to_buy_order_success2" = "Anda mendapat 2 Hadiah Orde Pertama !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "Menunggu penarikan";
+"zero_money_rush_to_buy_order_success5" = "Tarik Sekarang!";
 "zero_money_rush_to_buy_order_wallet_message" = "Pembelian yang berhasil. Berhasil diterima";
 /////////////4.1 版本 签到 /////////////
 "check_in_page_title" = "Koin Saya";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Catatan Koin";
 "check_in_page_coin_record2" = "Check-in Harian";
 "check_in_page_coin_record3" = "Pertukaran Kupon";
+"chein_in_page_rules_window_title" = "RULES";
+"chein_in_page_rules_window1" = "Check-in harian:";
+"chein_in_page_rules_window2" = "1. Anda hanya dapat check-in sekali sehari.";
+"chein_in_page_rules_window3" = "2. Anda bisa mendapatkan lebih banyak koin dengan 'Check-in' pada hari berturut-turut.";
+"chein_in_page_rules_window4" = "3. 7 hari sebagai satu siklus, Anda akan mendapatkan koin yang berbeda sesuai dengan hari berturut-turut. Siklus baru akan dimulai dari hari ke-8 dan akan dihitung sebagai hari pertama dari siklus baru.";
+"chein_in_page_rules_window5" = "4. Catatan masuk akan dimulai ulang jika Anda melewatkan satu hari.";
+"chein_in_page_rules_window6" = "Cara menggunakan koin:";
+"chein_in_page_rules_window7" = "1. Anda dapat menggunakan koin yang sesuai untuk menebus kupon untuk jumlah yang berbeda.";
+"chein_in_page_rules_window8" = "2. Koin valid untuk tahun alami. Silakan tebus koin Anda tepat waktu.";
+"chein_in_page_rules_window9" = "3. CloudMall berhak atas penjelasan akhir tentang aktivitas dan aturan Check-in.";
+"chein_in_page_rules_window10" = "Cara memenangkan hadiah besar:";
+"chein_in_page_rules_window11" = "1. Anda akan mendapatkan 'tiket kode keberuntungan' gratis selama Anda check in selama 7 hari secara total. jika kode Anda mencapai angka keberuntungan, hadiah besar adalah milik Anda.";
+"chein_in_page_rules_window12" = "2. Jika Anda mencapai hadiah besar, staf layanan pelanggan kami akan menghubungi Anda melalui email, omfirm beberapa informasi yang relevan tentang Anda.";
+"chein_in_page_rules_window13" = "3. Jika pemenang tidak dapat menerima hadiah karena alasan pribadi atau dinilai oleh sistem untuk curang, pemenang akan didiskualifikasi.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Putar Sekarang";
 "lucky_spin_page_deploy_entrance1" = "DAPATKAN HADIAH BESAR";

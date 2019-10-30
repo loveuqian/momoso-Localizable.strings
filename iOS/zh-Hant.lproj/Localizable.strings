@@ -1579,18 +1579,23 @@
 "address_page_zip_code_prompt6" = "帶有'-'的格式為11111-1111";
 
 //////////////4.1版本0元搶購/////////////
-"zero_money_rush_to_buy_dp1" = "新用戶免費";
-"zero_money_rush_to_buy_dp2" = "新用戶";
-"zero_money_rush_to_buy_dp3" = "購買返現";
-"zero_money_rush_to_buy_dp4" = "您只能購買該活動的一件商品";
-"zero_money_rush_to_buy_cart" = "立即下單領取獎勵";
-"zero_money_rush_to_buy_order_success1" = "恭喜!!";
-"zero_money_rush_to_buy_order_success2" = "您得到了";
-"zero_money_rush_to_buy_order_success3" = "一等獎!!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "等待提現";
-"zero_money_rush_to_buy_order_success6" = "立即提現!";
-"zero_money_rush_to_buy_order_wallet_message" = "購買成功。已成功收到";
+"zero_money_rush_to_buy_dp1" = "購買並獲取";
+"zero_money_rush_to_buy_dp2" = "返現";
+"zero_money_rush_to_buy_dp3" = "立即購買";
+"zero_money_rush_to_buy_dp4" = "購買";
+"zero_money_rush_to_buy_dp5" = "獲取現金返還";
+"zero_money_rush_to_buy_dp6" = "提現";
+"zero_money_rush_to_buy_dp7" = "購買成功";
+"zero_money_rush_to_buy_dp8" = "收貨";
+"zero_money_rush_to_buy_dp9" = "您只能購買該活動的一件商品";
+"zero_money_rush_to_buy_cart1" = "新用戶免費";
+"zero_money_rush_to_buy_cart2" = "立即購買並獲取現金返還";
+"zero_money_rush_to_buy_order_success1" = "恭喜！！";
+"zero_money_rush_to_buy_order_success2" = "您獲得了2個大獎！！";
+"zero_money_rush_to_buy_order_success3" = "返現";
+"zero_money_rush_to_buy_order_success4" = "等待解凍";
+"zero_money_rush_to_buy_order_success5" = "立即提現！";
+"zero_money_rush_to_buy_order_wallet_message" = "購買成功。已成功收貨";
 /////////////4.1版本簽到//////////////
 "check_in_page_title" = "我的金幣";
 "check_in_page_center1" = "金幣";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "金幣記錄";
 "check_in_page_coin_record2" = "每日簽到";
 "check_in_page_coin_record3" = "優惠券兌換";
+"chein_in_page_rules_window_title" = "規則";
+"chein_in_page_rules_window1" = "每日簽到：";
+"chein_in_page_rules_window2" = "1. 您每天只能簽到一次。";
+"chein_in_page_rules_window3" = "2. 您可以通過連續幾天的'簽到'賺取更多硬幣。";
+"chein_in_page_rules_window4" = "3. 7天作為一個週期，您將根據連續的天數獲得不同的硬幣。新的周期將從第8天開始，並將被視為新周期的第一天。";
+"chein_in_page_rules_window5" = "4. 如果您錯過其中一天，簽到記錄將重新開始。";
+"chein_in_page_rules_window6" = "如何使用金幣：";
+"chein_in_page_rules_window7" = "1. 您可以使用相應的硬幣來兌換不同數量的優惠券。";
+"chein_in_page_rules_window8" = "2. 金幣在自然年份內有效。請及時領取您的硬幣。";
+"chein_in_page_rules_window9" = "3. CloudMall保留對簽到活動和規則的最終解釋權。";
+"chein_in_page_rules_window10" = "如何贏得大獎：";
+"chein_in_page_rules_window11" = "1. 只要您總共簽到了7天，您將獲得一張免費的'幸運字符碼'。如果您的字符碼為幸運數字，則大獎就是您的了。";
+"chein_in_page_rules_window12" = "2. 如果您獲得大獎，我們的客服人員將通過電子郵件與您聯繫，並確認您的一些相關信息。";
+"chein_in_page_rules_window13" = "3. 如果獲勝者由於個人原因不能接受獎品或被系統判斷為作弊，則獲勝者將被取消參賽資格。";
 /////////////4.1版本其他頁面//////////////
 "lucky_spin_page_share_button" = "立即轉動";
 "lucky_spin_page_deploy_entrance1" = "獲得大獎";

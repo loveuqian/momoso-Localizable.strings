@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "avec '-' au format 11111–1111";
 
 /////////////4.1 0 元 ///////////////
-"zero_money_rush_to_buy_dp1" = "Nouvel utilisateur gratuit";
-"zero_money_rush_to_buy_dp2" = "Nouvel utilisateur pour";
-"zero_money_rush_to_buy_dp3" = "Achat et récompense";
-"zero_money_rush_to_buy_dp4" = "Vous ne pouvez acheter qu'un seul élément de cet événement.";
-"zero_money_rush_to_buy_cart" = "Achetez et obtenez la récompense maintenant";
+"zero_money_rush_to_buy_dp1" = "Achetez et obtenez";
+"zero_money_rush_to_buy_dp2" = "Remise en argent";
+"zero_money_rush_to_buy_dp3" = "Acheter maintenant";
+"zero_money_rush_to_buy_dp4" = "Achat";
+"zero_money_rush_to_buy_dp5" = "Récupérer de l'argent";
+"zero_money_rush_to_buy_dp6" = "Retirer";
+"zero_money_rush_to_buy_dp7" = "Succès de l'achat";
+"zero_money_rush_to_buy_dp8" = "Élément de réception";
+"zero_money_rush_to_buy_dp9" = "Vous ne pouvez acheter qu'un seul élément de cet événement.";
+"zero_money_rush_to_buy_cart1" = "Nouvel utilisateur gratuit";
+"zero_money_rush_to_buy_cart2" = "Achetez et obtenez le remboursement immédiatement";
 "zero_money_rush_to_buy_order_success1" = "Félicitations !!";
-"zero_money_rush_to_buy_order_success2" = "Vous avez";
-"zero_money_rush_to_buy_order_success3" = "Prix de première commande !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "En attente de retrait";
-"zero_money_rush_to_buy_order_success6" = "Retirer maintenant!";
+"zero_money_rush_to_buy_order_success2" = "Vous avez 2 prix du premier ordre !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "En attente de retrait";
+"zero_money_rush_to_buy_order_success5" = "Retirer maintenant!";
 "zero_money_rush_to_buy_order_wallet_message" = "Achat réussi. Reçu avec succès";
 /////////////4.1 签到 ///////////////
 "check_in_page_title" = "Mes pièces";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Enregistrement de la pièce";
 "check_in_page_coin_record2" = "Archivage quotidien";
 "check_in_page_coin_record3" = "Échange de coupons";
+"chein_in_page_rules_window_title" = "RULES";
+"chein_in_page_rules_window1" = "Enregistrement quotidien:";
+"chein_in_page_rules_window2" = "1. Vous ne pouvez vous enregistrer qu'une fois par jour.";
+"chein_in_page_rules_window3" = "2. Vous pouvez gagner plus de pièces par 'Enregistrement' plusieurs jours de suite.";
+"chein_in_page_rules_window4" = "3. Pendant 7 jours, vous obtiendrez différentes pièces de monnaie en fonction du nombre de jours consécutifs. Un nouveau cycle débutera le 8ème jour et comptera comme premier jour d'un nouveau cycle.";
+"chein_in_page_rules_window5" = "4. L'enregistrement d'enregistrement redémarrera si vous manquez un jour.";
+"chein_in_page_rules_window6" = "Comment utiliser les pièces:";
+"chein_in_page_rules_window7" = "1. Vous pouvez utiliser les pièces de monnaie correspondantes pour échanger les coupons contre des montants différents.";
+"chein_in_page_rules_window8" = "2. Les pièces sont valables pour une année naturelle. Veuillez échanger votre pièce à temps.";
+"chein_in_page_rules_window9" = "3. CloudMall se réserve le droit de toute explication finale sur les activités et les règles d'enregistrement.";
+"chein_in_page_rules_window10" = "Comment gagner un gros prix:";
+"chein_in_page_rules_window11" = "1. Vous obtiendrez un 'ticket code chance' gratuit si vous vous enregistrez pendant 7 jours au total.Si votre code correspond au numéro chanceux, le gros lot sera pour vous.";
+"chein_in_page_rules_window12" = "2. Si vous remportez un grand prix, notre service clientèle vous contactera par e-mail pour vous fournir des informations pertinentes à votre sujet.";
+"chein_in_page_rules_window13" = "3. Si le gagnant ne peut pas accepter le prix pour des raisons personnelles ou si le système juge qu'il a triché, le gagnant sera disqualifié.";
 /////////////4.1 其他 页面 ///////////////
 "lucky_spin_page_share_button" = "Faire pivoter maintenant";
 "lucky_spin_page_deploy_entrance1" = "OBTENIR UN GRAND PRIX";

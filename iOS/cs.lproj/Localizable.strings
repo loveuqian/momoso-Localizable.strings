@@ -1579,17 +1579,22 @@
 "address_page_zip_code_prompt6" = "s '-' ve formátu 11111-1111";
 
 ///////////4.1 版本 0 元 抢购 /////////////
-"zero_money_rush_to_buy_dp1" = "Nový uživatel zdarma";
-"zero_money_rush_to_buy_dp2" = "Nový uživatel pro";
-"zero_money_rush_to_buy_dp3" = "Nákup a odměna";
-"zero_money_rush_to_buy_dp4" = "Můžete si zakoupit pouze jednu položku této události.";
-"zero_money_rush_to_buy_cart" = "Koupit a získat odměnu právě teď";
+"zero_money_rush_to_buy_dp1" = "Koupit a získat";
+"zero_money_rush_to_buy_dp2" = "Cashback";
+"zero_money_rush_to_buy_dp3" = "Koupit hned";
+"zero_money_rush_to_buy_dp4" = "Koupit";
+"zero_money_rush_to_buy_dp5" = "Získejte Cashback";
+"zero_money_rush_to_buy_dp6" = "Výběr";
+"zero_money_rush_to_buy_dp7" = "Úspěch nákupu";
+"zero_money_rush_to_buy_dp8" = "Přijmout položku";
+"zero_money_rush_to_buy_dp9" = "Můžete si zakoupit pouze jednu položku této události.";
+"zero_money_rush_to_buy_cart1" = "Nový uživatel zdarma";
+"zero_money_rush_to_buy_cart2" = "Koupit a získat peníze zpět hned";
 "zero_money_rush_to_buy_order_success1" = "Gratulujeme !!";
-"zero_money_rush_to_buy_order_success2" = "Máš";
-"zero_money_rush_to_buy_order_success3" = "Ceny prvního řádu !!";
-"zero_money_rush_to_buy_order_success4" = "AFFILIATE";
-"zero_money_rush_to_buy_order_success5" = "Čekání na výběr";
-"zero_money_rush_to_buy_order_success6" = "Výběr nyní!";
+"zero_money_rush_to_buy_order_success2" = "Dostali jste 2 ceny za první objednávku !!";
+"zero_money_rush_to_buy_order_success3" = "CASHBACK";
+"zero_money_rush_to_buy_order_success4" = "Čekání na výběr";
+"zero_money_rush_to_buy_order_success5" = "Výběr nyní!";
 "zero_money_rush_to_buy_order_wallet_message" = "Úspěšný nákup. Úspěšně přijato";
 ///////////4.1 版本 签到 /////////////
 "check_in_page_title" = "Moje mince";
@@ -1624,6 +1629,20 @@
 "check_in_page_coin_record1" = "Coin Record";
 "check_in_page_coin_record2" = "Denní přihlášení";
 "check_in_page_coin_record3" = "Coupon Exchange";
+"chein_in_page_rules_window_title" = "PRAVIDLA";
+"chein_in_page_rules_window1" = "Denní přihlášení:";
+"chein_in_page_rules_window2" = "1. Můžete se přihlásit pouze jednou denně.";
+"chein_in_page_rules_window3" = "2. Můžete získat více mincí pomocí 'Check-in' v následujících dnech.";
+"chein_in_page_rules_window4" = "3. 7 dní v jednom cyklu získáte různé mince podle následujících dnů. Nový cyklus začne od 8. dne a bude se počítat jako první den nového cyklu.";
+"chein_in_page_rules_window5" = "4. Záznam o přihlášení se restartuje, pokud vám jeden den chybí.";
+"chein_in_page_rules_window6" = "Jak používat mince:";
+"chein_in_page_rules_window7" = "1. Odpovídající mince můžete použít k vykoupení kupónů v různých částkách.";
+"chein_in_page_rules_window8" = "2. Mince platí pro přirozený rok. Vyměňte prosím své mince včas.";
+"chein_in_page_rules_window9" = "3. CloudMall si vyhrazuje právo na konečná vysvětlení aktivit a pravidel přihlášení.";
+"chein_in_page_rules_window10" = "Jak vyhrát velkou cenu:";
+"chein_in_page_rules_window11" = "1. dostanete bezplatnou 'šťastnou kódovou jízdenku', pokud jste se zaregistrovali celkem 7 dní. Pokud váš kód zasáhne šťastné číslo, velká cena je vaše.";
+"chein_in_page_rules_window12" = "2. Pokud narazíte na velkou cenu, naši pracovníci zákaznického servisu vás budou kontaktovat e-mailem a potvrdit některé relevantní informace o vás.";
+"chein_in_page_rules_window13" = "3. Pokud vítěz nemůže přijmout cenu z osobních důvodů nebo je-li systém podle systému podváděn, bude vítěz diskvalifikován.";
 /////////// 4.1.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Spin Now";
 "lucky_spin_page_deploy_entrance1" = "GET BIG PRIZE";
