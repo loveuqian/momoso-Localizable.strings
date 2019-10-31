@@ -1572,11 +1572,11 @@
 "order_list_order_statu18" = "Totaal:";
 "order_list_order_statu19" = "Terugbetaling";
 "address_page_zip_code_prompt1" = "Uw postcode moet een zijn"; /// 地址 页 ZipCode 提示
-"address_page_zip_code_prompt2" = "cijfers";
-"address_page_zip_code_prompt3" = "alfanumerieke code";
-"address_page_zip_code_prompt4" = "met '-' in het formaat 11-111";
-"address_page_zip_code_prompt5" = "met '-' in het formaat 1111-111";
-"address_page_zip_code_prompt6" = "met '-' in het formaat 11111–1111";
+"address_page_zip_code_prompt2" = "cijfer nummer";
+"address_page_zip_code_prompt3" = "cijfer alfanumerieke code";
+"address_page_zip_code_prompt4" = "Uw ZIP / Postcode zou een 5 of 9 cijfers bestaan";
+"address_page_zip_code_prompt5" = "Uw ZIP / Postcode moet 5 cijfers met '-' in het formaat 11-111";
+"address_page_zip_code_prompt6" = "Uw ZIP / Postcode moet 7 cijfers met '-' in het formaat 1111-111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
 "zero_money_rush_to_buy_dp1" = "Aankoop en krijg";

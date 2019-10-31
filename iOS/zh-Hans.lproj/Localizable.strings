@@ -1573,10 +1573,10 @@
 "order_list_order_statu19" = "退款";
 "address_page_zip_code_prompt1" = "您的邮递区号应为";///地址页邮编提示
 "address_page_zip_code_prompt2" = "数字";
-"address_page_zip_code_prompt3" = "字母数字代码";
-"address_page_zip_code_prompt4" = "带有'-'格式为11-111";
-"address_page_zip_code_prompt5" = "带有'-'格式为1111-111";
-"address_page_zip_code_prompt6" = "带有'-'的格式为11111-1111";
+"address_page_zip_code_prompt3" = "字母数字";
+"address_page_zip_code_prompt4" = "您的邮递区号应为5或9位数字";
+"address_page_zip_code_prompt5" = "您的邮递区号应为5位数，并以'-'表示，格式为11-111";
+"address_page_zip_code_prompt6" = "您的邮递区号应为7位数，并以'-'表示，格式为1111-111";
 
 //////////////4.1版本0元抢购/////////////
 "zero_money_rush_to_buy_dp1" = "购买并获取";

@@ -1572,11 +1572,11 @@
 "order_list_order_statu18" = "Total:";
 "order_list_order_statu19" = "Rembourser";
 "address_page_zip_code_prompt1" = "Votre code postal/code postal doit être un"; /// 页 ZipCode
-"address_page_zip_code_prompt2" = "chiffres";
-"address_page_zip_code_prompt3" = "code alphanumérique";
-"address_page_zip_code_prompt4" = "avec '-' au format 11-111";
-"address_page_zip_code_prompt5" = "avec '-' au format 1111-111";
-"address_page_zip_code_prompt6" = "avec '-' au format 11111–1111";
+"address_page_zip_code_prompt2" = "numéro de chiffre";
+"address_page_zip_code_prompt3" = "chiffres code alphanumérique";
+"address_page_zip_code_prompt4" = "Votre code postal / code postal devrait être un 5 ou 9 chiffres";
+"address_page_zip_code_prompt5" = "Votre code postal / code postal doit être de 5 chiffres avec '-' dans le format 11-111";
+"address_page_zip_code_prompt6" = "Votre code postal / code postal doit être de 7 chiffres avec '-' dans le format 1111-111";
 
 /////////////4.1 0 元 ///////////////
 "zero_money_rush_to_buy_dp1" = "Achetez et obtenez";

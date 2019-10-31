@@ -1572,11 +1572,11 @@
 "order_list_order_statu18" = "Łączny:";
 "order_list_order_statu19" = "Refundować";
 "address_page_zip_code_prompt1" = "Twój kod pocztowy/pocztowy powinien mieć postać"; /// 地址 页 Kod pocztowy 提示
-"address_page_zip_code_prompt2" = "cyfry";
-"address_page_zip_code_prompt3" = "kod alfanumeryczny";
-"address_page_zip_code_prompt4" = "z '-' w formacie 11-111";
-"address_page_zip_code_prompt5" = "z '-' w formacie 1111-111";
-"address_page_zip_code_prompt6" = "z '-' w formacie 11111–1111";
+"address_page_zip_code_prompt2" = "cyfra";
+"address_page_zip_code_prompt3" = "cyfrowy kod alfanumeryczny";
+"address_page_zip_code_prompt4" = "Twój ZIP / Kod pocztowy powinien być numer 5 lub 9 cyfr";
+"address_page_zip_code_prompt5" = "Twój ZIP / Kod pocztowy powinien mieć 5 cyfr z '-' w formacie 11-111";
+"address_page_zip_code_prompt6" = "Twój ZIP / Kod pocztowy powinien być 7 cyfr z '-' w formacie 1111-111";
 
 /////////////4.1 版本 0 元 抢购 ///////////////
 "zero_money_rush_to_buy_dp1" = "Kup i odbierz";

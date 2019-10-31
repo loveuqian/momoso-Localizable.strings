@@ -1572,11 +1572,11 @@
 "order_list_order_statu18" = "Total:";
 "order_list_order_statu19" = "Mengembalikan uang";
 "address_page_zip_code_prompt1" = "ZIP/Kode Pos Anda harus menjadi"; /// 地址 页 Kode Pos 提示
-"address_page_zip_code_prompt2" = "digit";
-"address_page_zip_code_prompt3" = "kode alfanumerik";
-"address_page_zip_code_prompt4" = "dengan '-' dalam format 11-111";
-"address_page_zip_code_prompt5" = "dengan '-' dalam format 1111-111";
-"address_page_zip_code_prompt6" = "dengan '-' dalam format 11111–1111";
+"address_page_zip_code_prompt2" = "nomor digit";
+"address_page_zip_code_prompt3" = "kode alfanumerik digit";
+"address_page_zip_code_prompt4" = "ZIP / Kode Pos Anda harus berupa angka 5 atau 9 digit";
+"address_page_zip_code_prompt5" = "ZIP / Kode Pos Anda harus 5 digit dengan '-' dalam format 11-111";
+"address_page_zip_code_prompt6" = "ZIP / Kode Pos Anda harus 7 digit dengan '-' dalam format 1111-111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
 "zero_money_rush_to_buy_dp1" = "Beli dan Dapatkan";

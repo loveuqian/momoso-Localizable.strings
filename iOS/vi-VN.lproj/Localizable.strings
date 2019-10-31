@@ -1572,11 +1572,11 @@
 "order_list_order_statu18" = "Toàn bộ:";
 "order_list_order_statu19" = "Hoàn tiền";
 "address_page_zip_code_prompt1" = "Mã ZIP/Mã bưu điện của bạn phải là"; /// ZipCode
-"address_page_zip_code_prompt2" = "chữ số";
+"address_page_zip_code_prompt2" = "số chữ số";
 "address_page_zip_code_prompt3" = "mã chữ số";
-"address_page_zip_code_prompt4" = "với '-' ở định dạng 11-111";
-"address_page_zip_code_prompt5" = "với '-' ở định dạng 1111-111";
-"address_page_zip_code_prompt6" = "với '-' ở định dạng 111111111111";
+"address_page_zip_code_prompt4" = "Mã bưu điện / mã bưu điện của bạn phải là số có 5 hoặc 9 chữ số";
+"address_page_zip_code_prompt5" = "Mã ZIP / Mã bưu điện của bạn phải có 5 chữ số với '-' ở định dạng 11-111";
+"address_page_zip_code_prompt6" = "Mã bưu điện / mã bưu điện của bạn phải có 7 chữ số với '-' ở định dạng 1111-111";
 
 /////////////4.1 版本 0 元 抢购 ///////////////
 "zero_money_rush_to_buy_dp1" = "Mua và nhận";

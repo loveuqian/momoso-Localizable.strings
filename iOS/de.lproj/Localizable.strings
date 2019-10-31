@@ -1572,11 +1572,11 @@
 "order_list_order_statu18" = "Gesamt:";
 "order_list_order_statu19" = "Erstatten";
 "address_page_zip_code_prompt1" = "Ihre Postleitzahl sollte eine"; /// 地址 页 Postleitzahl 提示 sein
-"address_page_zip_code_prompt2" = "Ziffern";
-"address_page_zip_code_prompt3" = "alphanumerischer Code";
-"address_page_zip_code_prompt4" = "mit '-' im Format 11-111";
-"address_page_zip_code_prompt5" = "mit '-' im Format 1111-111";
-"address_page_zip_code_prompt6" = "mit '-' im Format 11111–1111";
+"address_page_zip_code_prompt2" = "stellige Nummer";
+"address_page_zip_code_prompt3" = "stellige alphanumerische Code";
+"address_page_zip_code_prompt4" = "Ihre PLZ / Postleitzahl sollte eine 5 oder 9-stellige Zahl sein";
+"address_page_zip_code_prompt5" = "Ihre PLZ / Postleitzahl sollte 5-stellig sein mit '-' im Format 11-111";
+"address_page_zip_code_prompt6" = "Ihre PLZ / Postleitzahl sollte 7-stellig sein mit '-' im Format 1111-111";
 
 /////////////4.1 版本 0 元 抢购 /////////////
 "zero_money_rush_to_buy_dp1" = "Kaufen und erhalten";
