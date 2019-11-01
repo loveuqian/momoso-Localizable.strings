@@ -1142,11 +1142,11 @@
 
 "dp_reviews" = " 条评论";
 "dp_no_reviews" = "暂无评论";
-"dp_review" = " 条评论";
-"dp_topban_welcome" = "欢迎 ";
+"dp_review" = "条评论";
+"dp_topban_welcome" = "欢迎";
 "dp_topban_order" = "最新订单,";
-"dp_topban_ordertime" = " 秒前";
-"dp_topban_view" = " 人正在查看";
+"dp_topban_ordertime" = "秒前";
+"dp_topban_view" = "人正在查看";
 "dp_more_reviews" = "更多评论";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////

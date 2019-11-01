@@ -1140,13 +1140,13 @@
 
 //////////////////////////// DP-评论 /////////////////////////////////
 
-"dp_reviews" = " Nhận xét";
+"dp_reviews" = "Nhận xét";
 "dp_no_reviews" = "Không có bài đánh giá nào";
-"dp_review" = " ôn tập";
-"dp_topban_welcome" = "Chào mừng ";
+"dp_review" = "ôn tập";
+"dp_topban_welcome" = "Chào mừng";
 "dp_topban_order" = "Thứ tự mới nhất,";
-"dp_topban_ordertime" = " giây trước.";
-"dp_topban_view" = " mọi người đang xem ngay bây giờ!";
+"dp_topban_ordertime" = "giây trước.";
+"dp_topban_view" = "mọi người đang xem ngay bây giờ!";
 "dp_more_reviews" = "Nhận xét khác";
 
 //////////////////////////// 首页-闪购 /////////////////////////////////
