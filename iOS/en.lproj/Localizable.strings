@@ -1409,7 +1409,7 @@
 ///////支付页面钱包/////////
 "submit_order_wallet" = "Wallet";
 "submit_order_available" = "Available";
-"submit_order_not_available" = "Not availale";
+"submit_order_not_available" = "Not available";
 "order_detail_param_cash" = "Wallet";
 
 /////////////////message页面//////////////
