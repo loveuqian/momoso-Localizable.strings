@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Uusi käyttäjä ilmaiseksi";
 "zero_money_rush_to_buy_cart2" = "Osta ja saat takaisinmaksun heti";
 "zero_money_rush_to_buy_order_success1" = "Onnittelut !!";
-"zero_money_rush_to_buy_order_success2" = "Sinulla on 2 ensimmäisen tilauksen palkintoa !!";
+"zero_money_rush_to_buy_order_success2" = "Sinulla on";
+"zero_money_rush_to_buy_order_success2a" = "Ensimmäisen tilauksen palkinnot !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Odottaa peruuttamista";
 "zero_money_rush_to_buy_order_success5" = "Peruuta nyt!";

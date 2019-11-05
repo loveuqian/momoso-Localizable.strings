@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Ny användare gratis";
 "zero_money_rush_to_buy_cart2" = "Köp och få cashback just nu";
 "zero_money_rush_to_buy_order_success1" = "Grattis !!";
-"zero_money_rush_to_buy_order_success2" = "Du fick två första ordningspriser !!";
+"zero_money_rush_to_buy_order_success2" = "Du fick";
+"zero_money_rush_to_buy_order_success2a" = "Premier för första ordningen !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Väntar på uttag";
 "zero_money_rush_to_buy_order_success5" = "Dra tillbaka nu!";

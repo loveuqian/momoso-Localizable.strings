@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "ผู้ใช้ใหม่ฟรี";
 "zero_money_rush_to_buy_cart2" = "ซื้อและรับเงินคืนทันที";
 "zero_money_rush_to_buy_order_success1" = "ขอแสดงความยินดี !!";
-"zero_money_rush_to_buy_order_success2" = "คุณได้รับรางวัลลำดับที่ 2 แรก !!";
+"zero_money_rush_to_buy_order_success2" = "คุณได้รับ";
+"zero_money_rush_to_buy_order_success2a" = "รางวัลการสั่งซื้อครั้งแรก !!";
 "zero_money_rush_to_buy_order_success3" = "เงินคืน";
 "zero_money_rush_to_buy_order_success4" = "กำลังรอการถอน";
 "zero_money_rush_to_buy_order_success5" = "ถอนออกตอนนี้!";

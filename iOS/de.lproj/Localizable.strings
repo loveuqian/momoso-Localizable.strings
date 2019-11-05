@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Neuer Benutzer";
 "zero_money_rush_to_buy_cart2" = "Jetzt kaufen und Cashback erhalten";
 "zero_money_rush_to_buy_order_success1" = "Glückwunsch !!";
-"zero_money_rush_to_buy_order_success2" = "Sie haben 2 Erstbestellungspreise erhalten !!";
+"zero_money_rush_to_buy_order_success2" = "Du hast";
+"zero_money_rush_to_buy_order_success2a" = "Preise für Erstbestellungen !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Warten auf Auszahlung";
 "zero_money_rush_to_buy_order_success5" = "Jetzt abheben!";

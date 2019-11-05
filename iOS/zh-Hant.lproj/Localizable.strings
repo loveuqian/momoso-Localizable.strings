@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "新用戶免費";
 "zero_money_rush_to_buy_cart2" = "立即購買並獲取現金返還";
 "zero_money_rush_to_buy_order_success1" = "恭喜！！";
-"zero_money_rush_to_buy_order_success2" = "您獲得了2個大獎！！";
+"zero_money_rush_to_buy_order_success2" = "您獲得了";
+"zero_money_rush_to_buy_order_success2" = "個大獎！！";
 "zero_money_rush_to_buy_order_success3" = "返現";
 "zero_money_rush_to_buy_order_success4" = "等待解凍";
 "zero_money_rush_to_buy_order_success5" = "立即提現！";

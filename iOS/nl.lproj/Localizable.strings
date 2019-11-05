@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Gratis nieuwe gebruiker";
 "zero_money_rush_to_buy_cart2" = "Koop nu en krijg Cashback";
 "zero_money_rush_to_buy_order_success1" = "Gefeliciteerd !!";
-"zero_money_rush_to_buy_order_success2" = "U heeft 2 prijzen voor de eerste bestelling !!";
+"zero_money_rush_to_buy_order_success2" = "Je hebt";
+"zero_money_rush_to_buy_order_success2a" = "Eerste orderprijzen !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Wachten op intrekking";
 "zero_money_rush_to_buy_order_success5" = "Nu intrekken!";

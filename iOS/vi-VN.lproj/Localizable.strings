@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Người dùng mới miễn phí";
 "zero_money_rush_to_buy_cart2" = "Mua và nhận hoàn tiền ngay bây giờ";
 "zero_money_rush_to_buy_order_success1" = "Xin chúc mừng !!";
-"zero_money_rush_to_buy_order_success2" = "Bạn đã nhận được 2 giải thưởng đặt hàng đầu tiên !!";
+"zero_money_rush_to_buy_order_success2" = "Bạn đã nhận";
+"zero_money_rush_to_buy_order_success2a" = "Giải thưởng đặt hàng đầu tiên !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Đang chờ rút tiền";
 "zero_money_rush_to_buy_order_success5" = "Rút tiền ngay!";

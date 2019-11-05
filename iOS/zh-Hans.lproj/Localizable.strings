@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "新用户免费";
 "zero_money_rush_to_buy_cart2" = "立即购买并获取现金返还";
 "zero_money_rush_to_buy_order_success1" = "恭喜！！";
-"zero_money_rush_to_buy_order_success2" = "您获得了2个大奖！！";
+"zero_money_rush_to_buy_order_success2" = "您获得了";
+"zero_money_rush_to_buy_order_success2" = "个大奖！！";
 "zero_money_rush_to_buy_order_success3" = "返现";
 "zero_money_rush_to_buy_order_success4" = "等待解冻";
 "zero_money_rush_to_buy_order_success5" = "立即提现！";

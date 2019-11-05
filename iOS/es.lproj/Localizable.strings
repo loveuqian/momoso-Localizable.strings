@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Nuevo usuario gratis";
 "zero_money_rush_to_buy_cart2" = "Compre y obtenga devolución de efectivo ahora mismo";
 "zero_money_rush_to_buy_order_success1" = "¡Felicidades!";
-"zero_money_rush_to_buy_order_success2" = "¡Tienes 2 premios de primer pedido!";
+"zero_money_rush_to_buy_order_success2" = "Tienes";
+"zero_money_rush_to_buy_order_success2a" = "¡Premios de primer pedido!";
 "zero_money_rush_to_buy_order_success3" = "EFECTIVO";
 "zero_money_rush_to_buy_order_success4" = "Esperando retiro";
 "zero_money_rush_to_buy_order_success5" = "¡Retirar ahora!";

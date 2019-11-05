@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Pengguna Baru Gratis";
 "zero_money_rush_to_buy_cart2" = "Beli dan Dapatkan Uang Kembali Sekarang";
 "zero_money_rush_to_buy_order_success1" = "Selamat !!";
-"zero_money_rush_to_buy_order_success2" = "Anda mendapat 2 Hadiah Orde Pertama !!";
+"zero_money_rush_to_buy_order_success2" = "Anda mendapat";
+"zero_money_rush_to_buy_order_success2a" = "Hadiah Pesanan Pertama !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Menunggu penarikan";
 "zero_money_rush_to_buy_order_success5" = "Tarik Sekarang!";

@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Nowy użytkownik za darmo";
 "zero_money_rush_to_buy_cart2" = "Kup i odbierz zwrot już teraz";
 "zero_money_rush_to_buy_order_success1" = "Gratulacje !!";
-"zero_money_rush_to_buy_order_success2" = "Masz 2 nagrody pierwszego rzędu !!";
+"zero_money_rush_to_buy_order_success2" = "Masz";
+"zero_money_rush_to_buy_order_success2a" = "Nagrody pierwszego rzędu !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Oczekiwanie na wypłatę";
 "zero_money_rush_to_buy_order_success5" = "Wycofaj teraz!";

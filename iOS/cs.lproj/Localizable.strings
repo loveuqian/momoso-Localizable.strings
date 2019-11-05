@@ -1591,7 +1591,8 @@
 "zero_money_rush_to_buy_cart1" = "Nový uživatel zdarma";
 "zero_money_rush_to_buy_cart2" = "Koupit a získat peníze zpět hned";
 "zero_money_rush_to_buy_order_success1" = "Gratulujeme !!";
-"zero_money_rush_to_buy_order_success2" = "Dostali jste 2 ceny za první objednávku !!";
+"zero_money_rush_to_buy_order_success2" = "Máš";
+"zero_money_rush_to_buy_order_success2a" = "Ceny prvního řádu !!";
 "zero_money_rush_to_buy_order_success3" = "CASHBACK";
 "zero_money_rush_to_buy_order_success4" = "Čekání na výběr";
 "zero_money_rush_to_buy_order_success5" = "Výběr nyní!";
