@@ -1588,7 +1588,7 @@
 "zero_money_rush_to_buy_dp7" = "Succès de l'achat";
 "zero_money_rush_to_buy_dp8" = "Élément de réception";
 "zero_money_rush_to_buy_dp9" = "Vous ne pouvez acheter qu'un seul élément de cet événement.";
-"zero_money_rush_to_buy_cart1" = "Nouvel utilisateur gratuit";
+"zero_money_rush_to_buy_cart1" = "Gratuit pour nouvel utilisateur";
 "zero_money_rush_to_buy_cart2" = "Achetez et obtenez le remboursement immédiatement";
 "zero_money_rush_to_buy_order_success1" = "Félicitations !!";
 "zero_money_rush_to_buy_order_success2" = "Vous avez";
