@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Only “Available” wallet balance can be used.";
 "submit_order_wallet_rule_third" = "Invite more friends to place orders to get more free wallet cash!";
 "submit_order_wallet_rule_thread" = "Wallet balance cannot be used to cover shipping costs.";
-"submit_order_wallet_rule_fourth" = "Due to local restrictions, the wallet balance cannot be used to cover the entire purchase amount. If the Available balance in your wallet exceeds your total purchase amount, then only a part of the Available balance will be used.";
+"submit_order_wallet_rule_fourth" = "Wallet Cash can be used to deduct up to 10% of the order amount.";
 "submit_order_wallet_rule_button" = "Got It";
 
 ///////////////////ios3.07版本——返利弹窗//////////////

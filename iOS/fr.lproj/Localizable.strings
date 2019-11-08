@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Vous ne pouvez utiliser que le solde du portefeuille 'Disponible'.";
 "submit_order_wallet_rule_third" = "Invitez plus d'amis à passer des commandes pour obtenir plus d'argent de portefeuille gratuit!";
 "submit_order_wallet_rule_thread" = "Le solde du portefeuille ne peut pas être utilisé pour couvrir les frais d'expédition.";
-"submit_order_wallet_rule_fourth" = "En raison de restrictions locales, le solde du portefeuille ne peut pas être utilisé pour couvrir la totalité du montant de l'achat. Si le solde disponible de votre portefeuille dépasse le montant total de votre achat, ce n'est qu'une partie du solde disponible sera utilisée.";
+"submit_order_wallet_rule_fourth" = "Vous pouvez utiliser Wallet Cash pour déduire jusqu'à 10% du montant de la commande.";
 "submit_order_wallet_rule_button" = "Je l'ai eu";
 
 ///////////////////////ios3.07 version - pop-ups à remise //////////////

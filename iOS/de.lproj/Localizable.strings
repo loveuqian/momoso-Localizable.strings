@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Es kann nur ein verfügbares Guthabenkonto verwendet werden.";
 "submit_order_wallet_rule_third" = "Laden Sie mehr Freunde ein,um Bestellungen zu platzieren, um mehr Geld für Gratisgeld zu erhalten!";
 "submit_order_wallet_rule_thread" = "Der Kontostand kann nicht zur Deckung der Versandkosten verwendet werden.";
-"submit_order_wallet_rule_fourth" = "Aufgrund lokaler Beschränkungen kann der Kontostand nicht zur Deckung des gesamten Kaufbetrags verwendet werden. Wenn der verfügbare Kontostand Ihres Portfolios Ihren gesamten Kaufbetrag übersteigt,wird nur ein Teil des verfügbaren Kontostands verwendet.";
+"submit_order_wallet_rule_fourth" = "Mit Wallet Cash können bis zu 10% des Bestellwertes abgebucht werden.";
 "submit_order_wallet_rule_button" = "Ich habs";
 
 /////////////////ios3.07 version - rabatt pop-ups ///////////////

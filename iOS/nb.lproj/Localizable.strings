@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Bare 'Tilgjengelig' lommebokbalanse kan brukes.";
 "submit_order_wallet_rule_third" = "Inviter flere venner til å bestille ordre for å få mer gratis lommebok!";
 "submit_order_wallet_rule_thread" = "Wallet-saldoen kan ikke brukes til å dekke fraktkostnadene.";
-"submit_order_wallet_rule_fourth" = "På grunn av lokale restriksjoner kan lommebalansen ikke brukes til å dekke hele kjøpsbeløpet.Hvis Tilgjengelig saldo i lommeboken din overstiger ditt totale kjøpsbeløp,vil bare en del av Tilgjengelig saldo bli brukt.";
+"submit_order_wallet_rule_fourth" = "Lommebok kontanter kan brukes til å trekke fra opptil 10% av ordren.";
 "submit_order_wallet_rule_button" = "Fikk det";
 
 /////////////////////ios3.07 versjon - rabatt popup-vinduer ///////////////

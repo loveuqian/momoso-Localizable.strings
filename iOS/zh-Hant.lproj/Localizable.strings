@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "只能使用“可用”錢包餘額.";
 "submit_order_wallet_rule_third" = "邀請更多朋友下訂單，以獲得更多免費錢包現金！";
 "submit_order_wallet_rule_thread" = "電子錢包餘額不能用於支付運費.";
-"submit_order_wallet_rule_fourth" = "由於當地限制，錢包餘額不能用於支付整個購買金額。 如果錢包中的可用餘額超過總購買金額，則只會使用可用餘額的一部分.";
+"submit_order_wallet_rule_fourth" = "電子錢包現金最多可用於扣除訂單金額的10％。";
 "submit_order_wallet_rule_button" = "知道了";
 
 ///////////////////ios3.07版本 - 返利彈窗//////////////
@@ -1592,7 +1592,7 @@
 "zero_money_rush_to_buy_cart2" = "立即購買並獲取現金返還";
 "zero_money_rush_to_buy_order_success1" = "恭喜！！";
 "zero_money_rush_to_buy_order_success2" = "您獲得了";
-"zero_money_rush_to_buy_order_success2" = "個大獎！！";
+"zero_money_rush_to_buy_order_success2a" = "個大獎！！";
 "zero_money_rush_to_buy_order_success3" = "返現";
 "zero_money_rush_to_buy_order_success4" = "等待解凍";
 "zero_money_rush_to_buy_order_success5" = "立即提現！";

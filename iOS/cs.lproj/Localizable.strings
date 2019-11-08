@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Lze použít pouze “Dostupnou” peněženku.";
 "submit_order_wallet_rule_third" = "Pozvěte více přátel, aby zadali objednávky, abyste získali více peněženky zdarma!";
 "submit_order_wallet_rule_thread" = "Zůstatek peněženky nelze použít k pokrytí nákladů na přepravu.";
-"submit_order_wallet_rule_fourth" = "Vzhledem k místním omezením nelze zůstatku peněženky použít k pokrytí celé částky nákupu. Pokud zůstatek ve vaší peněžence přesáhne celkovou částku nákupu, použije se pouze část zůstatku, který je k dispozici.";
+"submit_order_wallet_rule_fourth" = "Peněženku v hotovosti můžete použít k odečtení až 10% z částky objednávky.";
 "submit_order_wallet_rule_button" = "Mám to";
 
 /////////////////////ios3.07 verze - slevové vyskakovací okna ///////////////

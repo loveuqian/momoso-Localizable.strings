@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Alleen de portefeuillewaarde“ Beschikbaar ”kan worden gebruikt.";
 "submit_order_wallet_rule_third" = "Nodig meer vrienden uit om bestellingen te plaatsen om meer gratis geld in de portemonnee te krijgen!";
 "submit_order_wallet_rule_thread" = "Wallet-saldo kan niet worden gebruikt om verzendkosten te dekken.";
-"submit_order_wallet_rule_fourth" = "Vanwege lokale beperkingen kan het walletsaldo niet worden gebruikt om het volledige aankoopbedrag te dekken.Als het beschikbare saldo in uw portemonnee uw totale aankoopbedrag overschrijdt, wordt slechts een deel van het beschikbare saldo gebruikt.";
+"submit_order_wallet_rule_fourth" = "Wallet Cash kan worden gebruikt om tot 10% van het orderbedrag af te trekken.";
 "submit_order_wallet_rule_button" = "Begrepen";
 
 /////////////////////ios3.07 versie - korting pop-ups ///////////////

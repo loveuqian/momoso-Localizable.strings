@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "È possibile utilizzare solo il saldo del portafoglio 'Disponibile'.";
 "submit_order_wallet_rule_third" = "Invita altri amici di effettuare ordini per ottenere più libero del raccoglitore di cassa!";
 "submit_order_wallet_rule_thread" = "Non è possibile utilizzare il saldo di Wallet per coprire i costi di spedizione.";
-"submit_order_wallet_rule_fourth" = "A causa di restrizioni locali, il saldo portafoglio non può essere utilizzata per coprire l'intero importo di acquisto Se il saldo disponibile nel vostro portafoglio supera l'importo totale dell'acquisto, quindi solo una parte del saldo disponibile sarà utilizzato .";
+"submit_order_wallet_rule_fourth" = "Wallet Cash può essere utilizzato per detrarre fino al 10% dell'importo dell'ordine.";
 "submit_order_wallet_rule_button" = "Trovato";
 
 /////////////////////ios3.07 versione - abbonati popup ///////////////

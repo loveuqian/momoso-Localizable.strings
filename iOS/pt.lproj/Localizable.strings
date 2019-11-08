@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Apenas o saldo da carteira“ Disponível ”pode ser usado.";
 "submit_order_wallet_rule_third" = "Convide mais amigos para fazer pedidos para obter mais dinheiro da carteira!";
 "submit_order_wallet_rule_thread" = "O saldo da carteira não pode ser usado para cobrir os custos de envio.";
-"submit_order_wallet_rule_fourth" = "Devido a restrições locais, o saldo da carteira não pode ser usado para cobrir o valor total da compra. Se o saldo Disponível na sua carteira exceder o valor total da compra, apenas uma parte do saldo Disponível será utilizada.";
+"submit_order_wallet_rule_fourth" = "O Wallet Cash pode ser usado para deduzir até 10% do valor do pedido.";
 "submit_order_wallet_rule_button" = "Entendi";
 
 /////////////////////ios3.07 version - rebate pop-ups ///////////////

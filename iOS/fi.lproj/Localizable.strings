@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Vain 'Käytettävissä olevaa' lompakon saldoa voidaan käyttää.";
 "submit_order_wallet_rule_third" = "Kutsu lisää ystäviä tekemään tilauksia saadaksesi lisää maksutta lompakon käteistä!";
 "submit_order_wallet_rule_thread" = "Lompakon saldoa ei voi käyttää kuljetuskustannusten kattamiseen.";
-"submit_order_wallet_rule_fourth" = "Paikallisten rajoitusten takia lompakon saldoa ei voi käyttää kattamaan koko ostomäärää. Jos lompakon käytettävissä oleva saldo ylittää oston kokonaismäärän, käytetään vain osaa käytettävissä olevasta saldosta.";
+"submit_order_wallet_rule_fourth" = "Wallet Cash -välineellä voidaan vähentää jopa 10% tilauksen summasta.";
 "submit_order_wallet_rule_button" = "Sain sen";
 
 /////////////////////ios3.07-versio - alennushaku-ponnahdusikkunat ///////////////

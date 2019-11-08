@@ -1420,7 +1420,7 @@
 "submit_order_wallet_rule_first" = "Chỉ có thể sử dụng số dư ví tiền có sẵn.";
 "submit_order_wallet_rule_third" = "Mời thêm bạn bè đặt hàng để nhận thêm tiền mặt miễn phí!";
 "submit_order_wallet_rule_thread" = "Không thể sử dụng số dư ví để trang trải chi phí vận chuyển.";
-"submit_order_wallet_rule_fourth" = "Do các hạn chế cục bộ, số dư ví không thể được sử dụng để trang trải toàn bộ số tiền mua. Nếu số dư khả dụng trong ví của bạn vượt quá tổng số tiền mua của bạn, thì chỉ một phần của số dư khả dụng sẽ được sử dụng.";
+"submit_order_wallet_rule_fourth" = "Ví tiền mặt có thể được sử dụng để khấu trừ tới 10% số tiền đặt hàng.";
 "submit_order_wallet_rule_button" = "Đã nhận";
 
 /////////////////////// phiên bản 3.07 - giảm giá pop-up /////////////////
