@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 hari sebagai satu siklus, Anda akan mendapatkan koin yang berbeda sesuai dengan hari berturut-turut. Siklus baru akan dimulai dari hari ke-8 dan akan dihitung sebagai hari pertama dari siklus baru.";
 "chein_in_page_rules_window5" = "4. Catatan masuk akan dimulai ulang jika Anda melewatkan satu hari.";
 "chein_in_page_rules_window6" = "Cara menggunakan koin:";
-"chein_in_page_rules_window7" = "1. Anda dapat menggunakan koin yang sesuai untuk menebus kupon untuk jumlah yang berbeda.";
-"chein_in_page_rules_window8" = "2. Koin valid untuk tahun alami. Silakan tebus koin Anda tepat waktu.";
-"chein_in_page_rules_window9" = "3. CloudMall berhak atas penjelasan akhir tentang aktivitas dan aturan Check-in.";
+"chein_in_page_rules_window7" = "1. Anda dapat menggunakan koin untuk menebus kupon untuk jumlah yang berbeda.";
+"chein_in_page_rules_window8" = "2. Koin berlaku untuk tahun alami. Silakan tebus koin Anda tepat waktu.";
+"chein_in_page_rules_window9" = "3. CloudMall berhak atas interpretasi akhir tentang aktivitas dan aturan Check-in.";
 "chein_in_page_rules_window10" = "Cara memenangkan hadiah besar:";
-"chein_in_page_rules_window11" = "1. Anda akan mendapatkan 'tiket kode keberuntungan' gratis selama Anda check in selama 7 hari secara total. jika kode Anda mencapai angka keberuntungan, hadiah besar adalah milik Anda.";
-"chein_in_page_rules_window12" = "2. Jika Anda mencapai hadiah besar, staf layanan pelanggan kami akan menghubungi Anda melalui email, omfirm beberapa informasi yang relevan tentang Anda.";
+"chein_in_page_rules_window11" = "1. Anda akan mendapatkan 'tiket kode keberuntungan' gratis ketika Anda masuk selama 7 hari berturut-turut. Jika kode Anda mencapai angka keberuntungan, hadiah besar adalah milik Anda.";
+"chein_in_page_rules_window12" = "2. Jika Anda memenangkan hadiah besar, staf layanan pelanggan kami akan menghubungi Anda melalui email untuk mengkonfirmasi informasi Anda dan memenuhi hadiah Anda.";
 "chein_in_page_rules_window13" = "3. Jika pemenang tidak dapat menerima hadiah karena alasan pribadi atau dinilai oleh sistem untuk curang, pemenang akan didiskualifikasi.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Putar Sekarang";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Shop Now";
 "lucky_spin_page_share_window_button2" = "Bagikan untuk mendapatkan lebih banyak kesempatan";
+"lucky_spin_page_rules_window1" = "ATURAN";
+"lucky_spin_page_rules_window2" = "Anda memiliki 1 peluang setiap putaran untuk memenangkan hadiah melalui undian harian kami, dan bisa mendapatkan 2 peluang ekstra saat Anda membagikan tautan dan mengundang teman Anda untuk bermain. Peluang undian maksimum per orang per hari adalah 12.";
+"lucky_spin_page_rules_window3" = "Hadiah kupon akan dikeluarkan langsung ke akun Anda dan hadiah fisik akan dikirim dalam 7 hari kerja.";
+"lucky_spin_page_rules_window4" = "Semua kupon yang dikeluarkan selama acara ini akan dikurangkan dari harga barang pesanan Anda berikutnya, dan berlaku selama 2 hari.";
+"lucky_spin_page_rules_window5" = "Setiap tindakan curang berbahaya akan dihukum dengan membatalkan hadiah.";
+"lucky_spin_page_rules_window6" = "Hak interpretasi akhir adalah milik CloudMall.";
 "dp_page_shipping_window" = "Periksa sekarang";
 "dp_page_deploy_element1" = "BELI BARANG INI JUGA BELI";
 "dp_page_deploy_element2" = "Lainnya";

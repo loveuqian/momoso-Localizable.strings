@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 päivää yhtenä jaksona, saat erilaisia ​​kolikoita peräkkäisten päivien mukaan. Uusi jakso alkaa 8. päivästä ja lasketaan uuden jakson ensimmäisenä päivänä.";
 "chein_in_page_rules_window5" = "4. Lähtötietue käynnistyy uudelleen, jos unohdat yhden päivän.";
 "chein_in_page_rules_window6" = "Kuinka käyttää kolikoita:";
-"chein_in_page_rules_window7" = "1. Voit käyttää vastaavia kolikoita lunastamaan kuponkeja eri määrille.";
+"chein_in_page_rules_window7" = "1. Voit käyttää kolikoita lunastamaan kuponkeja eri summille.";
 "chein_in_page_rules_window8" = "2. Kolikot ovat voimassa luonnollista vuotta. Lunasta kolikot ajoissa.";
-"chein_in_page_rules_window9" = "3. CloudMall pidättää oikeuden lopulliseen selitykseen Check-in-toiminnoista ja säännöistä.";
+"chein_in_page_rules_window9" = "3. CloudMall pidättää oikeuden lopulliseen tulkintaan Check-in-toiminnoista ja -säännöistä.";
 "chein_in_page_rules_window10" = "Kuinka voittaa iso palkinto:";
-"chein_in_page_rules_window11" = "1. saat ilmaisen 'onnekoodin lipun' niin kauan kuin olet kirjautunut sisään seitsemän päivän ajan. Jos koodisi osuu onnenumeroon, iso palkinto on sinun.";
-"chein_in_page_rules_window12" = "2. Jos osut iso palkinto, asiakaspalvelumme henkilökunta ottaa sinuun yhteyttä sähköpostitse, vahvistaa joitain merkityksellisiä tietoja sinusta.";
+"chein_in_page_rules_window11" = "1. Saat ilmaisen onnekoodilipun, kun kirjaudut sisään 7 päivää peräkkäin. Jos koodisi osuu onnenumeroon, iso palkinto on sinun.";
+"chein_in_page_rules_window12" = "2. Jos voitat suuren palkinnon, asiakaspalvelumme henkilökunta ottaa sinuun yhteyttä sähköpostitse vahvistaaksesi tietosi ja täyttääksesi palkintosi.";
 "chein_in_page_rules_window13" = "3. Jos voittaja ei voi hyväksyä palkintoa henkilökohtaisista syistä tai jos järjestelmä arvioi sen pettävän, voittaja hylätään.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Pyöritä nyt";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Osta nyt";
 "lucky_spin_page_share_window_button2" = "Jaa saadaksesi enemmän mahdollisuuksia";
+"lucky_spin_page_rules_window1" = "REGELS";
+"lucky_spin_page_rules_window2" = "Sinulla on 1 mahdollisuus jokaisella kierroksella voittaa palkintoja päivittäisen onnekas arvonnan kautta, ja voit saada ylimääräiset 2 mahdollisuutta, kun jaat linkin ja kutsut ystäväsi pelaamaan. Suurin onnekas arvontamahdollisuus henkilöä kohden päivässä on 12.";
+"lucky_spin_page_rules_window3" = "Kupongipalkinnot jaetaan suoraan tilillesi ja fyysiset palkinnot lähetetään 7 työpäivän kuluessa.";
+"lucky_spin_page_rules_window4" = "Kaikki tämän tapahtuman aikana annetut kuponit vähennetään seuraavan tilauksesi tavaran hinnasta ja ovat voimassa 2 päivää.";
+"lucky_spin_page_rules_window5" = "Kaikista vahingollisista huijaustoimista rangaistaan peruuttamalla palkinnot.";
+"lucky_spin_page_rules_window6" = "Lopullinen tulkintaoikeus kuuluu CloudMallille.";
 "dp_page_shipping_window" = "Katso nyt";
 "dp_page_deploy_element1" = "OSTA TÄTÄ KOHTA MYÖS MYÖS";
 "dp_page_deploy_element2" = "Lisää";

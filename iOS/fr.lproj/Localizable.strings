@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. Pendant 7 jours, vous obtiendrez différentes pièces de monnaie en fonction du nombre de jours consécutifs. Un nouveau cycle débutera le 8ème jour et comptera comme premier jour d'un nouveau cycle.";
 "chein_in_page_rules_window5" = "4. L'enregistrement d'enregistrement redémarrera si vous manquez un jour.";
 "chein_in_page_rules_window6" = "Comment utiliser les pièces:";
-"chein_in_page_rules_window7" = "1. Vous pouvez utiliser les pièces de monnaie correspondantes pour échanger les coupons contre des montants différents.";
-"chein_in_page_rules_window8" = "2. Les pièces sont valables pour une année naturelle. Veuillez échanger votre pièce à temps.";
-"chein_in_page_rules_window9" = "3. CloudMall se réserve le droit de toute explication finale sur les activités et les règles d'enregistrement.";
+"chein_in_page_rules_window7" = "1. Vous pouvez utiliser des pièces pour échanger des coupons d’un montant différent.";
+"chein_in_page_rules_window8" = "2. Les pièces sont valables pour une année naturelle. S'il vous plaît échanger vos pièces à temps.";
+"chein_in_page_rules_window9" = "3. CloudMall se réserve le droit d'interprétation finale sur les activités et les règles d'enregistrement.";
 "chein_in_page_rules_window10" = "Comment gagner un gros prix:";
-"chein_in_page_rules_window11" = "1. Vous obtiendrez un 'ticket code chance' gratuit si vous vous enregistrez pendant 7 jours au total.Si votre code correspond au numéro chanceux, le gros lot sera pour vous.";
-"chein_in_page_rules_window12" = "2. Si vous remportez un grand prix, notre service clientèle vous contactera par e-mail pour vous fournir des informations pertinentes à votre sujet.";
+"chein_in_page_rules_window11" = "1. Vous recevrez un 'ticket de code chanceux' gratuit lorsque vous vous enregistrerez 7 jours de suite. Si votre code correspond au numéro chanceux, le gros lot est à vous.";
+"chein_in_page_rules_window12" = "2. Si vous remportez le gros lot, notre service clientèle vous contactera par courrier électronique pour confirmer vos informations et remplir votre lot.";
 "chein_in_page_rules_window13" = "3. Si le gagnant ne peut pas accepter le prix pour des raisons personnelles ou si le système juge qu'il a triché, le gagnant sera disqualifié.";
 /////////////4.1 其他 页面 ///////////////
 "lucky_spin_page_share_button" = "Faire pivoter maintenant";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Remise en argent";
 "lucky_spin_page_share_window_button1" = "Acheter maintenant";
 "lucky_spin_page_share_window_button2" = "Partager pour avoir plus de chance";
+"lucky_spin_page_rules_window1" = "RULES";
+"lucky_spin_page_rules_window2" = "Vous avez 1 chance à chaque tour de gagner des prix via notre tirage au sort quotidien, et vous pouvez obtenir 2 chances supplémentaires lorsque vous partagez le lien et invitez vos amis à jouer. Le nombre maximal de tirages au sort par personne et par jour est de 12.";
+"lucky_spin_page_rules_window3" = "Les prix des coupons seront émis directement sur votre compte et les prix physiques seront envoyés sous 7 jours ouvrables.";
+"lucky_spin_page_rules_window4" = "Tous les coupons émis lors de cet événement seront déduits du prix des biens de votre prochaine commande et seront valables pendant 2 jours.";
+"lucky_spin_page_rules_window5" = "Toute action de fraude malveillante sera punie par l’annulation des prix.";
+"lucky_spin_page_rules_window6" = "Le droit d'interprétation finale appartient à CloudMall.";
 "dp_page_shipping_window" = "Vérifier maintenant";
 "dp_page_deploy_element1" = "ACHETER CET ARTICLE AUSSI ACHETER";
 "dp_page_deploy_element2" = "Plus";

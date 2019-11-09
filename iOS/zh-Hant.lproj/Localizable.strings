@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7天作為一個週期，您將根據連續的天數獲得不同的硬幣。新的周期將從第8天開始，並將被視為新周期的第一天。";
 "chein_in_page_rules_window5" = "4. 如果您錯過其中一天，簽到記錄將重新開始。";
 "chein_in_page_rules_window6" = "如何使用金幣：";
-"chein_in_page_rules_window7" = "1. 您可以使用相應的硬幣來兌換不同數量的優惠券。";
-"chein_in_page_rules_window8" = "2. 金幣在自然年份內有效。請及時領取您的硬幣。";
+"chein_in_page_rules_window7" = "1.您可以使用硬幣兌換不同數量的優惠券。";
+"chein_in_page_rules_window8" = "2.硬幣的有效期為自然年。請及時兌換您的硬幣。";
 "chein_in_page_rules_window9" = "3. CloudMall保留對簽到活動和規則的最終解釋權。";
 "chein_in_page_rules_window10" = "如何贏得大獎：";
-"chein_in_page_rules_window11" = "1. 只要您總共簽到了7天，您將獲得一張免費的'幸運字符碼'。如果您的字符碼為幸運數字，則大獎就是您的了。";
-"chein_in_page_rules_window12" = "2. 如果您獲得大獎，我們的客服人員將通過電子郵件與您聯繫，並確認您的一些相關信息。";
+"chein_in_page_rules_window11" = "1.連續7天登記入住時，您將獲得免費的'幸運代碼票'。如果您的代碼達到了幸運數字，那麼大獎就是您的了。";
+"chein_in_page_rules_window12" = "2.如果您獲得大獎，我們的客戶服務人員將通過電子郵件與您聯繫，以確認您的信息並兌現您的獎項。";
 "chein_in_page_rules_window13" = "3. 如果獲勝者由於個人原因不能接受獎品或被系統判斷為作弊，則獲勝者將被取消參賽資格。";
 /////////////4.1版本其他頁面//////////////
 "lucky_spin_page_share_button" = "立即轉動";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "現金返還";
 "lucky_spin_page_share_window_button1" = "立即購買";
 "lucky_spin_page_share_window_button2" = "分享以獲得更多機會";
+"lucky_spin_page_rules_window1" = "規則";
+"lucky_spin_page_rules_window2" = "您每輪都有1次機會通過我們的每日幸運抽獎贏得獎品，並且當您共享鏈接並邀請您的朋友玩遊戲時，可以獲得額外2次機會。每人每天最大的抽獎機會為12。";
+"lucky_spin_page_rules_window3" = "優惠券獎金將直接發送到您的帳戶，實際獎金將在7個工作日內寄出。";
+"lucky_spin_page_rules_window4" = "在此活動中發行的所有優惠券將從您下一次訂購的商品價格中扣除，有效期為2天。";
+"lucky_spin_page_rules_window5" = "將對任何惡意的作弊行為進行取消獎品處罰。";
+"lucky_spin_page_rules_window6" = "最終解釋權屬於CloudMall。";
 "dp_page_shipping_window" = "立即下單";
 "dp_page_deploy_element1" = "購買過該商品的可能購買";
 "dp_page_deploy_element2" = "更多";

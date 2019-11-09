@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 days as one cycle, you will get different coins according to consecutive days. A new cycle will start from the 8th day and will count as the first day of a new cycle.";
 "chein_in_page_rules_window5" = "4. Check-in record will restart if you miss one day.";
 "chein_in_page_rules_window6" = "How to use coins:";
-"chein_in_page_rules_window7" = "1. You can use the corresponding coins to redeem the coupons for different amounts.";
-"chein_in_page_rules_window8" = "2. Coins are valid for a natural year. Please redeem your coin in time.";
-"chein_in_page_rules_window9" = "3. CloudMall reserves the right of final explanations on Check-in activities and rules.";
+"chein_in_page_rules_window7" = "1. You can use coins to redeem coupons for different amounts.";
+"chein_in_page_rules_window8" = "2. Coins are valid for a natural year. Please redeem your coins in time.";
+"chein_in_page_rules_window9" = "3. CloudMall reserves the right of final interpretation on Check-in activities and rules.";
 "chein_in_page_rules_window10" = "How to win big prize:";
-"chein_in_page_rules_window11" = "1. you will get a free 'lucky code ticket' as long as you checked in for 7 days in total.if your code hit the lucky number, the big prize is yours.";
-"chein_in_page_rules_window12" = "2. If you hit the big prize, our customer service staff will contact you by email, omfirm some relevant information about you.";
+"chein_in_page_rules_window11" = "1. you'll get a free 'lucky code ticket' as long as you checked in for 7 days in total.if your code hit the lucky number, the big prize is yours.";
+"chein_in_page_rules_window12" = "2. If you hit the big prize,our customer service staff will contact you by email,omfirm some relevant information about you.";
 "chein_in_page_rules_window13" = "3. If the winner cannot accept the prize for personal reasons or is judged by the system to be cheating,the winner will be disqualified.";
 /////////////4.1版本其他页面/////////////
 "lucky_spin_page_share_button" = "Spin Now";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Shop Now";
 "lucky_spin_page_share_window_button2" = "Share to get more chance";
+"lucky_spin_page_rules_window1" = "RULES";
+"lucky_spin_page_rules_window2" = "You have 1 chance each round to win prizes via our daily lucky draw, and can get an extra 2 chances when you share the link and invite your friends to play. The maximum lucky draw opportunities per person per day is 12.";
+"lucky_spin_page_rules_window3" = "Coupon prizes will be issued directly to your account and physical prizes will be sent out with 7 working days.";
+"lucky_spin_page_rules_window4" = "All coupons issued during this event will be deducted from the goods price of your next order, and are valid for 2 days.";
+"lucky_spin_page_rules_window5" = "Any malicious cheating action will be punished by cancelling the prizes.";
+"lucky_spin_page_rules_window6" = "The right of final interpretation belongs to CloudMall.";
 "dp_page_shipping_window" = "Check out now";
 "dp_page_deploy_element1" = "BUY THIS ITEM ALSO BUY";
 "dp_page_deploy_element2" = "More";

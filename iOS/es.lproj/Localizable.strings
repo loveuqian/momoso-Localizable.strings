@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 días como un ciclo, obtendrá diferentes monedas según días consecutivos. Un nuevo ciclo comenzará a partir del octavo día y contará como el primer día de un nuevo ciclo.";
 "chein_in_page_rules_window5" = "4. El registro de check-in se reiniciará si falta un día.";
 "chein_in_page_rules_window6" = "Cómo usar monedas:";
-"chein_in_page_rules_window7" = "1. Puede usar las monedas correspondientes para canjear los cupones por diferentes cantidades.";
-"chein_in_page_rules_window8" = "2. Las monedas son válidas por un año natural. Canjee su moneda a tiempo.";
-"chein_in_page_rules_window9" = "3. CloudMall se reserva el derecho de explicaciones finales sobre las actividades y reglas de Check-in.";
+"chein_in_page_rules_window7" = "1. Puede usar monedas para canjear cupones por diferentes cantidades.";
+"chein_in_page_rules_window8" = "2. Las monedas son válidas por un año natural. Canjea tus monedas a tiempo.";
+"chein_in_page_rules_window9" = "3. CloudMall se reserva el derecho de interpretación final sobre las actividades y reglas de Check-in.";
 "chein_in_page_rules_window10" = "Cómo ganar un gran premio:";
-"chein_in_page_rules_window11" = "1. obtendrá un 'boleto de código de la suerte' gratuito siempre y cuando haya ingresado durante 7 días en total. si su código toca el número de la suerte, el gran premio es suyo";
-"chein_in_page_rules_window12" = "2. Si obtiene el gran premio, nuestro personal de servicio al cliente se pondrá en contacto con usted por correo electrónico y le confirmará información relevante sobre usted.";
+"chein_in_page_rules_window11" = "1. Recibirá un 'boleto de código de la suerte' gratis cuando se registre durante 7 días seguidos. Si su código toca el número de la suerte, el gran premio es suyo.";
+"chein_in_page_rules_window12" = "2. Si gana el gran premio, nuestro personal de servicio al cliente se comunicará con usted por correo electrónico para confirmar su información y cumplir con su premio.";
 "chein_in_page_rules_window13" = "3. Si el ganador no puede aceptar el premio por razones personales o si el sistema juzga que está haciendo trampa, el ganador será descalificado.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Girar ahora";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Comprar ahora";
 "lucky_spin_page_share_window_button2" = "Compartir para tener más oportunidades";
+"lucky_spin_page_rules_window1" = "REGLAS";
+"lucky_spin_page_rules_window2" = "Tienes 1 oportunidad en cada ronda de ganar premios a través de nuestro sorteo diario y puedes obtener 2 oportunidades adicionales cuando compartes el enlace e invitas a tus amigos a jugar. Las oportunidades máximas de sorteo por persona por día son 12.";
+"lucky_spin_page_rules_window3" = "Los premios de cupón se emitirán directamente a su cuenta y los premios físicos se enviarán con 7 días hábiles.";
+"lucky_spin_page_rules_window4" = "Todos los cupones emitidos durante este evento se deducirán del precio de los productos de su próximo pedido y son válidos por 2 días.";
+"lucky_spin_page_rules_window5" = "Cualquier acción de engaño maliciosa será castigada cancelando los premios.";
+"lucky_spin_page_rules_window6" = "El derecho de interpretación final pertenece a CloudMall.";
 "dp_page_shipping_window" = "Pagar ahora";
 "dp_page_deploy_element1" = "COMPRAR ESTE ARTÍCULO TAMBIÉN COMPRAR";
 "dp_page_deploy_element2" = "Más";

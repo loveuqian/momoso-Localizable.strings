@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 dagen als één cyclus, krijgt u verschillende munten volgens opeenvolgende dagen. Een nieuwe cyclus begint vanaf de 8e dag en telt als de eerste dag van een nieuwe cyclus.";
 "chein_in_page_rules_window5" = "4. Het inchecken wordt opnieuw gestart als u een dag mist.";
 "chein_in_page_rules_window6" = "Hoe munten te gebruiken:";
-"chein_in_page_rules_window7" = "1. U kunt de bijbehorende munten gebruiken om de coupons voor verschillende bedragen in te wisselen.";
-"chein_in_page_rules_window8" = "2. Munten zijn geldig voor een natuurlijk jaar. Wissel uw munt tijdig in.";
-"chein_in_page_rules_window9" = "3. CloudMall behoudt zich het recht voor definitieve uitleg te geven over incheckactiviteiten en -regels.";
+"chein_in_page_rules_window7" = "1. U kunt munten gebruiken om coupons in te wisselen voor verschillende bedragen.";
+"chein_in_page_rules_window8" = "2. Munten zijn geldig voor een natuurlijk jaar. Wissel uw munten tijdig in.";
+"chein_in_page_rules_window9" = "3. CloudMall behoudt zich het recht voor om definitieve interpretatie te geven aan de incheckactiviteiten en -regels.";
 "chein_in_page_rules_window10" = "Hoe een grote prijs te winnen:";
-"chein_in_page_rules_window11" = "1. u krijgt een gratis 'gelukscodeticket' zolang u in totaal 7 dagen incheckt. als uw code het geluksgetal bereikt, is de hoofdprijs de uwe.";
-"chein_in_page_rules_window12" = "2. Als u de grote prijs haalt, neemt onze klantenservice per e-mail contact met u op om relevante informatie over u te bevestigen.";
+"chein_in_page_rules_window11" = "1. U krijgt een 'gelukscodeticket' wanneer u 7 dagen achter elkaar incheckt. Als uw code het geluksgetal raakt, is de hoofdprijs de uwe.";
+"chein_in_page_rules_window12" = "2. Als u de grote prijs wint, neemt onze klantenservice per e-mail contact met u op om uw informatie te bevestigen en uw prijs te vervullen.";
 "chein_in_page_rules_window13" = "3. Als de winnaar de prijs om persoonlijke redenen niet kan accepteren of door het systeem als vals wordt beoordeeld, wordt de winnaar gediskwalificeerd.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Nu draaien";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Nu winkelen";
 "lucky_spin_page_share_window_button2" = "Deel om meer kans te krijgen";
+"lucky_spin_page_rules_window1" = "REGELS";
+"lucky_spin_page_rules_window2" = "Je hebt elke ronde 1 kans om prijzen te winnen via onze dagelijkse gelukstrekking, en je krijgt 2 extra kansen als je de link deelt en je vrienden uitnodigt om te spelen. De maximale gelukstrekkansen per persoon per dag is 12.";
+"lucky_spin_page_rules_window3" = "Couponprijzen worden rechtstreeks op uw account uitgegeven en fysieke prijzen worden binnen 7 werkdagen verstuurd.";
+"lucky_spin_page_rules_window4" = "Alle kortingsbonnen die tijdens dit evenement worden uitgegeven, worden in mindering gebracht op de goederenprijs van uw volgende bestelling en zijn 2 dagen geldig.";
+"lucky_spin_page_rules_window5" = "Elke kwaadwillende cheatactie wordt bestraft met het annuleren van de prijzen.";
+"lucky_spin_page_rules_window6" = "Het recht op definitieve interpretatie behoort toe aan CloudMall.";
 "dp_page_shipping_window" = "Nu uitchecken";
 "dp_page_deploy_element1" = "KOOP DIT OOK OOK";
 "dp_page_deploy_element2" = "Meer";

@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 ngày là một chu kỳ, bạn sẽ nhận được các đồng tiền khác nhau theo các ngày liên tiếp. Một chu kỳ mới sẽ bắt đầu từ ngày thứ 8 và sẽ được tính là ngày đầu tiên của chu kỳ mới.";
 "Chein_in_page_rules_window5" = "4. Bản ghi đăng ký sẽ khởi động lại nếu bạn bỏ lỡ một ngày.";
 "chein_in_page_rules_window6" = "Cách sử dụng tiền xu:";
-"Chein_in_page_rules_window7" = "1. Bạn có thể sử dụng các đồng tiền tương ứng để đổi phiếu giảm giá cho các số tiền khác nhau.";
-"chein_in_page_rules_window8" = "2. Tiền xu có giá trị trong một năm tự nhiên. Vui lòng đổi xu của bạn kịp thời.";
-"Chein_in_page_rules_window9" = "3. CloudMall bảo lưu quyền giải thích cuối cùng về các hoạt động và quy tắc Đăng ký.";
+"Chein_in_page_rules_window7" = "1. Anda dapat menggunakan koin untuk menebus kupon untuk jumlah yang berbeda.";
+"chein_in_page_rules_window8" = "2. Koin berlaku untuk tahun alami. Silakan tebus koin Anda tepat waktu.";
+"Chein_in_page_rules_window9" = "3. CloudMall berhak atas interpretasi akhir tentang aktivitas dan aturan Check-in.";
 "chein_in_page_rules_window10" = "Cách giành giải thưởng lớn:";
-"Chein_in_page_rules_window11" = "1. bạn sẽ nhận được 'vé mã may mắn' miễn là bạn đã đăng ký trong 7 ngày. Nếu mã của bạn đạt được con số may mắn, giải thưởng lớn là của bạn.";
-"Chein_in_page_rules_window12" = "2. Nếu bạn trúng giải thưởng lớn, nhân viên dịch vụ khách hàng của chúng tôi sẽ liên hệ với bạn qua email, hãy xác nhận một số thông tin liên quan về bạn.";
+"Chein_in_page_rules_window11" = "1. Anda akan mendapatkan 'tiket kode keberuntungan' gratis ketika Anda masuk selama 7 hari berturut-turut. Jika kode Anda mencapai angka keberuntungan, hadiah besar adalah milik Anda.";
+"Chein_in_page_rules_window12" = "2. Jika Anda memenangkan hadiah besar, staf layanan pelanggan kami akan menghubungi Anda melalui email untuk mengkonfirmasi informasi Anda dan memenuhi hadiah Anda.";
 "Chein_in_page_rules_window13" = "3. Nếu người chiến thắng không thể chấp nhận giải thưởng vì lý do cá nhân hoặc bị hệ thống đánh giá là gian lận, người chiến thắng sẽ bị loại.";
 /////////////4.1 版本 其他 页面 ///////////////
 "lucky_spin_page_share_button" = "Quay ngay";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Hoàn tiền";
 "lucky_spin_page_share_window_button1" = "Mua ngay";
 "lucky_spin_page_share_window_button2" = "Chia sẻ để có thêm cơ hội";
+"lucky_spin_page_rules_window1" = "QUY TẮC";
+"lucky_spin_page_rules_window2" = "Bạn có 1 cơ hội mỗi vòng để giành giải thưởng thông qua chương trình rút thăm may mắn hàng ngày của chúng tôi và có thể nhận thêm 2 cơ hội khi bạn chia sẻ liên kết và mời bạn bè chơi. Cơ hội rút thăm may mắn tối đa cho mỗi người mỗi ngày là 12.";
+"lucky_spin_page_rules_window3" = "Giải thưởng phiếu giảm giá sẽ được phát hành trực tiếp vào tài khoản của bạn và giải thưởng vật lý sẽ được gửi đi trong 7 ngày làm việc.";
+"lucky_spin_page_rules_window4" = "Tất cả các phiếu giảm giá được phát hành trong sự kiện này sẽ được khấu trừ vào giá hàng hóa của đơn đặt hàng tiếp theo của bạn và có giá trị trong 2 ngày.";
+"lucky_spin_page_rules_window5" = "Bất kỳ hành động gian lận độc hại sẽ bị trừng phạt bằng cách hủy bỏ các giải thưởng.";
+"lucky_spin_page_rules_window6" = "Quyền giải thích cuối cùng thuộc về CloudMall.";
 "dp_page_shipping_window" = "Kiểm tra ngay";
 "dp_page_deploy_element1" = "MUA HÀNG NÀY C ALNG MUA";
 "dp_page_deploy_element2" = "Khác";

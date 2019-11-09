@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 dagar som en cykel får du olika mynt beroende på på varandra följande dagar. En ny cykel startar från den 8: e dagen och räknas som den första dagen i en ny cykel.";
 "chein_in_page_rules_window5" = "4. Checka in posten startas om du missar en dag.";
 "chein_in_page_rules_window6" = "Hur man använder mynt:";
-"chein_in_page_rules_window7" = "1. Du kan använda motsvarande mynt för att lösa in kupongerna för olika belopp.";
-"chein_in_page_rules_window8" = "2. Mynt är giltiga för ett naturligt år. Lös in ditt mynt i tid.";
-"chein_in_page_rules_window9" = "3. CloudMall förbehåller sig rätten till slutliga förklaringar om incheckningsaktiviteter och regler.";
+"chein_in_page_rules_window7" = "1. Du kan använda mynt för att lösa in kuponger för olika belopp.";
+"chein_in_page_rules_window8" = "2. Mynt gäller för ett naturligt år. Lös in dina mynt i tid.";
+"chein_in_page_rules_window9" = "3. CloudMall förbehåller sig rätten till slutlig tolkning av incheckningsaktiviteter och regler.";
 "chein_in_page_rules_window10" = "Hur man vinner stort pris:";
-"chein_in_page_rules_window11" = "1. Du kommer att få en gratis 'lycklig kodbiljett' så länge du checka in i totalt 7 dagar. Om din kod träffar lyckan, är det stora priset ditt.";
-"chein_in_page_rules_window12" = "2. Om du får det stora priset kommer vår kundtjänst att kontakta dig via e-post, bekräfta relevant information om dig.";
+"chein_in_page_rules_window11" = "1. Du får en gratis 'lycklig kodbiljett' när du checkar in 7 dagar i rad. Om din kod träffar lyckan är ditt stora pris.";
+"chein_in_page_rules_window12" = "2. Om du vinner det stora priset kommer vår kundtjänst att kontakta dig via e-post för att bekräfta din information och uppfylla ditt pris.";
 "chein_in_page_rules_window13" = "3. Om vinnaren inte kan acceptera priset av personliga skäl eller bedöms av systemet som lurar, kommer vinnaren att diskvalificeras.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Snurra nu";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Handla nu";
 "lucky_spin_page_share_window_button2" = "Dela för att få mer chans";
+"lucky_spin_page_rules_window1" = "RULES";
+"lucky_spin_page_rules_window2" = "Du har 1 chans varje omgång att vinna priser via vårt dagliga lycka-drag och du kan få ytterligare två chanser när du delar länken och bjuder in dina vänner att spela. De maximala möjligheterna att dra lycka per person per dag är 12.";
+"lucky_spin_page_rules_window3" = "Kupongpriser kommer att ges ut direkt till ditt konto och fysiska priser skickas ut med 7 arbetsdagar.";
+"lucky_spin_page_rules_window4" = "Alla kuponger som utfärdats under detta evenemang dras av från priset för din nästa beställning och gäller i två dagar.";
+"lucky_spin_page_rules_window5" = "All skadlig fuskhandling kommer att straffas genom att avbryta priserna.";
+"lucky_spin_page_rules_window6" = "Rätten till slutlig tolkning tillhör CloudMall.";
 "dp_page_shipping_window" = "Kolla in nu";
 "dp_page_deploy_element1" = "KÖP DETTA PUNKT Också KÖP";
 "dp_page_deploy_element2" = "Mer";

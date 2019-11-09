@@ -1637,12 +1637,12 @@
 "chein_in_page_rules_window4" = "3. 7 dager som en syklus, vil du få forskjellige mynter i henhold til påfølgende dager. En ny syklus starter fra åttende dag og vil regne som den første dagen i en ny syklus.";
 "chein_in_page_rules_window5" = "4. Innsjekkingsposten starter på nytt hvis du går glipp av en dag.";
 "chein_in_page_rules_window6" = "Hvordan bruke mynter:";
-"chein_in_page_rules_window7" = "1. Du kan bruke de tilsvarende myntene til å innløse kupongene for forskjellige beløp.";
-"chein_in_page_rules_window8" = "2. Mynter er gyldige for et naturlig år. Innløs mynten din i tide.";
-"chein_in_page_rules_window9" = "3. CloudMall forbeholder seg retten til endelige forklaringer på innsjekkingsaktiviteter og regler.";
+"chein_in_page_rules_window7" = "1. Du kan bruke mynter til å innløse kuponger for forskjellige beløp.";
+"chein_in_page_rules_window8" = "2. Mynter har gyldighet for et naturlig år. Innløse myntene dine i tide.";
+"chein_in_page_rules_window9" = "3. CloudMall forbeholder seg retten til endelig tolkning av innsjekkingsaktiviteter og regler.";
 "chein_in_page_rules_window10" = "Hvordan vinne en stor premie:";
-"chein_in_page_rules_window11" = "1. Du vil få en gratis 'lykkekodebillett' så lenge du sjekket inn i totalt 7 dager. Hvis koden din treffer heldignummeret, er den store premien din.";
-"chein_in_page_rules_window12" = "2. Hvis du vinner den store prisen, vil kundeservicemedarbeiderne kontakte deg via e-post, bekrefte relevant informasjon om deg.";
+"chein_in_page_rules_window11" = "1. Du vil få en gratis 'lykkekodebillett' når du sjekker inn i 7 dager på rad. Hvis koden din treffer lykketallet, er den store premien din.";
+"chein_in_page_rules_window12" = "2. Hvis du vinner den store prisen, vil kundeservicemedarbeiderne kontakte deg via e-post for å bekrefte informasjonen din og oppfylle prisen.";
 "chein_in_page_rules_window13" = "3. Hvis vinneren ikke kan ta imot prisen av personlige grunner eller blir bedømt av systemet til å jukse, blir vinneren diskvalifisert.";
 /////////////4.1 版本 其他 页面 /////////////
 "lucky_spin_page_share_button" = "Spinn nå";
@@ -1650,6 +1650,12 @@
 "lucky_spin_page_deploy_entrance2" = "Cashback";
 "lucky_spin_page_share_window_button1" = "Handle nå";
 "lucky_spin_page_share_window_button2" = "Del for å få mer sjanse";
+"lucky_spin_page_rules_window1" = "REGLER";
+"lucky_spin_page_rules_window2" = "Du har 1 sjanse hver runde til å vinne premier via vårt daglige heldige trekkplaster, og kan få ytterligere 2 sjanser når du deler lenken og inviterer vennene dine til å spille. De maksimale muligheter for heldig trekning per person per dag er 12.";
+"lucky_spin_page_rules_window3" = "Kupongpremier vil bli utstedt direkte til din konto og fysiske premier vil bli sendt ut med 7 virkedager.";
+"lucky_spin_page_rules_window4" = "Alle kuponger som er utstedt under dette arrangementet blir trukket fra vareprisen på din neste ordre, og er gyldige i to dager.";
+"lucky_spin_page_rules_window5" = "Enhver ondsinnet jukshandling vil bli straffet ved å avlyse premiene.";
+"lucky_spin_page_rules_window6" = "Retten til endelig tolkning tilhører CloudMall.";
 "dp_page_shipping_window" = "Sjekk ut nå";
 "dp_page_deploy_element1" = "KJØP DETTE VARE OGSÅ KJØP";
 "dp_page_deploy_element2" = "Mer";
