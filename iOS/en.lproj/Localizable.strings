@@ -1599,7 +1599,7 @@
 "zero_money_rush_to_buy_order_wallet_message" = "Successful purchase. Successfully received";
 /////////////4.1版本签到/////////////
 "check_in_page_title" = "My Coins";
-"check_in_page_center1" = "Coins";
+"check_in_page_center1" = "Coins>";
 "check_in_page_center2" = "Keep checking in to double your coins!";
 "check_in_page_center3" = "Keep getting rewards for";
 "check_in_page_center4" = "days";
@@ -1613,20 +1613,22 @@
 "check_in_page_center_exchange4" = "coins needed";
 "check_in_page_center_exchange5" = "Exchange";
 "check_in_page_seven_day_window1" = "Congratulations !";
-"check_in_page_seven_day_window2" = "Now you have a chance to use your lottery code to get a Mackbook pro FOR FREE!";
-"check_in_page_seven_day_window3" = "FREE!";
+"check_in_page_seven_day_window2" = "Your lottery code:";
+"check_in_page_seven_day_window3" = "Now you have a chance to use your lottery code to get a Mackbook pro FOR FREE!";
 "check_in_page_seven_day_window4" = "GET IT NOW!";
-"check_in_page_seven_day_window5" = "You can check your coupons here >>";
-"check_in_page_seven_day_window6" = "Your lottery code:";
+"check_in_page_seven_day_window5" = "FREE!";
+"check_in_page_seven_day_window6" = "You can check your coupons here >>";
 "check_in_page_seven_day_window7" = "Sure you want to miss this?";
 "check_in_page_seven_day_window8" = "No I want to get it >";
+"check_in_page_seven_day_window9" = "Yes I still want to get out here >>";
 "check_in_page_if_return_window1" = "Sure you want to miss the chance?";
-"check_in_page_if_return_window2" = "No thanks >>";
+"check_in_page_if_return_window2" = "GET IT FOR FREE!";
 "check_in_page_if_return_window3" = "Yes I still want to get out here >>";
 "check_in_page_if_change_window1" = "ARE YOU SURE ?";
 "check_in_page_if_change_window2" = "Exchange";
 "check_in_page_if_change_window3" = "coins for";
 "check_in_page_if_change_window4" = "OK";
+"check_in_page_if_change_window5" = "No thanks";
 "check_in_page_if_change_success_window1" = "Exchange Successfully !";
 "check_in_page_if_change_success_window2" = "The prize has been added to your coupons";
 "check_in_page_if_change_success_window3" = "USE COUPON >";
