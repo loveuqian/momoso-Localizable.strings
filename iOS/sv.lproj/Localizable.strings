@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "Du har tjänat";
 "checkin_page_get_coins15" = "mynt för Open Noti";
 "checkin_page_get_coins16" = "mynt för Lägg till adress";
+"checkin_page_get_coins17" = "mynt för registrerade";
 "lucky_spin_get_coins1" = "Mynt"; // 转盘
 "lucky_spin_get_coins2" = "Grattis!";
 "lucky_spin_get_coins3" = "Du vann ett lyckligt dragspinn";

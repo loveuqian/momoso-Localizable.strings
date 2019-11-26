@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "Du har tjent";
 "checkin_page_get_coins15" = "mønter til åben noti";
 "checkin_page_get_coins16" = "mønter til Tilføj adresse";
+"checkin_page_get_coins17" = "mønter til registreret";
 "lucky_spin_get_coins1" = "Mønter"; // 转盘
 "lucky_spin_get_coins2" = "Tillykke!";
 "lucky_spin_get_coins3" = "Du vandt et heldigt træk spin";

@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "您已經獲得了";
 "checkin_page_get_coins15" = "Open Noti的金幣";
 "checkin_page_get_coins16" = "用於添加地址的金幣";
+"checkin_page_get_coins17" = "已註冊的金幣";
 "lucky_spin_get_coins1" = "金幣"; //轉盤
 "lucky_spin_get_coins2" = "恭喜！";
 "lucky_spin_get_coins3" = "您贏得了幸運抽獎轉動";

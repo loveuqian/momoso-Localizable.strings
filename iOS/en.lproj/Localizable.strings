@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "You've earned";
 "checkin_page_get_coins15" = "coins for Open Noti";
 "checkin_page_get_coins16" = "coins for Add Address";
+"checkin_page_get_coins17" = "coins for Registered";
 "lucky_spin_get_coins1" = "Coins";//转盘
 "lucky_spin_get_coins2" = "Congratulations!";
 "lucky_spin_get_coins3" = "You won a lucky draw spin";

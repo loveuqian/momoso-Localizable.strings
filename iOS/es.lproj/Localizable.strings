@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "Has ganado";
 "checkin_page_get_coins15" = "monedas para Open Noti";
 "checkin_page_get_coins16" = "monedas para Agregar dirección";
+"checkin_page_get_coins17" = "monedas para Registrados";
 "lucky_spin_get_coins1" = "Monedas"; // 转盘
 "lucky_spin_get_coins2" = "¡Felicitaciones!";
 "lucky_spin_get_coins3" = "Ganó un giro de sorteo";

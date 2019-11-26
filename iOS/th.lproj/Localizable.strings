@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "คุณได้รับ";
 "checkin_page_get_coins15" = "เหรียญสำหรับ Open Noti";
 "checkin_page_get_coins16" = "เหรียญสำหรับเพิ่มที่อยู่";
+"checkin_page_get_coins17" = "เหรียญสำหรับลงทะเบียน";
 "lucky_spin_get_coins1" = "เหรียญ"; // 转盘
 "lucky_spin_get_coins2" = "ขอแสดงความยินดี!";
 "lucky_spin_get_coins3" = "คุณชนะการหมุนแบบชิงรางวัล";

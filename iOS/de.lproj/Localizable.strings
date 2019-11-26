@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "Sie haben verdient";
 "checkin_page_get_coins15" = "Münzen für Open Noti";
 "checkin_page_get_coins16" = "Münzen für Adresse hinzufügen";
+"checkin_page_get_coins17" = "Münzen für Einschreiben";
 "lucky_spin_get_coins1" = "Münzen"; // 转盘
 "lucky_spin_get_coins2" = "Glückwunsch!";
 "lucky_spin_get_coins3" = "Sie haben einen Unentschieden gewonnen";

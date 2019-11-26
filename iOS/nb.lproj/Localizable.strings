@@ -1689,6 +1689,7 @@
 "checkin_page_get_coins14" = "Du har tjent";
 "checkin_page_get_coins15" = "mynter for Open Noti";
 "checkin_page_get_coins16" = "mynter for å legge til adresse";
+"checkin_page_get_coins17" = "mynter for registrerte";
 "lucky_spin_get_coins1" = "Mynter"; // 转盘
 "lucky_spin_get_coins2" = "Gratulerer!";
 "lucky_spin_get_coins3" = "Du vant et heldig trekningsspinn";
