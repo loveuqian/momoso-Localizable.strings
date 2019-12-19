@@ -1673,7 +1673,7 @@
 "bottom_bar_tutorial_remiand5" = "Har det";
 
 //////////////////////4.2 版本 ////////////////////////// //
-"checkin_page_get_coins1" = "Fler mynt att samla in"; // 签到
+"checkin_page_get_coins1" = "Fler mynt som skall samlas in"; // 签到
 "checkin_page_get_coins2" = "Registrerad";
 "checkin_page_get_coins3" = "Installera app";
 "checkin_page_get_coins4" = "Öppna Noti";

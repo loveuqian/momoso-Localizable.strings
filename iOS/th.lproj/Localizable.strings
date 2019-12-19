@@ -1673,7 +1673,7 @@
 "bottom_bar_tutorial_remiand5" = "รับแล้ว";
 
 //////////////////////4.2 版本 ////////////////////////// //
-"checkin_page_get_coins1" = "เหรียญที่จะรวบรวมเพิ่มเติม"; // 签到
+"checkin_page_get_coins1" = "เหรียญมากขึ้นที่จะเก็บ"; // 签到
 "checkin_page_get_coins2" = "ลงทะเบียน";
 "checkin_page_get_coins3" = "ติดตั้งแอป";
 "checkin_page_get_coins4" = "เปิด Noti";
