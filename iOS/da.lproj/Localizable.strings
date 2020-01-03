@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Postkontortelefon"; // 物流
 "order_detail_logistics_translation1" = "Vis oversættelse";
 "order_detail_logistics_translation2" = "Vis original";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "Historie";
+"insta_shoot_photo1" = "Del dit første foto";
+"insta_shoot_photo2" = "Bibliotek";
+"insta_shoot_photo3" = "Foto";
+"insta_shoot_photo4" = "Filter";
+"insta_shoot_photo5" = "Rediger";
+"insta_shoot_photo6" = "Annuller";
+"insta_shoot_photo7" = "Udført";
+"insta_shoot_photo8" = "Nylig";
+"insta_shoot_photo9" = "Næste";
+"insta_shoot_photo10" = "Grænsen er";
+"insta_shoot_photo11" = "fotos";
+"insta_shoot_photo12" = "Normal";
+"insta_publish_page1" = "Nyt indlæg";
+"insta_publish_page2" = "Send";
+"insta_publish_page3" = "Del";
+"insta_publish_page4" = "Skriv en billedtekst ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Del med dine venner, gå op til";
+"insta_publish_page7" = "når de køber.";
+"insta_publish_after1" = "Upload";
+"insta_publish_after2" = "Der gik noget galt, prøv igen.";
+"insta_publish_after3" = "Dit indlæg indeholder følsomme ord, rediger venligst";
+"insta_publish_after4" = "Fortæl dine venner";
+"wallet_page_post_message1" = "Kan lide dit indlæg.";
+"wallet_page_post_message2" = "Nu følger dig.";

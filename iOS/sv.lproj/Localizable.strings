@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Postkontortelefon"; // 物流
 "order_detail_logistics_translation1" = "Visa översättning";
 "order_detail_logistics_translation2" = "Visa original";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "Berättelse";
+"insta_shoot_photo1" = "Dela ditt första foto";
+"insta_shoot_photo2" = "Bibliotek";
+"insta_shoot_photo3" = "Foto";
+"insta_shoot_photo4" = "Filter";
+"insta_shoot_photo5" = "Redigera";
+"insta_shoot_photo6" = "Avbryt";
+"insta_shoot_photo7" = "Klar";
+"insta_shoot_photo8" = "Nyligen";
+"insta_shoot_photo9" = "Nästa";
+"insta_shoot_photo10" = "Gränsen är";
+"insta_shoot_photo11" = "foton";
+"insta_shoot_photo12" = "Normal";
+"insta_publish_page1" = "Nytt inlägg";
+"insta_publish_page2" = "Inlägg";
+"insta_publish_page3" = "Dela";
+"insta_publish_page4" = "Skriv en bildtext ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Dela med dina vänner, gå upp till";
+"insta_publish_page7" = "när de köper.";
+"insta_publish_after1" = "Laddar upp";
+"insta_publish_after2" = "Något gick fel, försök igen.";
+"insta_publish_after3" = "Ditt inlägg innehåller känsliga ord, redigera om";
+"insta_publish_after4" = "Berätta för dina vänner";
+"wallet_page_post_message1" = "Gillade ditt inlägg.";
+"wallet_page_post_message2" = "följer nu dig.";

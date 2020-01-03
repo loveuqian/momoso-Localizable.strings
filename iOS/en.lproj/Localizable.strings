@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Post Office Phone";//物流
 "order_detail_logistics_translation1" = "Show Translation";
 "order_detail_logistics_translation2" = "Show Original";
+
+///////////////4.3UGC版本/////////////
+"insta_home_ugc_title" = "Story";
+"insta_shoot_photo1" = "Share your first photo";
+"insta_shoot_photo2" = "Library";
+"insta_shoot_photo3" = "Photo";
+"insta_shoot_photo4" = "Filter";
+"insta_shoot_photo5" = "Edit";
+"insta_shoot_photo6" = "Cancel";
+"insta_shoot_photo7" = "Done";
+"insta_shoot_photo8" = "Recent";
+"insta_shoot_photo9" = "Next";
+"insta_shoot_photo10" = "The limit is";
+"insta_shoot_photo11" = "photos";
+"insta_shoot_photo12" = "Normal";
+"insta_publish_page1" = "New Post";
+"insta_publish_page2" = "Post";
+"insta_publish_page3" = "Share";
+"insta_publish_page4" = "Write a caption...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Share with your friends, get up to";
+"insta_publish_page7" = "when they purchase.";
+"insta_publish_after1" = "Uploading";
+"insta_publish_after2" = "Something went wrong, please try again.";
+"insta_publish_after3" = "Your post contains sensitive words, please re-edit";
+"insta_publish_after4" = "Tell your friends";
+"wallet_page_post_message1" = "liked your post.";
+"wallet_page_post_message2" = "is now following you.";

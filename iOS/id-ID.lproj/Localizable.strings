@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Telepon Kantor Pos"; // 物流
 "order_detail_logistics_translation1" = "Tampilkan Terjemahan";
 "order_detail_logistics_translation2" = "Tampilkan Asli";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "Story";
+"insta_shoot_photo1" = "Bagikan foto pertama Anda";
+"insta_shoot_photo2" = "Perpustakaan";
+"insta_shoot_photo3" = "Foto";
+"insta_shoot_photo4" = "Filter";
+"insta_shoot_photo5" = "Edit";
+"insta_shoot_photo6" = "Batal";
+"insta_shoot_photo7" = "Selesai";
+"insta_shoot_photo8" = "Terbaru";
+"insta_shoot_photo9" = "Next";
+"insta_shoot_photo10" = "Batasnya adalah";
+"insta_shoot_photo11" = "foto";
+"insta_shoot_photo12" = "Normal";
+"insta_publish_page1" = "Posting Baru";
+"insta_publish_page2" = "Posting";
+"insta_publish_page3" = "Bagikan";
+"insta_publish_page4" = "Tulis teks ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Bagikan dengan teman Anda, bangun hingga";
+"insta_publish_page7" = "saat mereka membeli.";
+"insta_publish_after1" = "Mengunggah";
+"insta_publish_after2" = "Ada yang salah, silakan coba lagi.";
+"insta_publish_after3" = "Posting Anda mengandung kata-kata sensitif, harap edit kembali";
+"insta_publish_after4" = "Beri tahu teman Anda";
+"wallet_page_post_message1" = "menyukai pos Anda.";
+"wallet_page_post_message2" = "sekarang mengikuti Anda.";

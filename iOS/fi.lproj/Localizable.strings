@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Postipuhelin"; // 物流
 "order_detail_logistics_translation1" = "Näytä käännös";
 "order_detail_logistics_translation2" = "Näytä alkuperäinen";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "Tarina";
+"insta_shoot_photo1" = "Jaa ensimmäinen valokuva";
+"insta_shoot_photo2" = "Kirjasto";
+"insta_shoot_photo3" = "Valokuva";
+"insta_shoot_photo4" = "Suodatin";
+"insta_shoot_photo5" = "Muokkaa";
+"insta_shoot_photo6" = "Peruuta";
+"insta_shoot_photo7" = "Valmis";
+"insta_shoot_photo8" = "Viimeaikaiset";
+"insta_shoot_photo9" = "Seuraava";
+"insta_shoot_photo10" = "Raja on";
+"insta_shoot_photo11" = "valokuvat";
+"insta_shoot_photo12" = "Normaali";
+"insta_publish_page1" = "Uusi viesti";
+"insta_publish_page2" = "Lähetä";
+"insta_publish_page3" = "Jaa";
+"insta_publish_page4" = "Kirjoita kuvateksti ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Jaa ystävien kanssa, pääset mukaan";
+"insta_publish_page7" = "kun he ostavat.";
+"insta_publish_after1" = "Lähetetään";
+"insta_publish_after2" = "Jokin meni pieleen, yritä uudelleen.";
+"insta_publish_after3" = "Viestisi sisältää arkaluontoisia sanoja, muokkaa uudelleen";
+"insta_publish_after4" = "Kerro ystävillesi";
+"wallet_page_post_message1" = "tykkäsi viestistäsi.";
+"wallet_page_post_message2" = "seuraa nyt sinua.";

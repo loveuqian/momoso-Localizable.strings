@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Post Office Phone"; // 物流
 "order_detail_logistics_translation1" = "Zobrazit překlad";
 "order_detail_logistics_translation2" = "Zobrazit originál";
+
+/////////////.3.3 UGC 版本 /////////////
+"insta_home_ugc_title" = "Příběh";
+"insta_shoot_photo1" = "Sdílejte svou první fotku";
+"insta_shoot_photo2" = "Knihovna";
+"insta_shoot_photo3" = "Photo";
+"insta_shoot_photo4" = "Filtr";
+"insta_shoot_photo5" = "Upravit";
+"insta_shoot_photo6" = "Zrušit";
+"insta_shoot_photo7" = "Hotovo";
+"insta_shoot_photo8" = "Poslední";
+"insta_shoot_photo9" = "Další";
+"insta_shoot_photo10" = "Limit je";
+"insta_shoot_photo11" = "photos";
+"insta_shoot_photo12" = "Normal";
+"insta_publish_page1" = "Nový příspěvek";
+"insta_publish_page2" = "Příspěvek";
+"insta_publish_page3" = "Sdílet";
+"insta_publish_page4" = "Napište titulek ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Sdílejte s přáteli, získejte až";
+"insta_publish_page7" = "při nákupu.";
+"insta_publish_after1" = "Nahrávání";
+"insta_publish_after2" = "Něco se pokazilo, zkuste to znovu.";
+"insta_publish_after3" = "Váš příspěvek obsahuje citlivá slova, prosím, znovu upravte";
+"insta_publish_after4" = "Řekněte svým přátelům";
+"wallet_page_post_message1" = "Líbil se vám váš příspěvek.";
+"wallet_page_post_message2" = "vás nyní sleduje.";

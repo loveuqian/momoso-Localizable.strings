@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Post-Office-Telefon"; // 物流
 "order_detail_logistics_translation1" = "Übersetzung anzeigen";
 "order_detail_logistics_translation2" = "Original anzeigen";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "Geschichte";
+"insta_shoot_photo1" = "Teilen Sie Ihr erstes Foto mit anderen";
+"insta_shoot_photo2" = "Bibliothek";
+"insta_shoot_photo3" = "Foto";
+"insta_shoot_photo4" = "Filter";
+"insta_shoot_photo5" = "Bearbeiten";
+"insta_shoot_photo6" = "Abbrechen";
+"insta_shoot_photo7" = "Fertig";
+"insta_shoot_photo8" = "Zuletzt";
+"insta_shoot_photo9" = "Weiter";
+"insta_shoot_photo10" = "Das Limit ist";
+"insta_shoot_photo11" = "Fotos";
+"insta_shoot_photo12" = "Normal";
+"insta_publish_page1" = "Neuer Beitrag";
+"insta_publish_page2" = "Post";
+"insta_publish_page3" = "Teilen";
+"insta_publish_page4" = "Beschriftung schreiben ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Mit Ihren Freunden teilen, aufstehen zu";
+"insta_publish_page7" = "beim Kauf.";
+"insta_publish_after1" = "Hochladen";
+"insta_publish_after2" = "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.";
+"insta_publish_after3" = "Ihr Beitrag enthält sensible Wörter. Bitte erneut bearbeiten.";
+"insta_publish_after4" = "Sagen Sie es Ihren Freunden";
+"wallet_page_post_message1" = "hat Ihren Beitrag gefallen.";
+"wallet_page_post_message2" = "folgt Ihnen jetzt.";

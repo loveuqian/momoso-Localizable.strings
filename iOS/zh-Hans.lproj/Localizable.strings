@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "邮局电话"; //物流
 "order_detail_logistics_translation1" = "显示翻译";
 "order_detail_logistics_translation2" = "显示原文";
+
+///////////////4.3UGC版本//////////////
+"insta_home_ugc_title" = "故事";
+"insta_shoot_photo1" = "分享您的第一张照片";
+"insta_shoot_photo2" = "图库";
+"insta_shoot_photo3" = "照片";
+"insta_shoot_photo4" = "滤镜";
+"insta_shoot_photo5" = "编辑";
+"insta_shoot_photo6" = "取消";
+"insta_shoot_photo7" = "完成";
+"insta_shoot_photo8" = "最近";
+"insta_shoot_photo9" = "下一步";
+"insta_shoot_photo10" = "限制";
+"insta_shoot_photo11" = "张照片";
+"insta_shoot_photo12" = "普通";
+"insta_publish_page1" = "新帖子";
+"insta_publish_page2" = "发布";
+"insta_publish_page3" = "共享";
+"insta_publish_page4" = "写标题... ";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "与您的朋友分享起来吧！";
+"insta_publish_page7" = "购买时。";
+"insta_publish_after1" = "正在上传";
+"insta_publish_after2" = "出问题了，请重试。";
+"insta_publish_after3" = "您的帖子中包含敏感词，请重新编辑";
+"insta_publish_after4" = "告诉您的朋友";
+"wallet_page_post_message1" = "喜欢您的帖子。";
+"wallet_page_post_message2" = "正在关注您。";

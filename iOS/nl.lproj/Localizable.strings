@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "Postkantoor-telefoon"; // 物流
 "order_detail_logistics_translation1" = "Vertaling weergeven";
 "order_detail_logistics_translation2" = "Origineel weergeven";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "Verhaal";
+"insta_shoot_photo1" = "Deel uw eerste foto";
+"insta_shoot_photo2" = "Bibliotheek";
+"insta_shoot_photo3" = "Foto";
+"insta_shoot_photo4" = "Filter";
+"insta_shoot_photo5" = "Bewerken";
+"insta_shoot_photo6" = "Annuleren";
+"insta_shoot_photo7" = "Gereed";
+"insta_shoot_photo8" = "Recent";
+"insta_shoot_photo9" = "Volgende";
+"insta_shoot_photo10" = "De limiet is";
+"insta_shoot_photo11" = "foto's";
+"insta_shoot_photo12" = "Normaal";
+"insta_publish_page1" = "Nieuw bericht";
+"insta_publish_page2" = "Plaatsen";
+"insta_publish_page3" = "Delen";
+"insta_publish_page4" = "Schrijf een bijschrift ...";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "Deel met uw vrienden, ga naar";
+"insta_publish_page7" = "wanneer ze kopen.";
+"insta_publish_after1" = "Uploaden";
+"insta_publish_after2" = "Er is iets misgegaan, probeer het opnieuw.";
+"insta_publish_after3" = "Uw bericht bevat gevoelige woorden, gelieve opnieuw te bewerken";
+"insta_publish_after4" = "Vertel het uw vrienden";
+"wallet_page_post_message1" = "vond uw bericht leuk.";
+"wallet_page_post_message2" = "volgt u nu.";

@@ -1702,3 +1702,31 @@
 "order_detail_logistics_phone" = "โทรศัพท์ที่ทำการไปรษณีย์"; // 物流
 "order_detail_logistics_translation1" = "แสดงคำแปล";
 "order_detail_logistics_translation2" = "แสดงต้นฉบับ";
+
+///////////////4.3UGC 版本 /////////////
+"insta_home_ugc_title" = "เรื่องราว";
+"insta_shoot_photo1" = "แบ่งปันรูปภาพแรกของคุณ";
+"insta_shoot_photo2" = "ห้องสมุด";
+"insta_shoot_photo3" = "รูปภาพ";
+"insta_shoot_photo4" = "ตัวกรอง";
+"insta_shoot_photo5" = "แก้ไข";
+"insta_shoot_photo6" = "ยกเลิก";
+"insta_shoot_photo7" = "เสร็จสิ้น";
+"insta_shoot_photo8" = "ล่าสุด";
+"insta_shoot_photo9" = "ถัดไป";
+"insta_shoot_photo10" = "ขีด จำกัด คือ";
+"insta_shoot_photo11" = "รูปภาพ";
+"insta_shoot_photo12" = "ปกติ";
+"insta_publish_page1" = "โพสต์ใหม่";
+"insta_publish_page2" = "โพสต์";
+"insta_publish_page3" = "แบ่งปัน";
+"insta_publish_page4" = "เขียนคำบรรยายภาพ ... ";
+"insta_publish_page5" = "Facebook";
+"insta_publish_page6" = "แบ่งปันกับเพื่อน ๆ ของคุณได้ถึง";
+"insta_publish_page7" = "เมื่อพวกเขาซื้อ";
+"insta_publish_after1" = "กำลังอัปโหลด";
+"insta_publish_after2" = "มีบางอย่างผิดพลาดโปรดลองอีกครั้ง";
+"insta_publish_after3" = "โพสต์ของคุณมีคำที่ละเอียดอ่อนโปรดแก้ไขอีกครั้ง";
+"insta_publish_after4" = "บอกเพื่อนของคุณ";
+"wallet_page_post_message1" = "ชอบโพสต์ของคุณ";
+"wallet_page_post_message2" = "กำลังติดตามคุณ";
