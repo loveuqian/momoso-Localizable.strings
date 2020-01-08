@@ -1704,7 +1704,8 @@
 "order_detail_logistics_translation2" = "顯示原文";
 
 ///////////////4.3UGC版本//////////////
-"insta_home_ugc_title" = "故事";
+"insta_home_ugc_title" = "發帖";
+"insta_home_ugc_title1" = "個人";
 "insta_shoot_photo1" = "分享您的第一張照片";
 "insta_shoot_photo2" = "圖庫";
 "insta_shoot_photo3" = "照片";
