@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Powiedz swoim znajomym";
 "wallet_page_post_message1" = "polubił twój post.";
 "wallet_page_post_message2" = "teraz Cię obserwuje.";
+"insta_ugc_if_use_photo1" = "Take fotografii z CloudMall";
+"insta_ugc_if_use_photo2" = "Zezwól na dostęp do aparatu, aby rozpocząć robienie zdjęć z aplikacją CloudMall.";
+"insta_ugc_if_use_photo3" = "Włącz dostęp do kamery";
+"insta_ugc_if_use_library1" = "Proszę pozwolić na dostęp do swoich zdjęć";
+"insta_ugc_if_use_library2" = "Pozwala to CloudMall na udostępnianie zdjęć z biblioteki i zapisywanie zdjęć na rolce z aparatu.";
+"insta_ugc_if_use_library3" = "Włącz dostęp do biblioteki";

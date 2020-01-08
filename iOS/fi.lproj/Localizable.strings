@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Kerro ystävillesi";
 "wallet_page_post_message1" = "tykkäsi viestistäsi.";
 "wallet_page_post_message2" = "seuraa nyt sinua.";
+"insta_ugc_if_use_photo1" = "Ota valokuva CloudMallilla";
+"insta_ugc_if_use_photo2" = "Salli kameran käyttöoikeus aloittaa valokuvien ottaminen CloudMall-sovelluksen avulla.";
+"insta_ugc_if_use_photo3" = "Ota käyttöön kameran käyttö";
+"insta_ugc_if_use_library1" = "Ole hyvä ja salli pääsyä Kuvat";
+"insta_ugc_if_use_library2" = "Tämän avulla CloudMall voi jakaa valokuvia kirjastostasi ja tallentaa valokuvat kameraan.";
+"insta_ugc_if_use_library3" = "Ota kirjastokäyttö käyttöön";

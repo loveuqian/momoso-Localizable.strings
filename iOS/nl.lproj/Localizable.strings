@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Vertel het uw vrienden";
 "wallet_page_post_message1" = "vond uw bericht leuk.";
 "wallet_page_post_message2" = "volgt u nu.";
+"insta_ugc_if_use_photo1" = "Neem Foto Met CloudMall";
+"insta_ugc_if_use_photo2" = "Geef toegang tot uw camera om foto's te maken met de CloudMall-app.";
+"insta_ugc_if_use_photo3" = "Enable Camera Access";
+"insta_ugc_if_use_library1" = "Please geven toegang tot uw foto's";
+"insta_ugc_if_use_library2" = "Hiermee kan CloudMall foto's uit uw bibliotheek delen en foto's opslaan op uw filmrol.";
+"insta_ugc_if_use_library3" = "Bibliotheektoegang inschakelen";

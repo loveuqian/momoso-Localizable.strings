@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Beri tahu teman Anda";
 "wallet_page_post_message1" = "menyukai pos Anda.";
 "wallet_page_post_message2" = "sekarang mengikuti Anda.";
+"insta_ugc_if_use_photo1" = "Ambil Foto Dengan CloudMall";
+"insta_ugc_if_use_photo2" = "Izinkan akses ke kamera Anda untuk mulai mengambil foto dengan aplikasi CloudMall.";
+"insta_ugc_if_use_photo3" = "Aktifkan Akses Kamera";
+"insta_ugc_if_use_library1" = "Silakan Izinkan Akses ke Foto Anda";
+"insta_ugc_if_use_library2" = "Ini memungkinkan CloudMall untuk berbagi foto dari perpustakaan Anda dan menyimpan foto ke rol kamera Anda.";
+"insta_ugc_if_use_library3" = "Aktifkan Akses Perpustakaan";

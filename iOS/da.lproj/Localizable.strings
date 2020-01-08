@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Fortæl dine venner";
 "wallet_page_post_message1" = "Kan lide dit indlæg.";
 "wallet_page_post_message2" = "Nu følger dig.";
+"insta_ugc_if_use_photo1" = "Take Photo Med CloudMall";
+"insta_ugc_if_use_photo2" = "Giv adgang til dit kamera at begynde at tage fotos med CloudMall-appen.";
+"insta_ugc_if_use_photo3" = "Aktiver Kamera adgang";
+"insta_ugc_if_use_library1" = "Tillad venligst adgang til dine fotos";
+"insta_ugc_if_use_library2" = "Dette giver CloudMall mulighed for at dele fotos fra dit bibliotek og gemme fotos i din kamerarulle.";
+"insta_ugc_if_use_library3" = "Aktiver Library Access";

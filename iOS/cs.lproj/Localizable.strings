@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Řekněte svým přátelům";
 "wallet_page_post_message1" = "Líbil se vám váš příspěvek.";
 "wallet_page_post_message2" = "vás nyní sleduje.";
+"insta_ugc_if_use_photo1" = "Vezměte si fotografii s CloudMall";
+"insta_ugc_if_use_photo2" = "Povolit přístup ke kameře, aby mohl začít fotografovat pomocí aplikace CloudMall.";
+"insta_ugc_if_use_photo3" = "Povolit přístup z kamery";
+"insta_ugc_if_use_library1" = "Prosím povolte přístup k vašim fotografiím";
+"insta_ugc_if_use_library2" = "Toto umožňuje CloudMall sdílet fotografie z vaší knihovny a ukládat fotografie do vaší kamery.";
+"insta_ugc_if_use_library3" = "Povolit přístup do knihovny";

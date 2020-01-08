@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "Tell your friends";
 "wallet_page_post_message1" = "liked your post.";
 "wallet_page_post_message2" = "is now following you.";
+"insta_ugc_if_use_photo1" = "Take Photo With CloudMall";
+"insta_ugc_if_use_photo2" = "Allow access to your camera to start taking photos with the CloudMall app.";
+"insta_ugc_if_use_photo3" = "Enable Camera Access";
+"insta_ugc_if_use_library1" = "Please Allow Access to Your Photos";
+"insta_ugc_if_use_library2" = "This allows CloudMall to share photos from your library and save photos to your camera roll.";
+"insta_ugc_if_use_library3" = "Enable Library Access";

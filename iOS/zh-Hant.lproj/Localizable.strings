@@ -1731,3 +1731,9 @@
 "insta_publish_after4" = "告訴您的朋友";
 "wallet_page_post_message1" = "喜歡您的帖子。";
 "wallet_page_post_message2" = "正在關注您。";
+"insta_ugc_if_use_photo1" = "使用CloudMall拍照";
+"insta_ugc_if_use_photo2" = "允許CloudMall應用程序訪問您的相機並開始拍照";
+"insta_ugc_if_use_photo3" = "啟用攝像機訪問";
+"insta_ugc_if_use_library1" = "請允許訪問您的照片";
+"insta_ugc_if_use_library2" = "這使CloudMall可以共享庫中的照片並將照片保存到相機膠卷中";
+"insta_ugc_if_use_library3" = "啟用訪問";
