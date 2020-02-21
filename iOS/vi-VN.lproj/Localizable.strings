@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Chi nhánh";
 "new_message_page4" = "Hoạt động";
 "new_message_page5" = "Xem lại các mục";
+"new_message_page6" = "Không nhận được thông báo";
+"new_message_page7" = "Gói nhắc nhở bất thường";
+"new_message_page8" = "Nhắc nhở bạn bè của bạn thực hiện giao dịch mua đầu tiên của họ, bạn sẽ được thưởng một";
+"new_message_page9" = "hoàn lại tiền trên tổng giá trị mua hàng của họ.";
+"new_message_page10" = "Bạn không có bạn bè mời";
+"new_message_page11" = "Mời ngay";
+"new_message_page12" = "Nhắc bạn tôi";
+"new_message_page13" = "Nhắc nhở bạn của bạn thành công!";
+"new_message_page14" = "Bạn đã nhắc nhở bạn của bạn ngày hôm nay";
 "home_page_review1" = "Cảm ơn bạn đã mua sắm tại CloudMall. Vui lòng chia sẻ kinh nghiệm mua sắm và đánh giá sản phẩm của bạn với chúng tôi.";
 "home_page_review2" = "Xem lại ngay";
 "order_list_review" = "Đánh giá";

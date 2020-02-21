@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Tilknyttet";
 "new_message_page4" = "Aktivitet";
 "new_message_page5" = "Se gjennom artikler";
+"new_message_page6" = "Ingen varsel mottatt";
+"new_message_page7" = "Unormal påminnelse om pakken";
+"new_message_page8" = "Påminn vennene dine om å gjøre sitt første kjøp, du vil bli belønnet med en";
+"new_message_page9" = "cashback på den totale verdien av kjøpet.";
+"new_message_page10" = "Dine har ingen invitasjonsvenner";
+"new_message_page11" = "Inviter nå";
+"new_message_page12" = "Påminn vennen min";
+"new_message_page13" = "Påminn vennen din vellykket!";
+"new_message_page14" = "Du har minnet vennen din i dag";
 "home_page_review1" = "Takk for at du handlet på CloudMall. Del din handleopplevelse og produktanmeldelser med oss.";
 "home_page_review2" = "Gjennomgå nå";
 "order_list_review" = "Gjennomgang";

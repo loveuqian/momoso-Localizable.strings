@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Affiliate";
 "new_message_page4" = "Activity";
 "new_message_page5" = "Zkontrolovat položky";
+"new_message_page6" = "Nebylo přijato žádné oznámení";
+"new_message_page7" = "Připomenutí neobvyklého balíčku";
+"new_message_page8" = "Připomeňte svým přátelům, aby provedli první nákup, budete odměněni";
+"new_message_page9" = "cashback z celkové hodnoty jejich nákupu.";
+"new_message_page10" = "Nemáte žádné pozvané přátele";
+"new_message_page11" = "Pozvat nyní";
+"new_message_page12" = "Připomenout příteli";
+"new_message_page13" = "Připomeňte svému příteli úspěšně!";
+"new_message_page14" = "Připomenuli jste dnes svému příteli";
 "home_page_review1" = "Děkujeme, že jste nakupovali ve službě CloudMall. Podělte se s námi o své zážitky z nakupování a recenze produktů.";
 "home_page_review2" = "Zkontrolovat nyní";
 "order_list_review" = "Recenze";

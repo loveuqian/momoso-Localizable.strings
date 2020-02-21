@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Affiliate";
 "new_message_page4" = "Aktivitet";
 "new_message_page5" = "Granska objekt";
+"new_message_page6" = "Ingen avisering har mottagits";
+"new_message_page7" = "Paketets onormala påminnelse";
+"new_message_page8" = "Påminn dina vänner att göra sitt första köp, du kommer att belönas med en";
+"new_message_page9" = "cashback på det totala värdet på deras köp.";
+"new_message_page10" = "Du har inga inbjudande vänner";
+"new_message_page11" = "Bjud in nu";
+"new_message_page12" = "Påminn min vän";
+"new_message_page13" = "Påminna din vän framgångsrikt!";
+"new_message_page14" = "Du har påmint din vän idag";
 "home_page_review1" = "Tack för att du shoppade på CloudMall. Vänligen dela din shoppingupplevelse och produktrecensioner med oss.";
 "home_page_review2" = "Granska nu";
 "order_list_review" = "Granska";

@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Affiliato";
 "new_message_page4" = "Attività";
 "new_message_page5" = "Esamina articoli";
+"new_message_page6" = "Nessuna notifica ricevuta";
+"new_message_page7" = "Promemoria anomalo del pacchetto";
+"new_message_page8" = "Ricorda ai tuoi amici di effettuare il loro primo acquisto, verrai ricompensato con un";
+"new_message_page9" = "cashback sul valore totale del loro acquisto.";
+"new_message_page10" = "Non hai amici di invito";
+"new_message_page11" = "Invita ora";
+"new_message_page12" = "Ricorda al mio amico";
+"new_message_page13" = "Ricorda il tuo amico con successo!";
+"new_message_page14" = "Hai ricordato il tuo amico oggi";
 "home_page_review1" = "Grazie per lo shopping su CloudMall. Condividi la tua esperienza di acquisto e le recensioni dei prodotti con noi.";
 "home_page_review2" = "Rivedi ora";
 "order_list_review" = "Revisione";

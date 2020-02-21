@@ -1748,6 +1748,15 @@
 "new_message_page3" = "会员";
 "new_message_page4" = "活动";
 "new_message_page5" = "评论项目";
+"new_message_page6" = "未收到通知";
+"new_message_page7" = "包裹异常提醒";
+"new_message_page8" = "提醒您的朋友们进行首次下单，您将获得其购买总价值";
+"new_message_page9" = "的现金返还的奖励。";
+"new_message_page10" = "您还没有邀请朋友";
+"new_message_page11" = "立即邀请";
+"new_message_page12" = "提醒我的朋友";
+"new_message_page13" = "成功提醒您的朋友！";
+"new_message_page14" = "您今天已提醒过您的朋友";
 "home_page_review1" = "感谢您在CloudMall购物。请与我们分享您的购物体验和产品评论。";
 "home_page_review2" = "立即查看";
 "order_list_review" = "评论";

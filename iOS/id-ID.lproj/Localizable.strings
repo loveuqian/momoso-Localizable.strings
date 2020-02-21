@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Afiliasi";
 "new_message_page4" = "Aktivitas";
 "new_message_page5" = "Tinjau Item";
+"new_message_page6" = "Tidak Ada Pemberitahuan yang Diterima";
+"new_message_page7" = "Pengingat Abnormal Paket";
+"new_message_page8" = "Ingatkan teman Anda untuk melakukan pembelian pertama mereka, Anda akan diberi hadiah dengan";
+"new_message_page9" = "cashback pada nilai total pembelian mereka.";
+"new_message_page10" = "Anda tidak punya teman undangan";
+"new_message_page11" = "Undang Sekarang";
+"new_message_page12" = "Ingatkan Teman Saya";
+"new_message_page13" = "Ingatkan teman Anda berhasil!";
+"new_message_page14" = "Anda telah mengingatkan teman Anda hari ini";
 "home_page_review1" = "Terima kasih telah berbelanja di CloudMall. Silakan berbagi pengalaman belanja dan ulasan produk Anda dengan kami.";
 "home_page_review2" = "Tinjau Sekarang";
 "order_list_review" = "Tinjau";

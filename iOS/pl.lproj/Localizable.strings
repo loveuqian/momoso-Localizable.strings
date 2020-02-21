@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Podmiot stowarzyszony";
 "new_message_page4" = "Aktywność";
 "new_message_page5" = "Przejrzyj elementy";
+"new_message_page6" = "Nie otrzymano powiadomienia";
+"new_message_page7" = "Nieprawidłowe przypomnienie o pakiecie";
+"new_message_page8" = "Przypomnij znajomym, aby dokonali pierwszego zakupu, otrzymasz nagrodę w postaci";
+"new_message_page9" = "zwrot gotówki od całkowitej wartości ich zakupu.";
+"new_message_page10" = "Nie masz żadnych zaproszonych przyjaciół";
+"new_message_page11" = "Zaproś teraz";
+"new_message_page12" = "Przypomnij mojemu przyjacielowi";
+"new_message_page13" = "Przypomnij przyjacielowi pomyślnie!";
+"new_message_page14" = "Przypomniałeś dziś swojemu przyjacielowi";
 "home_page_review1" = "Dziękujemy za zakupy w CloudMall. Podziel się z nami swoimi wrażeniami z zakupów i recenzjami produktów.";
 "home_page_review2" = "Przejrzyj teraz";
 "order_list_review" = "Recenzja";

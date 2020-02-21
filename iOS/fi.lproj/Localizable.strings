@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Affiliate";
 "new_message_page4" = "Toiminto";
 "new_message_page5" = "Tarkastele kohteita";
+"new_message_page6" = "Ei ilmoitusta vastaanotettu";
+"new_message_page7" = "Pakkauksen epänormaali muistutus";
+"new_message_page8" = "Muistuta ystäviäsi ostamaan ensimmäinen ostoksesi, sinulle palkitaan";
+"new_message_page9" = "cashback heidän ostoksensa kokonaisarvosta.";
+"new_message_page10" = "Sinulla ei ole kutsu ystäviä";
+"new_message_page11" = "Kutsu nyt";
+"new_message_page12" = "Muistuta ystävääni";
+"new_message_page13" = "Muistuta ystävääsi onnistuneesti!";
+"new_message_page14" = "Olet muistuttanut ystävääsi tänään";
 "home_page_review1" = "Kiitos ostoksestasi CloudMallissa. Ole hyvä ja jaa ostokokemuksesi ja tuotearvostelut kanssamme.";
 "home_page_review2" = "Tarkista nyt";
 "order_list_review" = "Arvostelu";

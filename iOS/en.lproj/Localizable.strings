@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Affiliate";
 "new_message_page4" = "Activity";
 "new_message_page5" = "Review Items";
+"new_message_page6" = "No Notification Received";
+"new_message_page7" = "Package Abnormal Reminder";
+"new_message_page8" = "Remind your friends to make their first purchase, you will be rewarded with a";
+"new_message_page9" = "cashback on the total value of their purchase.";
+"new_message_page10" = "Your have no invite friends";
+"new_message_page11" = "Invite Now";
+"new_message_page12" = "Remind My Friend";
+"new_message_page13" = "Remind your friend successfully!";
+"new_message_page14" = "You have remind your friend today";
 "home_page_review1" = "Thanks for shopping at CloudMall. Please share your shopping experience and product reviews with us.";
 "home_page_review2" = "Review Now";
 "order_list_review" = "Review";

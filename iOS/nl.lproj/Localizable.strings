@@ -1748,6 +1748,15 @@
 "new_message_page3" = "Partner";
 "new_message_page4" = "Activiteit";
 "new_message_page5" = "Items beoordelen";
+"new_message_page6" = "Geen melding ontvangen";
+"new_message_page7" = "Abnormale herinnering pakket";
+"new_message_page8" = "Herinner uw vrienden eraan om hun eerste aankoop te doen, u wordt beloond met een";
+"new_message_page9" = "cashback op de totale waarde van hun aankoop.";
+"new_message_page10" = "U hebt geen vrienden uitnodigen";
+"new_message_page11" = "Nu uitnodigen";
+"new_message_page12" = "Herinner mijn vriend";
+"new_message_page13" = "Herinner uw vriend met succes eraan!";
+"new_message_page14" = "U moet uw vriend vandaag herinneren";
 "home_page_review1" = "Bedankt voor het winkelen bij CloudMall. Deel uw winkelervaring en productrecensies met ons.";
 "home_page_review2" = "Nu beoordelen";
 "order_list_review" = "Beoordeling";
