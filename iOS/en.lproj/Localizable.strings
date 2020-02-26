@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Size Guide";
 "dp_mall_nofulfilment_title" = "Sorry, We do not support the fulfillment right now. You may search it on its website.";
 "dp_size_description" = "We recommend that you choose the right size according to the size chart provided.  Please note that product information (color, sizing, etc.) is provided by our suppliers and is for reference only.";
-"dp_mall_location_taobao" = "Hongkong";
+"dp_mall_location_hk" = "Hongkong";
 
 "dp_outorder_title" = "Out of Order";
 "dp_processingtime_title" = "Processing Time";

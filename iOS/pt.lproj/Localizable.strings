@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Guia de tamanhos";
 "dp_mall_nofulfilment_title" = "Desculpe, não oferecemos suporte ao preenchimento agora. Você pode pesquisá-lo em seu site.";
 "dp_size_description" = "Recomendamos que você escolha o tamanho certo de acordo com a tabela de tamanhos fornecida. Observe que as informações do produto (cor, tamanho, etc.)são fornecidas por nossos fornecedores e são apenas para referência.";
-"dp_mall_location_taobao" = "Hongkong";
+"dp_mall_location_hk" = "Hongkong";
 
 "dp_outorder_title" = "Fora de ordem";
 "dp_processingtime_title" = "Tempo de processamento";

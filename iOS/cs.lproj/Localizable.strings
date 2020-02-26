@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Průvodce velikostí";
 "dp_mall_nofulfilment_title" = "Omlouváme se, momentálně nepodporujeme plnění. Můžete jej vyhledat na svých webových stránkách.";
 "dp_size_description" = "Doporučujeme, abyste si vybrali správnou velikost podle dodané tabulky velikostí. Upozorňujeme, že informace o produktech (barvy, rozměry apod.) jsou poskytovány našimi dodavateli a jsou pouze orientační.";
-"dp_mall_location_taobao" = "Hongkong";
+"dp_mall_location_hk" = "Hongkong";
 
 "dp_outorder_title" = "Neaktivní";
 "dp_processingtime_title" = "Čas zpracování";

@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Matentabel";
 "dp_mall_nofulfilment_title" = "Sorry, we ondersteunen de uitvoering momenteel niet, u kunt deze op zijn website zoeken.";
 "dp_size_description" = "We raden u aan de juiste maat te kiezen volgens het meegeleverde maattabel. Let op: productinformatie (kleur, maat, etc.) wordt geleverd door onze leveranciers en dient alleen ter referentie.";
-"dp_mall_location_taobao" = "Hongkong";
+"dp_mall_location_hk" = "Hongkong";
 
 "dp_outorder_title" = "Niet in de juiste volgorde";
 "dp_processingtime_title" = "Verwerkingstijd";

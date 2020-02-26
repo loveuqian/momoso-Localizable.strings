@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Koko opas";
 "dp_mall_nofulfilment_title" = "Anteeksi, emme tue täyttämistä juuri nyt. Voit hakea sitä verkkosivuillaan.";
 "dp_size_description" = "Suosittelemme, että valitset oikean koon toimitetun kokotaulukon mukaan. Huomaa, että toimittajamme antavat tuotetiedot (väri, mitoitus jne.) vain viitteelliseksi.";
-"dp_mall_location_taobao" = "Hongkong";
+"dp_mall_location_hk" = "Hongkong";
 
 "dp_outorder_title" = "Poissa käytöstä";
 "dp_processingtime_title" = "Käsittelyaika";

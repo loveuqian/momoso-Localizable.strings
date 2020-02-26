@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Guida alle taglie";
 "dp_mall_nofulfilment_title" = "Siamo spiacenti, non è supportata la realizzazione in questo momento Puoi cercare sul proprio sito web ..";
 "dp_size_description" = "Si consiglia di scegliere il giusto formato secondo la tabella di formato a condizione Si prega di notare che le informazioni di prodotto (colore, dimensionamento, ecc) è fornito dai nostri fornitori ed è solo di riferimento ..";
-"dp_mall_location_taobao" = "Hong Kong";
+"dp_mall_location_hk" = "Hong Kong";
 
 "dp_outorder_title" = "Fuori servizio";
 "dp_processingtime_title" = "Tempo di elaborazione";

@@ -750,7 +750,7 @@
 "dp_sizeguide_title" = "Størrelsesvejledning";
 "dp_mall_nofulfilment_title" = "Beklager,vi understøtter ikke opfyldelsen lige nu.Du kan søge det på sin hjemmeside.";
 "dp_size_description" = "Vi anbefaler,at du vælger den rigtige størrelse i overensstemmelse med det angivne størrelseskema.Bemærk venligst,at produktoplysninger (farve,størrelsesorden osv.) er leveret af vores leverandører og kun er til reference.";
-"dp_mall_location_taobao" = "Hongkong";
+"dp_mall_location_hk" = "Hongkong";
 
 "dp_outorder_title" = "Ud af orden";
 "dp_processingtime_title" = "Behandlingstid";
