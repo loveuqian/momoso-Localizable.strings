@@ -1607,7 +1607,7 @@
 "check_in_page_center_date1" = "Yesterday";
 "check_in_page_center_date2" = "Today";
 "check_in_page_center_date3" = "Tomorrow";
-"check_in_page_center_exchange1" = "POINT EXCHANGE";
+"check_in_page_center_exchange1" = "EXCHANGE INTO COUPONS";
 "check_in_page_center_exchange2" = "Order over";
 "check_in_page_center_exchange3" = "coins";
 "check_in_page_center_exchange4" = "coins needed";
@@ -1782,3 +1782,38 @@
 "review_detail_page_review13" = "Review submitted successfully";
 "review_detail_page_review14" = "We apologize for your poor experience and we will get in touch with you as soon as possible";
 "review_detail_page_review15" = "Please complete the review and ratings";
+
+//////返利2.0版本///////
+"second_affiliate_wallet1" = "Your Account";
+"second_affiliate_wallet2" = "Cash";
+"second_affiliate_wallet3" = "Pending";
+"second_affiliate_wallet4" = "Left";
+"second_affiliate_wallet5" = "Withdraw";
+"second_affiliate_wallet6" = "Withdraw Now";
+"second_affiliate_wallet7" = "HOW TO GET";
+"second_affiliate_wallet8" = "Invite friends to download App";
+"second_affiliate_wallet9" = "Will earn up to";
+"second_affiliate_wallet10" = "Invite";
+"second_affiliate_wallet11" = "Remind friends to order";
+"second_affiliate_wallet12" = "Get total value";
+"second_affiliate_wallet13" = "cashback";
+"second_affiliate_wallet14" = "Remind";
+"second_affiliate_wallet15" = "HOW TO USE";
+"second_affiliate_wallet16" = "Cash Withdraw";
+"second_affiliate_wallet17" = "Shopping Now";
+"second_affiliate_wallet18" = "+ free product";
+"second_affiliate_signup_window1" = "CloudMall WALLET";
+"second_affiliate_signup_window2" = "PayPal No Fees";
+"second_affiliate_signup_window3" = "Ends in";
+"second_affiliate_checkin1" = "Your Coins";
+"second_affiliate_checkin2" = "Exchange";
+"second_affiliate_checkin3" = "Exchange Now";
+"second_affiliate_checkin4" = "My coins";
+"second_affiliate_checkin5" = "Exchangable";
+"second_affiliate_checkin6" = "Coins can only be exchanged in multiples of";
+"second_affiliate_checkin7" = "Cash exchange failed, please tyr again";
+"second_affiliate_checkin8" = "Congratulations, cash exchange successfully";
+"second_affiliate_checkin9" = "See My Wallet";
+"second_affiliate_me_checkin_entry" = "Coins";
+"second_affiliate_me_wallet_entry" = "Wallet";
+"second_affiliate_me_coupon_entry" = "Coupons";
