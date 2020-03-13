@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Đánh giá được gửi thành công";
 "review_detail_page_review14" = "Chúng tôi xin lỗi vì trải nghiệm kém của bạn và chúng tôi sẽ liên lạc với bạn sớm nhất có thể";
 "review_detail_page_review15" = "Vui lòng hoàn thành đánh giá và xếp hạng";
+"review_detail_page_Vview16" = "Đã xóa";
+"review_detail_page_Vview17" = "Hủy";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet1" = "Tài khoản của bạn";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Tiền xu";
 "second_affiliate_me_wallet_entry" = "Ví";
 "second_affiliate_me_coupon_entry" = "Phiếu giảm giá";
+"second_affiliate_dp_share_window" = "Mời bạn bè của bạn mua mặt hàng này bạn sẽ nhận được";
+"second_affiliate_wallet_share_window" = "Mời bạn bè của bạn tải xuống ứng dụng CloudMall mà bạn sẽ truy cập";
+"second_affiliate_insta_share_window" = "Bạn bè của bạn tải xuống ứng dụng CloudMall và mua hàng và cả hai bạn sẽ nhận được tiền hoàn lại ngọt ngào";
+"second_affiliate_inviter_window1" = "Đăng ký và nhận";
+"second_affiliate_inviter_window2" = "Bây giờ";
+"second_affiliate_inviter_window3" = "Mời bạn tham gia CloudMall và cung cấp cho bạn số tiền này";
+
+/////////// Cửa hàng 项目 ///////
+"dp_shop_name1" = "Được bán bởi";
+"dp_shop_name2" = "Đi đến cửa hàng";
+"dp_shop_name3" = "Phản hồi tích cực";
+"dp_shop_name4" = "Mục";
+"dp_shop_name5" = "Người theo dõi";
+"dp_shop_name6" = "Khuyến nghị của người bán";
+"dp_shop_name7" = "Khác";
+"dp_shop_name8" = "Xem thêm";

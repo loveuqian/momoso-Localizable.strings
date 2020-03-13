@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "評論提交成功";
 "review_detail_page_review14" = "對於您的糟糕體驗，我們深表歉意，我們將盡快與您聯繫。";
 "review_detail_page_review15" = "請完成評論和評分";
+"review_detail_page_review16" = "刪除";
+"review_detail_page_review17" = "取消";
 
 //////返利2.0版本///////
 "second_affiliate_wallet1" = "您的帳戶";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "硬幣";
 "second_affiliate_me_wallet_entry" = "錢包";
 "second_affiliate_me_coupon_entry" = "優惠券";
+"second_affiliate_dp_share_window" = "邀請您的朋友購買您將獲得的獎品";
+"second_affiliate_wallet_share_window" = "邀請您的朋友下載您將要使用的CloudMall應用程序";
+"second_affiliate_insta_share_window" = "您的朋友下載了CloudMall應用並進行購買，您將獲得現金返還。";
+"second_affiliate_inviter_window1" = "註冊並獲取";
+"second_affiliate_inviter_window2" = "現在";
+"second_affiliate_inviter_window3" = "邀請您加入CloudMall並給您返現。";
+
+/////////// Shop項目////////
+"dp_shop_name1" = "店鋪";
+"dp_shop_name2" = "進店逛逛";
+"dp_shop_name3" = "綜合體驗";
+"dp_shop_name4" = "商品數";
+"dp_shop_name5" = "粉絲數";
+"dp_shop_name6" = "熱賣榜單";
+"dp_shop_name7" = "更多";
+"dp_shop_name8" = "查看更多";

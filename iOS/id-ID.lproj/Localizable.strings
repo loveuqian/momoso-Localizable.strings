@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Tinjauan berhasil dikirim";
 "review_detail_page_review14" = "Kami mohon maaf atas pengalaman Anda yang buruk dan kami akan menghubungi Anda sesegera mungkin";
 "review_detail_page_review15" = "Silakan lengkapi ulasan dan peringkat";
+"review_detail_page_review16" = "Dihapus";
+"review_detail_page_review17" = "Batal";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet1" = "Akun Anda";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Koin";
 "second_affiliate_me_wallet_entry" = "Wallet";
 "second_affiliate_me_coupon_entry" = "Kupon";
+"second_affiliate_dp_share_window" = "Undang teman Anda untuk membeli item ini, Anda akan mendapatkan";
+"second_affiliate_wallet_share_window" = "Undang teman Anda untuk mengunduh aplikasi CloudMall, Anda akan mencapai";
+"second_affiliate_insta_share_window" = "Teman Anda mengunduh aplikasi CloudMall dan melakukan pembelian dan Anda berdua akan mendapatkan cashback manis manis";
+"second_affiliate_inviter_window1" = "Daftar Dan Dapatkan";
+"second_affiliate_inviter_window2" = "Sekarang";
+"second_affiliate_inviter_window3" = "Mengundang Anda untuk bergabung dengan CloudMall dan memberi Anda uang tunai ini";
+
+/////////// Shop 项目 ///////
+"dp_shop_name1" = "Dijual oleh";
+"dp_shop_name2" = "Go To Shop";
+"dp_shop_name3" = "Umpan Balik Positif";
+"dp_shop_name4" = "Item";
+"dp_shop_name5" = "Pengikut";
+"dp_shop_name6" = "Rekomendasi Penjual";
+"dp_shop_name7" = "Lainnya";
+"dp_shop_name8" = "Lihat Lainnya";

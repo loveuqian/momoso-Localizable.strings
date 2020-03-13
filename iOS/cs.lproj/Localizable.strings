@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Recenze byla úspěšně odeslána";
 "review_detail_page_review14" = "Omlouváme se za vaše špatné zkušenosti a my se s vámi spojíme co nejdříve";
 "review_detail_page_review15" = "Dokončete prosím kontrolu a hodnocení";
+"review_detail_page_review16" = "Smazáno";
+"review_detail_page_review17" = "Cancel";
 
 ////// 返利 2,0 版本 ///////
 "second_affiliate_wallet1" = "Váš účet";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Coins";
 "second_affiliate_me_wallet_entry" = "Peněženka";
 "second_affiliate_me_coupon_entry" = "Coupons";
+"second_affiliate_dp_share_window" = "Pozvěte přátele, aby si zakoupili tuto položku, kterou dostanete";
+"second_affiliate_wallet_share_window" = "Pozvěte své přátele, aby si stáhli aplikaci CloudMall, se kterou se dostanete;";
+"second_affiliate_insta_share_window" = "Vaši přátelé si stáhnou aplikaci CloudMall a provedou nákup a oba dostanete sladký sladký cashback";
+"second_affiliate_inviter_window1" = "Zaregistrujte se a získejte";
+"second_affiliate_inviter_window2" = "Now";
+"second_affiliate_inviter_window3" = "Pozve vás ke službě CloudMall a poskytne vám tuto hotovost";
+
+/////////// Obchod 项目 ///////
+"dp_shop_name1" = "Prodáno uživatelem";
+"dp_shop_name2" = "Přejít do obchodu";
+"dp_shop_name3" = "Pozitivní zpětná vazba";
+"dp_shop_name4" = "Položky";
+"dp_shop_name5" = "Sledující";
+"dp_shop_name6" = "Doporučení prodejce";
+"dp_shop_name7" = "Více";
+"dp_shop_name8" = "Zobrazit více";

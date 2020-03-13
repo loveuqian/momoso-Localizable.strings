@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "ตรวจสอบการส่งสำเร็จ";
 "review_detail_page_review14" = "เราต้องขออภัยสำหรับประสบการณ์ที่ไม่ดีของคุณและเราจะติดต่อคุณโดยเร็วที่สุด";
 "review_detail_page_review15" = "โปรดตรวจสอบและให้คะแนน";
+"review_detail_page_review16" = "ถูกลบ";
+"review_detail_page_review17" = "ยกเลิก";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet1" = "บัญชีของคุณ";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "เหรียญ";
 "second_affiliate_me_wallet_entry" = "กระเป๋าเงิน";
 "second_affiliate_me_coupon_entry" = "คูปอง";
+"second_affiliate_dp_share_window" = "เชิญเพื่อนของคุณเพื่อซื้อรายการนี้คุณจะได้รับ";
+"second_affiliate_wallet_share_window" = "เชิญเพื่อนของคุณให้ดาวน์โหลดแอป CloudMall ที่คุณจะได้รับ";
+"second_affiliate_insta_share_window" = "เพื่อนของคุณดาวน์โหลดแอป CloudMall และทำการซื้อและคุณจะได้รับเงินคืนหวาน ๆ ";
+"second_affiliate_inviter_window1" = "สมัครและรับ";
+"second_affiliate_inviter_window2" = "ตอนนี้";
+"second_affiliate_inviter_window3" = "เชิญคุณเข้าร่วม CloudMall และให้เงินนี้แก่คุณ";
+
+/////////// ร้าน项目 ///////
+"dp_shop_name1" = "ขายโดย";
+"dp_shop_name2" = "ไปที่ร้าน";
+"dp_shop_name3" = "ข้อเสนอแนะในเชิงบวก";
+"dp_shop_name4" = "รายการ";
+"dp_shop_name5" = "ผู้ติดตาม";
+"dp_shop_name6" = "คำแนะนำผู้ขาย";
+"dp_shop_name7" = "เพิ่มเติม";
+"dp_shop_name8" = "ดูเพิ่มเติม";

@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Arvostelu lähetetty onnistuneesti";
 "review_detail_page_review14" = "Pahoittelemme heikkoa kokemustasi ja otamme sinuun yhteyttä mahdollisimman pian";
 "review_detail_page_review15" = "Täytä arvostelu ja arviot";
+"review_detail_page_review16" = "Poistettu";
+"review_detail_page_review17" = "Peruuta";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet1" = "Tilisi";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Kolikot";
 "second_affiliate_me_wallet_entry" = "Lompakko";
 "second_affiliate_me_coupon_entry" = "Kupongit";
+"second_affiliate_dp_share_w window" = "Kutsu ystäviäsi ostamaan tämä tuote, jonka saat";
+"second_affiliate_wallet_share_window" = "Kutsu ystäviäsi lataamaan CloudMall-sovellus, johon pääset";
+"second_affiliate_insta_share_window" = "Ystäväsi lataavat CloudMall-sovelluksen ja tekevät ostoksen, niin saat molemmat suloisia ja makeita rahapalautuksia";
+"second_affiliate_inviter_window1" = "Rekisteröidy ja hanki";
+"second_affiliate_inviter_window2" = "Nyt";
+"second_affiliate_inviter_window3" = "Kutsuu sinut liittymään CloudMall-palveluun ja antaa sinulle tämän rahaa";
+
+/////////// Shop 项目 ///////
+"dp_shop_name1" = "Myynyt";
+"dp_shop_name2" = "Siirry kauppaan";
+"dp_shop_name3" = "Positiivinen palaute";
+"dp_shop_name4" = "Tuotteet";
+"dp_shop_name5" = "Seuraajat";
+"dp_shop_name6" = "Myyjän suositukset";
+"dp_shop_name7" = "Lisää";
+"dp_shop_name8" = "Näytä lisää";

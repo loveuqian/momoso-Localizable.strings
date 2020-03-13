@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Beoordeling succesvol verzonden";
 "review_detail_page_review14" = "Onze excuses voor uw slechte ervaring en we nemen zo snel mogelijk contact met u op";
 "review_detail_page_review15" = "Voltooi de beoordeling en beoordelingen";
+"review_detail_page_review16" = "Verwijderd";
+"review_detail_page_review17" = "Annuleren";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet1" = "Uw account";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Munten";
 "second_affiliate_me_wallet_entry" = "Portemonnee";
 "second_affiliate_me_coupon_entry" = "Coupons";
+"second_affiliate_dp_share_window" = "Nodig je vrienden uit om dit item te kopen dat je krijgt";
+"second_affiliate_wallet_share_window" = "Nodig uw vrienden uit om de CloudMall-app te downloaden waar u mee bezig bent";
+"second_affiliate_insta_share_window" = "Je vrienden downloaden de CloudMall-app en doen een aankoop en jullie krijgen allebei een zoete, zoete cashback";
+"second_affiliate_inviter_window1" = "Aanmelden en ophalen";
+"second_affiliate_inviter_window2" = "Nu";
+"second_affiliate_inviter_window3" = "Nodigt u uit om lid te worden van CloudMall en geeft u dit geld";
+
+/////////// Shop 项目 ///////
+"dp_shop_name1" = "Verkocht door";
+"dp_shop_name2" = "Ga naar winkel";
+"dp_shop_name3" = "Positieve feedback";
+"dp_shop_name4" = "Items";
+"dp_shop_name5" = "Volgers";
+"dp_shop_name6" = "Aanbevelingen van verkopers";
+"dp_shop_name7" = "Meer";
+"dp_shop_name8" = "Bekijk meer";

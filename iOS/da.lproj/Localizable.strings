@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Gennemgang er indsendt";
 "review_detail_page_review14" = "Vi beklager din dårlige oplevelse, og vi kommer i kontakt med dig så hurtigt som muligt";
 "review_detail_page_review15" = "Fuldfør gennemgangen og ratings";
+"review_detail_page_review16" = "Slettet";
+"review_detail_page_review17" = "Annuller";
 
 ////// 返利 2,0 版本 ///////
 "second_affiliate_wallet1" = "Din konto";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Mønter";
 "second_affiliate_me_wallet_entry" = "Tegnebog";
 "second_affiliate_me_coupon_entry" = "Kuponer";
+"second_affiliate_dp_share_window" = "Inviter dine venner til at købe denne vare, du får";
+"second_affiliate_wallet_share_window" = "Inviter dine venner til at downloade CloudMall-appen, du får op til";
+"second_affiliate_insta_share_window" = "Dine venner henter CloudMall-appen og foretager et køb, og du får begge søde søde cashback";
+"second_affiliate_inviter_window1" = "Tilmeld dig og hent";
+"second_affiliate_inviter_window2" = "Nu";
+"second_affiliate_inviter_window3" = "Inviterer dig til at deltage i CloudMall og giver dig disse kontanter";
+
+/////////// Shop 项目 ///////
+"dp_shop_name1" = "Solgt af";
+"dp_shop_name2" = "Gå til butik";
+"dp_shop_name3" = "Positiv feedback";
+"dp_shop_name4" = "Varer";
+"dp_shop_name5" = "Følgere";
+"dp_shop_name6" = "Sælgeranbefalinger";
+"dp_shop_name7" = "Mere";
+"dp_shop_name8" = "Se mere";

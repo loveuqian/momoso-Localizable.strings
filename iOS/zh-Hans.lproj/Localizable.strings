@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "评论提交成功";
 "review_detail_page_review14" = "对于您的糟糕体验，我们深表歉意，我们将尽快与您联系。";
 "review_detail_page_review15" = "请完成评论和评分";
+"review_detail_page_review16" = "删除";
+"review_detail_page_review17" = "取消";
 
 //////返利2.0版本///////
 "second_affiliate_wallet1" = "您的帐户";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "硬币";
 "second_affiliate_me_wallet_entry" = "钱包";
 "second_affiliate_me_coupon_entry" = "优惠券";
+"second_affiliate_dp_share_window" = "邀请您的朋友购买您将获得的奖品";
+"second_affiliate_wallet_share_window" = "邀请您的朋友下载您将要使用的CloudMall应用程序";
+"second_affiliate_insta_share_window" = "您的朋友下载了CloudMall应用并进行购买，您将获得现金返还。";
+"second_affiliate_inviter_window1" = "注册并获取";
+"second_affiliate_inviter_window2" = "现在";
+"second_affiliate_inviter_window3" = "邀请您加入CloudMall并给您返现。";
+
+/////////// Shop项目////////
+"dp_shop_name1" = "店铺";
+"dp_shop_name2" = "进店逛逛";
+"dp_shop_name3" = "综合体验";
+"dp_shop_name4" = "商品数";
+"dp_shop_name5" = "粉丝数";
+"dp_shop_name6" = "热卖榜单";
+"dp_shop_name7" = "更多";
+"dp_shop_name8" = "查看更多";

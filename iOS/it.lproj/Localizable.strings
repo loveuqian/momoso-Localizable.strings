@@ -1782,6 +1782,8 @@
 "review_detail_page_review13" = "Revisione inviata correttamente";
 "review_detail_page_review14" = "Ci scusiamo per la tua scarsa esperienza e ti contatteremo al più presto";
 "review_detail_page_review15" = "Completa la recensione e le valutazioni";
+"review_detail_page_review16" = "Eliminato";
+"review_detail_page_review17" = "Annulla";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet1" = "Il tuo account";
@@ -1817,3 +1819,19 @@
 "second_affiliate_me_checkin_entry" = "Monete";
 "second_affiliate_me_wallet_entry" = "Portafoglio";
 "second_affiliate_me_coupon_entry" = "Coupon";
+"second_affiliate_dp_share_window" = "Invita i tuoi amici a comprare questo oggetto che otterrai";
+"second_affiliate_wallet_share_window" = "Invita i tuoi amici a scaricare l'app CloudMall che otterrai";
+"second_affiliate_insta_share_window" = "I tuoi amici scaricano l'app CloudMall ed effettuano un acquisto e otterrai entrambi un dolce cashback";
+"second_affiliate_inviter_window1" = "Iscriviti e ottieni";
+"second_affiliate_inviter_window2" = "Now";
+"second_affiliate_inviter_window3" = "Ti invita a iscriverti a CloudMall e ti offre questo denaro";
+
+/////////// negozio 项目 ///////
+"dp_shop_name1" = "Venduto da";
+"dp_shop_name2" = "Vai allo shop";
+"dp_shop_name3" = "Feedback positivo";
+"dp_shop_name4" = "Articoli";
+"dp_shop_name5" = "Followers";
+"dp_shop_name6" = "Consigli del venditore";
+"dp_shop_name7" = "Altro";
+"dp_shop_name8" = "Visualizza altro";
