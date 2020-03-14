@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "ยกเลิก";
 
 ////// 返利 2.0 版本 ///////
-"second_affiliate_wallet1" = "บัญชีของคุณ";
+"second_affiliate_wallet_title" = "กระเป๋าเงิน";
+"second_affiliate_wallet1" = "บัญชีของฉัน";
 "second_affiliate_wallet2" = "เงินสด";
 "second_affiliate_wallet3" = "รอดำเนินการ";
 "second_affiliate_wallet4" = "ซ้าย";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall ย่าม";
 "second_affiliate_signup_window2" = "PayPal ไม่มีค่าธรรมเนียม";
 "second_affiliate_signup_window3" = "สิ้นสุดใน";
-"second_affiliate_checkin1" = "เหรียญของคุณ";
+"second_affiliate_checkin1" = "เหรียญของฉัน";
 "second_affiliate_checkin2" = "แลกเปลี่ยน";
 "second_affiliate_checkin3" = "แลกเปลี่ยนทันที";
 "second_affiliate_checkin4" = "เหรียญของฉัน";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "คำแนะนำผู้ขาย";
 "dp_shop_name7" = "เพิ่มเติม";
 "dp_shop_name8" = "ดูเพิ่มเติม";
+"dp_shop_name9" = "รายการคำอธิบาย";

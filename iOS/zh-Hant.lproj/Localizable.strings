@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "取消";
 
 //////返利2.0版本///////
-"second_affiliate_wallet1" = "您的帳戶";
+"second_affiliate_wallet_title" = "钱包";
+"second_affiliate_wallet1" = "我的帐户";
 "second_affiliate_wallet2" = "現金";
 "second_affiliate_wallet3" = "待處理";
 "second_affiliate_wallet4" = "左";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall錢包";
 "second_affiliate_signup_window2" = "PayPal不收費";
 "second_affiliate_signup_window3" = "結尾為";
-"second_affiliate_checkin1" = "您的硬幣";
+"second_affiliate_checkin1" = "我的金币";
 "second_affiliate_checkin2" = "交易所";
 "second_affiliate_checkin3" = "立即交換";
 "second_affiliate_checkin4" = "我的硬幣";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "熱賣榜單";
 "dp_shop_name7" = "更多";
 "dp_shop_name8" = "查看更多";
+"dp_shop_name9" = "商品详情";

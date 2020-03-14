@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Avbryt";
 
 ////// 返利 2,0 版本 ///////
-"second_affiliate_wallet1" = "Kontoen din";
+"second_affiliate_wallet_title" = "Lommebok";
+"second_affiliate_wallet1" = "Min konto";
 "second_affiliate_wallet2" = "Kontanter";
 "second_affiliate_wallet3" = "Venter";
 "second_affiliate_wallet4" = "Venstre";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal ingen avgifter";
 "second_affiliate_signup_window3" = "Slutter på";
-"second_affiliate_checkin1" = "Myntene dine";
+"second_affiliate_checkin1" = "Mine mynter";
 "second_affiliate_checkin2" = "Utveksling";
 "second_affiliate_checkin3" = "Bytt nå";
 "second_affiliate_checkin4" = "Mine mynter";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Selgeranbefalinger";
 "dp_shop_name7" = "Mer";
 "dp_shop_name8" = "Vis mer";
+"dp_shop_name9" = "ARTIKELBESKRIVELSE";

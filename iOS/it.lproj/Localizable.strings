@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Annulla";
 
 ////// 返利 2.0 版本 ///////
-"second_affiliate_wallet1" = "Il tuo account";
+"second_affiliate_wallet_title" = "Portafoglio";
+"second_affiliate_wallet1" = "Il mio account";
 "second_affiliate_wallet2" = "Cash";
 "second_affiliate_wallet3" = "In attesa";
 "second_affiliate_wallet4" = "Sinistra";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal senza commissioni";
 "second_affiliate_signup_window3" = "Termina in";
-"second_affiliate_checkin1" = "Le tue monete";
+"second_affiliate_checkin1" = "Le mie monete";
 "second_affiliate_checkin2" = "Scambio";
 "second_affiliate_checkin3" = "Scambia ora";
 "second_affiliate_checkin4" = "Le mie monete";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Consigli del venditore";
 "dp_shop_name7" = "Altro";
 "dp_shop_name8" = "Visualizza altro";
+"dp_shop_name9" = "DESCRIZIONE ARTICOLO";

@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Annuleren";
 
 ////// 返利 2.0 版本 ///////
-"second_affiliate_wallet1" = "Uw account";
+"second_affiliate_wallet_title" = "Portemonnee";
+"second_affiliate_wallet1" = "Mijn account";
 "second_affiliate_wallet2" = "Cash";
 "second_affiliate_wallet3" = "In afwachting";
 "second_affiliate_wallet4" = "Links";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal geen kosten";
 "second_affiliate_signup_window3" = "Eindigt over";
-"second_affiliate_checkin1" = "Uw munten";
+"second_affiliate_checkin1" = "Mijn munten";
 "second_affiliate_checkin2" = "Exchange";
 "second_affiliate_checkin3" = "Nu ruilen";
 "second_affiliate_checkin4" = "Mijn munten";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Aanbevelingen van verkopers";
 "dp_shop_name7" = "Meer";
 "dp_shop_name8" = "Bekijk meer";
+"dp_shop_name9" = "ITEM BESCHRIJVING";

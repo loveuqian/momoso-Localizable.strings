@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Cancel";
 
 //////返利2.0版本///////
-"second_affiliate_wallet1" = "Your Account";
+"second_affiliate_wallet_title" = "Wallet";
+"second_affiliate_wallet1" = "My Account";
 "second_affiliate_wallet2" = "Cash";
 "second_affiliate_wallet3" = "Pending";
 "second_affiliate_wallet4" = "Left";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal No Fees";
 "second_affiliate_signup_window3" = "Ends in";
-"second_affiliate_checkin1" = "Your Coins";
+"second_affiliate_checkin1" = "My Coins";
 "second_affiliate_checkin2" = "Exchange";
 "second_affiliate_checkin3" = "Exchange Now";
 "second_affiliate_checkin4" = "My coins";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Seller Recommendations";
 "dp_shop_name7" = "More";
 "dp_shop_name8" = "View More";
+"dp_shop_name9" = "ITEM DESCRIPTION";

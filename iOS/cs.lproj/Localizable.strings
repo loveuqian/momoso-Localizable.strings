@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Cancel";
 
 ////// 返利 2,0 版本 ///////
-"second_affiliate_wallet1" = "Váš účet";
+"second_affiliate_wallet_title" = "Peněženka";
+"second_affiliate_wallet1" = "Můj účet";
 "second_affiliate_wallet2" = "Hotovost";
 "second_affiliate_wallet3" = "Čeká se";
 "second_affiliate_wallet4" = "Left";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal No Fees";
 "second_affiliate_signup_window3" = "Končí";
-"second_affiliate_checkin1" = "Vaše mince";
+"second_affiliate_checkin1" = "Moje mince";
 "second_affiliate_checkin2" = "Exchange";
 "second_affiliate_checkin3" = "Exchange Now";
 "second_affiliate_checkin4" = "Moje mince";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Doporučení prodejce";
 "dp_shop_name7" = "Více";
 "dp_shop_name8" = "Zobrazit více";
+"dp_shop_name9" = "POPIS POLOŽKY";

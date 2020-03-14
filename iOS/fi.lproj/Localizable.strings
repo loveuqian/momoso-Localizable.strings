@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Peruuta";
 
 ////// 返利 2.0 版本 ///////
-"second_affiliate_wallet1" = "Tilisi";
+"second_affiliate_wallet_title" = "Lompakko";
+"second_affiliate_wallet1" = "Oma tili";
 "second_affiliate_wallet2" = "käteinen";
 "second_affiliate_wallet3" = "Odottaa";
 "second_affiliate_wallet4" = "Vasen";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal Ei maksuja";
 "second_affiliate_signup_window3" = "Loppuu";
-"second_affiliate_checkin1" = "Kolikot";
+"second_affiliate_checkin1" = "Kolikoni";
 "second_affiliate_checkin2" = "Exchange";
 "second_affiliate_checkin3" = "Vaihda nyt";
 "second_affiliate_checkin4" = "Minun kolikot";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Myyjän suositukset";
 "dp_shop_name7" = "Lisää";
 "dp_shop_name8" = "Näytä lisää";
+"dp_shop_name9" = "KOHTEEN KUVAUS";

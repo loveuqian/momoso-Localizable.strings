@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Annuller";
 
 ////// 返利 2,0 版本 ///////
-"second_affiliate_wallet1" = "Din konto";
+"second_affiliate_wallet_title" = "Tegnebog";
+"second_affiliate_wallet1" = "Min konto";
 "second_affiliate_wallet2" = "Kontanter";
 "second_affiliate_wallet3" = "Venter";
 "second_affiliate_wallet4" = "Venstre";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal ingen gebyrer";
 "second_affiliate_signup_window3" = "Ender ind";
-"second_affiliate_checkin1" = "Dine mønter";
+"second_affiliate_checkin1" = "Mine mønter";
 "second_affiliate_checkin2" = "Udveksling";
 "second_affiliate_checkin3" = "Udveksle nu";
 "second_affiliate_checkin4" = "Mine mønter";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Sælgeranbefalinger";
 "dp_shop_name7" = "Mere";
 "dp_shop_name8" = "Se mere";
+"dp_shop_name9" = "ITEM BESKRIVELSE";

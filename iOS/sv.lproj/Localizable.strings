@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Avbryt";
 
 ////// 返利 2,0 版本 ///////
-"second_affiliate_wallet1" = "Ditt konto";
+"second_affiliate_wallet_title" = "Plånbok";
+"second_affiliate_wallet1" = "Mitt konto";
 "second_affiliate_wallet2" = "Kontanter";
 "second_affiliate_wallet3" = "Väntar";
 "second_affiliate_wallet4" = "Vänster";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal inga avgifter";
 "second_affiliate_signup_window3" = "Slutar in";
-"second_affiliate_checkin1" = "Dina mynt";
+"second_affiliate_checkin1" = "Mina mynt";
 "second_affiliate_checkin2" = "Exchange";
 "second_affiliate_checkin3" = "Byt ut nu";
 "second_affiliate_checkin4" = "Mina mynt";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Säljarens rekommendationer";
 "dp_shop_name7" = "Mer";
 "dp_shop_name8" = "Visa mer";
+"dp_shop_name9" = "ITEMBESKRIVNING";

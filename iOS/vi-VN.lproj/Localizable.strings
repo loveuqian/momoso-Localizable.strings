@@ -1786,7 +1786,8 @@
 "review_detail_page_Vview17" = "Hủy";
 
 ////// 返利 2.0 版本 ///////
-"second_affiliate_wallet1" = "Tài khoản của bạn";
+"second_affiliate_wallet_title" = "Ví";
+"second_affiliate_wallet1" = "Tài khoản của tôi";
 "second_affiliate_wallet2" = "Tiền mặt";
 "second_affiliate_wallet3" = "Đang chờ xử lý";
 "second_affiliate_wallet4" = "Trái";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "WALLET CloudMall";
 "second_affiliate_signup_window2" = "PayPal không có phí";
 "second_affiliate_signup_window3" = "Kết thúc";
-"second_affiliate_checkin1" = "Tiền của bạn";
+"second_affiliate_checkin1" = "Tiền của tôi";
 "second_affiliate_checkin2" = "Trao đổi";
 "second_affiliate_checkin3" = "Trao đổi ngay";
 "second_affiliate_checkin4" = "Tiền của tôi";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Khuyến nghị của người bán";
 "dp_shop_name7" = "Khác";
 "dp_shop_name8" = "Xem thêm";
+"dp_shop_name9" = "MÔ TẢ MẶT HÀNG";

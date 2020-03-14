@@ -1786,7 +1786,8 @@
 "review_detail_page_review17" = "Batal";
 
 ////// 返利 2.0 版本 ///////
-"second_affiliate_wallet1" = "Akun Anda";
+"second_affiliate_wallet_title" = "Wallet";
+"second_affiliate_wallet1" = "Akun Saya";
 "second_affiliate_wallet2" = "Cash";
 "second_affiliate_wallet3" = "Menunggu keputusan";
 "second_affiliate_wallet4" = "Kiri";
@@ -1807,7 +1808,7 @@
 "second_affiliate_signup_window1" = "CloudMall WALLET";
 "second_affiliate_signup_window2" = "PayPal Tidak Ada Biaya";
 "second_affiliate_signup_window3" = "Berakhir";
-"second_affiliate_checkin1" = "Koin Anda";
+"second_affiliate_checkin1" = "Koin Saya";
 "second_affiliate_checkin2" = "Pertukaran";
 "second_affiliate_checkin3" = "Tukarkan Sekarang";
 "second_affiliate_checkin4" = "Koin saya";
@@ -1835,3 +1836,4 @@
 "dp_shop_name6" = "Rekomendasi Penjual";
 "dp_shop_name7" = "Lainnya";
 "dp_shop_name8" = "Lihat Lainnya";
+"dp_shop_name9" = "DESKRIPSI BARANG";
