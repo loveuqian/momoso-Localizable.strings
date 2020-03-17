@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Inviter vennene dine til å kjøpe denne varen du får";
 "second_affiliate_wallet_share_window" = "Be vennene dine laste ned CloudMall-appen du får opp til";
 "second_affiliate_insta_share_window" = "Vennene dine laster ned CloudMall-appen og gjør et kjøp, så får du begge søte cashback";
+"second_affiliate_share_window1" = "Kopier kobling";
+"second_affiliate_share_window2" = "Mer";
+"second_affiliate_share_window3" = "Avbryt";
 "second_affiliate_inviter_window1" = "Registrer deg og få";
 "second_affiliate_inviter_window2" = "Nå";
 "second_affiliate_inviter_window3" = "Inviterer deg til å bli medlem i CloudMall og gir deg disse pengene";

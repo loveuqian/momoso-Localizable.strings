@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Undang teman Anda untuk membeli item ini, Anda akan mendapatkan";
 "second_affiliate_wallet_share_window" = "Undang teman Anda untuk mengunduh aplikasi CloudMall, Anda akan mencapai";
 "second_affiliate_insta_share_window" = "Teman Anda mengunduh aplikasi CloudMall dan melakukan pembelian dan Anda berdua akan mendapatkan cashback manis manis";
+"second_affiliate_share_window1" = "Salin Tautan";
+"second_affiliate_share_window2" = "Lainnya";
+"second_affiliate_share_window3" = "Batal";
 "second_affiliate_inviter_window1" = "Daftar Dan Dapatkan";
 "second_affiliate_inviter_window2" = "Sekarang";
 "second_affiliate_inviter_window3" = "Mengundang Anda untuk bergabung dengan CloudMall dan memberi Anda uang tunai ini";

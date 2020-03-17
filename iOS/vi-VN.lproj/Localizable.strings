@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Mời bạn bè của bạn mua mặt hàng này bạn sẽ nhận được";
 "second_affiliate_wallet_share_window" = "Mời bạn bè của bạn tải xuống ứng dụng CloudMall mà bạn sẽ truy cập";
 "second_affiliate_insta_share_window" = "Bạn bè của bạn tải xuống ứng dụng CloudMall và mua hàng và cả hai bạn sẽ nhận được tiền hoàn lại ngọt ngào";
+"second_affiliate_share_window1" = "Sao chép liên kết";
+"second_affiliate_share_window2" = "Khác";
+"second_affiliate_share_window3" = "Hủy";
 "second_affiliate_inviter_window1" = "Đăng ký và nhận";
 "second_affiliate_inviter_window2" = "Bây giờ";
 "second_affiliate_inviter_window3" = "Mời bạn tham gia CloudMall và cung cấp cho bạn số tiền này";

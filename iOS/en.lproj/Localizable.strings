@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Invite your friends to buy this item you'll get";
 "second_affiliate_wallet_share_window" = "Invite your friends to download the CloudMall app you'll get up to";
 "second_affiliate_insta_share_window" = "Your friends download the CloudMall app and make a purchase and you'll both get sweet sweet cashback";
+"second_affiliate_share_window1" = "Copy Link";
+"second_affiliate_share_window2" = "More";
+"second_affiliate_share_window3" = "Cancel";
 "second_affiliate_inviter_window1" = "Sign up And Get";
 "second_affiliate_inviter_window2" = "Now";
 "second_affiliate_inviter_window3" = "Invites you to join CloudMall and gives you this cash";

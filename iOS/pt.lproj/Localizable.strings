@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Convide seus amigos para comprar este item, você receberá";
 "second_affiliate_wallet_share_window" = "Convide seus amigos para baixar o aplicativo CloudMall que você fará";
 "second_affiliate_insta_share_window" = "Seus amigos baixam o aplicativo CloudMall e fazem uma compra, e os dois recebem um doce e doce reembolso";
+"second_affiliate_share_window1" = "Copiar link";
+"second_affiliate_share_window2" = "Mais";
+"second_affiliate_share_window3" = "Cancelar";
 "second_affiliate_inviter_window1" = "Inscreva-se e obtenha";
 "second_affiliate_inviter_window2" = "Now";
 "second_affiliate_inviter_window3" = "Convida você para participar do CloudMall e oferece esse dinheiro";

@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "เชิญเพื่อนของคุณเพื่อซื้อรายการนี้คุณจะได้รับ";
 "second_affiliate_wallet_share_window" = "เชิญเพื่อนของคุณให้ดาวน์โหลดแอป CloudMall ที่คุณจะได้รับ";
 "second_affiliate_insta_share_window" = "เพื่อนของคุณดาวน์โหลดแอป CloudMall และทำการซื้อและคุณจะได้รับเงินคืนหวาน ๆ ";
+"second_affiliate_share_window1" = "คัดลอกลิงก์";
+"second_affiliate_share_window2" = "เพิ่มเติม";
+"second_affiliate_share_window3" = "ยกเลิก";
 "second_affiliate_inviter_window1" = "สมัครและรับ";
 "second_affiliate_inviter_window2" = "ตอนนี้";
 "second_affiliate_inviter_window3" = "เชิญคุณเข้าร่วม CloudMall และให้เงินนี้แก่คุณ";

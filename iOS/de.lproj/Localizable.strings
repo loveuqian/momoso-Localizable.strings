@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Laden Sie Ihre Freunde ein, diesen Artikel zu kaufen, den Sie erhalten";
 "second_affiliate_wallet_share_window" = "Laden Sie Ihre Freunde ein, die CloudMall-App herunterzuladen, mit der Sie sich vertraut machen";
 "second_affiliate_insta_share_window" = "Ihre Freunde laden die CloudMall-App herunter und tätigen einen Kauf, und Sie erhalten beide einen süßen, süßen Cashback";
+"second_affiliate_share_window1" = "Link kopieren";
+"second_affiliate_share_window2" = "Mehr";
+"second_affiliate_share_window3" = "Abbrechen";
 "second_affiliate_inviter_window1" = "Anmelden und abrufen";
 "second_affiliate_inviter_window2" = "Now";
 "second_affiliate_inviter_window3" = "Lädt Sie ein, sich CloudMall anzuschließen und gibt Ihnen dieses Geld";

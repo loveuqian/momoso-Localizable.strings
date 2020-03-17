@@ -1823,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Nodig je vrienden uit om dit item te kopen dat je krijgt";
 "second_affiliate_wallet_share_window" = "Nodig uw vrienden uit om de CloudMall-app te downloaden waar u mee bezig bent";
 "second_affiliate_insta_share_window" = "Je vrienden downloaden de CloudMall-app en doen een aankoop en jullie krijgen allebei een zoete, zoete cashback";
+"second_affiliate_share_window1" = "Link kopiëren";
+"second_affiliate_share_window2" = "Meer";
+"second_affiliate_share_window3" = "Annuleren";
 "second_affiliate_inviter_window1" = "Aanmelden en ophalen";
 "second_affiliate_inviter_window2" = "Nu";
 "second_affiliate_inviter_window3" = "Nodigt u uit om lid te worden van CloudMall en geeft u dit geld";

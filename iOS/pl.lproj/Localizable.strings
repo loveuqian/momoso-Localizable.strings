@@ -1788,6 +1788,7 @@
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet_title" = "Portfel";
 "second_affiliate_wallet1" = "Moje konto";
+"second_affiliate_wallet2" = "Gotówka";
 "second_affiliate_wallet3" = "Oczekujące";
 "second_affiliate_wallet4" = "Left";
 "second_affiliate_wallet5" = "Wycofaj";
@@ -1813,7 +1814,7 @@
 "second_affiliate_checkin4" = "Moje monety";
 "second_affiliate_checkin5" = "Wymienialne";
 "second_affiliate_checkin6" = "Monety można wymieniać tylko w wielokrotnościach";
-"second_affiliate_checkin7" = "Wymiana gotówki nie powiodła się, proszę ponownie ponownie";
+"second_affiliate_checkin7" = "Wymiana gotówki nie powiodła się, proszę ponownie";
 "second_affiliate_checkin8" = "Gratulacje, pomyślna wymiana gotówki";
 "second_affiliate_checkin9" = "Zobacz mój portfel";
 "second_affiliate_me_checkin_entry" = "Monety";
@@ -1822,6 +1823,9 @@
 "second_affiliate_dp_share_window" = "Zaproś znajomych, aby kupili ten przedmiot, który dostaniesz";
 "second_affiliate_wallet_share_window" = "Zaproś znajomych do pobrania aplikacji CloudMall, którą dostaniesz";
 "second_affiliate_insta_share_window" = "Twoi znajomi pobierają aplikację CloudMall i dokonują zakupu, a oboje dostaniesz słodką słodką gotówkę";
+"second_affiliate_share_window1" = "Kopiuj link";
+"second_affiliate_share_window2" = "Więcej";
+"second_affiliate_share_window3" = "Anuluj";
 "second_affiliate_inviter_window1" = "Zarejestruj się i uzyskaj";
 "second_affiliate_inviter_window2" = "Teraz";
 "second_affiliate_inviter_window3" = "Zaprasza Cię do CloudMall i daje ci tę gotówkę";
