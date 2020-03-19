@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Voltooi de beoordeling en beoordelingen";
 "review_detail_page_review16" = "Verwijderd";
 "review_detail_page_review17" = "Annuleren";
+"review_detail_page_review18" = "Geen aankoop";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet_title" = "Portemonnee";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Aanmelden en ophalen";
 "second_affiliate_inviter_window2" = "Nu";
 "second_affiliate_inviter_window3" = "Nodigt u uit om lid te worden van CloudMall en geeft u dit geld";
+"second_affiliate_dp_share1" = "Get";
+"second_affiliate_dp_share2" = "Cashback";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Verkocht door";

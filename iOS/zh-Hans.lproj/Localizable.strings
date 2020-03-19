@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "请完成评论和评分";
 "review_detail_page_review16" = "删除";
 "review_detail_page_review17" = "取消";
+"review_detail_page_review18" = "未下单";
 
 //////返利2.0版本///////
 "second_affiliate_wallet_title" = "钱包";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "注册并获取";
 "second_affiliate_inviter_window2" = "现在";
 "second_affiliate_inviter_window3" = "邀请您加入CloudMall并给您返现。";
+"second_affiliate_dp_share1" = "获得";
+"second_affiliate_dp_share2" = "现金返还";
 
 /////////// Shop项目////////
 "dp_shop_name1" = "店铺";

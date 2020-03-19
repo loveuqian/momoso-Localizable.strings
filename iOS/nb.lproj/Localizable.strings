@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Vennligst fullfør anmeldelsen og rangeringene";
 "review_detail_page_review16" = "Slettet";
 "review_detail_page_review17" = "Avbryt";
+"review_detail_page_review18" = "Ingen kjøp";
 
 ////// 返利 2,0 版本 ///////
 "second_affiliate_wallet_title" = "Lommebok";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Registrer deg og få";
 "second_affiliate_inviter_window2" = "Nå";
 "second_affiliate_inviter_window3" = "Inviterer deg til å bli medlem i CloudMall og gir deg disse pengene";
+"second_affiliate_dp_share1" = "Få";
+"second_affiliate_dp_share2" = "Cashback";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Solgt av";

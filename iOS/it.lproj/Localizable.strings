@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Completa la recensione e le valutazioni";
 "review_detail_page_review16" = "Eliminato";
 "review_detail_page_review17" = "Annulla";
+"review_detail_page_review18" = "Nessun acquisto";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet_title" = "Portafoglio";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Iscriviti e ottieni";
 "second_affiliate_inviter_window2" = "Now";
 "second_affiliate_inviter_window3" = "Ti invita a iscriverti a CloudMall e ti offre questo denaro";
+"second_affiliate_dp_share1" = "Ottieni";
+"second_affiliate_dp_share2" = "Cashback";
 
 /////////// negozio 项目 ///////
 "dp_shop_name1" = "Venduto da";

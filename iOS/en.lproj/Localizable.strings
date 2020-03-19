@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Please complete the review and ratings";
 "review_detail_page_review16" = "Deleted";
 "review_detail_page_review17" = "Cancel";
+"review_detail_page_review18" = "No Purchase";
 
 //////返利2.0版本///////
 "second_affiliate_wallet_title" = "Wallet";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Sign up And Get";
 "second_affiliate_inviter_window2" = "Now";
 "second_affiliate_inviter_window3" = "Invites you to join CloudMall and gives you this cash";
+"second_affiliate_dp_share1" = "Get";
+"second_affiliate_dp_share2" = "Cashback";
 
 ///////////Shop项目///////
 "dp_shop_name1" = "Sold by";

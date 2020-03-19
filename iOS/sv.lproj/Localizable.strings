@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Fyll i granskningen och betygsättningen";
 "review_detail_page_review16" = "Raderad";
 "review_detail_page_review17" = "Avbryt";
+"review_detail_page_review18" = "Inget köp";
 
 ////// 返利 2,0 版本 ///////
 "second_affiliate_wallet_title" = "Plånbok";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Registrera dig och få";
 "second_affiliate_inviter_window2" = "Nu";
 "second_affiliate_inviter_window3" = "Bjuder in dig att gå med i CloudMall och ger dig dessa pengar";
+"second_affiliate_dp_share1" = "Hämta";
+"second_affiliate_dp_share2" = "Cashback";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Säljs av";

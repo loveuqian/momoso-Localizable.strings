@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Fuldfør gennemgangen og ratings";
 "review_detail_page_review16" = "Slettet";
 "review_detail_page_review17" = "Annuller";
+"review_detail_page_review18" = "Intet køb";
 
 ////// 返利 2,0 版本 ///////
 "second_affiliate_wallet_title" = "Tegnebog";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Tilmeld dig og hent";
 "second_affiliate_inviter_window2" = "Nu";
 "second_affiliate_inviter_window3" = "Inviterer dig til at deltage i CloudMall og giver dig disse kontanter";
+"second_affiliate_dp_share1" = "Hent";
+"second_affiliate_dp_share2" = "Cashback";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Solgt af";

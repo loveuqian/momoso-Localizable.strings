@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Silakan lengkapi ulasan dan peringkat";
 "review_detail_page_review16" = "Dihapus";
 "review_detail_page_review17" = "Batal";
+"review_detail_page_review18" = "Tidak Ada Pembelian";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet_title" = "Wallet";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Daftar Dan Dapatkan";
 "second_affiliate_inviter_window2" = "Sekarang";
 "second_affiliate_inviter_window3" = "Mengundang Anda untuk bergabung dengan CloudMall dan memberi Anda uang tunai ini";
+"second_affiliate_dp_share1" = "Dapatkan";
+"second_affiliate_dp_share2" = "Cashback";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Dijual oleh";

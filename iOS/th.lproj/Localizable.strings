@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "โปรดตรวจสอบและให้คะแนน";
 "review_detail_page_review16" = "ถูกลบ";
 "review_detail_page_review17" = "ยกเลิก";
+"review_detail_page_review18" = "ไม่มีการซื้อ";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet_title" = "กระเป๋าเงิน";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "สมัครและรับ";
 "second_affiliate_inviter_window2" = "ตอนนี้";
 "second_affiliate_inviter_window3" = "เชิญคุณเข้าร่วม CloudMall และให้เงินนี้แก่คุณ";
+"second_affiliate_dp_share1" = "รับ";
+"second_affiliate_dp_share2" = "คืนเงิน";
 
 /////////// ร้าน项目 ///////
 "dp_shop_name1" = "ขายโดย";

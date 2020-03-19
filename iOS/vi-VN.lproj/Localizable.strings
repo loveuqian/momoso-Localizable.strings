@@ -1784,6 +1784,7 @@
 "review_detail_page_review15" = "Vui lòng hoàn thành đánh giá và xếp hạng";
 "review_detail_page_Vview16" = "Đã xóa";
 "review_detail_page_Vview17" = "Hủy";
+"review_detail_page_Vview18" = "Không mua hàng";
 
 ////// 返利 2.0 版本 ///////
 "second_affiliate_wallet_title" = "Ví";
@@ -1829,6 +1830,8 @@
 "second_affiliate_inviter_window1" = "Đăng ký và nhận";
 "second_affiliate_inviter_window2" = "Bây giờ";
 "second_affiliate_inviter_window3" = "Mời bạn tham gia CloudMall và cung cấp cho bạn số tiền này";
+"second_affiliate_dp_share1" = "Nhận";
+"second_affiliate_dp_share2" = "Hoàn tiền";
 
 /////////// Cửa hàng 项目 ///////
 "dp_shop_name1" = "Được bán bởi";
