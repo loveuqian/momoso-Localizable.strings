@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "เชิญคุณเข้าร่วม CloudMall และให้เงินนี้แก่คุณ";
 "second_affiliate_dp_share1" = "รับ";
 "second_affiliate_dp_share2" = "คืนเงิน";
+"second_affiliate_new_signup" = "สมัครสมาชิกด้วย Apple ID";
+"second_affiliate_new_login" = "เข้าสู่ระบบด้วย Apple ID";
 
 /////////// ร้าน项目 ///////
 "dp_shop_name1" = "ขายโดย";

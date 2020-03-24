@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "Mengundang Anda untuk bergabung dengan CloudMall dan memberi Anda uang tunai ini";
 "second_affiliate_dp_share1" = "Dapatkan";
 "second_affiliate_dp_share2" = "Cashback";
+"second_affiliate_new_signup" = "Daftar dengan ID Apple";
+"second_affiliate_new_login" = "Masuk dengan ID Apple";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Dijual oleh";

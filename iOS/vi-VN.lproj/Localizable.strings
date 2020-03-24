@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "Mời bạn tham gia CloudMall và cung cấp cho bạn số tiền này";
 "second_affiliate_dp_share1" = "Nhận";
 "second_affiliate_dp_share2" = "Hoàn tiền";
+"second_affiliate_new_signup" = "Đăng ký bằng ID Apple";
+"second_affiliate_new_login" = "Đăng nhập bằng ID Apple";
 
 /////////// Cửa hàng 项目 ///////
 "dp_shop_name1" = "Được bán bởi";

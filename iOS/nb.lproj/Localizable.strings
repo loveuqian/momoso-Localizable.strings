@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "Inviterer deg til å bli medlem i CloudMall og gir deg disse pengene";
 "second_affiliate_dp_share1" = "Få";
 "second_affiliate_dp_share2" = "Cashback";
+"second_affiliate_new_signup" = "Registrer deg med Apple ID";
+"second_affiliate_new_login" = "Logg inn med Apple ID";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Solgt av";

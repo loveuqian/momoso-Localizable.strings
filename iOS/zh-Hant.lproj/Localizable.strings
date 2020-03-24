@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "邀請您加入CloudMall並給您返現。";
 "second_affiliate_dp_share1" = "獲得";
 "second_affiliate_dp_share2" = "現金返還";
+"second_affiliate_new_signup" = "Apple ID註冊";
+"second_affiliate_new_login" = "Apple ID登錄";
 
 /////////// Shop項目////////
 "dp_shop_name1" = "店鋪";

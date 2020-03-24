@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "Invites you to join CloudMall and gives you this cash";
 "second_affiliate_dp_share1" = "Get";
 "second_affiliate_dp_share2" = "Cashback";
+"second_affiliate_new_signup" = "Sign up with Apple ID";
+"second_affiliate_new_login" = "Log in with Apple ID";
 
 ///////////Shop项目///////
 "dp_shop_name1" = "Sold by";

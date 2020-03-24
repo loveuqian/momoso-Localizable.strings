@@ -1832,6 +1832,8 @@
 "second_affiliate_inviter_window3" = "Nodigt u uit om lid te worden van CloudMall en geeft u dit geld";
 "second_affiliate_dp_share1" = "Get";
 "second_affiliate_dp_share2" = "Cashback";
+"second_affiliate_new_signup" = "Meld u aan met Apple ID";
+"second_affiliate_new_login" = "Log in met Apple ID";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Verkocht door";
