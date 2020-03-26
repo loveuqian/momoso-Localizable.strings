@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "Hoàn tiền";
 "second_affiliate_new_signup" = "Đăng ký bằng ID Apple";
 "second_affiliate_new_login" = "Đăng nhập bằng ID Apple";
+"second_affiliate_fake_date1" = "rút tiền";
+"second_affiliate_fake_date2" = "trao đổi";
+"second_affiliate_fake_date3" = "phút trước";
 
 /////////// Cửa hàng 项目 ///////
 "dp_shop_name1" = "Được bán bởi";

@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "現金返還";
 "second_affiliate_new_signup" = "Apple ID註冊";
 "second_affiliate_new_login" = "Apple ID登錄";
+"second_affiliate_fake_date1" = "提現";
+"second_affiliate_fake_date2" = "兌換";
+"second_affiliate_fake_date3" = "分鐘前";
 
 /////////// Shop項目////////
 "dp_shop_name1" = "店鋪";

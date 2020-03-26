@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "Cashback";
 "second_affiliate_new_signup" = "Tilmeld dig Apple ID";
 "second_affiliate_new_login" = "Log ind med Apple ID";
+"second_affiliate_fake_date1" = "træk";
+"second_affiliate_fake_date2" = "udveksling";
+"second_affiliate_fake_date3" = "min siden";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Solgt af";

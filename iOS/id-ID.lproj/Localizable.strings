@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "Cashback";
 "second_affiliate_new_signup" = "Daftar dengan ID Apple";
 "second_affiliate_new_login" = "Masuk dengan ID Apple";
+"second_affiliate_fake_date1" = "menarik";
+"second_affiliate_fake_date2" = "exchange";
+"second_affiliate_fake_date3" = "mnt yang lalu";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Dijual oleh";

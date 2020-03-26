@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "Cashback";
 "second_affiliate_new_signup" = "Zaregistrujte se pomocí Apple ID";
 "second_affiliate_new_login" = "Přihlaste se pomocí Apple ID";
+"second_affiliate_fake_date1" = "výběr";
+"second_affiliate_fake_date2" = "exchange";
+"second_affiliate_fake_date3" = "mins ago";
 
 /////////// Obchod 项目 ///////
 "dp_shop_name1" = "Prodáno uživatelem";

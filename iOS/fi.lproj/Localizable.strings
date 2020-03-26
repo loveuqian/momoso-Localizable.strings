@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "Cashback";
 "second_affiliate_new_signup" = "Kirjaudu Apple ID: llä";
 "second_affiliate_new_login" = "Kirjaudu sisään Apple ID: llä";
+"second_affiliate_fake_date1" = "vetäytyä";
+"second_affiliate_fake_date2" = "vaihto";
+"second_affiliate_fake_date3" = "minuutit sitten";
 
 /////////// Shop 项目 ///////
 "dp_shop_name1" = "Myynyt";

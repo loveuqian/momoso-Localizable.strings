@@ -1834,6 +1834,9 @@
 "second_affiliate_dp_share2" = "Cashback";
 "second_affiliate_new_signup" = "Iscriviti con ID Apple";
 "second_affiliate_new_login" = "Accedi con l'ID Apple";
+"second_affiliate_fake_date1" = "ritiro";
+"second_affiliate_fake_date2" = "exchange";
+"second_affiliate_fake_date3" = "minuti fa";
 
 /////////// negozio 项目 ///////
 "dp_shop_name1" = "Venduto da";
