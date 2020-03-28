@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Mer";
 "dp_shop_name8" = "Visa mer";
 "dp_shop_name9" = "ITEMBESKRIVNING";
+
+//////////////// 登陆 流程 //////////////////
+"guest_checkout_manage_address_page1" = "Registrera dig nu och gå upp till";
+"guest_checkout_manage_address_page2" = "från din beställning!";
+"guest_checkout_manage_address_page3" = "Registrera dig";
+"guest_checkout_paid_success_page_coupon_window1" = "Sista steg! Registrera dig nu och";
+"guest_checkout_paid_success_page_coupon_window2" = "från din nästa beställning";
+"guest_checkout_paid_success_page_coupon_window3" = "Kupongen slutar";
+"guest_checkout_paid_success_page_coupon_window4" = "Registrera dig nu";
+"guest_checkout_paid_success_page_coupon_window5" = "Ge upp kuponger";
+"guest_checkout_paid_success_page1" = "Klar";
+"guest_checkout_paid_success_page2" = "Betalning framgångsrik";
+"guest_checkout_paid_success_page3" = "Beställ #";
+"guest_checkout_paid_success_page4" = "Spåra min beställning nu";
+"guest_checkout_paid_success_page5" = "Fortsätt shoppa";
+"guest_checkout_paid_success_page6" = "Din beställning är bekräftad";
+"guest_checkout_paid_success_page7" = "Du kommer snart att få ett e-postmeddelande med ditt ordernummer.";
+"guest_checkout_paid_success_page8" = "Kundinformation";
+"guest_checkout_paid_success_page9" = "Din beställning är bekräftad";
+"guest_checkout_paid_success_page10" = "Fraktadress";
+"guest_checkout_paid_success_page11" = "Behöver du hjälp? Kontakta oss";
+"guest_checkout_home_page_logistic1" = "Registrera dig för att spåra min beställning";
+"guest_checkout_home_page_logistic2" = "Registrera dig nu";
+"guest_checkout_logistic_page_information1" = "Beställningsnummer";
+"guest_checkout_logistic_page_information2" = "Kopiera";
+"guest_checkout_logistic_page_information3" = "Beställningsnummer Kopiera framgång";

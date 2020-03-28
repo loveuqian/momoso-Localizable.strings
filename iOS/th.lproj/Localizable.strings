@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "เพิ่มเติม";
 "dp_shop_name8" = "ดูเพิ่มเติม";
 "dp_shop_name9" = "รายการคำอธิบาย";
+
+//////////////// 登陆流程 //////////////////
+"guest_checkout_manage_address_page1" = "ลงทะเบียนตอนนี้และรับได้ถึง";
+"guest_checkout_manage_address_page2" = "ปิดคำสั่งซื้อของคุณ!";
+"guest_checkout_manage_address_page3" = "สมัครสมาชิก";
+"guest_checkout_paid_success_page_coupon_window1" = "ขั้นตอนสุดท้ายลงทะเบียนทันทีและ";
+"guest_checkout_paid_success_page_coupon_window2" = "ปิดคำสั่งซื้อต่อไปของคุณ";
+"guest_checkout_paid_success_page_coupon_window3" = "คูปองสิ้นสุดใน";
+"guest_checkout_paid_success_page_coupon_window4" = "ลงทะเบียนทันที";
+"guest_checkout_paid_success_page_coupon_window5" = "ยกเลิกคูปอง";
+"guest_checkout_paid_success_page1" = "เสร็จสิ้น";
+"guest_checkout_paid_success_page2" = "การชำระเงินสำเร็จ";
+"guest_checkout_paid_success_page3" = "คำสั่งซื้อ #";
+"guest_checkout_paid_success_page4" = "ติดตามคำสั่งซื้อของฉันตอนนี้";
+"guest_checkout_paid_success_page5" = "ช็อปปิ้งต่อ";
+"guest_checkout_paid_success_page6" = "คำสั่งซื้อของคุณได้รับการยืนยัน";
+"guest_checkout_paid_success_page7" = "คุณจะได้รับอีเมลยืนยันพร้อมหมายเลขคำสั่งซื้อของคุณในไม่ช้า";
+"guest_checkout_paid_success_page8" = "ข้อมูลลูกค้า";
+"guest_checkout_paid_success_page9" = "คำสั่งซื้อของคุณได้รับการยืนยัน";
+"guest_checkout_paid_success_page10" = "ที่อยู่จัดส่ง";
+"guest_checkout_paid_success_page11" = "ต้องการความช่วยเหลือหรือไม่ติดต่อเรา";
+"guest_checkout_home_page_logistic1" = "สมัครสมาชิกเพื่อติดตามคำสั่งซื้อของฉัน";
+"guest_checkout_home_page_logistic2" = "สมัครสมาชิกตอนนี้";
+"guest_checkout_logistic_page_information1" = "หมายเลขคำสั่งซื้อ";
+"guest_checkout_logistic_page_information2" = "คัดลอก";
+"guest_checkout_logistic_page_information3" = "หมายเลขคำสั่งคัดลอกสำเร็จ";

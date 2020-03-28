@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Khác";
 "dp_shop_name8" = "Xem thêm";
 "dp_shop_name9" = "MÔ TẢ MẶT HÀNG";
+
+////////////////// 登陆 流程 ////////////////////
+"guest_checkout_manage_address_page1" = "Đăng ký ngay và nhận được";
+"guest_checkout_manage_address_page2" = "tắt đơn hàng của bạn!";
+"guest_checkout_manage_address_page3" = "Đăng ký";
+"guest_checkout_paid_success_page_coupon_window1" = "Bước cuối cùng! Đăng ký ngay và";
+"guest_checkout_paid_success_page_coupon_window2" = "tắt đơn hàng tiếp theo của bạn";
+"guest_checkout_paid_success_page_coupon_window3" = "Phiếu giảm giá kết thúc";
+"guest_checkout_paid_success_page_coupon_window4" = "Đăng ký ngay";
+"guest_checkout_paid_success_page_coupon_window5" = "Bỏ phiếu giảm giá";
+"guest_checkout_paid_success_page1" = "Xong";
+"guest_checkout_paid_success_page2" = "Thanh toán thành công";
+"guest_checkout_paid_success_page3" = "Đơn hàng #";
+"guest_checkout_paid_success_page4" = "Theo dõi đơn hàng của tôi ngay";
+"guest_checkout_paid_success_page5" = "Tiếp tục mua sắm";
+"guest_checkout_paid_success_page6" = "Đơn hàng của bạn đã được xác nhận";
+"guest_checkout_paid_success_page7" = "Bạn sẽ sớm nhận được email xác nhận với số đơn đặt hàng của bạn.";
+"guest_checkout_paid_success_page8" = "Thông tin khách hàng";
+"guest_checkout_paid_success_page9" = "Đơn hàng của bạn đã được xác nhận";
+"guest_checkout_paid_success_page10" = "Địa chỉ giao hàng";
+"guest_checkout_paid_success_page11" = "Cần trợ giúp? Liên hệ với chúng tôi";
+"guest_checkout_home_page_logistic1" = "Đăng ký để theo dõi đơn hàng của tôi";
+"guest_checkout_home_page_logistic2" = "Đăng ký ngay";
+"guest_checkout_logistic_page_inatures1" = "Số thứ tự";
+"guest_checkout_logistic_page_inatures2" = "Sao chép";
+"guest_checkout_logistic_page_in information3" = "Số thứ tự sao chép thành công";

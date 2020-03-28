@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "More";
 "dp_shop_name8" = "View More";
 "dp_shop_name9" = "ITEM DESCRIPTION";
+
+////////////////登陆流程//////////////////
+"guest_checkout_manage_address_page1" = "Sign Up Now and get up to";
+"guest_checkout_manage_address_page2" = "off your order!";
+"guest_checkout_manage_address_page3" = "Sign Up";
+"guest_checkout_paid_success_page_coupon_window1" = "Last step! Sign up now and";
+"guest_checkout_paid_success_page_coupon_window2" = "off your next order";
+"guest_checkout_paid_success_page_coupon_window3" = "Coupon Ends In";
+"guest_checkout_paid_success_page_coupon_window4" = "Sign Up Now";
+"guest_checkout_paid_success_page_coupon_window5" = "Give Up Coupons";
+"guest_checkout_paid_success_page1" = "Done";
+"guest_checkout_paid_success_page2" = "Payment Successful";
+"guest_checkout_paid_success_page3" = "Order #";
+"guest_checkout_paid_success_page4" = "Track My Order Now";
+"guest_checkout_paid_success_page5" = "Continue Shopping";
+"guest_checkout_paid_success_page6" = "Your order is confirmed";
+"guest_checkout_paid_success_page7" = "You’ll receive a confirmation email with your order number shortly.";
+"guest_checkout_paid_success_page8" = "Customer Information";
+"guest_checkout_paid_success_page9" = "Your order is confirmed";
+"guest_checkout_paid_success_page10" = "Shipping Address";
+"guest_checkout_paid_success_page11" = "Need help? Contact Us";
+"guest_checkout_home_page_logistic1" = "Sign Up to Track My Order";
+"guest_checkout_home_page_logistic2" = "Sign Up Now";
+"guest_checkout_logistic_page_information1" = "Order No.";
+"guest_checkout_logistic_page_information2" = "Copy";
+"guest_checkout_logistic_page_information3" = "Order No. Copy Success";

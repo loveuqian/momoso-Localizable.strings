@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "更多";
 "dp_shop_name8" = "查看更多";
 "dp_shop_name9" = "商品详情";
+
+////////////////登錄流程///////////////////
+"guest_checkout_manage_address_page1" = "立即註冊即可獲得";
+"guest_checkout_manage_address_page2" = "在下訂單時可使用";
+"guest_checkout_manage_address_page3" = "註冊";
+"guest_checkout_paid_success_page_coupon_window1" = "最後一步！立即註冊，然後獲得";
+"guest_checkout_paid_success_page_coupon_window2" = "可在您的下一個訂單使用";
+"guest_checkout_paid_success_page_coupon_window3" = "優惠券倒計時";
+"guest_checkout_paid_success_page_coupon_window4" = "立即註冊";
+"guest_checkout_paid_success_page_coupon_window5" = "放棄優惠券";
+"guest_checkout_paid_success_page1" = "完成";
+"guest_checkout_paid_success_page2" = "支付成功";
+"guest_checkout_paid_success_page3" = "訂單號";
+"guest_checkout_paid_success_page4" = "查看我的訂單";
+"guest_checkout_paid_success_page5" = "繼續購物";
+"guest_checkout_paid_success_page6" = "您的訂單已確認";
+"guest_checkout_paid_success_page7" = "您很快就會收到一封包含您的訂單號的確認郵件。";
+"guest_checkout_paid_success_page8" = "客戶信息";
+"guest_checkout_paid_success_page9" = "您的訂單已確認";
+"guest_checkout_paid_success_page10" = "收穫地址";
+"guest_checkout_paid_success_page11" = "需要幫助嗎？請聯繫我們";
+"guest_checkout_home_page_logistic1" = "註冊以跟踪我的訂單";
+"guest_checkout_home_page_logistic2" = "立即註冊";
+"guest_checkout_logistic_page_information1" = "訂單號";
+"guest_checkout_logistic_page_information2" = "複製";
+"guest_checkout_logistic_page_information3" = "訂單號複製成功";

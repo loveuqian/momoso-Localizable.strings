@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Lisää";
 "dp_shop_name8" = "Näytä lisää";
 "dp_shop_name9" = "KOHTEEN KUVAUS";
+
+//////////////// 登陆 流程 //////////////////
+"guest_checkout_manage_address_page1" = "Rekisteröidy nyt ja pääset mukaan";
+"guest_checkout_manage_address_page2" = "poistu tilauksestasi!";
+"guest_checkout_manage_address_page3" = "Rekisteröidy";
+"guest_checkout_paid_success_page_coupon_window1" = "Viimeinen vaihe! Rekisteröidy nyt ja";
+"guest_checkout_paid_success_page_coupon_window2" = "seuraavalta tilaukselta";
+"guest_checkout_paid_success_page_coupon_window3" = "Kupongin käyttöaika päättyy";
+"guest_checkout_paid_success_page_coupon_window4" = "Rekisteröidy nyt";
+"guest_checkout_paid_success_page_coupon_window5" = "Luo kuponkeja";
+"guest_checkout_paid_success_page1" = "Valmis";
+"guest_checkout_paid_success_page2" = "Maksu onnistunut";
+"guest_checkout_paid_success_page3" = "Tilausnumero";
+"guest_checkout_paid_success_page4" = "Seuraa tilaustani nyt";
+"guest_checkout_paid_success_page5" = "Jatka ostoksia";
+"guest_checkout_paid_success_page6" = "Tilauksesi on vahvistettu";
+"guest_checkout_paid_success_page7" = "Saat pian vahvistusviestin tilauksesi numerolla.";
+"guest_checkout_paid_success_page8" = "Asiakastiedot";
+"guest_checkout_paid_success_page9" = "Tilauksesi on vahvistettu";
+"guest_checkout_paid_success_page10" = "Toimitusosoite";
+"guest_checkout_paid_success_page11" = "Tarvitsetko apua? Ota yhteyttä";
+"guest_checkout_home_page_logistic1" = "Rekisteröidy seurata tilaustani";
+"guest_checkout_home_page_logistic2" = "Rekisteröidy nyt";
+"guest_checkout_logistic_page_information1" = "Tilausnumero";
+"guest_checkout_logistic_page_information2" = "Kopioi";
+"guest_checkout_logistic_page_information3" = "Tilausnumero Kopiointi onnistui";

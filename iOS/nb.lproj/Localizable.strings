@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Mer";
 "dp_shop_name8" = "Vis mer";
 "dp_shop_name9" = "ARTIKELBESKRIVELSE";
+
+//////////////// 登陆 流程 //////////////////
+"guest_checkout_manage_address_page1" = "Registrer deg nå og kom deg opp til";
+"guest_checkout_manage_address_page2" = "Fra bestillingen!";
+"guest_checkout_manage_address_page3" = "Registrer deg";
+"guest_checkout_paid_success_page_coupon_window1" = "Siste trinn! Registrer deg nå og";
+"guest_checkout_paid_success_page_coupon_window2" = "av neste ordre";
+"guest_checkout_paid_success_page_coupon_window3" = "Kupongen slutter";
+"guest_checkout_paid_success_page_coupon_window4" = "Registrer deg nå";
+"guest_checkout_paid_success_page_coupon_window5" = "Gi opp kuponger";
+"guest_checkout_paid_success_page1" = "Gjort";
+"guest_checkout_paid_success_page2" = "Betaling vellykket";
+"guest_checkout_paid_success_page3" = "Bestill #";
+"guest_checkout_paid_success_page4" = "Spor min bestilling nå";
+"guest_checkout_paid_success_page5" = "Fortsett å handle";
+"guest_checkout_paid_success_page6" = "Bestillingen din er bekreftet";
+"guest_checkout_paid_success_page7" = "Du vil snart få en bekreftelses-e-post med ordrenummeret ditt.";
+"guest_checkout_paid_success_page8" = "Kundeinformasjon";
+"guest_checkout_paid_success_page9" = "Bestillingen din er bekreftet";
+"guest_checkout_paid_success_page10" = "Fraktadresse";
+"guest_checkout_paid_success_page11" = "Trenger du hjelp? Kontakt oss";
+"guest_checkout_home_page_logistic1" = "Registrer deg for å spore bestillingen min";
+"guest_checkout_home_page_logistic2" = "Registrer deg nå";
+"guest_checkout_logistic_page_information1" = "Bestillingsnr.";
+"guest_checkout_logistic_page_information2" = "Kopier";
+"guest_checkout_logistic_page_information3" = "Bestillingsnummer. Kopier vellykket";

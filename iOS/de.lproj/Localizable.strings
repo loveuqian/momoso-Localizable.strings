@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Mehr";
 "dp_shop_name8" = "Mehr anzeigen";
 "dp_shop_name9" = "ARTIKELBESCHREIBUNG";
+
+///////////////// 登陆 流程 /////////////////////
+"guest_checkout_manage_address_page1" = "Jetzt anmelden und aufstehen";
+"guest_checkout_manage_address_page2" = "aus Ihrer Bestellung!";
+"guest_checkout_manage_address_page3" = "Anmelden";
+"guest_checkout_paid_success_page_coupon_window1" = "Letzter Schritt! Jetzt anmelden und";
+"guest_checkout_paid_success_page_coupon_window2" = "von Ihrer nächsten Bestellung";
+"guest_checkout_paid_success_page_coupon_window3" = "Gutschein endet in";
+"guest_checkout_paid_success_page_coupon_window4" = "Jetzt anmelden";
+"guest_checkout_paid_success_page_coupon_window5" = "Gutscheine aufgeben";
+"guest_checkout_paid_success_page1" = "Fertig";
+"guest_checkout_paid_success_page2" = "Zahlung erfolgreich";
+"guest_checkout_paid_success_page3" = "Bestellnummer";
+"guest_checkout_paid_success_page4" = "Meine Bestellung jetzt verfolgen";
+"guest_checkout_paid_success_page5" = "Einkauf fortsetzen";
+"guest_checkout_paid_success_page6" = "Ihre Bestellung wurde bestätigt";
+"guest_checkout_paid_success_page7" = "Sie erhalten in Kürze eine Bestätigungs-E-Mail mit Ihrer Bestellnummer.";
+"guest_checkout_paid_success_page8" = "Kundeninformationen";
+"guest_checkout_paid_success_page9" = "Ihre Bestellung wurde bestätigt";
+"guest_checkout_paid_success_page10" = "Lieferadresse";
+"guest_checkout_paid_success_page11" = "Benötigen Sie Hilfe? Kontaktieren Sie uns";
+"guest_checkout_home_page_logistic1" = "Anmelden, um meine Bestellung zu verfolgen";
+"guest_checkout_home_page_logistic2" = "Jetzt anmelden";
+"guest_checkout_logistic_page_information1" = "Bestellnummer";
+"guest_checkout_logistic_page_information2" = "Kopieren";
+"guest_checkout_logistic_page_information3" = "Bestellnummer Kopiererfolg";

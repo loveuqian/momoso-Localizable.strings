@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Mere";
 "dp_shop_name8" = "Se mere";
 "dp_shop_name9" = "ITEM BESKRIVELSE";
+
+//////////////// 登陆 流程 //////////////////
+"guest_checkout_manage_address_page1" = "Tilmeld dig nu og kom op til";
+"guest_checkout_manage_address_page2" = "Fra din ordre!";
+"guest_checkout_manage_address_page3" = "Tilmeld dig";
+"guest_checkout_paid_success_page_coupon_window1" = "Sidste trin! Tilmeld dig nu og";
+"guest_checkout_paid_success_page_coupon_window2" = "Fra din næste ordre";
+"guest_checkout_paid_success_page_coupon_window3" = "Kupon afslutter";
+"guest_checkout_paid_success_page_coupon_window4" = "Tilmeld dig nu";
+"guest_checkout_paid_success_page_coupon_window5" = "Giv op kuponer";
+"guest_checkout_paid_success_page1" = "Udført";
+"guest_checkout_paid_success_page2" = "Betalingen er vellykket";
+"guest_checkout_paid_success_page3" = "Bestil #";
+"guest_checkout_paid_success_page4" = "Spor min ordre nu";
+"guest_checkout_paid_success_page5" = "Fortsæt shopping";
+"guest_checkout_paid_success_page6" = "Din ordre er bekræftet";
+"guest_checkout_paid_success_page7" = "Du vil snart modtage en bekræftelses-e-mail med dit ordrenummer.";
+"guest_checkout_paid_success_page8" = "Kundeinformation";
+"guest_checkout_paid_success_page9" = "Din ordre er bekræftet";
+"guest_checkout_paid_success_page10" = "Forsendelsesadresse";
+"guest_checkout_paid_success_page11" = "Brug for hjælp? Kontakt os";
+"guest_checkout_home_page_logistic1" = "Tilmeld dig for at spore min ordre";
+"guest_checkout_home_page_logistic2" = "Tilmeld dig nu";
+"guest_checkout_logistic_page_information1" = "Bestillingsnr.";
+"guest_checkout_logistic_page_information2" = "Kopier";
+"guest_checkout_logistic_page_information3" = "Bestillingsnr. kopi succes";

@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Meer";
 "dp_shop_name8" = "Bekijk meer";
 "dp_shop_name9" = "ITEM BESCHRIJVING";
+
+////////////////// 登陆 流程 ////////////////////
+"guest_checkout_manage_address_page1" = "Meld u nu aan en sta op";
+"guest_checkout_manage_address_page2" = "korting op uw bestelling!";
+"guest_checkout_manage_address_page3" = "Aanmelden";
+"guest_checkout_paid_success_page_coupon_window1" = "Laatste stap! Meld u nu aan en";
+"guest_checkout_paid_success_page_coupon_window2" = "korting op uw volgende bestelling";
+"guest_checkout_paid_success_page_coupon_window3" = "Coupon eindigt op";
+"guest_checkout_paid_success_page_coupon_window4" = "Schrijf u nu in";
+"guest_checkout_paid_success_page_coupon_window5" = "Geef coupons op";
+"guest_checkout_paid_success_page1" = "Klaar";
+"guest_checkout_paid_success_page2" = "Betaling geslaagd";
+"guest_checkout_paid_success_page3" = "Order #";
+"guest_checkout_paid_success_page4" = "Volg nu mijn bestelling";
+"guest_checkout_paid_success_page5" = "Doorgaan met winkelen";
+"guest_checkout_paid_success_page6" = "Uw bestelling is bevestigd";
+"guest_checkout_paid_success_page7" = "U ontvangt binnenkort een bevestigingsmail met uw bestelnummer.";
+"guest_checkout_paid_success_page8" = "Klantgegevens";
+"guest_checkout_paid_success_page9" = "Uw bestelling is bevestigd";
+"guest_checkout_paid_success_page10" = "Verzendadres";
+"guest_checkout_paid_success_page11" = "Hulp nodig? Neem contact met ons op";
+"guest_checkout_home_page_logistic1" = "Meld u aan om mijn bestelling te volgen";
+"guest_checkout_home_page_logistic2" = "Schrijf u nu in";
+"guest_checkout_logistic_page_information1" = "Bestelnr.";
+"guest_checkout_logistic_page_information2" = "Copy";
+"guest_checkout_logistic_page_information3" = "Ordernr. kopiëren geslaagd";

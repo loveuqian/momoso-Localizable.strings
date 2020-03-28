@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Více";
 "dp_shop_name8" = "Zobrazit více";
 "dp_shop_name9" = "POPIS POLOŽKY";
+
+////////////// 登陆 流程 ////////////////
+"guest_checkout_manage_address_page1" = "Zaregistrujte se a získejte až";
+"guest_checkout_manage_address_page2" = "mimo vaši objednávku!";
+"guest_checkout_manage_address_page3" = "Registrace";
+"guest_checkout_paid_success_page_coupon_window1" = "Poslední krok! Zaregistrujte se hned a";
+"guest_checkout_paid_success_page_coupon_window2" = "off your next order";
+"guest_checkout_paid_success_page_coupon_window3" = "Kupón končí";
+"guest_checkout_paid_success_page_coupon_window4" = "Zaregistrovat se nyní";
+"guest_checkout_paid_success_page_coupon_window5" = "Vzdát se kupónů";
+"guest_checkout_paid_success_page1" = "Hotovo";
+"guest_checkout_paid_success_page2" = "Platba úspěšná";
+"guest_checkout_paid_success_page3" = "Order #";
+"guest_checkout_paid_success_page4" = "Sledovat moji objednávku hned";
+"guest_checkout_paid_success_page5" = "Pokračovat v nákupu";
+"guest_checkout_paid_success_page6" = "Vaše objednávka je potvrzena";
+"guest_checkout_paid_success_page7" = "Brzy obdržíte potvrzovací e-mail s číslem objednávky.";
+"guest_checkout_paid_success_page8" = "Informace o zákazníkovi";
+"guest_checkout_paid_success_page9" = "Vaše objednávka je potvrzena";
+"guest_checkout_paid_success_page10" = "Poštovní adresa";
+"guest_checkout_paid_success_page11" = "Potřebujete pomoc? Kontaktujte nás";
+"guest_checkout_home_page_logistic1" = "Zaregistrujte se ke sledování mé objednávky";
+"guest_checkout_home_page_logistic2" = "Zaregistrovat se nyní";
+"guest_checkout_logistic_page_information1" = "Objednací číslo";
+"guest_checkout_logistic_page_information2" = "Copy";
+"guest_checkout_logistic_page_information3" = "Success Number Copy Success";

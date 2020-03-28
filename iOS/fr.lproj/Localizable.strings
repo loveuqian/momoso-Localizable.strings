@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Plus";
 "dp_shop_name8" = "Afficher plus";
 "dp_shop_name9" = "DESCRIPTION DE L'ARTICLE";
+
+////////////////// 登陆 流程 ////////////////////
+"guest_checkout_manage_address_page1" = "Inscrivez-vous maintenant et passez à";
+"guest_checkout_manage_address_page2" = "hors de votre commande!";
+"guest_checkout_manage_address_page3" = "Inscrivez-vous";
+"guest_checkout_paid_success_page_coupon_window1" = "Dernière étape! Inscrivez-vous maintenant et";
+"guest_checkout_paid_success_page_coupon_window2" = "hors de votre prochaine commande";
+"guest_checkout_paid_success_page_coupon_window3" = "Le coupon se termine dans";
+"guest_checkout_paid_success_page_coupon_window4" = "Inscrivez-vous maintenant";
+"guest_checkout_paid_success_page_coupon_window5" = "Donner des coupons";
+"guest_checkout_paid_success_page1" = "Terminé";
+"guest_checkout_paid_success_page2" = "Paiement réussi";
+"guest_checkout_paid_success_page3" = "Commande #";
+"guest_checkout_paid_success_page4" = "Suivre ma commande maintenant»";
+"guest_checkout_paid_success_page5" = "Continuer vos achats";
+"guest_checkout_paid_success_page6" = "Votre commande est confirmée";
+"guest_checkout_paid_success_page7" = "Vous recevrez sous peu un e-mail de confirmation avec votre numéro de commande.";
+"guest_checkout_paid_success_page8" = "Informations client";
+"guest_checkout_paid_success_page9" = "Votre commande est confirmée";
+"guest_checkout_paid_success_page10" = "Adresse de livraison";
+"guest_checkout_paid_success_page11" = "Besoin d'aide? Contactez-nous";
+"guest_checkout_home_page_logistic1" = "Inscrivez-vous pour suivre ma commande";
+"guest_checkout_home_page_logistic2" = "Inscrivez-vous maintenant";
+"guest_checkout_logistic_page_information1" = "Numéro de commande";
+"guest_checkout_logistic_page_information2" = "Copier";
+"guest_checkout_logistic_page_information3" = "Réussite de la copie du numéro de commande";

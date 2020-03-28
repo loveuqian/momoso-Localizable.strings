@@ -1848,3 +1848,29 @@
 "dp_shop_name7" = "Lainnya";
 "dp_shop_name8" = "Lihat Lainnya";
 "dp_shop_name9" = "DESKRIPSI BARANG";
+
+//////////////// 登陆 流程 //////////////////
+"guest_checkout_manage_address_page1" = "Daftar Sekarang dan bangun untuk";
+"guest_checkout_manage_address_page2" = "dari pesanan Anda!";
+"guest_checkout_manage_address_page3" = "Daftar";
+"guest_checkout_paid_success_page_coupon_window1" = "Langkah terakhir! Daftar sekarang dan";
+"guest_checkout_paid_success_page_coupon_window2" = "dari pesanan Anda berikutnya";
+"guest_checkout_paid_success_page_coupon_window3" = "Kupon Berakhir";
+"guest_checkout_paid_success_page_coupon_window4" = "Daftar Sekarang";
+"guest_checkout_paid_success_page_coupon_window5" = "Berikan Kupon";
+"guest_checkout_paid_success_page1" = "Selesai";
+"guest_checkout_paid_success_page2" = "Pembayaran Berhasil";
+"guest_checkout_paid_success_page3" = "Pesan #";
+"guest_checkout_paid_success_page4" = "Lacak Pesanan Saya Sekarang";
+"guest_checkout_paid_success_page5" = "Lanjutkan Belanja";
+"guest_checkout_paid_success_page6" = "Pesanan Anda dikonfirmasi";
+"guest_checkout_paid_success_page7" = "Anda akan segera menerima email konfirmasi dengan nomor pesanan Anda.";
+"guest_checkout_paid_success_page8" = "Informasi Pelanggan";
+"guest_checkout_paid_success_page9" = "Pesanan Anda dikonfirmasi";
+"guest_checkout_paid_success_page10" = "Alamat Pengiriman";
+"guest_checkout_paid_success_page11" = "Perlu bantuan? Hubungi Kami";
+"guest_checkout_home_page_logistic1" = "Daftar untuk Melacak Pesanan Saya";
+"guest_checkout_home_page_logistic2" = "Daftar Sekarang";
+"guest_checkout_logistic_page_information1" = "No. Pesanan";
+"guest_checkout_logistic_page_information2" = "Salin";
+"guest_checkout_logistic_page_information3" = "No. Pesanan, Salin Keberhasilan";
