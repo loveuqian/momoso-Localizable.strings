@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "ปิดคำสั่งซื้อของคุณ!";
 "guest_checkout_manage_address_page3" = "สมัครสมาชิก";
 "guest_checkout_paid_success_page_coupon_window1" = "ขั้นตอนสุดท้ายลงทะเบียนทันทีและ";
+"guest_checkout_paid_success_page_coupon_window01" = "รับ";
 "guest_checkout_paid_success_page_coupon_window2" = "ปิดคำสั่งซื้อต่อไปของคุณ";
 "guest_checkout_paid_success_page_coupon_window3" = "คูปองสิ้นสุดใน";
 "guest_checkout_paid_success_page_coupon_window4" = "ลงทะเบียนทันที";

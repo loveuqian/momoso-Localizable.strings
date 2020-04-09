@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "poistu tilauksestasi!";
 "guest_checkout_manage_address_page3" = "Rekisteröidy";
 "guest_checkout_paid_success_page_coupon_window1" = "Viimeinen vaihe! Rekisteröidy nyt ja";
+"guest_checkout_paid_success_page_coupon_window01" = "Hanki";
 "guest_checkout_paid_success_page_coupon_window2" = "seuraavalta tilaukselta";
 "guest_checkout_paid_success_page_coupon_window3" = "Kupongin käyttöaika päättyy";
 "guest_checkout_paid_success_page_coupon_window4" = "Rekisteröidy nyt";

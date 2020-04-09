@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "aus Ihrer Bestellung!";
 "guest_checkout_manage_address_page3" = "Anmelden";
 "guest_checkout_paid_success_page_coupon_window1" = "Letzter Schritt! Jetzt anmelden und";
+"guest_checkout_paid_success_page_coupon_window01" = "Get";
 "guest_checkout_paid_success_page_coupon_window2" = "von Ihrer nächsten Bestellung";
 "guest_checkout_paid_success_page_coupon_window3" = "Gutschein endet in";
 "guest_checkout_paid_success_page_coupon_window4" = "Jetzt anmelden";

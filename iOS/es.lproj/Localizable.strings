@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "fuera de su pedido!";
 "guest_checkout_manage_address_page3" = "Registrarse";
 "guest_checkout_paid_success_page_coupon_window1" = "¡Último paso! Regístrese ahora y";
+"guest_checkout_paid_success_page_coupon_window01" = "Obtener";
 "guest_checkout_paid_success_page_coupon_window2" = "fuera de su próximo pedido";
 "guest_checkout_paid_success_page_coupon_window3" = "El cupón termina en";
 "guest_checkout_paid_success_page_coupon_window4" = "Regístrese ahora";

@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "Fra din ordre!";
 "guest_checkout_manage_address_page3" = "Tilmeld dig";
 "guest_checkout_paid_success_page_coupon_window1" = "Sidste trin! Tilmeld dig nu og";
+"guest_checkout_paid_success_page_coupon_window01" = "Hent";
 "guest_checkout_paid_success_page_coupon_window2" = "Fra din næste ordre";
 "guest_checkout_paid_success_page_coupon_window3" = "Kupon afslutter";
 "guest_checkout_paid_success_page_coupon_window4" = "Tilmeld dig nu";

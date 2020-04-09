@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "dari pesanan Anda!";
 "guest_checkout_manage_address_page3" = "Daftar";
 "guest_checkout_paid_success_page_coupon_window1" = "Langkah terakhir! Daftar sekarang dan";
+"guest_checkout_paid_success_page_coupon_window01" = "Dapatkan";
 "guest_checkout_paid_success_page_coupon_window2" = "dari pesanan Anda berikutnya";
 "guest_checkout_paid_success_page_coupon_window3" = "Kupon Berakhir";
 "guest_checkout_paid_success_page_coupon_window4" = "Daftar Sekarang";

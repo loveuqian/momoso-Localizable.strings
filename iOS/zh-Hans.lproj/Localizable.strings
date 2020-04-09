@@ -1853,7 +1853,8 @@
 "guest_checkout_manage_address_page1" = "立即注册即可获得";
 "guest_checkout_manage_address_page2" = "在下订单时可使用";
 "guest_checkout_manage_address_page3" = "注册";
-"guest_checkout_paid_success_page_coupon_window1" = "最后一步！立即注册，然后获得";
+"guest_checkout_paid_success_page_coupon_window1" = "最后一步！立即注册，然后";
+"guest_checkout_paid_success_page_coupon_window01" = "获得";
 "guest_checkout_paid_success_page_coupon_window2" = "可在您的下一个订单使用";
 "guest_checkout_paid_success_page_coupon_window3" = "优惠券倒计时";
 "guest_checkout_paid_success_page_coupon_window4" = "立即注册";

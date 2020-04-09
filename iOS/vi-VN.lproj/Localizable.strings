@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "tắt đơn hàng của bạn!";
 "guest_checkout_manage_address_page3" = "Đăng ký";
 "guest_checkout_paid_success_page_coupon_window1" = "Bước cuối cùng! Đăng ký ngay và";
+"guest_checkout_paid_success_page_coupon_window01" = "Nhận";
 "guest_checkout_paid_success_page_coupon_window2" = "tắt đơn hàng tiếp theo của bạn";
 "guest_checkout_paid_success_page_coupon_window3" = "Phiếu giảm giá kết thúc";
 "guest_checkout_paid_success_page_coupon_window4" = "Đăng ký ngay";

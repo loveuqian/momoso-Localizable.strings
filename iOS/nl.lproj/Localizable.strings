@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "korting op uw bestelling!";
 "guest_checkout_manage_address_page3" = "Aanmelden";
 "guest_checkout_paid_success_page_coupon_window1" = "Laatste stap! Meld u nu aan en";
+"guest_checkout_paid_success_page_coupon_window01" = "Get";
 "guest_checkout_paid_success_page_coupon_window2" = "korting op uw volgende bestelling";
 "guest_checkout_paid_success_page_coupon_window3" = "Coupon eindigt op";
 "guest_checkout_paid_success_page_coupon_window4" = "Schrijf u nu in";

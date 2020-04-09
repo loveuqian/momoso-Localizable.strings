@@ -1854,6 +1854,7 @@
 "guest_checkout_manage_address_page2" = "från din beställning!";
 "guest_checkout_manage_address_page3" = "Registrera dig";
 "guest_checkout_paid_success_page_coupon_window1" = "Sista steg! Registrera dig nu och";
+"guest_checkout_paid_success_page_coupon_window01" = "Hämta";
 "guest_checkout_paid_success_page_coupon_window2" = "från din nästa beställning";
 "guest_checkout_paid_success_page_coupon_window3" = "Kupongen slutar";
 "guest_checkout_paid_success_page_coupon_window4" = "Registrera dig nu";
