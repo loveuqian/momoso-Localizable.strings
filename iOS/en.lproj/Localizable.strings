@@ -1063,11 +1063,11 @@
 
 //////////////////////////// 登录-login /////////////////////////////////
 
-"Login_login" = "Log in";
-"login_facebook" = "Log in with Facebook";
-"login_phone" = "Log in with Phone";
-"login_google" = "Log in with Google";
-"login_email" = "Log in with Email";
+"Login_login" = "Sign in";
+"login_facebook" = "Sign in with Facebook";
+"login_phone" = "Sign in with Phone";
+"login_google" = "Sign in with Google";
+"login_email" = "Sign in with Email";
 "signup_signin" = "Sign up";
 "signup_facebook" = "Sign up with Facebook";
 "signup_phone" = "Sign up with Phone";
@@ -1832,8 +1832,8 @@
 "second_affiliate_inviter_window3" = "Invites you to join CloudMall and gives you this cash";
 "second_affiliate_dp_share1" = "Get";
 "second_affiliate_dp_share2" = "Cashback";
-"second_affiliate_new_signup" = "Sign up with Apple ID";
-"second_affiliate_new_login" = "Log in with Apple ID";
+"second_affiliate_new_signup" = "Sign up with Apple";
+"second_affiliate_new_login" = "Sign in with Apple";
 "second_affiliate_fake_date1" = "withdraw";
 "second_affiliate_fake_date2" = "exchange";
 "second_affiliate_fake_date3" = "mins ago";
